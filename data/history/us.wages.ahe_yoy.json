@@ -1,0 +1,108 @@
+{
+  "schema": "veritane/history/1",
+  "id": "us.wages.ahe_yoy",
+  "unit": "% y/y",
+  "frequency": "M",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "CES0500000003|api.bls.gov/publicAPI/v1/timeseries/data/CES0500000003",
+  "source": {
+    "name": "U.S. Bureau of Labor Statistics",
+    "provider_id": "bls",
+    "dataset": "CES0500000003 (average hourly earnings, total private)",
+    "url": "https://data.bls.gov/timeseries/CES0500000003",
+    "api_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/CES0500000003",
+    "retrieved_at": "2026-11-07T10:19:45Z"
+  },
+  "points": [
+    [
+      "2025-01",
+      4
+    ],
+    [
+      "2025-02",
+      4.1
+    ],
+    [
+      "2025-03",
+      4.2
+    ],
+    [
+      "2025-04",
+      3.9
+    ],
+    [
+      "2025-05",
+      4
+    ],
+    [
+      "2025-06",
+      3.9
+    ],
+    [
+      "2025-07",
+      4
+    ],
+    [
+      "2025-08",
+      4
+    ],
+    [
+      "2025-09",
+      3.8
+    ],
+    [
+      "2025-10",
+      3.9
+    ],
+    [
+      "2025-11",
+      3.9
+    ],
+    [
+      "2025-12",
+      3.7
+    ],
+    [
+      "2026-01",
+      3.7
+    ],
+    [
+      "2026-02",
+      3.7
+    ],
+    [
+      "2026-03",
+      3.4
+    ],
+    [
+      "2026-04",
+      3.6
+    ],
+    [
+      "2026-05",
+      3.3
+    ],
+    [
+      "2026-06",
+      3.4
+    ],
+    [
+      "2026-07",
+      3.2
+    ],
+    [
+      "2026-08",
+      3.1
+    ],
+    [
+      "2026-09",
+      3.2
+    ],
+    [
+      "2026-10",
+      3.1
+    ]
+  ],
+  "accumulated_since": null
+}

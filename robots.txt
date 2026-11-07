@@ -1,0 +1,6 @@
+# Veritane News
+User-agent: *
+Allow: /
+
+Sitemap: https://william-lindberg.github.io/veritane/sitemap-index.xml
+Sitemap: https://william-lindberg.github.io/veritane/news-sitemap.xml

@@ -1,0 +1,64 @@
+{
+  "schema": "veritane/history/1",
+  "id": "hu.gdp.annual",
+  "unit": "% y/y",
+  "frequency": "A",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "NY.GDP.MKTP.KD.ZG|api.worldbank.org/v2/country/USA;CAN;AUS;JPN;NOR;DNK;BRA;IND;IDN;ZAF;MEX;CHN;NGA;KEN;TUR;SAU;EGY;KOR;ARG;PAK;BGD;PHL;VNM;CHL;COL;PER;ISR;POL;HUN;CZE;MYS;THA;NZL;CHE;RUS;DEU;FRA;ITA;ESP;NLD;BEL;AUT;IRL;PRT;FIN;GRC;ROU;WLD;GBR;SWE/indicator/NY.GDP.MKTP.KD.ZG",
+  "source": {
+    "name": "World Bank",
+    "provider_id": "worldbank",
+    "dataset": "NY.GDP.MKTP.KD.ZG",
+    "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG",
+    "api_url": "https://api.worldbank.org/v2/country/USA;CAN;AUS;JPN;NOR;DNK;BRA;IND;IDN;ZAF;MEX;CHN;NGA;KEN;TUR;SAU;EGY;KOR;ARG;PAK;BGD;PHL;VNM;CHL;COL;PER;ISR;POL;HUN;CZE;MYS;THA;NZL;CHE;RUS;DEU;FRA;ITA;ESP;NLD;BEL;AUT;IRL;PRT;FIN;GRC;ROU;WLD;GBR;SWE/indicator/NY.GDP.MKTP.KD.ZG?format=json&date=2015:2026&per_page=2000",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2015",
+      3.6598
+    ],
+    [
+      "2016",
+      2.4386
+    ],
+    [
+      "2017",
+      4.1242
+    ],
+    [
+      "2018",
+      5.6061
+    ],
+    [
+      "2019",
+      5.0772
+    ],
+    [
+      "2020",
+      -4.3387
+    ],
+    [
+      "2021",
+      7.2229
+    ],
+    [
+      "2022",
+      4.1524
+    ],
+    [
+      "2023",
+      -0.8171
+    ],
+    [
+      "2024",
+      0.7091
+    ],
+    [
+      "2025",
+      0.5095
+    ]
+  ],
+  "accumulated_since": null
+}

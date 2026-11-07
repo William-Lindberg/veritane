@@ -1,0 +1,64 @@
+{
+  "schema": "veritane/history/1",
+  "id": "gb.gov_debt.imf",
+  "unit": "% of GDP",
+  "frequency": "A",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "WEO GGXWDG_NGDP GBR|www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP",
+  "source": {
+    "name": "IMF, World Economic Outlook",
+    "provider_id": "imf",
+    "dataset": "WEO GGXWDG_NGDP GBR",
+    "url": "https://www.imf.org/en/Publications/WEO",
+    "api_url": "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2015",
+      87.3
+    ],
+    [
+      "2016",
+      87.2
+    ],
+    [
+      "2017",
+      85.9
+    ],
+    [
+      "2018",
+      85.3
+    ],
+    [
+      "2019",
+      84.5
+    ],
+    [
+      "2020",
+      104.4
+    ],
+    [
+      "2021",
+      103
+    ],
+    [
+      "2022",
+      97.1
+    ],
+    [
+      "2023",
+      98.3
+    ],
+    [
+      "2024",
+      99.4
+    ],
+    [
+      "2025",
+      102.1
+    ]
+  ],
+  "accumulated_since": null
+}

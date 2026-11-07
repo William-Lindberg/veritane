@@ -1,0 +1,104 @@
+{
+  "schema": "veritane/history/1",
+  "id": "de.minimum_wage.monthly_eur",
+  "unit": "EUR per month",
+  "frequency": "S",
+  "decimals": 0,
+  "storage": "observations",
+  "fingerprint": "earn_mw_cur EUR DE|ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/earn_mw_cur?currency=EUR&geo=AT&geo=BE&geo=CZ&geo=DE&geo=DK&geo=EL&geo=ES&geo=FI&geo=FR&geo=HU&geo=IE&geo=IT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SE&lang=EN",
+  "source": {
+    "name": "Eurostat",
+    "provider_id": "eurostat",
+    "dataset": "earn_mw_cur EUR DE",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/earn_mw_cur/default/table",
+    "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/earn_mw_cur?currency=EUR&geo=SE&geo=DK&geo=PL&geo=HU&geo=CZ&geo=DE&geo=FR&geo=IT&geo=ES&geo=NL&geo=BE&geo=AT&geo=IE&geo=PT&geo=FI&geo=EL&geo=RO&sinceTimePeriod=2016-S1&format=JSON&lang=EN",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2016-S2",
+      1444
+    ],
+    [
+      "2017-S1",
+      1506
+    ],
+    [
+      "2017-S2",
+      1506
+    ],
+    [
+      "2018-S1",
+      1506
+    ],
+    [
+      "2018-S2",
+      1506
+    ],
+    [
+      "2019-S1",
+      1561
+    ],
+    [
+      "2019-S2",
+      1561
+    ],
+    [
+      "2020-S1",
+      1544
+    ],
+    [
+      "2020-S2",
+      1544
+    ],
+    [
+      "2021-S1",
+      1585
+    ],
+    [
+      "2021-S2",
+      1602
+    ],
+    [
+      "2022-S1",
+      1634
+    ],
+    [
+      "2022-S2",
+      1739
+    ],
+    [
+      "2023-S1",
+      1997
+    ],
+    [
+      "2023-S2",
+      1997
+    ],
+    [
+      "2024-S1",
+      2054
+    ],
+    [
+      "2024-S2",
+      2054
+    ],
+    [
+      "2025-S1",
+      2161
+    ],
+    [
+      "2025-S2",
+      2161
+    ],
+    [
+      "2026-S1",
+      2343
+    ],
+    [
+      "2026-S2",
+      2343
+    ]
+  ],
+  "accumulated_since": null
+}

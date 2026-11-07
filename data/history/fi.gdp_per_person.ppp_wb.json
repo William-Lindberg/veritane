@@ -1,0 +1,64 @@
+{
+  "schema": "veritane/history/1",
+  "id": "fi.gdp_per_person.ppp_wb",
+  "unit": "intl $ per person",
+  "frequency": "A",
+  "decimals": 0,
+  "storage": "observations",
+  "fingerprint": "NY.GDP.PCAP.PP.KD FIN|api.worldbank.org/v2/country/WLD;EMU;USA;GBR;SWE;CAN;AUS;JPN;NOR;DNK;BRA;IND;IDN;ZAF;MEX;CHN;NGA;KEN;TUR;SAU;EGY;KOR;ARG;PAK;BGD;PHL;VNM;CHL;COL;PER;ISR;POL;HUN;CZE;MYS;THA;NZL;CHE;RUS;DEU;FRA;ITA;ESP;NLD;BEL;AUT;IRL;PRT;FIN;GRC;ROU/indicator/NY.GDP.PCAP.PP.KD",
+  "source": {
+    "name": "World Bank, World Development Indicators",
+    "provider_id": "worldbank",
+    "dataset": "NY.GDP.PCAP.PP.KD",
+    "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD",
+    "api_url": "https://api.worldbank.org/v2/country/WLD;EMU;USA;GBR;SWE;CAN;AUS;JPN;NOR;DNK;BRA;IND;IDN;ZAF;MEX;CHN;NGA;KEN;TUR;SAU;EGY;KOR;ARG;PAK;BGD;PHL;VNM;CHL;COL;PER;ISR;POL;HUN;CZE;MYS;THA;NZL;CHE;RUS;DEU;FRA;ITA;ESP;NLD;BEL;AUT;IRL;PRT;FIN;GRC;ROU/indicator/NY.GDP.PCAP.PP.KD?format=json&date=2015:2026&per_page=2000",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2015",
+      52782.4874
+    ],
+    [
+      "2016",
+      53984.6316
+    ],
+    [
+      "2017",
+      55637.2263
+    ],
+    [
+      "2018",
+      56226.3372
+    ],
+    [
+      "2019",
+      56922.4873
+    ],
+    [
+      "2020",
+      55424.8575
+    ],
+    [
+      "2021",
+      56790.3766
+    ],
+    [
+      "2022",
+      57068.3056
+    ],
+    [
+      "2023",
+      56051.7701
+    ],
+    [
+      "2024",
+      55901.3202
+    ],
+    [
+      "2025",
+      55735.2175
+    ]
+  ],
+  "accumulated_since": null
+}

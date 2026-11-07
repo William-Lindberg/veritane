@@ -1,0 +1,64 @@
+{
+  "schema": "veritane/history/1",
+  "id": "au.current_account.imf",
+  "unit": "% of GDP",
+  "frequency": "A",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "WEO BCA_NGDPD AUS|www.imf.org/external/datamapper/api/v1/BCA_NGDPD",
+  "source": {
+    "name": "IMF, World Economic Outlook",
+    "provider_id": "imf",
+    "dataset": "WEO BCA_NGDPD AUS",
+    "url": "https://www.imf.org/en/Publications/WEO",
+    "api_url": "https://www.imf.org/external/datamapper/api/v1/BCA_NGDPD",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2015",
+      -4.7
+    ],
+    [
+      "2016",
+      -3.4
+    ],
+    [
+      "2017",
+      -2.8
+    ],
+    [
+      "2018",
+      -2.6
+    ],
+    [
+      "2019",
+      -0.1
+    ],
+    [
+      "2020",
+      1.6
+    ],
+    [
+      "2021",
+      2.3
+    ],
+    [
+      "2022",
+      0.3
+    ],
+    [
+      "2023",
+      -0.4
+    ],
+    [
+      "2024",
+      -2.2
+    ],
+    [
+      "2025",
+      -2.6
+    ]
+  ],
+  "accumulated_since": null
+}

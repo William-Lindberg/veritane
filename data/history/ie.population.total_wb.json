@@ -1,0 +1,64 @@
+{
+  "schema": "veritane/history/1",
+  "id": "ie.population.total_wb",
+  "unit": "people",
+  "frequency": "A",
+  "decimals": 0,
+  "storage": "observations",
+  "fingerprint": "SP.POP.TOTL IRL|api.worldbank.org/v2/country/WLD;EMU;USA;GBR;SWE;CAN;AUS;JPN;NOR;DNK;BRA;IND;IDN;ZAF;MEX;CHN;NGA;KEN;TUR;SAU;EGY;KOR;ARG;PAK;BGD;PHL;VNM;CHL;COL;PER;ISR;POL;HUN;CZE;MYS;THA;NZL;CHE;RUS;DEU;FRA;ITA;ESP;NLD;BEL;AUT;IRL;PRT;FIN;GRC;ROU/indicator/SP.POP.TOTL",
+  "source": {
+    "name": "World Bank, World Development Indicators",
+    "provider_id": "worldbank",
+    "dataset": "SP.POP.TOTL",
+    "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+    "api_url": "https://api.worldbank.org/v2/country/WLD;EMU;USA;GBR;SWE;CAN;AUS;JPN;NOR;DNK;BRA;IND;IDN;ZAF;MEX;CHN;NGA;KEN;TUR;SAU;EGY;KOR;ARG;PAK;BGD;PHL;VNM;CHL;COL;PER;ISR;POL;HUN;CZE;MYS;THA;NZL;CHE;RUS;DEU;FRA;ITA;ESP;NLD;BEL;AUT;IRL;PRT;FIN;GRC;ROU/indicator/SP.POP.TOTL?format=json&date=2015:2026&per_page=2000",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2015",
+      4701957
+    ],
+    [
+      "2016",
+      4762722
+    ],
+    [
+      "2017",
+      4827445
+    ],
+    [
+      "2018",
+      4898022
+    ],
+    [
+      "2019",
+      4976456
+    ],
+    [
+      "2020",
+      5039747
+    ],
+    [
+      "2021",
+      5110585
+    ],
+    [
+      "2022",
+      5212836
+    ],
+    [
+      "2023",
+      5311538
+    ],
+    [
+      "2024",
+      5395790
+    ],
+    [
+      "2025",
+      5484367
+    ]
+  ],
+  "accumulated_since": null
+}

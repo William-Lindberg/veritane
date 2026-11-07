@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>Veritane revisions log</title>
+  <subtitle>Changes that publishers made to figures Veritane had already collected. Education, not advice.</subtitle>
+  <id>https://william-lindberg.github.io/veritane/news/revisions/</id>
+  <link rel="alternate" href="https://william-lindberg.github.io/veritane/news/revisions/"/>
+  <link rel="self" href="https://william-lindberg.github.io/veritane/news/revisions/feed.xml"/>
+  <updated>2026-11-07T09:24:08.000Z</updated>
+  <author><name>Veritane</name></author>
+</feed>

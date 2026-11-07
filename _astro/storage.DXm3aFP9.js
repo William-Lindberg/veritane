@@ -1,0 +1,1 @@
+var e=`veritane:`;function t(){try{return typeof window<`u`&&window.localStorage?window.localStorage:null}catch{return null}}function n(n,r){try{let i=t()?.getItem(e+n);return i==null?r:JSON.parse(i)}catch{return r}}function r(n,r){try{return t()?.setItem(e+n,JSON.stringify(r)),!0}catch{return!1}}function i(n){try{t()?.removeItem(e+n)}catch{}}export{i as n,r,n as t};

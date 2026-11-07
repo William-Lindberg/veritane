@@ -1,0 +1,64 @@
+{
+  "schema": "veritane/history/1",
+  "id": "ph.gov_debt.imf",
+  "unit": "% of GDP",
+  "frequency": "A",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "WEO GGXWDG_NGDP PHL|www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP",
+  "source": {
+    "name": "IMF, World Economic Outlook",
+    "provider_id": "imf",
+    "dataset": "WEO GGXWDG_NGDP PHL",
+    "url": "https://www.imf.org/en/Publications/WEO",
+    "api_url": "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2015",
+      39.7
+    ],
+    [
+      "2016",
+      37.4
+    ],
+    [
+      "2017",
+      38.1
+    ],
+    [
+      "2018",
+      37.1
+    ],
+    [
+      "2019",
+      37
+    ],
+    [
+      "2020",
+      51.6
+    ],
+    [
+      "2021",
+      57
+    ],
+    [
+      "2022",
+      57.4
+    ],
+    [
+      "2023",
+      56.5
+    ],
+    [
+      "2024",
+      56.6
+    ],
+    [
+      "2025",
+      59.1
+    ]
+  ],
+  "accumulated_since": null
+}

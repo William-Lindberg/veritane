@@ -1,0 +1,7518 @@
+{
+  "schema": "veritane/story-index/1",
+  "generated_at": "2026-11-07T12:54:42Z",
+  "data_clock": "20261107130000",
+  "windows": {
+    "story_hours": 72,
+    "official_days": 14,
+    "important_hours": 48
+  },
+  "formula": {
+    "version": "provisional/0",
+    "default_threshold": 0,
+    "parts": [
+      {
+        "key": "O",
+        "max": 30
+      },
+      {
+        "key": "C",
+        "max": 15
+      },
+      {
+        "key": "R",
+        "max": 10
+      },
+      {
+        "key": "K",
+        "max": 10
+      },
+      {
+        "key": "M",
+        "max": 15
+      },
+      {
+        "key": "P",
+        "max": 10
+      },
+      {
+        "key": "T",
+        "max": 10
+      }
+    ],
+    "category_weights": {},
+    "kind_weights": {}
+  },
+  "discovery": {
+    "provider": "The GDELT Project",
+    "url": "https://www.gdeltproject.org/",
+    "status": "ok",
+    "last_file": "20261107130000",
+    "files_ok": 4,
+    "files_failed": 0,
+    "gaps": []
+  },
+  "policy": {
+    "outlets": "outlets/1",
+    "rules": {
+      "gate": "gate/1",
+      "grouping": "stories/1",
+      "country": "story-country/1",
+      "match": "official-match/1",
+      "importance": "importance/1",
+      "templates": "story-templates/1",
+      "select": "select/1"
+    }
+  },
+  "aliases": {
+    "s20261107-5a0565771a": "s20261107-056cacf4c2"
+  },
+  "dropped": {
+    "stories": 0
+  },
+  "by_official": {},
+  "rows": [
+    {
+      "id": "s20261107-6dbd326044",
+      "ty": "story",
+      "t": "'Wait, what?': the underdog Democrats who won their midterm races against all odds | US midterm elections 2026",
+      "tl": "en",
+      "u": "https://www.theguardian.com/us-news/2026/nov/07/surprising-wins-democrats-midterm-elections",
+      "o": "guardian",
+      "on": "The Guardian",
+      "label": "United States: Cost of living",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "cost-of-living"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T13:00:00Z",
+      "l": "2026-11-07T13:00:00Z",
+      "st": "new",
+      "v": 1
+    },
+    {
+      "id": "s20261107-6df1f57418",
+      "ty": "story",
+      "t": "Delhi's markets see festive excitement as shoppers make last-minute Diwali purchases",
+      "tl": "en",
+      "u": "https://www.hindustantimes.com/cities/delhi-news/delhis-markets-see-festive-excitement-as-shoppers-make-last-minute-diwali-purchases-101794053424518.html",
+      "o": "hindustantimes",
+      "on": "Hindustan Times",
+      "label": "India: Financial markets",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "markets"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T13:00:00Z",
+      "l": "2026-11-07T13:00:00Z",
+      "st": "new",
+      "v": 1
+    },
+    {
+      "id": "s20261107-97914e3155",
+      "ty": "story",
+      "t": "Prestige Group buys 100% stake in Allure Developers for Rs 524 crore to develop housing project in Noida",
+      "tl": "en",
+      "u": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/prestige-group-buys-100-stake-in-allure-developers-for-rs-524-crore-to-develop-housing-project-in-noida/articleshow/135630853.cms",
+      "o": "et",
+      "on": "The Economic Times",
+      "label": "India: Housing",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "housing"
+      ],
+      "i": 29,
+      "rl": "multi",
+      "fl": [
+        "forecast_language"
+      ],
+      "n": 3,
+      "ni": 3,
+      "ns": 1,
+      "f": "2026-11-07T08:30:00Z",
+      "l": "2026-11-07T13:00:00Z",
+      "st": "updated",
+      "v": 3
+    },
+    {
+      "id": "s20261107-d89d1e787f",
+      "ty": "story",
+      "t": "The economy propelled Democrats to victory. What can they actually do about it?",
+      "tl": "en",
+      "u": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
+      "o": "npr",
+      "on": "NPR",
+      "label": "United States: Macroeconomics",
+      "c": [
+        "US",
+        "IR"
+      ],
+      "g": [
+        "north-america",
+        "middle-east"
+      ],
+      "k": [
+        "macro"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_auto",
+        "syndicated"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 69,
+      "f": "2026-11-07T06:15:00Z",
+      "l": "2026-11-07T13:00:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-09296f7de0",
+      "ty": "story",
+      "t": "Paraguay's president impeached and under house arrest after bank collapse",
+      "tl": "en",
+      "u": "https://www.graphic.com.gh/international/international-news/paraguays-president-impeached-and-under-house-arrest-after-bank-collapse.html",
+      "o": "graphic",
+      "on": "Graphic Online",
+      "label": "Paraguay: Banking",
+      "c": [
+        "PY",
+        "CL"
+      ],
+      "g": [
+        "latin-america"
+      ],
+      "k": [
+        "banking"
+      ],
+      "i": 29,
+      "rl": "multi",
+      "fl": [
+        "syndicated"
+      ],
+      "n": 2,
+      "ni": 2,
+      "ns": 8,
+      "f": "2026-11-07T06:30:00Z",
+      "l": "2026-11-07T12:45:00Z",
+      "st": "updated",
+      "v": 3
+    },
+    {
+      "id": "s20261107-1ada0040d7",
+      "ty": "story",
+      "t": "Jefferies warns AI investment cycle may have peaked, raises India allocation",
+      "tl": "en",
+      "u": "https://www.thehindubusinessline.com/markets/jefferies-warns-ai-investment-cycle-may-have-peaked-raises-india-allocation-to-14/article71677867.ece",
+      "o": "businessline",
+      "on": "BusinessLine",
+      "label": "India: Economy",
+      "c": [
+        "IN",
+        "JP"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "forecast_language",
+        "syndicated"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 21,
+      "f": "2026-11-07T11:00:00Z",
+      "l": "2026-11-07T12:45:00Z",
+      "st": "active",
+      "v": 3
+    },
+    {
+      "id": "s20261107-2814f815c1",
+      "ty": "story",
+      "t": "'E20 petrol by PSU firms meets prescribed quality standards': Oil ministry rejects Karnataka charge",
+      "tl": "en",
+      "u": "https://timesofindia.indiatimes.com/business/india-business/e20-petrol-by-psu-firms-meets-prescribed-quality-standards-oil-ministry-rejects-karnataka-charge/articleshow/135635716.cms",
+      "o": "toi",
+      "on": "The Times of India",
+      "label": "India: Energy and commodities",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 2,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T12:15:00Z",
+      "l": "2026-11-07T12:45:00Z",
+      "st": "new",
+      "v": 1
+    },
+    {
+      "id": "s20261107-558a139332",
+      "ty": "story",
+      "t": "Assam oil facility fire: Sonowal speaks to Oil India CMD, urges medical care for injured",
+      "tl": "en",
+      "u": "https://www.thehindubusinessline.com/news/national/sarbananda-sonowal-calls-oil-india-cmd-over-tengakhat-fire-urges-best-medical-care-for-injured/article71677560.ece",
+      "o": "businessline",
+      "on": "BusinessLine",
+      "label": "India: Energy and commodities",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 2,
+      "f": "2026-11-07T08:30:00Z",
+      "l": "2026-11-07T12:45:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-6284429401",
+      "ty": "story",
+      "t": "NSE records 2.27 lakh Electronic Gold Receipts traded on Dhanteras",
+      "tl": "en",
+      "u": "https://www.thehindubusinessline.com/markets/gold/nse-egr-trading-hits-record-227-lakh-units-on-dhanteras/article71677643.ece",
+      "o": "businessline",
+      "on": "BusinessLine",
+      "label": "India: Financial markets",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "markets",
+        "energy"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 4,
+      "f": "2026-11-07T09:30:00Z",
+      "l": "2026-11-07T12:45:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-81ab7c3b75",
+      "ty": "story",
+      "t": "Indonesia seek deeper industrial, tech ties with Tatarstan",
+      "tl": "en",
+      "u": "https://en.antaranews.com/news/440979/indonesia-seek-deeper-industrial-tech-ties-with-tatarstan",
+      "o": "antara",
+      "on": "ANTARA",
+      "label": "Indonesia: Economy",
+      "c": [
+        "ID"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T12:45:00Z",
+      "l": "2026-11-07T12:45:00Z",
+      "st": "new",
+      "v": 1
+    },
+    {
+      "id": "s20261107-c30832c383",
+      "ty": "story",
+      "t": "Diwali 2026 Muhurat trading: Why do NSE, BSE break the holiday rule for special live trading session? Explained",
+      "tl": "en",
+      "u": "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-why-do-nse-bse-break-the-holiday-rule-for-special-live-trading-session-explained-11794054250580.html",
+      "o": "mint",
+      "on": "Mint",
+      "label": "India: Financial markets",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "markets",
+        "trade"
+      ],
+      "i": 25,
+      "rl": "multi",
+      "n": 2,
+      "ni": 2,
+      "ns": 0,
+      "f": "2026-11-07T08:45:00Z",
+      "l": "2026-11-07T12:45:00Z",
+      "st": "updated",
+      "v": 3
+    },
+    {
+      "id": "s20261107-685320b1f6",
+      "ty": "story",
+      "t": "From a laundry worker's daughter to a banking pioneer: How Maggie Lena Walker established a bank in segregated America in 1903",
+      "tl": "en",
+      "u": "https://timesofindia.indiatimes.com/world/us/from-a-laundry-workers-daughter-to-a-banking-pioneer-how-maggie-lena-walker-established-a-bank-in-segregated-america-in-1903/articleshow/135606220.cms",
+      "o": "toi",
+      "on": "The Times of India",
+      "label": "United States: Banking",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "banking"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T12:30:00Z",
+      "l": "2026-11-07T12:30:00Z",
+      "st": "new",
+      "v": 1
+    },
+    {
+      "id": "s20261107-19ebf7d76e",
+      "ty": "story",
+      "t": "Indonesian workers rally for Prabowo as women march against president",
+      "tl": "en",
+      "u": "https://www.thestar.com.my/news/world/2026/11/07/indonesian-workers-rally-for-prabowo-as-women-march-against-president",
+      "o": "thestar_my",
+      "on": "The Star (MY)",
+      "label": "Indonesia: Employment and wages",
+      "c": [
+        "ID"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "jobs"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 1,
+      "f": "2026-11-07T11:15:00Z",
+      "l": "2026-11-07T12:15:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-3c5d4d20ed",
+      "ty": "story",
+      "t": "Coca-Cola doubles down on India with affordability, premiumisation push as bottling arm files IPO papers",
+      "tl": "en",
+      "u": "https://www.moneycontrol.com/news/business/coca-cola-doubles-down-on-india-with-affordability-premiumisation-push-as-bottling-arm-files-ipo-papers-14074444.html",
+      "o": "moneycontrol",
+      "on": "Moneycontrol",
+      "label": "India: Corporate finance",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "corporate"
+      ],
+      "i": 32,
+      "rl": "multi",
+      "n": 6,
+      "ni": 4,
+      "ns": 0,
+      "f": "2026-11-07T11:00:00Z",
+      "l": "2026-11-07T12:15:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-69ceafa64d",
+      "ty": "story",
+      "t": "Petrol prices in Switzerland fall below CHF2",
+      "tl": "en",
+      "u": "https://www.swissinfo.ch/eng/various/petrol-prices-in-switzerland-have-fallen-below-2-francs-again/92343238",
+      "o": "swissinfo",
+      "on": "SWI swissinfo.ch",
+      "label": "Switzerland: Energy and commodities",
+      "c": [
+        "CH",
+        "DE"
+      ],
+      "g": [
+        "eu",
+        "europe-other"
+      ],
+      "k": [
+        "energy",
+        "cost-of-living"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T12:15:00Z",
+      "l": "2026-11-07T12:15:00Z",
+      "st": "new",
+      "v": 1
+    },
+    {
+      "id": "s20261107-6b83f8bc0a",
+      "ty": "story",
+      "t": "Rahul questions E20 petrol ethanol levels, cites Karnataka test results",
+      "tl": "en",
+      "u": "https://www.business-standard.com/india-news/rahul-questions-e20-petrol-ethanol-levels-cites-karnataka-test-results-126110700329_1.html",
+      "o": "bs",
+      "on": "Business Standard",
+      "label": "India: Energy and commodities",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 5,
+      "f": "2026-11-07T09:15:00Z",
+      "l": "2026-11-07T12:15:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-be6ec0ca3c",
+      "ty": "story",
+      "t": "Trump may have lost but don't bet Democrats can fix the economy | US economy",
+      "tl": "en",
+      "u": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
+      "o": "guardian",
+      "on": "The Guardian",
+      "label": "United States: Macroeconomics",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "macro"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "forecast_language"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T12:15:00Z",
+      "l": "2026-11-07T12:15:00Z",
+      "st": "new",
+      "v": 1
+    },
+    {
+      "id": "s20261107-eae7aa4906",
+      "ty": "story",
+      "t": "New Paraguayan president promises full compensation after bank collapse following predecessor's impeachment",
+      "tl": "en",
+      "u": "https://aa.com.tr/en/politics/new-paraguayan-president-promises-full-compensation-after-bank-collapse-following-predecessor-s-impeachment/4114850",
+      "o": "anadolu",
+      "on": "Anadolu Agency",
+      "label": "Paraguay: Banking",
+      "c": [
+        "PY",
+        "CL"
+      ],
+      "g": [
+        "latin-america"
+      ],
+      "k": [
+        "banking"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 1,
+      "f": "2026-11-07T08:15:00Z",
+      "l": "2026-11-07T12:15:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-f475a761ea",
+      "ty": "story",
+      "t": "'I'll stay a jobless loser': Delhi employee loses job ahead of Diwali, says company ruined festival",
+      "tl": "en",
+      "u": "https://www.moneycontrol.com/news/trends/i-ll-stay-a-jobless-loser-delhi-employee-loses-job-ahead-of-diwali-says-company-ruined-festival-14074457.html",
+      "o": "moneycontrol",
+      "on": "Moneycontrol",
+      "label": "India: Employment and wages",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "jobs"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T12:15:00Z",
+      "l": "2026-11-07T12:15:00Z",
+      "st": "new",
+      "v": 1
+    },
+    {
+      "id": "s20261107-6396214c6b",
+      "ty": "story",
+      "t": "Tata Steel Q2 Results: Profit rises 16% YoY to Rs 3,700 crore, revenue up 11%; Noel Tata to retire as director",
+      "tl": "en",
+      "u": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-steel-q2-results-profit-rises-16-yoy-to-rs-3700-crore-revenue-up-11-noel-tata-to-retire-as-director/articleshow/135630842.cms",
+      "o": "et",
+      "on": "The Economic Times",
+      "label": "India: Corporate finance",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "corporate"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 1,
+      "f": "2026-11-07T08:45:00Z",
+      "l": "2026-11-07T12:00:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-6ab37bce83",
+      "ty": "story",
+      "t": "Dalal Street Week Ahead: Nifty bulls come back to life, but 25,000–25,200 zone poses next test",
+      "tl": "en",
+      "u": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-nifty-bulls-come-back-to-life-but-2500025200-zone-poses-next-test/articleshow/135634291.cms",
+      "o": "et",
+      "on": "The Economic Times",
+      "label": "India: Financial markets",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "markets"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T12:00:00Z",
+      "l": "2026-11-07T12:00:00Z",
+      "st": "new",
+      "v": 1
+    },
+    {
+      "id": "s20261107-df5aaff387",
+      "ty": "story",
+      "t": "Visa research — the future of remittances in Saudi Arabia will be built on trust",
+      "tl": "en",
+      "u": "https://www.arabnews.com/corporate-and-sponsored-content/visa-research-the-future-of-remittances-in-saudi-arabia-will-be-built-on-trust-3010319",
+      "o": "arabnews",
+      "on": "Arab News",
+      "label": "Saudi Arabia: Globalisation",
+      "c": [
+        "SA"
+      ],
+      "g": [
+        "middle-east"
+      ],
+      "k": [
+        "globalisation"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T12:00:00Z",
+      "l": "2026-11-07T12:00:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-056cacf4c2",
+      "ty": "story",
+      "t": "U.S. job growth beats expectations in October, but labor market concerns persist",
+      "tl": "en",
+      "u": "https://english.news.cn/20261107/387d8885135b420f9e27755cfd1bba41/c.html",
+      "o": "xinhua",
+      "on": "Xinhua",
+      "label": "United States: Employment and wages",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "jobs"
+      ],
+      "i": 29,
+      "rl": "multi",
+      "n": 3,
+      "ni": 2,
+      "ns": 2,
+      "f": "2026-11-07T09:00:00Z",
+      "l": "2026-11-07T11:45:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-7dcffee84b",
+      "ty": "story",
+      "t": "World Bank approves US$300mil to improve Bangladesh's primary education",
+      "tl": "en",
+      "u": "https://www.freemalaysiatoday.com/category/world/2026/11/07/world-bank-approves-us-300mil-to-improve-bangladesh-s-primary-education",
+      "o": "fmt",
+      "on": "Free Malaysia Today",
+      "label": "Global: Development",
+      "c": [
+        "US",
+        "BD"
+      ],
+      "g": [
+        "north-america",
+        "asia-pacific",
+        "global"
+      ],
+      "k": [
+        "development"
+      ],
+      "i": 29,
+      "rl": "multi",
+      "fl": [
+        "global"
+      ],
+      "n": 2,
+      "ni": 2,
+      "ns": 0,
+      "f": "2026-11-07T11:30:00Z",
+      "l": "2026-11-07T11:45:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-97917fffe7",
+      "ty": "story",
+      "t": "What do Airtel, Fidelity bank and Lekki Gardens have in common?",
+      "tl": "en",
+      "u": "https://www.vanguardngr.com/2026/11/what-do-airtel-fidelity-bank-and-lekki-gardens-have-in-common/",
+      "o": "vanguard",
+      "on": "Vanguard",
+      "label": "Nigeria: Banking",
+      "c": [
+        "NG"
+      ],
+      "g": [
+        "africa"
+      ],
+      "k": [
+        "banking"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T11:45:00Z",
+      "l": "2026-11-07T11:45:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-c9052b453e",
+      "ty": "story",
+      "t": "IMF: Any Slowdown in AI-driven Growth Would be Factor for Central Banks",
+      "tl": "en",
+      "u": "https://english.aawsat.com/business/5338516-imf-any-slowdown-ai-driven-growth-would-be-factor-central-banks",
+      "o": "aawsat",
+      "on": "Asharq Al-Awsat",
+      "label": "Global: Macroeconomics",
+      "c": [],
+      "g": [
+        "global"
+      ],
+      "k": [
+        "macro",
+        "monetary",
+        "tech"
+      ],
+      "i": 36,
+      "rl": "multi",
+      "fl": [
+        "global",
+        "forecast_language"
+      ],
+      "n": 3,
+      "ni": 3,
+      "ns": 0,
+      "f": "2026-11-07T09:30:00Z",
+      "l": "2026-11-07T11:45:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-d5cb55f420",
+      "ty": "story",
+      "t": "India is a structural bull market available at a cyclical valuation discount: Nilesh Shah of Kotak AMC",
+      "tl": "en",
+      "u": "https://www.thehindubusinessline.com/markets/india-is-a-structural-bull-market-available-at-a-cyclical-valuation-discount-nilesh-shah-of-kotak-amc/article71678003.ece",
+      "o": "businessline",
+      "on": "BusinessLine",
+      "label": "India: Macroeconomics",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "macro"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T11:45:00Z",
+      "l": "2026-11-07T11:45:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-eeb03e2bff",
+      "ty": "story",
+      "t": "Faces from the front lines of Spain's housing crisis",
+      "tl": "en",
+      "u": "https://www.theglobeandmail.com/world/article-faces-front-lines-spain-housing-crisis-madrid-economy/",
+      "o": "globeandmail",
+      "on": "The Globe and Mail",
+      "label": "Spain: Housing",
+      "c": [
+        "ES"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "housing"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T11:45:00Z",
+      "l": "2026-11-07T11:45:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-181b728f1d",
+      "ty": "story",
+      "t": "DA hike: Diwali bonanza for UP govt employees, 63% raise announced; revised rates effective from July 1",
+      "tl": "en",
+      "u": "https://economictimes.indiatimes.com/news/india/da-hike-diwali-bonanza-for-up-govt-employees-63-raise-announced-revised-rates-effective-from-july-1/articleshow/135634138.cms",
+      "o": "et",
+      "on": "The Economic Times",
+      "label": "India: Interest rates",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "rates"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T11:30:00Z",
+      "l": "2026-11-07T11:30:00Z",
+      "st": "new",
+      "v": 1
+    },
+    {
+      "id": "s20261107-7812145cb4",
+      "ty": "story",
+      "t": "Tax relief could be coming for Canadian artists — but how does it work?",
+      "tl": "en",
+      "u": "https://www.cbc.ca/news/entertainment/canada-creative-credit-9.7413309",
+      "o": "cbc",
+      "on": "CBC / Radio-Canada",
+      "label": "Canada: Fiscal policy",
+      "c": [
+        "CA"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "fiscal"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "forecast_language"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T11:30:00Z",
+      "l": "2026-11-07T11:30:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-79a54b7606",
+      "ty": "story",
+      "t": "Tata Power's $650 million debt battle: Why Singapore court ordered seizure, sale of shares in local firm",
+      "tl": "en",
+      "u": "https://www.livemint.com/companies/tata-powers-650-million-debt-battle-why-singapore-court-ordered-seizure-sale-of-shares-in-local-firm-11794035897676.html",
+      "o": "mint",
+      "on": "Mint",
+      "label": "Singapore: Financial markets",
+      "c": [
+        "SG"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "markets",
+        "corporate"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 2,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T09:30:00Z",
+      "l": "2026-11-07T11:30:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-852e563f66",
+      "ty": "story",
+      "t": "CPC to leave domestic, diesel prices unchanged next week",
+      "tl": "en",
+      "u": "https://focustaiwan.tw:443/business/202611070009",
+      "o": "cna_tw",
+      "on": "Focus Taiwan (CNA)",
+      "label": "Global: Energy and commodities",
+      "c": [],
+      "g": [
+        "global"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_auto",
+        "global"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T11:30:00Z",
+      "l": "2026-11-07T11:30:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-f50f38f1e7",
+      "ty": "story",
+      "t": "ONGC Videsh's eyes on two Venezuela oil projects; know what finance head Anupam Agarwal said on $500 mn dividend",
+      "tl": "en",
+      "u": "https://www.livemint.com/companies/ongc-videsh-s-eyes-on-two-venezuela-oil-projects-know-what-finance-head-anupam-agarwal-said-on-500-mn-dividend-11794039002471.html",
+      "o": "mint",
+      "on": "Mint",
+      "label": "Venezuela: Corporate finance",
+      "c": [
+        "VE"
+      ],
+      "g": [
+        "latin-america"
+      ],
+      "k": [
+        "corporate",
+        "energy"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "forecast_language"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T11:30:00Z",
+      "l": "2026-11-07T11:30:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-4c771960a6",
+      "ty": "story",
+      "t": "AI, electricity bills and voter anger. How data centres tanked Trump's midterm hopes",
+      "tl": "en",
+      "u": "https://timesofindia.indiatimes.com/world/us/ai-electricity-bills-and-voter-anger-how-data-centres-tanked-trumps-midterm-hopes/articleshow/135634353.cms",
+      "o": "toi",
+      "on": "The Times of India",
+      "label": "United States: Energy and commodities",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T11:15:00Z",
+      "l": "2026-11-07T11:15:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-6fd20a8ed1",
+      "ty": "story",
+      "t": "What can Democrats do about the economy in the majority?",
+      "tl": "en",
+      "u": "https://www.npr.org/transcripts/nx-s1-6026662",
+      "o": "npr",
+      "on": "NPR",
+      "label": "United States: Macroeconomics",
+      "c": [
+        "US",
+        "IR"
+      ],
+      "g": [
+        "north-america",
+        "middle-east"
+      ],
+      "k": [
+        "macro"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T11:15:00Z",
+      "l": "2026-11-07T11:15:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-7f317e8901",
+      "ty": "story",
+      "t": "Tata Steel Q2 net profit up 18.2 per cent Y-o-Y, led by India operations",
+      "tl": "en",
+      "u": "https://www.business-standard.com/companies/quarterly-results/tata-steel-q2-fy27-results-net-profit-india-operations-uk-netherlands-126110700767_1.html",
+      "o": "bs",
+      "on": "Business Standard",
+      "label": "India: Corporate finance",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "corporate"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T11:15:00Z",
+      "l": "2026-11-07T11:15:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-b4f0c61571",
+      "ty": "story",
+      "t": "Meet the one town in America that defied election trends and voted in favor of data centers",
+      "tl": "en",
+      "u": "https://fortune.com/2026/11/07/harwood-north-dakota-data-center-ballot-measure-midterm-elections-2026/",
+      "o": "fortune",
+      "on": "Fortune",
+      "label": "United States: Technology and productivity",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "tech"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T11:15:00Z",
+      "l": "2026-11-07T11:15:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-08ba0f233c",
+      "ty": "story",
+      "t": "Got Diwali bonus from your employer? Clear credit card dues or start mutual fund SIP: Which money move is right for you?",
+      "tl": "en",
+      "u": "https://www.livemint.com/money/personal-finance/got-diwali-bonus-from-your-employer-clear-credit-card-dues-or-start-mutual-fund-sip-which-money-move-is-right-for-you-11794044653200.html",
+      "o": "mint",
+      "on": "Mint",
+      "label": "India: Banking",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "banking",
+        "markets"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T11:00:00Z",
+      "l": "2026-11-07T11:00:00Z",
+      "st": "new",
+      "v": 1
+    },
+    {
+      "id": "s20261107-befa2fcadb",
+      "ty": "story",
+      "t": "Goldman Sachs sees healthcare as next defensive investment amid AI stock correction",
+      "tl": "en",
+      "u": "https://www.thehindubusinessline.com/markets/us-midterms-could-accelerate-stock-market-rotation-goldman-sachs-sees-healthcare-as-next-leg-of-ai-trade/article71677698.ece",
+      "o": "businessline",
+      "on": "BusinessLine",
+      "label": "United States: Financial markets",
+      "c": [
+        "US",
+        "IN"
+      ],
+      "g": [
+        "north-america",
+        "asia-pacific"
+      ],
+      "k": [
+        "markets",
+        "tech"
+      ],
+      "i": 25,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 2,
+      "ni": 2,
+      "ns": 2,
+      "f": "2026-11-07T09:30:00Z",
+      "l": "2026-11-07T11:00:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-25fac3cae2",
+      "ty": "story",
+      "t": "Naira would have become worthless without reforms - Tinubu",
+      "tl": "en",
+      "u": "https://punchng.com/naira-would-have-become-worthless-without-reforms-tinubu/",
+      "o": "punch",
+      "on": "Punch",
+      "label": "Nigeria: Financial markets",
+      "c": [
+        "NG"
+      ],
+      "g": [
+        "africa"
+      ],
+      "k": [
+        "markets"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "forecast_language"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 1,
+      "f": "2026-11-07T06:45:00Z",
+      "l": "2026-11-07T10:45:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-314f3afc2c",
+      "ty": "story",
+      "t": "OpenAI raises $11 billion at $1.25 trillion valuation amid concerns over AI spending and regulation",
+      "tl": "en",
+      "u": "https://www.livemint.com/companies/news/openai-raises-11-billion-at-1-25-trillion-valuation-amid-concerns-over-ai-spending-and-regulation-11794022360992.html",
+      "o": "mint",
+      "on": "Mint",
+      "label": "United Arab Emirates: Fiscal policy",
+      "c": [
+        "AE",
+        "IN"
+      ],
+      "g": [
+        "asia-pacific",
+        "middle-east"
+      ],
+      "k": [
+        "fiscal"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 3,
+      "f": "2026-11-07T07:00:00Z",
+      "l": "2026-11-07T10:45:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-cd345ce741",
+      "ty": "story",
+      "t": "Posco union votes down tentative wage agreement",
+      "tl": "en",
+      "u": "https://www.koreaherald.com/article/10929322",
+      "o": "koreaherald",
+      "on": "The Korea Herald",
+      "label": "Place not identified: Employment and wages",
+      "c": [],
+      "g": [],
+      "k": [
+        "jobs"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_unknown"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T10:45:00Z",
+      "l": "2026-11-07T10:45:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-d001987358",
+      "ty": "story",
+      "t": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
+      "tl": "en",
+      "u": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties",
+      "o": "aljazeera",
+      "on": "Al Jazeera",
+      "label": "United States: Banking",
+      "c": [
+        "US",
+        "CA",
+        "IR"
+      ],
+      "g": [
+        "north-america",
+        "middle-east"
+      ],
+      "k": [
+        "banking"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 2,
+      "f": "2026-11-07T06:30:00Z",
+      "l": "2026-11-07T10:45:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-d66a0e6251",
+      "ty": "story",
+      "t": "Bigger bank, broader base: TG Limcaoco's BPI years",
+      "tl": "en",
+      "u": "https://www.rappler.com/people/profiles/tg-limcaoco-bpi-profile/",
+      "o": "rappler",
+      "on": "Rappler",
+      "label": "Philippines: Banking",
+      "c": [
+        "PH"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "banking"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T10:30:00Z",
+      "l": "2026-11-07T10:30:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-daff564356",
+      "ty": "story",
+      "t": "Vietnamese goods eye greater access to Australian market",
+      "tl": "en",
+      "u": "https://vietnamnews.vn/economy/1803791/vietnamese-goods-eye-greater-access-to-australian-market.html",
+      "o": "vietnamnews",
+      "on": "Viet Nam News",
+      "label": "Vietnam: Economy",
+      "c": [
+        "VN",
+        "AU"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T10:30:00Z",
+      "l": "2026-11-07T10:30:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-38e3935a33",
+      "ty": "story",
+      "t": "NA resolution on 2027 socio-economic development plan adopted",
+      "tl": "en",
+      "u": "https://vietnamnews.vn/politics-laws/1803788/na-resolution-on-2027-socio-economic-development-plan-adopted.html",
+      "o": "vietnamnews",
+      "on": "Viet Nam News",
+      "label": "Place not identified: Macroeconomics",
+      "c": [],
+      "g": [],
+      "k": [
+        "macro",
+        "development"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_unknown"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T10:15:00Z",
+      "l": "2026-11-07T10:15:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-b6cae2d8b9",
+      "ty": "story",
+      "t": "Việt Nam needs productivity gains, deeper capital markets to sustain growth",
+      "tl": "en",
+      "u": "https://vietnamnews.vn/economy/1803777/viet-nam-needs-productivity-gains-deeper-capital-markets-to-sustain-growth.html",
+      "o": "vietnamnews",
+      "on": "Viet Nam News",
+      "label": "Vietnam: Financial markets",
+      "c": [
+        "VN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "markets",
+        "tech"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T10:15:00Z",
+      "l": "2026-11-07T10:15:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-75e858e33b",
+      "ty": "story",
+      "t": "Bitcoin trades near $76K, Ethereum at $2,240 as tech selloff, strong US jobs data weigh on crypto markets",
+      "tl": "en",
+      "u": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-trades-near-76k-ethereum-at-2240-as-tech-selloff-strong-us-jobs-data-weigh-on-crypto-markets/articleshow/135632154.cms",
+      "o": "et",
+      "on": "The Economic Times",
+      "label": "United States: Employment and wages",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "jobs",
+        "trade",
+        "markets"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T10:00:00Z",
+      "l": "2026-11-07T10:00:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-b46831b69f",
+      "ty": "story",
+      "t": "Divi's Labs Q2 Results: PAT surges 64% YoY to Rs 1,127 crore; revenue jumps 35%",
+      "tl": "en",
+      "u": "https://economictimes.indiatimes.com/markets/stocks/earnings/divis-labs-q2-results-pat-surges-64-yoy-to-rs-1127-crore-revenue-jumps-35/articleshow/135632058.cms",
+      "o": "et",
+      "on": "The Economic Times",
+      "label": "India: Corporate finance",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "corporate"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T10:00:00Z",
+      "l": "2026-11-07T10:00:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-b98d73f99c",
+      "ty": "story",
+      "t": "Pressure on government for budget update amid spiralling costs",
+      "tl": "en",
+      "u": "https://www.smh.com.au/national/pressure-on-government-for-budget-update-amid-spiralling-costs-20261107-p61caf.html",
+      "o": "smh",
+      "on": "The Sydney Morning Herald",
+      "label": "Place not identified: Fiscal policy",
+      "c": [],
+      "g": [],
+      "k": [
+        "fiscal"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_unknown"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 2,
+      "f": "2026-11-07T10:00:00Z",
+      "l": "2026-11-07T10:00:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-d7246b2bab",
+      "ty": "story",
+      "t": "Websol Energy Q2 Results: PAT jumps 73% YoY to Rs 80 crore; revenue more than doubles to Rs 361 crore",
+      "tl": "en",
+      "u": "https://economictimes.indiatimes.com/markets/stocks/earnings/websol-energy-q2-results-pat-jumps-73-yoy-to-rs-80-crore-revenue-more-than-doubles-to-rs-361-crore/articleshow/135632371.cms",
+      "o": "et",
+      "on": "The Economic Times",
+      "label": "India: Corporate finance",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "corporate",
+        "energy"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T10:00:00Z",
+      "l": "2026-11-07T10:00:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-293c7a75ec",
+      "ty": "story",
+      "t": "Madras High Court closes plea to regulate gold loans and auction of pledged jewellery",
+      "tl": "en",
+      "u": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-closes-plea-to-regulate-gold-loans-and-auction-of-pledged-jewellery/article71677391.ece",
+      "o": "thehindu",
+      "on": "The Hindu",
+      "label": "India: Banking",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "banking",
+        "energy",
+        "monetary"
+      ],
+      "i": 25,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 2,
+      "ni": 2,
+      "ns": 0,
+      "f": "2026-11-07T09:15:00Z",
+      "l": "2026-11-07T09:30:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-333ce75aed",
+      "ty": "story",
+      "t": "Gold-backed agriculture loans: RBI proposes changes to priority sector lending rules; what could change for borrowers",
+      "tl": "en",
+      "u": "https://www.livemint.com/money/personal-finance/goldbacked-agriculture-loans-rbi-proposes-changes-to-priority-sector-lending-rules-what-could-change-for-borrowers-11794038739503.html",
+      "o": "mint",
+      "on": "Mint",
+      "label": "India: Monetary policy",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "monetary",
+        "banking",
+        "energy"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "forecast_language"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T09:30:00Z",
+      "l": "2026-11-07T09:30:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-649f9a5539",
+      "ty": "story",
+      "t": "Diwali 2026 Muhurat Trading: Celebrations aboard! Nifty gains in 12 out of 15 Muhurat sessions; check performance",
+      "tl": "en",
+      "u": "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-celebrations-aboard-nifty-gains-in-12-out-of-15-muhurat-sessions-check-performance-11794040199490.html",
+      "o": "mint",
+      "on": "Mint",
+      "label": "India: Financial markets",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "markets"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T09:30:00Z",
+      "l": "2026-11-07T09:30:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-6801782193",
+      "ty": "story",
+      "t": "Can defence employees claim pension for past service after voluntary resignation? What court order says",
+      "tl": "en",
+      "u": "https://www.livemint.com/money/can-defence-employees-claim-pension-for-past-service-after-voluntary-resignation-heres-what-meghalaya-hc-order-says-11794036637248.html",
+      "o": "mint",
+      "on": "Mint",
+      "label": "India: Fiscal policy",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "fiscal"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T09:30:00Z",
+      "l": "2026-11-07T09:30:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-7ad9708228",
+      "ty": "story",
+      "t": "FIIs pump Rs 45,960 crore into Indian stocks in a week; is the tide finally turning for Dalal Street?",
+      "tl": "en",
+      "u": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-pump-rs-45960-crore-into-indian-stocks-in-a-week-is-the-tide-finally-turning-for-dalal-street/articleshow/135631663.cms",
+      "o": "et",
+      "on": "The Economic Times",
+      "label": "India: Globalisation",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "globalisation",
+        "markets"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 1,
+      "f": "2026-11-07T06:15:00Z",
+      "l": "2026-11-07T09:30:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-c4ad475dc8",
+      "ty": "story",
+      "t": "Trump offers Democrats immigration, tax talks",
+      "tl": "en",
+      "u": "https://www.thehindubusinessline.com/news/world/trump-offers-democrats-immigration-tax-talks/article71677339.ece",
+      "o": "businessline",
+      "on": "BusinessLine",
+      "label": "United States: Fiscal policy",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "fiscal"
+      ],
+      "i": 25,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 2,
+      "ni": 2,
+      "ns": 6,
+      "f": "2026-11-07T06:15:00Z",
+      "l": "2026-11-07T09:30:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-f5122359ee",
+      "ty": "story",
+      "t": "Trafigura Snaps Up Copper in Asia as China Faces Supply Crunch",
+      "tl": "en",
+      "u": "https://www.livemint.com/market/trafigura-snaps-up-copper-in-asia-as-china-faces-supply-crunch-11794040210737.html",
+      "o": "mint",
+      "on": "Mint",
+      "label": "China: Energy and commodities",
+      "c": [
+        "CN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T09:30:00Z",
+      "l": "2026-11-07T09:30:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-f671c3f8d1",
+      "ty": "story",
+      "t": "Diwali Fireworks! Nifty surges over 8% in Nov 2-6 week, best in 6 yrs after US Midterm Election results; RIL soars 13%",
+      "tl": "en",
+      "u": "https://www.livemint.com/market/stock-market-news/diwali-fireworks-nifty-surges-over-8-in-nov-2-6-week-best-in-6-yrs-after-us-midterm-election-results-ril-soars-13-11794030783772.html",
+      "o": "mint",
+      "on": "Mint",
+      "label": "India: Financial markets",
+      "c": [
+        "IN",
+        "US"
+      ],
+      "g": [
+        "north-america",
+        "asia-pacific"
+      ],
+      "k": [
+        "markets"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T09:30:00Z",
+      "l": "2026-11-07T09:30:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-7754dbefd8",
+      "ty": "story",
+      "t": "Central bank faces issues in curbing Taiwan dollar volatility: Experts",
+      "tl": "en",
+      "u": "https://focustaiwan.tw/business/202611070008",
+      "o": "cna_tw",
+      "on": "Focus Taiwan (CNA)",
+      "label": "Taiwan: Monetary policy",
+      "c": [
+        "TW"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "monetary",
+        "markets"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T09:15:00Z",
+      "l": "2026-11-07T09:15:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-ad64d7c6ff",
+      "ty": "story",
+      "t": "AI investment fears drive global stock sell-off",
+      "tl": "en",
+      "u": "https://www.hurriyetdailynews.com/ai-investment-fears-drive-global-stock-sell-off-229124",
+      "o": "hurriyetdaily",
+      "on": "Hürriyet Daily News",
+      "label": "Taiwan: Financial markets",
+      "c": [
+        "TW"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "markets"
+      ],
+      "i": 28,
+      "rl": "multi",
+      "n": 2,
+      "ni": 2,
+      "ns": 3,
+      "f": "2026-11-07T06:45:00Z",
+      "l": "2026-11-07T09:15:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-93fd05cb57",
+      "ty": "story",
+      "t": "Democrats weigh Trump probes and affordability agenda",
+      "tl": "en",
+      "u": "https://www.straitstimes.com/world/united-states/victorious-democrats-weigh-bread-and-butter-priorities-against-trump-probe",
+      "o": "straitstimes",
+      "on": "The Straits Times",
+      "label": "United States: Cost of living",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "cost-of-living"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T09:00:00Z",
+      "l": "2026-11-07T09:00:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-a10c76e197",
+      "ty": "story",
+      "t": "France's rising debt costs threaten economic stability",
+      "tl": "en",
+      "u": "https://www.dw.com/en/amid-protests-frances-rising-debt-costs-threaten-stability/a-79865654",
+      "o": "dw",
+      "on": "Deutsche Welle",
+      "label": "France: Macroeconomics",
+      "c": [
+        "FR"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "macro",
+        "rates",
+        "debt"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T09:00:00Z",
+      "l": "2026-11-07T09:00:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-aa18e71ae1",
+      "ty": "story",
+      "t": "Gold falls Rs6,500 a tola as dollar firms",
+      "tl": "en",
+      "u": "https://tribune.com.pk/story/2639044/gold-falls-rs6500-a-tola-as-dollar-firms",
+      "o": "tribune_pk",
+      "on": "The Express Tribune",
+      "label": "Pakistan: Financial markets",
+      "c": [
+        "PK"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "markets",
+        "energy"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T09:00:00Z",
+      "l": "2026-11-07T09:00:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-b81cfbebf3",
+      "ty": "story",
+      "t": "China, US top trade officials hold video call as Beijing raises serious concerns over restrictions; Washington urged to honor leaders' consensus",
+      "tl": "en",
+      "u": "https://www.globaltimes.cn/page/202611/1373839.shtml",
+      "o": "globaltimes",
+      "on": "Global Times",
+      "label": "China: Trade",
+      "c": [
+        "CN",
+        "US"
+      ],
+      "g": [
+        "north-america",
+        "asia-pacific"
+      ],
+      "k": [
+        "trade"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T09:00:00Z",
+      "l": "2026-11-07T09:00:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-be60548652",
+      "ty": "story",
+      "t": "Electricity as the new geography of economic power",
+      "tl": "en",
+      "u": "https://www.hindustantimes.com/ht-insight/economy/electricity-as-the-new-geography-of-economic-power-101794039708421.html",
+      "o": "hindustantimes",
+      "on": "Hindustan Times",
+      "label": "India: Macroeconomics",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "macro",
+        "energy"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T09:00:00Z",
+      "l": "2026-11-07T09:00:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-7419902c53",
+      "ty": "story",
+      "t": "California voters reject billionaire wealth tax proposal",
+      "tl": "en",
+      "u": "https://aa.com.tr/en/americas/california-voters-reject-billionaire-wealth-tax-proposal/4114852",
+      "o": "anadolu",
+      "on": "Anadolu Agency",
+      "label": "United States: Fiscal policy",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "fiscal"
+      ],
+      "i": 28,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 2,
+      "ni": 2,
+      "ns": 1,
+      "f": "2026-11-07T06:45:00Z",
+      "l": "2026-11-07T08:45:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-e9d348cb6f",
+      "ty": "story",
+      "t": "India's forex reserves dip by $2.69 billion: What's behind the decline?",
+      "tl": "en",
+      "u": "https://timesofindia.indiatimes.com/business/india-business/indias-forex-reserves-dip-by-2-69-billion-whats-behind-the-decline/articleshow/135626724.cms",
+      "o": "toi",
+      "on": "The Times of India",
+      "label": "India: Monetary policy",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "monetary"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 1,
+      "f": "2026-11-07T06:30:00Z",
+      "l": "2026-11-07T08:45:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-4b00190b7f",
+      "ty": "story",
+      "t": "SW3 Capital's Irish arm books €11.2m profit after investment sale",
+      "tl": "en",
+      "u": "https://www.irishtimes.com/business/2026/11/07/sw3-capitals-irish-arm-books-112m-profit-after-investment-sale/",
+      "o": "irishtimes",
+      "on": "The Irish Times",
+      "label": "Ireland: Corporate finance",
+      "c": [
+        "IE"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "corporate"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T08:30:00Z",
+      "l": "2026-11-07T08:30:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-55033b982f",
+      "ty": "story",
+      "t": "Ethanol Blending In Petrol: 'Experimenting on 1.3 billion people': Priyank Kharge alleges excess ethanol blending in E20 petrol",
+      "tl": "en",
+      "u": "https://timesofindia.indiatimes.com/india/experimenting-on-1-3-billion-people-priyank-kharge-alleges-excess-ethanol-blending-in-e20-petrol/articleshow/135630391.cms",
+      "o": "toi",
+      "on": "The Times of India",
+      "label": "India: Energy and commodities",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T08:30:00Z",
+      "l": "2026-11-07T08:30:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-7dd1fd9316",
+      "ty": "story",
+      "t": "Planners approve Gas Networks Ireland's €200m investment to cut emissions",
+      "tl": "en",
+      "u": "https://www.irishtimes.com/business/2026/11/07/planners-approve-gas-networks-irelands-200m-investment-to-cut-emissions/",
+      "o": "irishtimes",
+      "on": "The Irish Times",
+      "label": "Ireland: Energy and commodities",
+      "c": [
+        "IE"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T08:30:00Z",
+      "l": "2026-11-07T08:30:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-c1ae617277",
+      "ty": "story",
+      "t": "Indian markets surge as Sensex, nifty defy global tech turmoil",
+      "tl": "en",
+      "u": "https://www.hindustantimes.com/business/indian-markets-surge-as-sensex-nifty-defy-global-tech-turmoil-101794010175695.html",
+      "o": "hindustantimes",
+      "on": "Hindustan Times",
+      "label": "India: Financial markets",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "markets"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T08:30:00Z",
+      "l": "2026-11-07T08:30:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-db262db068",
+      "ty": "story",
+      "t": "U.S. lawmakers vow to reverse Trump's tariffs",
+      "tl": "en",
+      "u": "https://english.news.cn/20261107/6b5d69a1188049eda5bfa16dc1ed3112/c.html",
+      "o": "xinhua",
+      "on": "Xinhua",
+      "label": "United States: Trade",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "trade"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 2,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T08:30:00Z",
+      "l": "2026-11-07T08:30:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-f14c252173",
+      "ty": "story",
+      "t": "From geopolitical shocks to household costs: Strengthening energy security, consumer welfare",
+      "tl": "en",
+      "u": "https://www.philstar.com/news-commentary/2026/11/07/2568541/geopolitical-shocks-household-costs-strengthening-energy-security-consumer-welfare",
+      "o": "philstar",
+      "on": "The Philippine Star",
+      "label": "Philippines: Energy and commodities",
+      "c": [
+        "PH"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T08:15:00Z",
+      "l": "2026-11-07T08:15:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-2a6510a20a",
+      "ty": "story",
+      "t": "Tech stocks stage partial rebound while dollar gains after US jobs data",
+      "tl": "en",
+      "u": "https://www.thejakartapost.com/business/2026/11/07/tech-stocks-stage-partial-rebound-while-dollar-gains-after-us-jobs-data",
+      "o": "jakartapost",
+      "on": "The Jakarta Post",
+      "label": "United States: Employment and wages",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "jobs",
+        "markets"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T08:00:00Z",
+      "l": "2026-11-07T08:00:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-c762b31a85",
+      "ty": "story",
+      "t": "China imports squeeze Indonesia's plastics industry, business group warns",
+      "tl": "en",
+      "u": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/07/china-imports-squeeze-indonesias-plastics-industry-business-group-warns",
+      "o": "thestar_my",
+      "on": "The Star (MY)",
+      "label": "China: Trade",
+      "c": [
+        "CN",
+        "ID"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "trade"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T07:45:00Z",
+      "l": "2026-11-07T07:45:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-de191f6c46",
+      "ty": "story",
+      "t": "Stocks vs Gold: Which asset could create more wealth in the Samvat 2083?",
+      "tl": "en",
+      "u": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-vs-gold-which-asset-could-create-more-wealth-in-the-samvat-2083/articleshow/135629827.cms",
+      "o": "et",
+      "on": "The Economic Times",
+      "label": "India: Financial markets",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "markets",
+        "energy"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "forecast_language"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T07:45:00Z",
+      "l": "2026-11-07T07:45:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-1f509deaa4",
+      "ty": "story",
+      "t": "'Exponential environmental risks': Decaying Russian oil tankers threaten Irish west coast",
+      "tl": "en",
+      "u": "https://www.irishtimes.com/ireland/2026/11/07/exponential-environmental-risks-decaying-russian-oil-tankers-threaten-irish-west-coast/",
+      "o": "irishtimes",
+      "on": "The Irish Times",
+      "label": "Russia: Energy and commodities",
+      "c": [
+        "RU",
+        "IE"
+      ],
+      "g": [
+        "eu",
+        "europe-other"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T07:30:00Z",
+      "l": "2026-11-07T07:30:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-40f5ac5138",
+      "ty": "story",
+      "t": "Nationwide launches savings account with 'market leading' 5.3% interest",
+      "tl": "en",
+      "u": "https://www.theguardian.com/money/2026/nov/07/nationwide-savings-account-market-leading-interest-rate",
+      "o": "guardian",
+      "on": "The Guardian",
+      "label": "Place not identified: Interest rates",
+      "c": [],
+      "g": [],
+      "k": [
+        "rates"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_unknown"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T07:30:00Z",
+      "l": "2026-11-07T07:30:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-cd4e1fd0d4",
+      "ty": "story",
+      "t": "Ahead of Trump-Xi meetings, US presses China on trade pledges",
+      "tl": "en",
+      "u": "https://www.channelnewsasia.com/east-asia/ahead-trump-xi-meetings-us-presses-china-trade-pledges-6532561",
+      "o": "cna_sg",
+      "on": "CNA",
+      "label": "United States: Trade",
+      "c": [
+        "US",
+        "CN"
+      ],
+      "g": [
+        "north-america",
+        "asia-pacific"
+      ],
+      "k": [
+        "trade"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T07:30:00Z",
+      "l": "2026-11-07T07:30:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-0648e0fbaa",
+      "ty": "story",
+      "t": "Why Puerto Rico can't stop talking about electricity",
+      "tl": "en",
+      "u": "https://english.elpais.com/usa/2026-11-07/why-puerto-rico-cant-stop-talking-about-electricity.html",
+      "o": "elpais",
+      "on": "El País",
+      "label": "Puerto Rico: Energy and commodities",
+      "c": [
+        "PR"
+      ],
+      "g": [
+        "latin-america"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T07:15:00Z",
+      "l": "2026-11-07T07:15:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-b96cf42c3b",
+      "ty": "story",
+      "t": "A small town in Spain battles again construction of a macro data center: 'It's a way of kicking us out' | Spain",
+      "tl": "en",
+      "u": "https://english.elpais.com/spain/2026-11-07/a-small-town-in-spain-battles-again-construction-of-a-macro-data-center-its-a-way-of-kicking-us-out.html",
+      "o": "elpais",
+      "on": "El País",
+      "label": "Spain: Technology and productivity",
+      "c": [
+        "ES"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "tech"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T07:15:00Z",
+      "l": "2026-11-07T07:15:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-a3cdc51794",
+      "ty": "story",
+      "t": "Australian diesel inventory dips as government flags uncertainty",
+      "tl": "en",
+      "u": "https://www.moneycontrol.com/world/australian-diesel-inventory-dips-as-government-flags-uncertainty-article-14074138.html",
+      "o": "moneycontrol",
+      "on": "Moneycontrol",
+      "label": "Australia: Energy and commodities",
+      "c": [
+        "AU"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T07:00:00Z",
+      "l": "2026-11-07T07:00:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-abeaf407f5",
+      "ty": "story",
+      "t": "B40, M40 benefit most from BUDI95 fuel subsidy, says minister",
+      "tl": "en",
+      "u": "https://www.freemalaysiatoday.com/category/nation/2026/11/07/b40-m40-benefit-most-from-budi95-fuel-subsidy-says-minister",
+      "o": "fmt",
+      "on": "Free Malaysia Today",
+      "label": "Malaysia: Microeconomics",
+      "c": [
+        "MY"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "micro",
+        "fiscal",
+        "energy"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T07:00:00Z",
+      "l": "2026-11-07T07:00:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-ddea3ebe02",
+      "ty": "story",
+      "t": "Environment minister lauds home battery subsidy scheme despite search for savings",
+      "tl": "en",
+      "u": "https://www.abc.net.au/news/2026-11-07/environment-minister-murray-watt-home-battery-subsidy-scheme/107359436",
+      "o": "abc_au",
+      "on": "ABC News (AU)",
+      "label": "Australia: Microeconomics",
+      "c": [
+        "AU"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "micro",
+        "fiscal"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T07:00:00Z",
+      "l": "2026-11-07T07:00:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-c5f94528b5",
+      "ty": "story",
+      "t": "Tobacco Farming in Bangladesh | Economics of Tobacco: Quick profits and unseen costs",
+      "tl": "en",
+      "u": "https://www.thedailystar.net/ds/business-plus/news/economics-tobacco-quick-profits-and-unseen-costs-4317256",
+      "o": "dailystar_bd",
+      "on": "The Daily Star (BD)",
+      "label": "Bangladesh: Macroeconomics",
+      "c": [
+        "BD"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "macro",
+        "corporate"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T06:45:00Z",
+      "l": "2026-11-07T06:45:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-e0a0c6f8a9",
+      "ty": "story",
+      "t": "How the US midterm elections reflected resistance to data centres",
+      "tl": "en",
+      "u": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres",
+      "o": "aljazeera",
+      "on": "Al Jazeera",
+      "label": "United States: Economy",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T06:45:00Z",
+      "l": "2026-11-07T06:45:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-11af0ced1b",
+      "ty": "story",
+      "t": "Pak external debt doubles in decade",
+      "tl": "en",
+      "u": "https://tribune.com.pk/story/2639086/pak-external-debt-doubles-in-decade",
+      "o": "tribune_pk",
+      "on": "The Express Tribune",
+      "label": "Pakistan: Government debt",
+      "c": [
+        "PK",
+        "CN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "debt"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T06:30:00Z",
+      "l": "2026-11-07T06:30:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-5904e6b161",
+      "ty": "story",
+      "t": "Data centre bosses cash in on India's AI and cloud expansion with handsome pay packages",
+      "tl": "en",
+      "u": "https://www.livemint.com/technology/tech-news/data-centre-executives-pay-surge-ai-cloud-expansion-11793940107304.html",
+      "o": "mint",
+      "on": "Mint",
+      "label": "India: Economy",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T06:30:00Z",
+      "l": "2026-11-07T06:30:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-6f1a30b982",
+      "ty": "story",
+      "t": "G-B launches online system for tax exemptions on goods from China",
+      "tl": "en",
+      "u": "https://tribune.com.pk/story/2639087/g-b-launches-online-system-for-tax-exemptions-on-goods-from-china",
+      "o": "tribune_pk",
+      "on": "The Express Tribune",
+      "label": "China: Fiscal policy",
+      "c": [
+        "CN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "fiscal"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T06:30:00Z",
+      "l": "2026-11-07T06:30:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-c639068708",
+      "ty": "story",
+      "t": "New core banking network deployed",
+      "tl": "en",
+      "u": "https://tribune.com.pk/story/2639046/new-core-banking-network-deployed",
+      "o": "tribune_pk",
+      "on": "The Express Tribune",
+      "label": "Pakistan: Banking",
+      "c": [
+        "PK",
+        "US"
+      ],
+      "g": [
+        "north-america",
+        "asia-pacific"
+      ],
+      "k": [
+        "banking"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T06:30:00Z",
+      "l": "2026-11-07T06:30:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-c7cc57aa05",
+      "ty": "story",
+      "t": "Tariff cuts spark duty burden debate",
+      "tl": "en",
+      "u": "https://tribune.com.pk/story/2639043/tariff-cuts-spark-duty-burden-debate",
+      "o": "tribune_pk",
+      "on": "The Express Tribune",
+      "label": "Pakistan: Trade",
+      "c": [
+        "PK"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "trade"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T06:30:00Z",
+      "l": "2026-11-07T06:30:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-ed9b78e916",
+      "ty": "story",
+      "t": "Delhi-NCR among APAC's top office markets as prime rents rise 5.4%; occupancy costs rank seventh",
+      "tl": "en",
+      "u": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/delhi-ncr-among-apacs-top-office-markets-as-prime-rents-rise-5-4-occupancy-costs-rank-seventh/articleshow/135627489.cms",
+      "o": "et",
+      "on": "The Economic Times",
+      "label": "India: Cost of living",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "cost-of-living",
+        "housing",
+        "markets"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T06:30:00Z",
+      "l": "2026-11-07T06:30:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-fa082e0499",
+      "ty": "story",
+      "t": "Rupee Rises as Global Money Finds India",
+      "tl": "en",
+      "u": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/nov/07/satet-front/re-rises-as-global-money-finds-india/articleshow/135621295.cms",
+      "o": "et",
+      "on": "The Economic Times",
+      "label": "Global: Financial markets",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific",
+        "global"
+      ],
+      "k": [
+        "markets"
+      ],
+      "i": 19,
+      "rl": "single",
+      "fl": [
+        "global"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T06:30:00Z",
+      "l": "2026-11-07T06:30:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-b870278691",
+      "ty": "story",
+      "t": "India should scrap capital gains tax on foreign investors: Edelweiss chief",
+      "tl": "en",
+      "u": "https://www.business-standard.com/markets/news/india-should-scrap-equity-tax-on-foreign-investors-says-edelweiss-chief-126110700243_1.html",
+      "o": "bs",
+      "on": "Business Standard",
+      "label": "India: Fiscal policy",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "fiscal",
+        "markets",
+        "globalisation"
+      ],
+      "i": 24,
+      "rl": "multi",
+      "n": 2,
+      "ni": 2,
+      "ns": 0,
+      "f": "2026-11-07T06:15:00Z",
+      "l": "2026-11-07T06:15:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-ee82c7bc4c",
+      "ty": "story",
+      "t": "China raises gold reserves to 78.3 million ounces in October",
+      "tl": "en",
+      "u": "https://www.thehindubusinessline.com/money-and-banking/china-buys-gold-for-24th-straight-month-reserves-rise-to-783-million-ounces/article71677248.ece",
+      "o": "businessline",
+      "on": "BusinessLine",
+      "label": "China: Energy and commodities",
+      "c": [
+        "CN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T06:15:00Z",
+      "l": "2026-11-07T06:15:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "02d699b669603b1f",
+      "ty": "official",
+      "t": "United Kingdom: Unemployment rate, the three months to August 2026",
+      "tl": "en",
+      "u": "/news/02d699b669603b1f/",
+      "o": "ons",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [
+        "jobs"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T22:40:33Z",
+      "l": "2026-11-06T22:40:33Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "a55bcccf66adb186",
+      "ty": "official",
+      "t": "United Kingdom: Bank Rate, 5 November 2026",
+      "tl": "en",
+      "u": "/news/a55bcccf66adb186/",
+      "o": "boe",
+      "on": "Bank of England",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [
+        "monetary",
+        "rates"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T22:31:21Z",
+      "l": "2026-11-06T22:31:21Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "c44cd99e29f2d2fe",
+      "ty": "official",
+      "t": "Australia: Cash rate target (monthly average), October 2026",
+      "tl": "en",
+      "u": "/news/c44cd99e29f2d2fe/",
+      "o": "rba",
+      "on": "Reserve Bank of Australia",
+      "c": [
+        "AU"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "monetary",
+        "rates"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T22:31:21Z",
+      "l": "2026-11-06T22:31:21Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "f4022a734ea9bdaa",
+      "ty": "official",
+      "t": "Canada: Target for the overnight rate, 5 November 2026",
+      "tl": "en",
+      "u": "/news/f4022a734ea9bdaa/",
+      "o": "boc",
+      "on": "Bank of Canada",
+      "c": [
+        "CA"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "monetary",
+        "rates"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T22:31:21Z",
+      "l": "2026-11-06T22:31:21Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "35af1f0e253c823e",
+      "ty": "official",
+      "t": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on November 09, 2026",
+      "tl": "en",
+      "u": "/news/35af1f0e253c823e/",
+      "o": "rbi_press",
+      "on": "Reserve Bank of India",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T18:10:00Z",
+      "l": "2026-11-06T18:10:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "0cf7c3c4f6af9cc0",
+      "ty": "official",
+      "t": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
+      "tl": "en",
+      "u": "/news/0cf7c3c4f6af9cc0/",
+      "o": "rbi_press",
+      "on": "Reserve Bank of India",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T16:55:00Z",
+      "l": "2026-11-06T16:55:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "7bb9f7a08e539d88",
+      "ty": "official",
+      "t": "Census on Foreign Liabilities and Assets of Indian Direct Investment Entities for 2025-26",
+      "tl": "en",
+      "u": "/news/7bb9f7a08e539d88/",
+      "o": "rbi_press",
+      "on": "Reserve Bank of India",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T16:30:00Z",
+      "l": "2026-11-06T16:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "c1f237e807cc8f3f",
+      "ty": "official",
+      "t": "EBA E-mail alert 6 November, 2026",
+      "tl": "en",
+      "u": "/news/c1f237e807cc8f3f/",
+      "o": "eba_news",
+      "on": "European Banking Authority",
+      "c": [
+        "EU"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T16:00:03Z",
+      "l": "2026-11-06T16:00:03Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "a3d52959ca894c5d",
+      "ty": "official",
+      "t": "Sectoral Deployment of Credit by NBFC – September 2026",
+      "tl": "en",
+      "u": "/news/a3d52959ca894c5d/",
+      "o": "rbi_press",
+      "on": "Reserve Bank of India",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T16:00:00Z",
+      "l": "2026-11-06T16:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "c9ea049917626796",
+      "ty": "official",
+      "t": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "tl": "en",
+      "u": "/news/c9ea049917626796/",
+      "o": "rbi_press",
+      "on": "Reserve Bank of India",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T16:00:00Z",
+      "l": "2026-11-06T16:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "d1a1c4e473bcf6e4",
+      "ty": "official",
+      "t": "Speech by Governor UEDA at the 2026 Michel Camdessus Central Banking Lecture, International Monetary Fund",
+      "tl": "en",
+      "u": "/news/d1a1c4e473bcf6e4/",
+      "o": "boj_whatsnew",
+      "on": "Bank of Japan",
+      "c": [
+        "JP"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 20,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T16:00:00Z",
+      "l": "2026-11-06T16:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "984a6508b38a1e8f",
+      "ty": "official",
+      "t": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Sri Guru Raghavendra Sahakara Bank Niyamitha, Bengaluru - Extension of Period",
+      "tl": "en",
+      "u": "/news/984a6508b38a1e8f/",
+      "o": "rbi_press",
+      "on": "Reserve Bank of India",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T15:20:00Z",
+      "l": "2026-11-06T15:20:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "7b39b5b92cf0c0af",
+      "ty": "official",
+      "t": "Government Stock - Full Auction Results",
+      "tl": "en",
+      "u": "/news/7b39b5b92cf0c0af/",
+      "o": "rbi_press",
+      "on": "Reserve Bank of India",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T14:00:00Z",
+      "l": "2026-11-06T14:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "b0dd2ff95fdd599d",
+      "ty": "official",
+      "t": "Government Stock - Auction Results: Cut-off",
+      "tl": "en",
+      "u": "/news/b0dd2ff95fdd599d/",
+      "o": "rbi_press",
+      "on": "Reserve Bank of India",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T13:20:00Z",
+      "l": "2026-11-06T13:20:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "16e6b076083bdf6e",
+      "ty": "official",
+      "t": "The not-so-fine print: making consumer contracts fair",
+      "tl": "en",
+      "u": "/news/16e6b076083bdf6e/",
+      "o": "fca_news",
+      "on": "Financial Conduct Authority",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [
+        "cost-of-living"
+      ],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T10:02:00Z",
+      "l": "2026-11-06T10:02:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "bb856fbc9cbca244",
+      "ty": "official",
+      "t": "Public service productivity, quarterly, UK: April to June 2026",
+      "tl": "en",
+      "u": "/news/bb856fbc9cbca244/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T09:30:00Z",
+      "l": "2026-11-06T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "f7706158fd9d258c",
+      "ty": "official",
+      "t": "Developing population estimates by ethnicity for England and Wales",
+      "tl": "en",
+      "u": "/news/f7706158fd9d258c/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T09:30:00Z",
+      "l": "2026-11-06T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "427ac96613d449f9",
+      "ty": "official",
+      "t": "Result of the 3-day Variable Rate Reverse Repo (VRRR) auction held on November 06, 2026",
+      "tl": "en",
+      "u": "/news/427ac96613d449f9/",
+      "o": "rbi_press",
+      "on": "Reserve Bank of India",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T09:25:00Z",
+      "l": "2026-11-06T09:25:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "6b9facdc4b6c7c67",
+      "ty": "official",
+      "t": "Result of Underwriting Auction conducted on November 06, 2026",
+      "tl": "en",
+      "u": "/news/6b9facdc4b6c7c67/",
+      "o": "rbi_press",
+      "on": "Reserve Bank of India",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T09:15:00Z",
+      "l": "2026-11-06T09:15:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "46e9c7984e27c263",
+      "ty": "official",
+      "t": "ECB publishes consolidated banking data for end-June 2026",
+      "tl": "en",
+      "u": "/news/46e9c7984e27c263/",
+      "o": "ecb_press",
+      "on": "European Central Bank",
+      "c": [
+        "EA"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T09:00:00Z",
+      "l": "2026-11-06T09:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "0492227a43a0697c",
+      "ty": "official",
+      "t": "Hungary: CPI inflation, September 2026",
+      "tl": "en",
+      "u": "/news/0492227a43a0697c/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "HU"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "063cd383677d48d8",
+      "ty": "official",
+      "t": "Chile: CPI inflation, September 2026",
+      "tl": "en",
+      "u": "/news/063cd383677d48d8/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "CL"
+      ],
+      "g": [
+        "latin-america"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "06f4683d09c3f19a",
+      "ty": "official",
+      "t": "Philippines: CPI inflation, September 2026",
+      "tl": "en",
+      "u": "/news/06f4683d09c3f19a/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "PH"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "0a771f9894dd1276",
+      "ty": "official",
+      "t": "Kenya: CPI inflation, September 2026",
+      "tl": "en",
+      "u": "/news/0a771f9894dd1276/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "KE"
+      ],
+      "g": [
+        "africa"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "1172cbcc9ee8c331",
+      "ty": "official",
+      "t": "Viet Nam: CPI inflation, September 2026",
+      "tl": "en",
+      "u": "/news/1172cbcc9ee8c331/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "VN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "2c0b95b8fde40a87",
+      "ty": "official",
+      "t": "Türkiye: CPI inflation, September 2026",
+      "tl": "en",
+      "u": "/news/2c0b95b8fde40a87/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "TR"
+      ],
+      "g": [
+        "europe-other",
+        "middle-east"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "3b03d2e79c972a13",
+      "ty": "official",
+      "t": "Korea: CPI inflation, September 2026",
+      "tl": "en",
+      "u": "/news/3b03d2e79c972a13/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "KR"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "44a5fe81e1c427ea",
+      "ty": "official",
+      "t": "Indonesia: CPI inflation, September 2026",
+      "tl": "en",
+      "u": "/news/44a5fe81e1c427ea/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "ID"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "49bca06c8078943a",
+      "ty": "official",
+      "t": "Colombia: CPI inflation, September 2026",
+      "tl": "en",
+      "u": "/news/49bca06c8078943a/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "CO"
+      ],
+      "g": [
+        "latin-america"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "530b1f673153bb8c",
+      "ty": "official",
+      "t": "Switzerland: CPI inflation, September 2026",
+      "tl": "en",
+      "u": "/news/530b1f673153bb8c/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "CH"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "7a82cd35099a5846",
+      "ty": "official",
+      "t": "Pakistan: CPI inflation, October 2026",
+      "tl": "en",
+      "u": "/news/7a82cd35099a5846/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "PK"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "7c7b6b1b99a56b9d",
+      "ty": "official",
+      "t": "Malaysia: CPI inflation, September 2026",
+      "tl": "en",
+      "u": "/news/7c7b6b1b99a56b9d/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "MY"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "80e06324de1932ae",
+      "ty": "official",
+      "t": "Israel: CPI inflation, September 2026",
+      "tl": "en",
+      "u": "/news/80e06324de1932ae/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "IL"
+      ],
+      "g": [
+        "middle-east"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "811db8b27a081ae8",
+      "ty": "official",
+      "t": "Bangladesh: CPI inflation, September 2026",
+      "tl": "en",
+      "u": "/news/811db8b27a081ae8/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "BD"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "8af05cc2425f8725",
+      "ty": "official",
+      "t": "China: CPI inflation, September 2026",
+      "tl": "en",
+      "u": "/news/8af05cc2425f8725/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "CN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "8caf5a855ff1de0a",
+      "ty": "official",
+      "t": "Argentina: CPI inflation, August 2026",
+      "tl": "en",
+      "u": "/news/8caf5a855ff1de0a/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "AR"
+      ],
+      "g": [
+        "latin-america"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "b0e546cf5ffa41b8",
+      "ty": "official",
+      "t": "Egypt: CPI inflation, August 2026",
+      "tl": "en",
+      "u": "/news/b0e546cf5ffa41b8/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "EG"
+      ],
+      "g": [
+        "middle-east",
+        "africa"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "b816572ac1c7eaa6",
+      "ty": "official",
+      "t": "Japan: CPI inflation, September 2026",
+      "tl": "en",
+      "u": "/news/b816572ac1c7eaa6/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "JP"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "bc095e67c1a04516",
+      "ty": "official",
+      "t": "Russia: CPI inflation, August 2026",
+      "tl": "en",
+      "u": "/news/bc095e67c1a04516/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "RU"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "bd8556c84ae3f62f",
+      "ty": "official",
+      "t": "Czechia: CPI inflation, September 2026",
+      "tl": "en",
+      "u": "/news/bd8556c84ae3f62f/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "CZ"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "d8de03949c8351c0",
+      "ty": "official",
+      "t": "Thailand: CPI inflation, August 2026",
+      "tl": "en",
+      "u": "/news/d8de03949c8351c0/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "TH"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "d9991685aae9cace",
+      "ty": "official",
+      "t": "Nigeria: CPI inflation, August 2026",
+      "tl": "en",
+      "u": "/news/d9991685aae9cace/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "NG"
+      ],
+      "g": [
+        "africa"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "e017ec377d327a36",
+      "ty": "official",
+      "t": "Mexico: CPI inflation, September 2026",
+      "tl": "en",
+      "u": "/news/e017ec377d327a36/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "MX"
+      ],
+      "g": [
+        "north-america",
+        "latin-america"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "e0b209c83458ea66",
+      "ty": "official",
+      "t": "Saudi Arabia: CPI inflation, September 2026",
+      "tl": "en",
+      "u": "/news/e0b209c83458ea66/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "SA"
+      ],
+      "g": [
+        "middle-east"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "e11d06faa879093a",
+      "ty": "official",
+      "t": "Peru: CPI inflation, August 2026",
+      "tl": "en",
+      "u": "/news/e11d06faa879093a/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "PE"
+      ],
+      "g": [
+        "latin-america"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "ff2933af2c37fd23",
+      "ty": "official",
+      "t": "Poland: CPI inflation, August 2026",
+      "tl": "en",
+      "u": "/news/ff2933af2c37fd23/",
+      "o": "imf_cpi",
+      "on": "International Monetary Fund (CPI dataset)",
+      "c": [
+        "PL"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:46:58Z",
+      "l": "2026-11-06T07:46:58Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "d59283152a52e669",
+      "ty": "official",
+      "t": "Canada: Unemployment rate, October 2026",
+      "tl": "en",
+      "u": "/news/d59283152a52e669/",
+      "o": "statcan",
+      "on": "Statistics Canada",
+      "c": [
+        "CA"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "jobs"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:30:00Z",
+      "l": "2026-11-06T07:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "2037a08233b044f3",
+      "ty": "official",
+      "t": "Index of industrial production",
+      "tl": "en",
+      "u": "/news/2037a08233b044f3/",
+      "o": "ssb_news",
+      "on": "Statistics Norway",
+      "c": [
+        "NO"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:00:00Z",
+      "l": "2026-11-06T07:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "604d059ddfbb66dd",
+      "ty": "official",
+      "t": "Turnover in oil and gas, manufacturing, mining and electricity supply",
+      "tl": "en",
+      "u": "/news/604d059ddfbb66dd/",
+      "o": "ssb_news",
+      "on": "Statistics Norway",
+      "c": [
+        "NO"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:00:00Z",
+      "l": "2026-11-06T07:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "6a4b5941ee87019c",
+      "ty": "official",
+      "t": "International reserves and foreign currency liquidity",
+      "tl": "en",
+      "u": "/news/6a4b5941ee87019c/",
+      "o": "ssb_news",
+      "on": "Statistics Norway",
+      "c": [
+        "NO"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:00:00Z",
+      "l": "2026-11-06T07:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "a4dae6a881bd12a7",
+      "ty": "official",
+      "t": "Retail sales, investment statistics",
+      "tl": "en",
+      "u": "/news/a4dae6a881bd12a7/",
+      "o": "ssb_news",
+      "on": "Statistics Norway",
+      "c": [
+        "NO"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:00:00Z",
+      "l": "2026-11-06T07:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "e2bae8c54adee5e6",
+      "ty": "official",
+      "t": "Banks and mortgage companies",
+      "tl": "en",
+      "u": "/news/e2bae8c54adee5e6/",
+      "o": "ssb_news",
+      "on": "Statistics Norway",
+      "c": [
+        "NO"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-06T07:00:00Z",
+      "l": "2026-11-06T07:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "eb04520f63a68812",
+      "ty": "official",
+      "t": "Designation of Prosegur Australia Pty Ltd under the Cash Distribution Framework Act 2026",
+      "tl": "en",
+      "u": "/news/eb04520f63a68812/",
+      "o": "rba_media",
+      "on": "Reserve Bank of Australia",
+      "c": [
+        "AU"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T23:45:00Z",
+      "l": "2026-11-05T23:45:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "70b09e083b84dff3",
+      "ty": "official",
+      "t": "CFTC Issues Impartial Access Requirements Interpretation",
+      "tl": "en",
+      "u": "/news/70b09e083b84dff3/",
+      "o": "cftc_press",
+      "on": "Commodity Futures Trading Commission",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T22:00:03Z",
+      "l": "2026-11-05T22:00:03Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "721972f5303a28b6",
+      "ty": "official",
+      "t": "Euro area: GDP growth, quarter on quarter, Q3 2026",
+      "tl": "en",
+      "u": "/news/721972f5303a28b6/",
+      "o": "eurostat",
+      "on": "Eurostat",
+      "c": [
+        "EA"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "macro"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T22:00:00Z",
+      "l": "2026-11-05T22:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "7e553e3b13fb1a0c",
+      "ty": "official",
+      "t": "Sweden: Unemployment rate, September 2026",
+      "tl": "en",
+      "u": "/news/7e553e3b13fb1a0c/",
+      "o": "eurostat",
+      "on": "Eurostat",
+      "c": [
+        "SE"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "jobs"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T22:00:00Z",
+      "l": "2026-11-05T22:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "f23a0f2c34f93d6e",
+      "ty": "official",
+      "t": "Denmark: Unemployment rate, September 2026",
+      "tl": "en",
+      "u": "/news/f23a0f2c34f93d6e/",
+      "o": "eurostat",
+      "on": "Eurostat",
+      "c": [
+        "DK"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "jobs"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T22:00:00Z",
+      "l": "2026-11-05T22:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "f998e537e8ad823f",
+      "ty": "official",
+      "t": "CFTC Staff Addresses Use of Trust Companies for Daily Settlements",
+      "tl": "en",
+      "u": "/news/f998e537e8ad823f/",
+      "o": "cftc_press",
+      "on": "Commodity Futures Trading Commission",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T18:13:46Z",
+      "l": "2026-11-05T18:13:46Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "539e907647ee304d",
+      "ty": "official",
+      "t": "Joint Statement of the Government of Canada and the Bank of Canada on the Renewal of the Monetary Policy Framework",
+      "tl": "en",
+      "u": "/news/539e907647ee304d/",
+      "o": "boc_press",
+      "on": "Bank of Canada",
+      "c": [
+        "CA"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T16:00:19Z",
+      "l": "2026-11-05T16:00:19Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "43270cbe9a560519",
+      "ty": "official",
+      "t": "EBA E-mail alert 5 November, 2026",
+      "tl": "en",
+      "u": "/news/43270cbe9a560519/",
+      "o": "eba_news",
+      "on": "European Banking Authority",
+      "c": [
+        "EU"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T16:00:02Z",
+      "l": "2026-11-05T16:00:02Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "0224349908e0b1c1",
+      "ty": "official",
+      "t": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "tl": "en",
+      "u": "/news/0224349908e0b1c1/",
+      "o": "fed_press",
+      "on": "Federal Reserve Board",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T16:00:00Z",
+      "l": "2026-11-05T16:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "de4021c159cd5214",
+      "ty": "official",
+      "t": "FCA acts to protect consumers facing demands for disguised remuneration scheme loan repayments",
+      "tl": "en",
+      "u": "/news/de4021c159cd5214/",
+      "o": "fca_news",
+      "on": "Financial Conduct Authority",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [
+        "cost-of-living"
+      ],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T13:46:00Z",
+      "l": "2026-11-05T13:46:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "26d3012260db32ae",
+      "ty": "official",
+      "t": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
+      "tl": "en",
+      "u": "/news/26d3012260db32ae/",
+      "o": "boe_news",
+      "on": "Bank of England",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [
+        "monetary",
+        "rates"
+      ],
+      "i": 60,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T12:00:00Z",
+      "l": "2026-11-05T12:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "072d02b4dc79f38b",
+      "ty": "official",
+      "t": "Looking back to move forward: why reviewing our rules matters",
+      "tl": "en",
+      "u": "/news/072d02b4dc79f38b/",
+      "o": "fca_news",
+      "on": "Financial Conduct Authority",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T10:32:00Z",
+      "l": "2026-11-05T10:32:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "742b024cd302c22c",
+      "ty": "official",
+      "t": "Local sites and numbers of employees linked to companies involved in international trade in services by subnational areas of the UK: 2024",
+      "tl": "en",
+      "u": "/news/742b024cd302c22c/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T09:30:00Z",
+      "l": "2026-11-05T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "8e8ad6f7b4bf8d06",
+      "ty": "official",
+      "t": "Experiences of NHS healthcare services in England: 5 November 2026",
+      "tl": "en",
+      "u": "/news/8e8ad6f7b4bf8d06/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T09:30:00Z",
+      "l": "2026-11-05T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "bf900a071ca72763",
+      "ty": "official",
+      "t": "Business insights and impact on the UK economy: 5 November 2026",
+      "tl": "en",
+      "u": "/news/bf900a071ca72763/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T09:30:00Z",
+      "l": "2026-11-05T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "c3e1436460aacf41",
+      "ty": "official",
+      "t": "Economic activity and social change in the UK, real-time indicators: 5 November 2026",
+      "tl": "en",
+      "u": "/news/c3e1436460aacf41/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T09:30:00Z",
+      "l": "2026-11-05T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "cf39604822f7c843",
+      "ty": "official",
+      "t": "FCA to explore quantum computing to tackle financial crime",
+      "tl": "en",
+      "u": "/news/cf39604822f7c843/",
+      "o": "fca_news",
+      "on": "Financial Conduct Authority",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T09:03:00Z",
+      "l": "2026-11-05T09:03:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "907ea8fc77f6514b",
+      "ty": "official",
+      "t": "Policy rate kept unchanged at 4.5 percent",
+      "tl": "en",
+      "u": "/news/907ea8fc77f6514b/",
+      "o": "norges_press",
+      "on": "Norges Bank",
+      "c": [
+        "NO"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [
+        "monetary",
+        "rates"
+      ],
+      "i": 60,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T09:00:00Z",
+      "l": "2026-11-05T09:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "ae12e9ef0f2f5cc2",
+      "ty": "official",
+      "t": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
+      "tl": "en",
+      "u": "/news/ae12e9ef0f2f5cc2/",
+      "o": "ecb_press",
+      "on": "European Central Bank",
+      "c": [
+        "EA"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T08:00:00Z",
+      "l": "2026-11-05T08:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "6e6b7cd9500f3532",
+      "ty": "official",
+      "t": "Piero Cipollone: Shaping the future of money",
+      "tl": "en",
+      "u": "/news/6e6b7cd9500f3532/",
+      "o": "ecb_press",
+      "on": "European Central Bank",
+      "c": [
+        "EA"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T07:30:00Z",
+      "l": "2026-11-05T07:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "060c233ba166b67b",
+      "ty": "official",
+      "t": "Turnover index for service activities",
+      "tl": "en",
+      "u": "/news/060c233ba166b67b/",
+      "o": "ssb_news",
+      "on": "Statistics Norway",
+      "c": [
+        "NO"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T07:00:00Z",
+      "l": "2026-11-05T07:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "074c1cf06b84325a",
+      "ty": "official",
+      "t": "Plastic waste and products",
+      "tl": "en",
+      "u": "/news/074c1cf06b84325a/",
+      "o": "ssb_news",
+      "on": "Statistics Norway",
+      "c": [
+        "NO"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T07:00:00Z",
+      "l": "2026-11-05T07:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "52790ce9bcb369ce",
+      "ty": "official",
+      "t": "Labour force survey",
+      "tl": "en",
+      "u": "/news/52790ce9bcb369ce/",
+      "o": "ssb_news",
+      "on": "Statistics Norway",
+      "c": [
+        "NO"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T07:00:00Z",
+      "l": "2026-11-05T07:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "9baf0e8f06333fd7",
+      "ty": "official",
+      "t": "Index of production for services",
+      "tl": "en",
+      "u": "/news/9baf0e8f06333fd7/",
+      "o": "ssb_news",
+      "on": "Statistics Norway",
+      "c": [
+        "NO"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T07:00:00Z",
+      "l": "2026-11-05T07:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "d662b14decba4840",
+      "ty": "official",
+      "t": "Number of employments and earnings",
+      "tl": "en",
+      "u": "/news/d662b14decba4840/",
+      "o": "ssb_news",
+      "on": "Statistics Norway",
+      "c": [
+        "NO"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [
+        "jobs"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T07:00:00Z",
+      "l": "2026-11-05T07:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "8a2010a77940ad2a",
+      "ty": "official",
+      "t": "Trust, Expectations and Monetary Policy",
+      "tl": "en",
+      "u": "/news/8a2010a77940ad2a/",
+      "o": "rba_speeches",
+      "on": "Reserve Bank of Australia",
+      "c": [
+        "AU"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 20,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-05T06:45:00Z",
+      "l": "2026-11-05T06:45:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "59456501c8096031",
+      "ty": "official",
+      "t": "Minutes of the Monetary Policy Meeting on September 17 and 18, 2026",
+      "tl": "en",
+      "u": "/news/59456501c8096031/",
+      "o": "boj_whatsnew",
+      "on": "Bank of Japan",
+      "c": [
+        "JP"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 25,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-04T23:50:00Z",
+      "l": "2026-11-04T23:50:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "fbf83c3d91598e19",
+      "ty": "official",
+      "t": "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers",
+      "tl": "en",
+      "u": "/news/fbf83c3d91598e19/",
+      "o": "sec_press",
+      "on": "U.S. Securities and Exchange Commission",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-04T16:28:00Z",
+      "l": "2026-11-04T16:28:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "e8d32c587300fc55",
+      "ty": "official",
+      "t": "Summary of the RTGS CHAPS Industry Forum - 13 October 2026",
+      "tl": "en",
+      "u": "/news/e8d32c587300fc55/",
+      "o": "boe_news",
+      "on": "Bank of England",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-04T14:51:45Z",
+      "l": "2026-11-04T14:51:45Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "5e1a30f9b58d7fc8",
+      "ty": "official",
+      "t": "CFTC and USDA Sign MOU to Protect Integrity of American Agricultural Markets",
+      "tl": "en",
+      "u": "/news/5e1a30f9b58d7fc8/",
+      "o": "cftc_press",
+      "on": "Commodity Futures Trading Commission",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-04T14:00:00Z",
+      "l": "2026-11-04T14:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "17aae0a1f79e00ad",
+      "ty": "official",
+      "t": "U.S. International Trade in Goods and Services, September 2026",
+      "tl": "en",
+      "u": "/news/17aae0a1f79e00ad/",
+      "o": "bea_news",
+      "on": "U.S. Bureau of Economic Analysis",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-04T13:30:00Z",
+      "l": "2026-11-04T13:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "37d94926fa634c92",
+      "ty": "official",
+      "t": "Act now to be resilient in the quantum future",
+      "tl": "en",
+      "u": "/news/37d94926fa634c92/",
+      "o": "fca_news",
+      "on": "Financial Conduct Authority",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-04T10:01:00Z",
+      "l": "2026-11-04T10:01:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "cba440fb16723a0a",
+      "ty": "official",
+      "t": "Euro area: HICP inflation, October 2026",
+      "tl": "en",
+      "u": "/news/cba440fb16723a0a/",
+      "o": "eurostat",
+      "on": "Eurostat",
+      "c": [
+        "EA"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-04T10:00:00Z",
+      "l": "2026-11-04T10:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "6a1e7aebdd2b5705",
+      "ty": "official",
+      "t": "Update on Transformation of Research and Development Statistics",
+      "tl": "en",
+      "u": "/news/6a1e7aebdd2b5705/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-04T09:30:00Z",
+      "l": "2026-11-04T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "770b6044c1fe80f3",
+      "ty": "official",
+      "t": "Deaths registered weekly in England and Wales, provisional: week ending 23 October 2026",
+      "tl": "en",
+      "u": "/news/770b6044c1fe80f3/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-04T09:30:00Z",
+      "l": "2026-11-04T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "c8461122c7921308",
+      "ty": "official",
+      "t": "Deaths related to drug poisoning in England and Wales: 2025 registrations",
+      "tl": "en",
+      "u": "/news/c8461122c7921308/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-04T09:30:00Z",
+      "l": "2026-11-04T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "5891e30956047b1a",
+      "ty": "official",
+      "t": "Policy rate raised to 2 per cent",
+      "tl": "en",
+      "u": "/news/5891e30956047b1a/",
+      "o": "riksbank_press_en",
+      "on": "Sveriges Riksbank",
+      "c": [
+        "SE"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "monetary",
+        "rates"
+      ],
+      "i": 60,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-04T08:30:40Z",
+      "l": "2026-11-04T08:30:40Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "e6f72d7059f574bd",
+      "ty": "official",
+      "t": "The Riksbank plans to finance part of the foreign currency reserve with foreign currency loans via the Swedish National Debt Office",
+      "tl": "en",
+      "u": "/news/e6f72d7059f574bd/",
+      "o": "riksbank_press_en",
+      "on": "Sveriges Riksbank",
+      "c": [
+        "SE"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-04T08:29:00Z",
+      "l": "2026-11-04T08:29:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "1804721c1558df67",
+      "ty": "official",
+      "t": "The Pigouvian Principle with Consumption Taxes",
+      "tl": "en",
+      "u": "/news/1804721c1558df67/",
+      "o": "ssb_news",
+      "on": "Statistics Norway",
+      "c": [
+        "NO"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-04T07:00:00Z",
+      "l": "2026-11-04T07:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "347bedb6ac81c1c1",
+      "ty": "official",
+      "t": "Export of salmon",
+      "tl": "en",
+      "u": "/news/347bedb6ac81c1c1/",
+      "o": "ssb_news",
+      "on": "Statistics Norway",
+      "c": [
+        "NO"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-04T07:00:00Z",
+      "l": "2026-11-04T07:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "bbb7b8be412231ad",
+      "ty": "official",
+      "t": "Emissions to air",
+      "tl": "en",
+      "u": "/news/bbb7b8be412231ad/",
+      "o": "ssb_news",
+      "on": "Statistics Norway",
+      "c": [
+        "NO"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-04T07:00:00Z",
+      "l": "2026-11-04T07:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "de6f7353f9475547",
+      "ty": "official",
+      "t": "Salmon price in the period of October 26th – November 1st",
+      "tl": "en",
+      "u": "/news/de6f7353f9475547/",
+      "o": "ssb_news",
+      "on": "Statistics Norway",
+      "c": [
+        "NO"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-04T07:00:00Z",
+      "l": "2026-11-04T07:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "f6484a675c47b2c5",
+      "ty": "official",
+      "t": "Accommodation",
+      "tl": "en",
+      "u": "/news/f6484a675c47b2c5/",
+      "o": "ssb_news",
+      "on": "Statistics Norway",
+      "c": [
+        "NO"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-04T07:00:00Z",
+      "l": "2026-11-04T07:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "c244f5f62d65c4a8",
+      "ty": "official",
+      "t": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+      "tl": "en",
+      "u": "/news/c244f5f62d65c4a8/",
+      "o": "ecb_press",
+      "on": "European Central Bank",
+      "c": [
+        "EA"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "macro"
+      ],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-04T00:00:00Z",
+      "l": "2026-11-04T00:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "f6fb817afecda8b6",
+      "ty": "official",
+      "t": "CFTC Chairman Selig Releases Statement on Equity Perpetual Futures",
+      "tl": "en",
+      "u": "/news/f6fb817afecda8b6/",
+      "o": "cftc_press",
+      "on": "Commodity Futures Trading Commission",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-03T13:50:00Z",
+      "l": "2026-11-03T13:50:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "2c1a23a769be3fa9",
+      "ty": "official",
+      "t": "Kenya Financial Sector Stability Report 2025",
+      "tl": "en",
+      "u": "/news/2c1a23a769be3fa9/",
+      "o": "cbk_news",
+      "on": "Central Bank of Kenya",
+      "c": [
+        "KE"
+      ],
+      "g": [
+        "africa"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-03T12:09:21Z",
+      "l": "2026-11-03T12:09:21Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "77a01e987f423c29",
+      "ty": "official",
+      "t": "New FCA rules bring ESG rating providers into UK regulation for the first time",
+      "tl": "en",
+      "u": "/news/77a01e987f423c29/",
+      "o": "fca_news",
+      "on": "Financial Conduct Authority",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-03T10:03:00Z",
+      "l": "2026-11-03T10:03:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "b12ce0cca21be2fb",
+      "ty": "official",
+      "t": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
+      "tl": "en",
+      "u": "/news/b12ce0cca21be2fb/",
+      "o": "boe_news",
+      "on": "Bank of England",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [
+        "macro"
+      ],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-03T10:00:00Z",
+      "l": "2026-11-03T10:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "1f148c2ee54597cb",
+      "ty": "official",
+      "t": "FCA sets expectations for firms making car finance settlement offers",
+      "tl": "en",
+      "u": "/news/1f148c2ee54597cb/",
+      "o": "fca_news",
+      "on": "Financial Conduct Authority",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-03T09:00:00Z",
+      "l": "2026-11-03T09:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "02f31f2b8d719665",
+      "ty": "official",
+      "t": "Accounts for private kindergartens",
+      "tl": "en",
+      "u": "/news/02f31f2b8d719665/",
+      "o": "ssb_news",
+      "on": "Statistics Norway",
+      "c": [
+        "NO"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-03T07:00:00Z",
+      "l": "2026-11-03T07:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "965ae307c2c74eda",
+      "ty": "official",
+      "t": "Accounting data for foundations",
+      "tl": "en",
+      "u": "/news/965ae307c2c74eda/",
+      "o": "ssb_news",
+      "on": "Statistics Norway",
+      "c": [
+        "NO"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-03T07:00:00Z",
+      "l": "2026-11-03T07:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "0688a38e7a1bc4aa",
+      "ty": "official",
+      "t": "World: Oil (Brent), October 2026",
+      "tl": "en",
+      "u": "/news/0688a38e7a1bc4aa/",
+      "o": "wb_commodities",
+      "on": "World Bank Commodity Price Data (Pink Sheet)",
+      "c": [],
+      "g": [
+        "global"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-03T00:00:00Z",
+      "l": "2026-11-03T00:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "0cf9fd9b5cadd3fb",
+      "ty": "official",
+      "t": "World: Natural gas (Europe), October 2026",
+      "tl": "en",
+      "u": "/news/0cf9fd9b5cadd3fb/",
+      "o": "wb_commodities",
+      "on": "World Bank Commodity Price Data (Pink Sheet)",
+      "c": [],
+      "g": [
+        "global"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-03T00:00:00Z",
+      "l": "2026-11-03T00:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "20b05dbe88ead999",
+      "ty": "official",
+      "t": "World: Wheat (US hard red winter), October 2026",
+      "tl": "en",
+      "u": "/news/20b05dbe88ead999/",
+      "o": "wb_commodities",
+      "on": "World Bank Commodity Price Data (Pink Sheet)",
+      "c": [],
+      "g": [
+        "global"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-03T00:00:00Z",
+      "l": "2026-11-03T00:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "270d7a9e171a38e9",
+      "ty": "official",
+      "t": "World: Gold, October 2026",
+      "tl": "en",
+      "u": "/news/270d7a9e171a38e9/",
+      "o": "wb_commodities",
+      "on": "World Bank Commodity Price Data (Pink Sheet)",
+      "c": [],
+      "g": [
+        "global"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-03T00:00:00Z",
+      "l": "2026-11-03T00:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "2b4486ce87e26a95",
+      "ty": "official",
+      "t": "Demands for disguised remuneration scheme loan repayments",
+      "tl": "en",
+      "u": "/news/2b4486ce87e26a95/",
+      "o": "fca_news",
+      "on": "Financial Conduct Authority",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-02T12:12:00Z",
+      "l": "2026-11-02T12:12:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "a6dbc9bcd663936a",
+      "ty": "official",
+      "t": "FCA publishes terms of reference for independent review concerning Mr Andriesz",
+      "tl": "en",
+      "u": "/news/a6dbc9bcd663936a/",
+      "o": "fca_news",
+      "on": "Financial Conduct Authority",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-02T10:30:00Z",
+      "l": "2026-11-02T10:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "3c3e1b5bc9b219ac",
+      "ty": "official",
+      "t": "Avoidable mortality in England and Wales: 2025",
+      "tl": "en",
+      "u": "/news/3c3e1b5bc9b219ac/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-02T09:30:00Z",
+      "l": "2026-11-02T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "ab4c32c288110538",
+      "ty": "official",
+      "t": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+      "tl": "en",
+      "u": "/news/ab4c32c288110538/",
+      "o": "ecb_press",
+      "on": "European Central Bank",
+      "c": [
+        "EA"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-02T09:30:00Z",
+      "l": "2026-11-02T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "8e29d71bc2f7ec3c",
+      "ty": "official",
+      "t": "Euro area bank interest rate statistics: September 2026",
+      "tl": "en",
+      "u": "/news/8e29d71bc2f7ec3c/",
+      "o": "ecb_statpress",
+      "on": "European Central Bank",
+      "c": [
+        "EA"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-02T09:00:00Z",
+      "l": "2026-11-02T09:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "e6e357752f10876b",
+      "ty": "official",
+      "t": "Outlook for Economic Activity and Prices (October 2026, full text)",
+      "tl": "en",
+      "u": "/news/e6e357752f10876b/",
+      "o": "boj_whatsnew",
+      "on": "Bank of Japan",
+      "c": [
+        "JP"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 25,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-02T05:00:00Z",
+      "l": "2026-11-02T05:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "64d7e687de2f7414",
+      "ty": "official",
+      "t": "SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions",
+      "tl": "en",
+      "u": "/news/64d7e687de2f7414/",
+      "o": "sec_press",
+      "on": "U.S. Securities and Exchange Commission",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-30T19:30:00Z",
+      "l": "2026-10-30T19:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "fb4eeae5b207473f",
+      "ty": "official",
+      "t": "Philip R. Lane: AI adoption in Europe",
+      "tl": "en",
+      "u": "/news/fb4eeae5b207473f/",
+      "o": "ecb_press",
+      "on": "European Central Bank",
+      "c": [
+        "EA"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-30T16:10:00Z",
+      "l": "2026-10-30T16:10:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "a664ad024dba66cc",
+      "ty": "official",
+      "t": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "tl": "en",
+      "u": "/news/a664ad024dba66cc/",
+      "o": "ecb_press",
+      "on": "European Central Bank",
+      "c": [
+        "EA"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-30T14:00:00Z",
+      "l": "2026-10-30T14:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "0d863bd39f008ec1",
+      "ty": "official",
+      "t": "GDP revisions in Blue Book: 2026",
+      "tl": "en",
+      "u": "/news/0d863bd39f008ec1/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [
+        "macro"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-30T09:30:00Z",
+      "l": "2026-10-30T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "10cdb065f7478cfa",
+      "ty": "official",
+      "t": "Gross fixed capital formation deflator catalogue",
+      "tl": "en",
+      "u": "/news/10cdb065f7478cfa/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-30T09:30:00Z",
+      "l": "2026-10-30T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "2330abad94e54873",
+      "ty": "official",
+      "t": "Input-output supply and use tables – summary tables: 2026",
+      "tl": "en",
+      "u": "/news/2330abad94e54873/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-30T09:30:00Z",
+      "l": "2026-10-30T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "2e809b3e2a9da05a",
+      "ty": "official",
+      "t": "UK Balance of Payments, The Pink Book: 2026",
+      "tl": "en",
+      "u": "/news/2e809b3e2a9da05a/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-30T09:30:00Z",
+      "l": "2026-10-30T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "551b98d0ec8a7070",
+      "ty": "official",
+      "t": "Annual gross fixed capital formation by industry and asset: October 2026",
+      "tl": "en",
+      "u": "/news/551b98d0ec8a7070/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-30T09:30:00Z",
+      "l": "2026-10-30T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "5d8d8ce1718ec849",
+      "ty": "official",
+      "t": "Supply and Use of products and industry GVA, UK: 2026",
+      "tl": "en",
+      "u": "/news/5d8d8ce1718ec849/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-30T09:30:00Z",
+      "l": "2026-10-30T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "64fb32c55173b7f8",
+      "ty": "official",
+      "t": "Input-output supply and use tables: 2026 edition",
+      "tl": "en",
+      "u": "/news/64fb32c55173b7f8/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-30T09:30:00Z",
+      "l": "2026-10-30T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "7b30fef22c8788e4",
+      "ty": "official",
+      "t": "Quarterly neonatal deaths in England and Wales, provisional: January 2019 to March 2026",
+      "tl": "en",
+      "u": "/news/7b30fef22c8788e4/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-30T09:30:00Z",
+      "l": "2026-10-30T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "8a95a49e1fdda932",
+      "ty": "official",
+      "t": "UK National Accounts, The Blue Book: 2026",
+      "tl": "en",
+      "u": "/news/8a95a49e1fdda932/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [
+        "macro"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-30T09:30:00Z",
+      "l": "2026-10-30T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "a752f61262844cb9",
+      "ty": "official",
+      "t": "Classification of Products by Activity 2008 (CPA) to Classification of Individual Consumption according to Purpose 1999 (COICOP) converter for household final consumption expenditure: October 2026",
+      "tl": "en",
+      "u": "/news/a752f61262844cb9/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-30T09:30:00Z",
+      "l": "2026-10-30T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "e2f639c49ccb63ae",
+      "ty": "official",
+      "t": "Supply and use tables data sources catalogue: 2026",
+      "tl": "en",
+      "u": "/news/e2f639c49ccb63ae/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-30T09:30:00Z",
+      "l": "2026-10-30T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "f03ced05a3c0aaba",
+      "ty": "official",
+      "t": "Quarterly births in England and Wales, provisional: January to June 2026",
+      "tl": "en",
+      "u": "/news/f03ced05a3c0aaba/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-30T09:30:00Z",
+      "l": "2026-10-30T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "052e204b31b65ad9",
+      "ty": "official",
+      "t": "Brits nearly twice as likely to spot pressure tactics in horror films as investment red flags",
+      "tl": "en",
+      "u": "/news/052e204b31b65ad9/",
+      "o": "fca_news",
+      "on": "Financial Conduct Authority",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-30T09:00:00Z",
+      "l": "2026-10-30T09:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "9a29091055d53253",
+      "ty": "official",
+      "t": "Foreign exchange transactions in November 2026",
+      "tl": "en",
+      "u": "/news/9a29091055d53253/",
+      "o": "norges_press",
+      "on": "Norges Bank",
+      "c": [
+        "NO"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-30T09:00:00Z",
+      "l": "2026-10-30T09:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "e362e4d7ebda355d",
+      "ty": "official",
+      "t": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
+      "tl": "en",
+      "u": "/news/e362e4d7ebda355d/",
+      "o": "ecb_press",
+      "on": "European Central Bank",
+      "c": [
+        "EA"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-30T09:00:00Z",
+      "l": "2026-10-30T09:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "7bbaebee960707cd",
+      "ty": "official",
+      "t": "Canada: Real GDP growth, month on month, August 2026",
+      "tl": "en",
+      "u": "/news/7bbaebee960707cd/",
+      "o": "statcan",
+      "on": "Statistics Canada",
+      "c": [
+        "CA"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "macro"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-30T07:30:00Z",
+      "l": "2026-10-30T07:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "40d36fde28286d06",
+      "ty": "official",
+      "t": "Outlook for Economic Activity and Prices (October 2026, The Bank's View)",
+      "tl": "en",
+      "u": "/news/40d36fde28286d06/",
+      "o": "boj_whatsnew",
+      "on": "Bank of Japan",
+      "c": [
+        "JP"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 25,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-30T04:00:00Z",
+      "l": "2026-10-30T04:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "6be90d1d9a8a0275",
+      "ty": "official",
+      "t": "Statement on Monetary Policy",
+      "tl": "en",
+      "u": "/news/6be90d1d9a8a0275/",
+      "o": "boj_whatsnew",
+      "on": "Bank of Japan",
+      "c": [
+        "JP"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 25,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-30T04:00:00Z",
+      "l": "2026-10-30T04:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "d5f01f9dd738c00b",
+      "ty": "official",
+      "t": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "tl": "en",
+      "u": "/news/d5f01f9dd738c00b/",
+      "o": "fed_press",
+      "on": "Federal Reserve Board",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-29T20:30:00Z",
+      "l": "2026-10-29T20:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "63ade08e1b4d9054",
+      "ty": "official",
+      "t": "Two Entities Charged in $130 Million Fraud Scheme That Used False SEC Filings to Boost Investor Confidence",
+      "tl": "en",
+      "u": "/news/63ade08e1b4d9054/",
+      "o": "sec_press",
+      "on": "U.S. Securities and Exchange Commission",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "cost-of-living"
+      ],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-29T16:42:37Z",
+      "l": "2026-10-29T16:42:37Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "7929603d4cd78801",
+      "ty": "official",
+      "t": "EBA E-mail alert 29 October, 2026",
+      "tl": "en",
+      "u": "/news/7929603d4cd78801/",
+      "o": "eba_news",
+      "on": "European Banking Authority",
+      "c": [
+        "EU"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-29T16:00:03Z",
+      "l": "2026-10-29T16:00:03Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "1e2ee9828f322bee",
+      "ty": "official",
+      "t": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
+      "tl": "en",
+      "u": "/news/1e2ee9828f322bee/",
+      "o": "ecb_press",
+      "on": "European Central Bank",
+      "c": [
+        "EA"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-29T15:50:00Z",
+      "l": "2026-10-29T15:50:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "7fed9d5f2623fed9",
+      "ty": "official",
+      "t": "Minutes of the Meeting of the Court of Directors held on 17 September 2026",
+      "tl": "en",
+      "u": "/news/7fed9d5f2623fed9/",
+      "o": "boe_news",
+      "on": "Bank of England",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-29T14:00:00Z",
+      "l": "2026-10-29T14:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "e199bca473c62ef0",
+      "ty": "official",
+      "t": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
+      "tl": "en",
+      "u": "/news/e199bca473c62ef0/",
+      "o": "ecb_press",
+      "on": "European Central Bank",
+      "c": [
+        "EA"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-29T14:00:00Z",
+      "l": "2026-10-29T14:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "3bab7ef1dcd19e91",
+      "ty": "official",
+      "t": "ESMA publishes latest edition of its newsletter",
+      "tl": "en",
+      "u": "/news/3bab7ef1dcd19e91/",
+      "o": "esma_news",
+      "on": "European Securities and Markets Authority",
+      "c": [
+        "EU"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-29T13:26:16Z",
+      "l": "2026-10-29T13:26:16Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "8be498015a196c08",
+      "ty": "official",
+      "t": "Monetary policy decisions",
+      "tl": "en",
+      "u": "/news/8be498015a196c08/",
+      "o": "ecb_press",
+      "on": "European Central Bank",
+      "c": [
+        "EA"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "monetary",
+        "rates"
+      ],
+      "i": 60,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-29T13:15:00Z",
+      "l": "2026-10-29T13:15:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "48c980494664a72e",
+      "ty": "official",
+      "t": "GDP (Advance Estimate), 3rd Quarter 2026",
+      "tl": "en",
+      "u": "/news/48c980494664a72e/",
+      "o": "bea_news",
+      "on": "U.S. Bureau of Economic Analysis",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "macro"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-29T12:30:00Z",
+      "l": "2026-10-29T12:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "fbbb88c247ad18c0",
+      "ty": "official",
+      "t": "Personal Income and Outlays, September 2026",
+      "tl": "en",
+      "u": "/news/fbbb88c247ad18c0/",
+      "o": "bea_news",
+      "on": "U.S. Bureau of Economic Analysis",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-29T12:30:00Z",
+      "l": "2026-10-29T12:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "f377f09e38d38ca7",
+      "ty": "official",
+      "t": "FCA encourages former Verus Financial Services Limited customers to check if they can claim with FSCS",
+      "tl": "en",
+      "u": "/news/f377f09e38d38ca7/",
+      "o": "fca_news",
+      "on": "Financial Conduct Authority",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-29T11:58:00Z",
+      "l": "2026-10-29T11:58:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "b6f36ab091296753",
+      "ty": "official",
+      "t": "What does 'fair value' look like in practice? Three years into the Consumer Duty, here’s what we’ve learned.",
+      "tl": "en",
+      "u": "/news/b6f36ab091296753/",
+      "o": "fca_news",
+      "on": "Financial Conduct Authority",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [
+        "cost-of-living"
+      ],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-29T10:03:00Z",
+      "l": "2026-10-29T10:03:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "2bbb58fbf3ff6296",
+      "ty": "official",
+      "t": "FCA stops HTX's crypto promotions",
+      "tl": "en",
+      "u": "/news/2bbb58fbf3ff6296/",
+      "o": "fca_news",
+      "on": "Financial Conduct Authority",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-29T10:00:00Z",
+      "l": "2026-10-29T10:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "5e25e64b9fc73196",
+      "ty": "official",
+      "t": "ECB President Lagarde to step down on 7 February 2027",
+      "tl": "en",
+      "u": "/news/5e25e64b9fc73196/",
+      "o": "ecb_press",
+      "on": "European Central Bank",
+      "c": [
+        "EA"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-29T10:00:00Z",
+      "l": "2026-10-29T10:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "a1cdf8a2697a773d",
+      "ty": "official",
+      "t": "Bank of England sets out approach to tokenised collateral in central clearing",
+      "tl": "en",
+      "u": "/news/a1cdf8a2697a773d/",
+      "o": "boe_news",
+      "on": "Bank of England",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-29T10:00:00Z",
+      "l": "2026-10-29T10:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "4e1e4d82fe0e3562",
+      "ty": "official",
+      "t": "Economic activity and social change in the UK, real-time indicators: 29 October 2026",
+      "tl": "en",
+      "u": "/news/4e1e4d82fe0e3562/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-29T09:30:00Z",
+      "l": "2026-10-29T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "6daed4e49c2de80a",
+      "ty": "official",
+      "t": "Business demography, quarterly, UK: July to September 2026",
+      "tl": "en",
+      "u": "/news/6daed4e49c2de80a/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-29T09:30:00Z",
+      "l": "2026-10-29T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "3a09fcac4e75205e",
+      "ty": "official",
+      "t": "ESMA proposes simpler EU Taxonomy reporting",
+      "tl": "en",
+      "u": "/news/3a09fcac4e75205e/",
+      "o": "esma_news",
+      "on": "European Securities and Markets Authority",
+      "c": [
+        "EU"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-29T09:05:50Z",
+      "l": "2026-10-29T09:05:50Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "560c31c142da75e7",
+      "ty": "official",
+      "t": "Sweden: GDP growth, quarter on quarter, Q3 2026",
+      "tl": "en",
+      "u": "/news/560c31c142da75e7/",
+      "o": "scb",
+      "on": "Statistics Sweden",
+      "c": [
+        "SE"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "macro"
+      ],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-29T07:00:00Z",
+      "l": "2026-10-29T07:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "847a7abc2726921c",
+      "ty": "official",
+      "t": "Federal Reserve issues FOMC statement",
+      "tl": "en",
+      "u": "/news/847a7abc2726921c/",
+      "o": "fed_press",
+      "on": "Federal Reserve Board",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "monetary",
+        "rates"
+      ],
+      "i": 60,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-28T18:00:00Z",
+      "l": "2026-10-28T18:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "334d5c81e639c2ee",
+      "ty": "official",
+      "t": "CFTC to Host Roundtable on 24/7 Trading",
+      "tl": "en",
+      "u": "/news/334d5c81e639c2ee/",
+      "o": "cftc_press",
+      "on": "Commodity Futures Trading Commission",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-28T17:00:53Z",
+      "l": "2026-10-28T17:00:53Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "366b13df0e7197dc",
+      "ty": "official",
+      "t": "Remit for the Monetary Policy Committee - October 2026",
+      "tl": "en",
+      "u": "/news/366b13df0e7197dc/",
+      "o": "boe_news",
+      "on": "Bank of England",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [
+        "monetary",
+        "rates"
+      ],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-28T14:16:49Z",
+      "l": "2026-10-28T14:16:49Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "312e4c8f7e647ad7",
+      "ty": "official",
+      "t": "Euro area economic and financial developments by institutional sector: second quarter of 2026",
+      "tl": "en",
+      "u": "/news/312e4c8f7e647ad7/",
+      "o": "ecb_statpress",
+      "on": "European Central Bank",
+      "c": [
+        "EA"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-28T10:00:00Z",
+      "l": "2026-10-28T10:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "12fe0e6cdb7b20a5",
+      "ty": "official",
+      "t": "Bank of Canada raises the policy rate by 25 basis points to 2½%",
+      "tl": "en",
+      "u": "/news/12fe0e6cdb7b20a5/",
+      "o": "boc_press",
+      "on": "Bank of Canada",
+      "c": [
+        "CA"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "monetary",
+        "rates"
+      ],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-28T09:47:20Z",
+      "l": "2026-10-28T09:47:20Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "00d5a417be8059aa",
+      "ty": "official",
+      "t": "Greenhouse gas emissions, UK: provisional estimates, 2025",
+      "tl": "en",
+      "u": "/news/00d5a417be8059aa/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-28T09:30:00Z",
+      "l": "2026-10-28T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "4bd4950bd1eebc9c",
+      "ty": "official",
+      "t": "Deaths registered weekly in England and Wales, provisional: week ending 16 October 2026",
+      "tl": "en",
+      "u": "/news/4bd4950bd1eebc9c/",
+      "o": "ons_published",
+      "on": "Office for National Statistics",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-28T09:30:00Z",
+      "l": "2026-10-28T09:30:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "9842b3592b2dde14",
+      "ty": "official",
+      "t": "ICYMI: Agricultural Leaders and Market Participants Join CFTC Chairman Selig in Overland Park, Kansas for AgCon 2026",
+      "tl": "en",
+      "u": "/news/9842b3592b2dde14/",
+      "o": "cftc_press",
+      "on": "Commodity Futures Trading Commission",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-27T19:22:28Z",
+      "l": "2026-10-27T19:22:28Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "d00fa215b222a077",
+      "ty": "official",
+      "t": "CFTC Announces Semiweekly Publication of the COT Report",
+      "tl": "en",
+      "u": "/news/d00fa215b222a077/",
+      "o": "cftc_press",
+      "on": "Commodity Futures Trading Commission",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-27T17:47:15Z",
+      "l": "2026-10-27T17:47:15Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "7971985892d7e938",
+      "ty": "official",
+      "t": "CFTC Sues to Block State Enforcement in Utah Amid Ongoing Efforts to Preserve Jurisdiction",
+      "tl": "en",
+      "u": "/news/7971985892d7e938/",
+      "o": "cftc_press",
+      "on": "Commodity Futures Trading Commission",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-27T12:58:38Z",
+      "l": "2026-10-27T12:58:38Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "c3c0bec0dfaf88ad",
+      "ty": "official",
+      "t": "Bullseye Financial Ltd enters administration",
+      "tl": "en",
+      "u": "/news/c3c0bec0dfaf88ad/",
+      "o": "fca_news",
+      "on": "Financial Conduct Authority",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-27T12:15:00Z",
+      "l": "2026-10-27T12:15:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "3efe0b3fa25fb7fc",
+      "ty": "official",
+      "t": "Monetary developments in the euro area: September 2026",
+      "tl": "en",
+      "u": "/news/3efe0b3fa25fb7fc/",
+      "o": "ecb_statpress",
+      "on": "European Central Bank",
+      "c": [
+        "EA"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 45,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-27T09:00:00Z",
+      "l": "2026-10-27T09:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "6ccfaf91462aec62",
+      "ty": "official",
+      "t": "October 2026 euro area bank lending survey",
+      "tl": "en",
+      "u": "/news/6ccfaf91462aec62/",
+      "o": "ecb_press",
+      "on": "European Central Bank",
+      "c": [
+        "EA"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-27T00:00:00Z",
+      "l": "2026-10-27T00:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "fb09f1bb2ab492d0",
+      "ty": "official",
+      "t": "Services Producer Price Index (Sept.)",
+      "tl": "en",
+      "u": "/news/fb09f1bb2ab492d0/",
+      "o": "boj_whatsnew",
+      "on": "Bank of Japan",
+      "c": [
+        "JP"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 25,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-26T23:50:00Z",
+      "l": "2026-10-26T23:50:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "44b8a5bd13a87455",
+      "ty": "official",
+      "t": "CFTC and National Basketball Association Sign MOU to Protect Integrity in Professional Basketball",
+      "tl": "en",
+      "u": "/news/44b8a5bd13a87455/",
+      "o": "cftc_press",
+      "on": "Commodity Futures Trading Commission",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-26T14:00:00Z",
+      "l": "2026-10-26T14:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "3a3782a5e10c666c",
+      "ty": "official",
+      "t": "Defence SMEs need banking services that work",
+      "tl": "en",
+      "u": "/news/3a3782a5e10c666c/",
+      "o": "fca_news",
+      "on": "Financial Conduct Authority",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-26T11:01:00Z",
+      "l": "2026-10-26T11:01:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "fdd783ba6ca44e3d",
+      "ty": "official",
+      "t": "Chandler King (City) Limited enters creditors’ voluntary liquidation",
+      "tl": "en",
+      "u": "/news/fdd783ba6ca44e3d/",
+      "o": "fca_news",
+      "on": "Financial Conduct Authority",
+      "c": [
+        "GB"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-26T10:00:00Z",
+      "l": "2026-10-26T10:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "f737e8530d3dd326",
+      "ty": "official",
+      "t": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+      "tl": "en",
+      "u": "/news/f737e8530d3dd326/",
+      "o": "ecb_press",
+      "on": "European Central Bank",
+      "c": [
+        "EA"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-26T09:00:00Z",
+      "l": "2026-10-26T09:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    },
+    {
+      "id": "4aa2eb3e52ea81d3",
+      "ty": "official",
+      "t": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
+      "tl": "en",
+      "u": "/news/4aa2eb3e52ea81d3/",
+      "o": "ecb_press",
+      "on": "European Central Bank",
+      "c": [
+        "EA"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 30,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-10-26T05:00:00Z",
+      "l": "2026-10-26T05:00:00Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
+    }
+  ]
+}

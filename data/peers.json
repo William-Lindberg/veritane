@@ -1,0 +1,1221 @@
+{
+  "schema": "veritane/peers/1",
+  "generated_at": "2026-11-07T12:01:21.000Z",
+  "panels": {
+    "policy_rate.bis": {
+      "name": "Central bank policy rates",
+      "source": {
+        "name": "Bank for International Settlements (BIS)",
+        "provider_id": "bis",
+        "dataset": "WS_CBPOL",
+        "url": "https://data.bis.org/topics/CBPOL",
+        "api_url": "https://stats.bis.org/api/v2/data/dataflow/BIS/WS_CBPOL/1.0/D.JP+BR+IN+ID+MX+CN+SA+TR+KR+IL+CL+CO+PE+MY+TH+PL+HU+CZ+CH+NZ+RU+US+XM+GB+CA+AU+SE+NO+DK+ZA?lastNObservations=1&format=csv",
+        "license": {
+          "name": "Free reuse with attribution (BIS terms for statistics)",
+          "url": "https://data.bis.org/help/legal",
+          "verified": true,
+          "verified_on": "2026-11-07",
+          "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
+        }
+      },
+      "comparability": "Each central bank sets its own instrument. For a target range the BIS reports the mid-point of the range.",
+      "same_method": false,
+      "decimals": 2,
+      "unit": "%",
+      "rows": [
+        {
+          "region": "BR",
+          "period": "2026-11-03",
+          "value": 13.75
+        },
+        {
+          "region": "CH",
+          "period": "2026-11-03",
+          "value": 0
+        },
+        {
+          "region": "CL",
+          "period": "2026-11-03",
+          "value": 4.5
+        },
+        {
+          "region": "CN",
+          "period": "2026-11-03",
+          "value": 3
+        },
+        {
+          "region": "CO",
+          "period": "2026-11-03",
+          "value": 12.25
+        },
+        {
+          "region": "CZ",
+          "period": "2026-11-02",
+          "value": 3.75
+        },
+        {
+          "region": "HU",
+          "period": "2026-10-28",
+          "value": 5.5
+        },
+        {
+          "region": "ID",
+          "period": "2026-10-19",
+          "value": 5.75
+        },
+        {
+          "region": "IL",
+          "period": "2026-10-31",
+          "value": 3.25
+        },
+        {
+          "region": "IN",
+          "period": "2026-10-19",
+          "value": 5.5
+        },
+        {
+          "region": "JP",
+          "period": "2026-11-03",
+          "value": 1.25
+        },
+        {
+          "region": "KR",
+          "period": "2026-10-08",
+          "value": 3
+        },
+        {
+          "region": "MX",
+          "period": "2026-11-03",
+          "value": 6.5
+        },
+        {
+          "region": "MY",
+          "period": "2026-11-03",
+          "value": 2.75
+        },
+        {
+          "region": "NZ",
+          "period": "2026-10-30",
+          "value": 2.75
+        },
+        {
+          "region": "PE",
+          "period": "2026-11-03",
+          "value": 4.25
+        },
+        {
+          "region": "PL",
+          "period": "2026-11-03",
+          "value": 3.75
+        },
+        {
+          "region": "RU",
+          "period": "2026-11-03",
+          "value": 14
+        },
+        {
+          "region": "SA",
+          "period": "2026-10-29",
+          "value": 4.5
+        },
+        {
+          "region": "TH",
+          "period": "2026-10-29",
+          "value": 1
+        },
+        {
+          "region": "TR",
+          "period": "2026-11-03",
+          "value": 36
+        }
+      ],
+      "median": {
+        "value": 4.25,
+        "n": 21,
+        "period_rule": "latest value per economy"
+      }
+    },
+    "inflation.cpi_yoy.imf": {
+      "name": "Consumer price inflation, 12-month change",
+      "source": {
+        "name": "International Monetary Fund (CPI dataset)",
+        "provider_id": "imf",
+        "dataset": "IMF.STA:CPI YOY_PCH_PA_PT",
+        "url": "https://data.imf.org/",
+        "api_url": "https://api.imf.org/external/sdmx/2.1/data/IMF.STA,CPI/IND+IDN+MEX+CHN+NGA+EGY+KEN+SAU+TUR+ARG+PAK+BGD+VNM+PHL+JPN+KOR+CHL+COL+PER+ISR+POL+HUN+CZE+MYS+THA+NZL+CHE+RUS.CPI._T.YOY_PCH_PA_PT.M?startPeriod=2024-09",
+        "license": {
+          "name": "Free reuse with attribution (IMF terms for Data)",
+          "url": "https://www.imf.org/en/About/copyright-and-terms",
+          "verified": true,
+          "verified_on": "2026-11-07",
+          "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
+        }
+      },
+      "comparability": "National consumer price indices as reported to the IMF. Each country compiles its own index.",
+      "decimals": 1,
+      "unit": "% y/y",
+      "rows": [
+        {
+          "region": "AR",
+          "period": "2026-08",
+          "value": 33.5422
+        },
+        {
+          "region": "BD",
+          "period": "2026-09",
+          "value": 8.3375
+        },
+        {
+          "region": "CH",
+          "period": "2026-09",
+          "value": 0.9901
+        },
+        {
+          "region": "CL",
+          "period": "2026-09",
+          "value": 4.0773
+        },
+        {
+          "region": "CN",
+          "period": "2026-09",
+          "value": 0.8999
+        },
+        {
+          "region": "CO",
+          "period": "2026-09",
+          "value": 6.2898
+        },
+        {
+          "region": "CZ",
+          "period": "2026-09",
+          "value": 2.5127
+        },
+        {
+          "region": "EG",
+          "period": "2026-08",
+          "value": 14.539
+        },
+        {
+          "region": "HU",
+          "period": "2026-09",
+          "value": 1.5398
+        },
+        {
+          "region": "ID",
+          "period": "2026-09",
+          "value": 3.2831
+        },
+        {
+          "region": "IL",
+          "period": "2026-09",
+          "value": 1.6409
+        },
+        {
+          "region": "IN",
+          "period": "2026-07",
+          "value": 4.4412
+        },
+        {
+          "region": "JP",
+          "period": "2026-09",
+          "value": 2.2321
+        },
+        {
+          "region": "KE",
+          "period": "2026-09",
+          "value": 6.7617
+        },
+        {
+          "region": "KR",
+          "period": "2026-09",
+          "value": 2.8789
+        },
+        {
+          "region": "MX",
+          "period": "2026-09",
+          "value": 3.4547
+        },
+        {
+          "region": "MY",
+          "period": "2026-09",
+          "value": 1.7751
+        },
+        {
+          "region": "NG",
+          "period": "2026-08",
+          "value": 15.3908
+        },
+        {
+          "region": "PE",
+          "period": "2026-08",
+          "value": 4.0636
+        },
+        {
+          "region": "PH",
+          "period": "2026-09",
+          "value": 7.1595
+        },
+        {
+          "region": "PK",
+          "period": "2026-10",
+          "value": 9.607
+        },
+        {
+          "region": "PL",
+          "period": "2026-08",
+          "value": 3.2123
+        },
+        {
+          "region": "RU",
+          "period": "2026-08",
+          "value": 6.3117
+        },
+        {
+          "region": "SA",
+          "period": "2026-09",
+          "value": 1.8709
+        },
+        {
+          "region": "TH",
+          "period": "2026-08",
+          "value": 2.5265
+        },
+        {
+          "region": "TR",
+          "period": "2026-09",
+          "value": 29.7315
+        },
+        {
+          "region": "VN",
+          "period": "2026-09",
+          "value": 5.0797
+        }
+      ],
+      "median": {
+        "value": 4.0636,
+        "n": 27,
+        "period_rule": "latest value per economy"
+      }
+    },
+    "unemployment.annual.wb": {
+      "name": "Unemployment rate, annual (ILO modelled estimate)",
+      "source": {
+        "name": "World Bank",
+        "provider_id": "worldbank",
+        "dataset": "SL.UEM.TOTL.ZS",
+        "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS",
+        "api_url": "https://api.worldbank.org/v2/country/NOR;IND;IDN;ZAF;MEX;CHN;NGA;KEN;TUR;SAU;EGY;KOR;ARG;PAK;BGD;PHL;VNM;CHL;COL;PER;ISR;POL;HUN;CZE;MYS;THA;NZL;CHE;RUS;USA;GBR;SWE;CAN;AUS;DNK;JPN;BRA;DEU;FRA;ITA;ESP;NLD;BEL;AUT;IRL;PRT;FIN;GRC;ROU/indicator/SL.UEM.TOTL.ZS?format=json&date=2015:2026&per_page=2000",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://data.worldbank.org/summary-terms-of-use",
+          "verified": true,
+          "verified_on": "2026-11-07",
+          "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
+        }
+      },
+      "comparability": "International Labour Organization modelled estimates, as published by the World Bank.",
+      "decimals": 1,
+      "unit": "%",
+      "rows": [
+        {
+          "region": "AR",
+          "period": "2025",
+          "value": 7.145
+        },
+        {
+          "region": "BD",
+          "period": "2025",
+          "value": 3.778
+        },
+        {
+          "region": "CH",
+          "period": "2025",
+          "value": 4.873
+        },
+        {
+          "region": "CL",
+          "period": "2025",
+          "value": 8.974
+        },
+        {
+          "region": "CN",
+          "period": "2025",
+          "value": 4.615
+        },
+        {
+          "region": "CO",
+          "period": "2025",
+          "value": 8.29
+        },
+        {
+          "region": "CZ",
+          "period": "2025",
+          "value": 2.825
+        },
+        {
+          "region": "EG",
+          "period": "2025",
+          "value": 6.781
+        },
+        {
+          "region": "HU",
+          "period": "2025",
+          "value": 4.521
+        },
+        {
+          "region": "ID",
+          "period": "2025",
+          "value": 3.237
+        },
+        {
+          "region": "IL",
+          "period": "2025",
+          "value": 3.489
+        },
+        {
+          "region": "IN",
+          "period": "2025",
+          "value": 4.219
+        },
+        {
+          "region": "KE",
+          "period": "2025",
+          "value": 5.449
+        },
+        {
+          "region": "KR",
+          "period": "2025",
+          "value": 2.683
+        },
+        {
+          "region": "MX",
+          "period": "2025",
+          "value": 2.673
+        },
+        {
+          "region": "MY",
+          "period": "2025",
+          "value": 3.764
+        },
+        {
+          "region": "NG",
+          "period": "2025",
+          "value": 3.064
+        },
+        {
+          "region": "NO",
+          "period": "2025",
+          "value": 4.637
+        },
+        {
+          "region": "NZ",
+          "period": "2025",
+          "value": 5.076
+        },
+        {
+          "region": "PE",
+          "period": "2025",
+          "value": 5.117
+        },
+        {
+          "region": "PH",
+          "period": "2025",
+          "value": 2.235
+        },
+        {
+          "region": "PK",
+          "period": "2025",
+          "value": 5.42
+        },
+        {
+          "region": "PL",
+          "period": "2025",
+          "value": 2.976
+        },
+        {
+          "region": "RU",
+          "period": "2025",
+          "value": 2.133
+        },
+        {
+          "region": "SA",
+          "period": "2025",
+          "value": 3.038
+        },
+        {
+          "region": "TH",
+          "period": "2025",
+          "value": 0.781
+        },
+        {
+          "region": "TR",
+          "period": "2025",
+          "value": 8.52
+        },
+        {
+          "region": "VN",
+          "period": "2025",
+          "value": 1.523
+        },
+        {
+          "region": "ZA",
+          "period": "2025",
+          "value": 32.391
+        }
+      ],
+      "median": {
+        "value": 4.219,
+        "n": 29,
+        "period_rule": "latest value per economy"
+      }
+    },
+    "gdp.annual.wb": {
+      "name": "Real GDP growth, annual",
+      "source": {
+        "name": "World Bank",
+        "provider_id": "worldbank",
+        "dataset": "NY.GDP.MKTP.KD.ZG",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG",
+        "api_url": "https://api.worldbank.org/v2/country/USA;CAN;AUS;JPN;NOR;DNK;BRA;IND;IDN;ZAF;MEX;CHN;NGA;KEN;TUR;SAU;EGY;KOR;ARG;PAK;BGD;PHL;VNM;CHL;COL;PER;ISR;POL;HUN;CZE;MYS;THA;NZL;CHE;RUS;DEU;FRA;ITA;ESP;NLD;BEL;AUT;IRL;PRT;FIN;GRC;ROU;WLD;GBR;SWE/indicator/NY.GDP.MKTP.KD.ZG?format=json&date=2015:2026&per_page=2000",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://data.worldbank.org/summary-terms-of-use",
+          "verified": true,
+          "verified_on": "2026-11-07",
+          "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
+        }
+      },
+      "comparability": "Annual change in GDP at constant prices, as published by the World Bank.",
+      "decimals": 1,
+      "unit": "% y/y",
+      "rows": [
+        {
+          "region": "AR",
+          "period": "2025",
+          "value": 4.3673
+        },
+        {
+          "region": "AT",
+          "period": "2025",
+          "value": 0.6157
+        },
+        {
+          "region": "AU",
+          "period": "2025",
+          "value": 1.3504
+        },
+        {
+          "region": "BD",
+          "period": "2025",
+          "value": 3.4899
+        },
+        {
+          "region": "BE",
+          "period": "2025",
+          "value": 0.9831
+        },
+        {
+          "region": "BR",
+          "period": "2025",
+          "value": 2.2857
+        },
+        {
+          "region": "CA",
+          "period": "2025",
+          "value": 1.7427
+        },
+        {
+          "region": "CH",
+          "period": "2025",
+          "value": 1.3001
+        },
+        {
+          "region": "CL",
+          "period": "2025",
+          "value": 2.4593
+        },
+        {
+          "region": "CN",
+          "period": "2025",
+          "value": 4.9599
+        },
+        {
+          "region": "CO",
+          "period": "2025",
+          "value": 2.642
+        },
+        {
+          "region": "CZ",
+          "period": "2025",
+          "value": 2.5805
+        },
+        {
+          "region": "DE",
+          "period": "2025",
+          "value": 0.2396
+        },
+        {
+          "region": "DK",
+          "period": "2025",
+          "value": 2.9284
+        },
+        {
+          "region": "EG",
+          "period": "2025",
+          "value": 4.392
+        },
+        {
+          "region": "ES",
+          "period": "2025",
+          "value": 2.825
+        },
+        {
+          "region": "FI",
+          "period": "2025",
+          "value": 0.1734
+        },
+        {
+          "region": "FR",
+          "period": "2025",
+          "value": 0.8409
+        },
+        {
+          "region": "GR",
+          "period": "2025",
+          "value": 2.0731
+        },
+        {
+          "region": "HU",
+          "period": "2025",
+          "value": 0.5095
+        },
+        {
+          "region": "ID",
+          "period": "2025",
+          "value": 5.1081
+        },
+        {
+          "region": "IE",
+          "period": "2025",
+          "value": 12.3376
+        },
+        {
+          "region": "IL",
+          "period": "2025",
+          "value": 2.9311
+        },
+        {
+          "region": "IN",
+          "period": "2025",
+          "value": 7.5667
+        },
+        {
+          "region": "IT",
+          "period": "2025",
+          "value": 0.5396
+        },
+        {
+          "region": "JP",
+          "period": "2025",
+          "value": 1.1931
+        },
+        {
+          "region": "KE",
+          "period": "2025",
+          "value": 4.6326
+        },
+        {
+          "region": "KR",
+          "period": "2025",
+          "value": 1.007
+        },
+        {
+          "region": "MX",
+          "period": "2025",
+          "value": 0.5617
+        },
+        {
+          "region": "MY",
+          "period": "2025",
+          "value": 5.1713
+        },
+        {
+          "region": "NG",
+          "period": "2025",
+          "value": 4.0134
+        },
+        {
+          "region": "NL",
+          "period": "2025",
+          "value": 1.7846
+        },
+        {
+          "region": "NO",
+          "period": "2025",
+          "value": 1.0853
+        },
+        {
+          "region": "NZ",
+          "period": "2025",
+          "value": 0.4629
+        },
+        {
+          "region": "PE",
+          "period": "2025",
+          "value": 3.4306
+        },
+        {
+          "region": "PH",
+          "period": "2025",
+          "value": 4.4024
+        },
+        {
+          "region": "PK",
+          "period": "2025",
+          "value": 3.6984
+        },
+        {
+          "region": "PL",
+          "period": "2025",
+          "value": 3.5727
+        },
+        {
+          "region": "PT",
+          "period": "2025",
+          "value": 1.8645
+        },
+        {
+          "region": "RO",
+          "period": "2025",
+          "value": 0.6778
+        },
+        {
+          "region": "RU",
+          "period": "2025",
+          "value": 1.0012
+        },
+        {
+          "region": "SA",
+          "period": "2025",
+          "value": 4.5025
+        },
+        {
+          "region": "TH",
+          "period": "2025",
+          "value": 2.4425
+        },
+        {
+          "region": "TR",
+          "period": "2025",
+          "value": 3.6046
+        },
+        {
+          "region": "US",
+          "period": "2025",
+          "value": 2.1614
+        },
+        {
+          "region": "VN",
+          "period": "2025",
+          "value": 8.0188
+        },
+        {
+          "region": "ZA",
+          "period": "2025",
+          "value": 1.1146
+        }
+      ],
+      "median": {
+        "value": 2.4425,
+        "n": 47,
+        "period_rule": "latest value per economy"
+      }
+    }
+  },
+  "groups": {
+    "AR": {
+      "m49_subregion": "Latin America and the Caribbean",
+      "m49_region": "Americas",
+      "basis": "subregion",
+      "peers": [
+        "BR",
+        "CL",
+        "CO",
+        "MX",
+        "PE"
+      ]
+    },
+    "AT": {
+      "m49_subregion": "Western Europe",
+      "m49_region": "Europe",
+      "basis": "subregion",
+      "peers": [
+        "BE",
+        "CH",
+        "DE",
+        "FR",
+        "NL"
+      ]
+    },
+    "AU": {
+      "m49_subregion": "Australia and New Zealand",
+      "m49_region": "Oceania",
+      "basis": "subregion",
+      "peers": [
+        "NZ"
+      ]
+    },
+    "BD": {
+      "m49_subregion": "Southern Asia",
+      "m49_region": "Asia",
+      "basis": "subregion",
+      "peers": [
+        "IN",
+        "PK"
+      ]
+    },
+    "BE": {
+      "m49_subregion": "Western Europe",
+      "m49_region": "Europe",
+      "basis": "subregion",
+      "peers": [
+        "AT",
+        "CH",
+        "DE",
+        "FR",
+        "NL"
+      ]
+    },
+    "BR": {
+      "m49_subregion": "Latin America and the Caribbean",
+      "m49_region": "Americas",
+      "basis": "subregion",
+      "peers": [
+        "AR",
+        "CL",
+        "CO",
+        "MX",
+        "PE"
+      ]
+    },
+    "CA": {
+      "m49_subregion": "Northern America",
+      "m49_region": "Americas",
+      "basis": "subregion",
+      "peers": [
+        "US"
+      ]
+    },
+    "CH": {
+      "m49_subregion": "Western Europe",
+      "m49_region": "Europe",
+      "basis": "subregion",
+      "peers": [
+        "AT",
+        "BE",
+        "DE",
+        "FR",
+        "NL"
+      ]
+    },
+    "CL": {
+      "m49_subregion": "Latin America and the Caribbean",
+      "m49_region": "Americas",
+      "basis": "subregion",
+      "peers": [
+        "AR",
+        "BR",
+        "CO",
+        "MX",
+        "PE"
+      ]
+    },
+    "CN": {
+      "m49_subregion": "Eastern Asia",
+      "m49_region": "Asia",
+      "basis": "subregion",
+      "peers": [
+        "JP",
+        "KR"
+      ]
+    },
+    "CO": {
+      "m49_subregion": "Latin America and the Caribbean",
+      "m49_region": "Americas",
+      "basis": "subregion",
+      "peers": [
+        "AR",
+        "BR",
+        "CL",
+        "MX",
+        "PE"
+      ]
+    },
+    "CZ": {
+      "m49_subregion": "Eastern Europe",
+      "m49_region": "Europe",
+      "basis": "subregion",
+      "peers": [
+        "HU",
+        "PL",
+        "RO",
+        "RU"
+      ]
+    },
+    "DE": {
+      "m49_subregion": "Western Europe",
+      "m49_region": "Europe",
+      "basis": "subregion",
+      "peers": [
+        "AT",
+        "BE",
+        "CH",
+        "FR",
+        "NL"
+      ]
+    },
+    "DK": {
+      "m49_subregion": "Northern Europe",
+      "m49_region": "Europe",
+      "basis": "subregion",
+      "peers": [
+        "FI",
+        "IE",
+        "NO"
+      ]
+    },
+    "EG": {
+      "m49_subregion": "Northern Africa",
+      "m49_region": "Africa",
+      "basis": "region",
+      "peers": [
+        "KE",
+        "NG",
+        "ZA"
+      ]
+    },
+    "ES": {
+      "m49_subregion": "Southern Europe",
+      "m49_region": "Europe",
+      "basis": "subregion",
+      "peers": [
+        "GR",
+        "IT",
+        "PT"
+      ]
+    },
+    "FI": {
+      "m49_subregion": "Northern Europe",
+      "m49_region": "Europe",
+      "basis": "subregion",
+      "peers": [
+        "DK",
+        "IE",
+        "NO"
+      ]
+    },
+    "FR": {
+      "m49_subregion": "Western Europe",
+      "m49_region": "Europe",
+      "basis": "subregion",
+      "peers": [
+        "AT",
+        "BE",
+        "CH",
+        "DE",
+        "NL"
+      ]
+    },
+    "GR": {
+      "m49_subregion": "Southern Europe",
+      "m49_region": "Europe",
+      "basis": "subregion",
+      "peers": [
+        "ES",
+        "IT",
+        "PT"
+      ]
+    },
+    "HU": {
+      "m49_subregion": "Eastern Europe",
+      "m49_region": "Europe",
+      "basis": "subregion",
+      "peers": [
+        "CZ",
+        "PL",
+        "RO",
+        "RU"
+      ]
+    },
+    "ID": {
+      "m49_subregion": "South-eastern Asia",
+      "m49_region": "Asia",
+      "basis": "subregion",
+      "peers": [
+        "MY",
+        "PH",
+        "TH",
+        "VN"
+      ]
+    },
+    "IE": {
+      "m49_subregion": "Northern Europe",
+      "m49_region": "Europe",
+      "basis": "subregion",
+      "peers": [
+        "DK",
+        "FI",
+        "NO"
+      ]
+    },
+    "IL": {
+      "m49_subregion": "Western Asia",
+      "m49_region": "Asia",
+      "basis": "subregion",
+      "peers": [
+        "SA",
+        "TR"
+      ]
+    },
+    "IN": {
+      "m49_subregion": "Southern Asia",
+      "m49_region": "Asia",
+      "basis": "subregion",
+      "peers": [
+        "BD",
+        "PK"
+      ]
+    },
+    "IT": {
+      "m49_subregion": "Southern Europe",
+      "m49_region": "Europe",
+      "basis": "subregion",
+      "peers": [
+        "ES",
+        "GR",
+        "PT"
+      ]
+    },
+    "JP": {
+      "m49_subregion": "Eastern Asia",
+      "m49_region": "Asia",
+      "basis": "subregion",
+      "peers": [
+        "CN",
+        "KR"
+      ]
+    },
+    "KE": {
+      "m49_subregion": "Sub-Saharan Africa",
+      "m49_region": "Africa",
+      "basis": "subregion",
+      "peers": [
+        "NG",
+        "ZA"
+      ]
+    },
+    "KR": {
+      "m49_subregion": "Eastern Asia",
+      "m49_region": "Asia",
+      "basis": "subregion",
+      "peers": [
+        "CN",
+        "JP"
+      ]
+    },
+    "MX": {
+      "m49_subregion": "Latin America and the Caribbean",
+      "m49_region": "Americas",
+      "basis": "subregion",
+      "peers": [
+        "AR",
+        "BR",
+        "CL",
+        "CO",
+        "PE"
+      ]
+    },
+    "MY": {
+      "m49_subregion": "South-eastern Asia",
+      "m49_region": "Asia",
+      "basis": "subregion",
+      "peers": [
+        "ID",
+        "PH",
+        "TH",
+        "VN"
+      ]
+    },
+    "NG": {
+      "m49_subregion": "Sub-Saharan Africa",
+      "m49_region": "Africa",
+      "basis": "subregion",
+      "peers": [
+        "KE",
+        "ZA"
+      ]
+    },
+    "NL": {
+      "m49_subregion": "Western Europe",
+      "m49_region": "Europe",
+      "basis": "subregion",
+      "peers": [
+        "AT",
+        "BE",
+        "CH",
+        "DE",
+        "FR"
+      ]
+    },
+    "NO": {
+      "m49_subregion": "Northern Europe",
+      "m49_region": "Europe",
+      "basis": "subregion",
+      "peers": [
+        "DK",
+        "FI",
+        "IE"
+      ]
+    },
+    "NZ": {
+      "m49_subregion": "Australia and New Zealand",
+      "m49_region": "Oceania",
+      "basis": "subregion",
+      "peers": [
+        "AU"
+      ]
+    },
+    "PE": {
+      "m49_subregion": "Latin America and the Caribbean",
+      "m49_region": "Americas",
+      "basis": "subregion",
+      "peers": [
+        "AR",
+        "BR",
+        "CL",
+        "CO",
+        "MX"
+      ]
+    },
+    "PH": {
+      "m49_subregion": "South-eastern Asia",
+      "m49_region": "Asia",
+      "basis": "subregion",
+      "peers": [
+        "ID",
+        "MY",
+        "TH",
+        "VN"
+      ]
+    },
+    "PK": {
+      "m49_subregion": "Southern Asia",
+      "m49_region": "Asia",
+      "basis": "subregion",
+      "peers": [
+        "BD",
+        "IN"
+      ]
+    },
+    "PL": {
+      "m49_subregion": "Eastern Europe",
+      "m49_region": "Europe",
+      "basis": "subregion",
+      "peers": [
+        "CZ",
+        "HU",
+        "RO",
+        "RU"
+      ]
+    },
+    "PT": {
+      "m49_subregion": "Southern Europe",
+      "m49_region": "Europe",
+      "basis": "subregion",
+      "peers": [
+        "ES",
+        "GR",
+        "IT"
+      ]
+    },
+    "RO": {
+      "m49_subregion": "Eastern Europe",
+      "m49_region": "Europe",
+      "basis": "subregion",
+      "peers": [
+        "CZ",
+        "HU",
+        "PL",
+        "RU"
+      ]
+    },
+    "RU": {
+      "m49_subregion": "Eastern Europe",
+      "m49_region": "Europe",
+      "basis": "subregion",
+      "peers": [
+        "CZ",
+        "HU",
+        "PL",
+        "RO"
+      ]
+    },
+    "SA": {
+      "m49_subregion": "Western Asia",
+      "m49_region": "Asia",
+      "basis": "subregion",
+      "peers": [
+        "IL",
+        "TR"
+      ]
+    },
+    "TH": {
+      "m49_subregion": "South-eastern Asia",
+      "m49_region": "Asia",
+      "basis": "subregion",
+      "peers": [
+        "ID",
+        "MY",
+        "PH",
+        "VN"
+      ]
+    },
+    "TR": {
+      "m49_subregion": "Western Asia",
+      "m49_region": "Asia",
+      "basis": "subregion",
+      "peers": [
+        "IL",
+        "SA"
+      ]
+    },
+    "US": {
+      "m49_subregion": "Northern America",
+      "m49_region": "Americas",
+      "basis": "subregion",
+      "peers": [
+        "CA"
+      ]
+    },
+    "VN": {
+      "m49_subregion": "South-eastern Asia",
+      "m49_region": "Asia",
+      "basis": "subregion",
+      "peers": [
+        "ID",
+        "MY",
+        "PH",
+        "TH"
+      ]
+    },
+    "ZA": {
+      "m49_subregion": "Sub-Saharan Africa",
+      "m49_region": "Africa",
+      "basis": "subregion",
+      "peers": [
+        "KE",
+        "NG"
+      ]
+    }
+  }
+}

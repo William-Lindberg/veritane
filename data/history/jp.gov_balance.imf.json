@@ -1,0 +1,64 @@
+{
+  "schema": "veritane/history/1",
+  "id": "jp.gov_balance.imf",
+  "unit": "% of GDP",
+  "frequency": "A",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "WEO GGXCNL_NGDP JPN|www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP",
+  "source": {
+    "name": "IMF, World Economic Outlook",
+    "provider_id": "imf",
+    "dataset": "WEO GGXCNL_NGDP JPN",
+    "url": "https://www.imf.org/en/Publications/WEO",
+    "api_url": "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2015",
+      -3.6
+    ],
+    [
+      "2016",
+      -3.6
+    ],
+    [
+      "2017",
+      -3
+    ],
+    [
+      "2018",
+      -2.4
+    ],
+    [
+      "2019",
+      -3
+    ],
+    [
+      "2020",
+      -9
+    ],
+    [
+      "2021",
+      -6.3
+    ],
+    [
+      "2022",
+      -4.2
+    ],
+    [
+      "2023",
+      -2.4
+    ],
+    [
+      "2024",
+      -1.7
+    ],
+    [
+      "2025",
+      -0.7
+    ]
+  ],
+  "accumulated_since": null
+}

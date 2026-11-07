@@ -1,0 +1,56 @@
+{
+  "schema": "veritane/history/1",
+  "id": "at.inequality.gini_wb",
+  "unit": "index (0–100)",
+  "frequency": "A",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "SI.POV.GINI AUT|api.worldbank.org/v2/country/EMU;USA;GBR;SWE;CAN;AUS;JPN;NOR;DNK;BRA;IND;IDN;ZAF;MEX;CHN;NGA;KEN;TUR;SAU;EGY;KOR;ARG;PAK;BGD;PHL;VNM;CHL;COL;PER;ISR;POL;HUN;CZE;MYS;THA;NZL;CHE;RUS;DEU;FRA;ITA;ESP;NLD;BEL;AUT;IRL;PRT;FIN;GRC;ROU/indicator/SI.POV.GINI",
+  "source": {
+    "name": "World Bank, World Development Indicators",
+    "provider_id": "worldbank",
+    "dataset": "SI.POV.GINI",
+    "url": "https://data.worldbank.org/indicator/SI.POV.GINI",
+    "api_url": "https://api.worldbank.org/v2/country/EMU;USA;GBR;SWE;CAN;AUS;JPN;NOR;DNK;BRA;IND;IDN;ZAF;MEX;CHN;NGA;KEN;TUR;SAU;EGY;KOR;ARG;PAK;BGD;PHL;VNM;CHL;COL;PER;ISR;POL;HUN;CZE;MYS;THA;NZL;CHE;RUS;DEU;FRA;ITA;ESP;NLD;BEL;AUT;IRL;PRT;FIN;GRC;ROU/indicator/SI.POV.GINI?format=json&date=2015:2026&per_page=2000",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2015",
+      30.5
+    ],
+    [
+      "2016",
+      30.8
+    ],
+    [
+      "2017",
+      29.7
+    ],
+    [
+      "2018",
+      30.8
+    ],
+    [
+      "2019",
+      30.2
+    ],
+    [
+      "2020",
+      29.8
+    ],
+    [
+      "2021",
+      30.7
+    ],
+    [
+      "2022",
+      30.9
+    ],
+    [
+      "2023",
+      31.2
+    ]
+  ],
+  "accumulated_since": null
+}

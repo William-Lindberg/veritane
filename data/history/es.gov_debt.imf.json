@@ -1,0 +1,64 @@
+{
+  "schema": "veritane/history/1",
+  "id": "es.gov_debt.imf",
+  "unit": "% of GDP",
+  "frequency": "A",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "WEO GGXWDG_NGDP ESP|www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP",
+  "source": {
+    "name": "IMF, World Economic Outlook",
+    "provider_id": "imf",
+    "dataset": "WEO GGXWDG_NGDP ESP",
+    "url": "https://www.imf.org/en/Publications/WEO",
+    "api_url": "https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2015",
+      102.4
+    ],
+    [
+      "2016",
+      102
+    ],
+    [
+      "2017",
+      101.1
+    ],
+    [
+      "2018",
+      99.7
+    ],
+    [
+      "2019",
+      97.6
+    ],
+    [
+      "2020",
+      119.2
+    ],
+    [
+      "2021",
+      115.6
+    ],
+    [
+      "2022",
+      109.2
+    ],
+    [
+      "2023",
+      105.2
+    ],
+    [
+      "2024",
+      101.4
+    ],
+    [
+      "2025",
+      100.5
+    ]
+  ],
+  "accumulated_since": null
+}

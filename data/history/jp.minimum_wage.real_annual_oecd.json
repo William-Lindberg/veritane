@@ -1,0 +1,60 @@
+{
+  "schema": "veritane/history/1",
+  "id": "jp.minimum_wage.real_annual_oecd",
+  "unit": "USD per year",
+  "frequency": "A",
+  "decimals": 0,
+  "storage": "observations",
+  "fingerprint": "DSD_EARNINGS@RMW JPN.SM_WG.USD_PPP.A.Q|sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_EARNINGS@RMW,/.SM_WG.USD_PPP.A.Q..",
+  "source": {
+    "name": "OECD, Real minimum wages",
+    "provider_id": "oecd",
+    "dataset": "RMW JPN USD_PPP",
+    "url": "https://data-explorer.oecd.org/",
+    "api_url": "https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_EARNINGS@RMW,/.SM_WG.USD_PPP.A.Q..?startPeriod=2016&format=csvfile",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2016",
+      18469.6446
+    ],
+    [
+      "2017",
+      18952.0098
+    ],
+    [
+      "2018",
+      19337.8177
+    ],
+    [
+      "2019",
+      19838.87
+    ],
+    [
+      "2020",
+      20300.0645
+    ],
+    [
+      "2021",
+      20528.2226
+    ],
+    [
+      "2022",
+      20661.4298
+    ],
+    [
+      "2023",
+      20722.2929
+    ],
+    [
+      "2024",
+      21083.6833
+    ],
+    [
+      "2025",
+      21567.5804
+    ]
+  ],
+  "accumulated_since": null
+}

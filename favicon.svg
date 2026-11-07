@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <style>.lens{stroke:#1A1F24}.line{stroke:#0B7A75}.dot{fill:#0B7A75}@media (prefers-color-scheme: dark){.lens{stroke:#E6E9EC}.line{stroke:#5EEAD4}.dot{fill:#5EEAD4}}</style>
+  <circle class="lens" cx="32" cy="32" r="26" fill="none" stroke-width="5"/>
+  <path class="line" d="M12 36 C15 30 17 44 20 38 C23 32 25 42 28 36 C30 33 31 34 32 34 L50 34" fill="none" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle class="dot" cx="50" cy="34" r="4.5"/>
+</svg>

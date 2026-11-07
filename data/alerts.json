@@ -1,0 +1,823 @@
+{
+  "schema": "veritane/alerts/1",
+  "generated_at": "2026-11-07T02:31:14Z",
+  "template_version": "alert-templates/1",
+  "counts": {
+    "items": 39,
+    "ui_visible": 25,
+    "other_languages": 14
+  },
+  "items": [
+    {
+      "id": "8d70cf8984576b84",
+      "source_id": "europol_news",
+      "source_name": "Europol",
+      "jurisdiction": "EU",
+      "category": "scam_warning",
+      "title": "Investment scams with potential victims in at least 50 countries: over 100 servers seized",
+      "link": "https://www.europol.europa.eu/media-press/newsroom/news/investment-scams-potential-victims-in-least-50-countries-over-100-servers-seized",
+      "published_at": "2026-11-06T22:31:21Z",
+      "date_source": "first_seen",
+      "summary": "Europol published “Investment scams with potential victims in at least 50 countries: over 100 servers seized”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z",
+      "protect_slug": "scams/investment-scams-guaranteed-returns"
+    },
+    {
+      "id": "6ebd9ce08ca06d79",
+      "source_id": "rbi_press",
+      "source_name": "Reserve Bank of India",
+      "jurisdiction": "IN",
+      "category": "enforcement_action",
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Sri Guru Raghavendra Sahakara Bank Niyamitha, Bengaluru - Extension of Period",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63938",
+      "published_at": "2026-11-06T15:20:00.000Z",
+      "date_source": "feed",
+      "summary": "On 6 November 2026 the Reserve Bank of India published “Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Sri Guru Raghavendra Sahakara Bank Niyamitha, Bengaluru - Extension of Period”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "b439b0566d8561ff",
+      "source_id": "kov_press",
+      "source_name": "Konsumentverket (Swedish Consumer Agency)",
+      "jurisdiction": "SE",
+      "category": "scam_warning",
+      "title": "Konsumentverket: Grillborstar med stålborst är farliga",
+      "link": "https://www.konsumentverket.se/pressmeddelande/konsumentverket-grillborstar-med-stalborst-ar-farliga/",
+      "published_at": "2026-11-05T08:08:55.000Z",
+      "date_source": "feed",
+      "summary": "On 5 November 2026 Konsumentverket published “Konsumentverket: Grillborstar med stålborst är farliga”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "4bbd9e028b4b71bc",
+      "source_id": "ncsc_news",
+      "source_name": "National Cyber Security Centre",
+      "jurisdiction": "GB",
+      "category": "cyber_advisory",
+      "title": "Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years",
+      "link": "https://www.ncsc.gov.uk/news/cyber-chief-uk-facing-ai-powered-attacks-on-critical-infrastructure-in-two-years",
+      "published_at": "2026-11-03T12:00:00.000Z",
+      "summary": "On 3 November 2026 the National Cyber Security Centre published “Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "b249020345361bbf",
+      "source_id": "kov_nyheter",
+      "source_name": "Konsumentverket (Swedish Consumer Agency)",
+      "jurisdiction": "SE",
+      "category": "consumer_guidance",
+      "title": "Striktare regler för låneföretag",
+      "link": "https://www.konsumentverket.se/nyhet/striktare-regler-for-laneforetag/",
+      "published_at": "2026-11-02T10:20:41.000Z",
+      "date_source": "feed",
+      "summary": "On 2 November 2026 Konsumentverket published “Striktare regler för låneföretag”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "27c413a6ae5a0fbd",
+      "source_id": "sec_press",
+      "source_name": "U.S. Securities and Exchange Commission",
+      "jurisdiction": "US",
+      "category": "enforcement_action",
+      "title": "Two Entities Charged in $130 Million Fraud Scheme That Used False SEC Filings to Boost Investor Confidence",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence",
+      "published_at": "2026-10-29T16:42:37.000Z",
+      "date_source": "feed",
+      "summary": "On 29 October 2026 the U.S. Securities and Exchange Commission published “Two Entities Charged in $130 Million Fraud Scheme That Used False SEC Filings to Boost Investor Confidence”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "8380afb0be053077",
+      "source_id": "ic3_psa",
+      "source_name": "FBI Internet Crime Complaint Center",
+      "jurisdiction": "US",
+      "category": "scam_warning",
+      "title": "Suspicious Letters Containing White Powder Mailed to State and Local Election Officials, Media Organizations, and Public and Private Polling Companies",
+      "link": "https://www.ic3.gov/PSA/2026/PSA261023-2",
+      "published_at": "2026-10-23T18:00:00.000Z",
+      "date_source": "feed",
+      "summary": "On 23 October 2026 the FBI Internet Crime Complaint Center published a public service announcement: “Suspicious Letters Containing White Powder Mailed to State and Local Election Officials, Media Organizations, and Public and Private Polling Companies”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "1a884031b0b28611",
+      "source_id": "ic3_psa",
+      "source_name": "FBI Internet Crime Complaint Center",
+      "jurisdiction": "US",
+      "category": "scam_warning",
+      "title": "Critical Vulnerability Alert: PHP Core",
+      "link": "https://www.ic3.gov/PSA/2026/PSA261023",
+      "published_at": "2026-10-23T17:30:00.000Z",
+      "date_source": "feed",
+      "summary": "On 23 October 2026 the FBI Internet Crime Complaint Center published a public service announcement: “Critical Vulnerability Alert: PHP Core”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "77326bfbe2eb2377",
+      "source_id": "kov_nyheter",
+      "source_name": "Konsumentverket (Swedish Consumer Agency)",
+      "jurisdiction": "SE",
+      "category": "consumer_guidance",
+      "title": "Coca-Cola, Nestlé och Danone lovar sluta med vilseledande miljöpåståenden på plastflaskor",
+      "link": "https://www.konsumentverket.se/nyhet/cocacola-nestl-och-danone-lovar-sluta-med-vilseledande-miljopastaenden-pa-plastflaskor/",
+      "published_at": "2026-10-23T13:07:03.000Z",
+      "date_source": "feed",
+      "summary": "On 23 October 2026 Konsumentverket published “Coca-Cola, Nestlé och Danone lovar sluta med vilseledande miljöpåståenden på plastflaskor”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "223ec18e7b9daeb7",
+      "source_id": "ncsc_news",
+      "source_name": "National Cyber Security Centre",
+      "jurisdiction": "GB",
+      "category": "cyber_advisory",
+      "title": "Critical security issue affecting PHP",
+      "link": "https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php",
+      "published_at": "2026-10-21T12:00:00.000Z",
+      "summary": "On 21 October 2026 the National Cyber Security Centre published “Critical security issue affecting PHP”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "2d1a0ce835704791",
+      "source_id": "ic3_psa",
+      "source_name": "FBI Internet Crime Complaint Center",
+      "jurisdiction": "US",
+      "category": "scam_warning",
+      "title": "Cyber Threat Actors Use a Variety of Techniques to Target Election and Campaign Officials",
+      "link": "https://www.ic3.gov/PSA/2026/PSA261016",
+      "published_at": "2026-10-16T14:00:00.000Z",
+      "date_source": "feed",
+      "summary": "On 16 October 2026 the FBI Internet Crime Complaint Center published a public service announcement: “Cyber Threat Actors Use a Variety of Techniques to Target Election and Campaign Officials”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "535e1ccd38d933c8",
+      "source_id": "ic3_psa",
+      "source_name": "FBI Internet Crime Complaint Center",
+      "jurisdiction": "US",
+      "category": "scam_warning",
+      "title": "FBI Warns Voters on Election Crimes Ahead of the November 2026 Midterm Election",
+      "link": "https://www.ic3.gov/PSA/2026/PSA261015-2",
+      "published_at": "2026-10-15T13:00:00.000Z",
+      "date_source": "feed",
+      "summary": "On 15 October 2026 the FBI Internet Crime Complaint Center published a public service announcement: “FBI Warns Voters on Election Crimes Ahead of the November 2026 Midterm Election”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "f4ef6a67e4b719fc",
+      "source_id": "ic3_psa",
+      "source_name": "FBI Internet Crime Complaint Center",
+      "jurisdiction": "US",
+      "category": "scam_warning",
+      "title": "Scammers Exploit 2026 U.S. Midterm Election to Perpetrate Multiple Fraud Schemes",
+      "link": "https://www.ic3.gov/PSA/2026/PSA261015-3",
+      "published_at": "2026-10-15T13:00:00.000Z",
+      "date_source": "feed",
+      "summary": "On 15 October 2026 the FBI Internet Crime Complaint Center published a public service announcement: “Scammers Exploit 2026 U.S. Midterm Election to Perpetrate Multiple Fraud Schemes”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "6feee445a3ea0b60",
+      "source_id": "kov_nyheter",
+      "source_name": "Konsumentverket (Swedish Consumer Agency)",
+      "jurisdiction": "SE",
+      "category": "consumer_guidance",
+      "title": "Föreläggande mot Allente för vilseledande telefonförsäljning",
+      "link": "https://www.konsumentverket.se/nyhet/forelaggande-mot-allente-for-vilseledande-telefonforsaljning/",
+      "published_at": "2026-10-14T08:20:18.000Z",
+      "date_source": "feed",
+      "summary": "On 14 October 2026 Konsumentverket published “Föreläggande mot Allente för vilseledande telefonförsäljning”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "4641982bd187b101",
+      "source_id": "kov_forelagganden",
+      "source_name": "Konsumentverket (Swedish Consumer Agency)",
+      "jurisdiction": "SE",
+      "category": "enforcement_action",
+      "title": "Föreläggande mot Allente Sverige AB",
+      "link": "https://www.konsumentverket.se/forelaggande/forelaggande-mot-allente-sverige-ab/",
+      "published_at": "2026-10-14T08:11:12.000Z",
+      "date_source": "feed",
+      "summary": "On 14 October 2026 Konsumentverket published “Föreläggande mot Allente Sverige AB”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "c30da01d0ffbfc4f",
+      "source_id": "cfpb_newsroom",
+      "source_name": "Consumer Financial Protection Bureau",
+      "jurisdiction": "US",
+      "category": "consumer_guidance",
+      "title": "CFPB Announces New Initiative to Address OCC-Uncovered Debanking by Large Banks",
+      "link": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-announces-new-initiative-to-address-occ-uncovered-debanking-by-large-banks/",
+      "published_at": "2026-10-14T04:00:00.000Z",
+      "summary": "On 14 October 2026 the Consumer Financial Protection Bureau published “CFPB Announces New Initiative to Address OCC-Uncovered Debanking by Large Banks”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "034e8664501e6d3e",
+      "source_id": "ncsc_news",
+      "source_name": "National Cyber Security Centre",
+      "jurisdiction": "GB",
+      "category": "cyber_advisory",
+      "title": "China-linked malicious actors called out by UK and international partners for targeting sensitive data globally",
+      "link": "https://www.ncsc.gov.uk/news/china-linked-actors-called-out-by-uk-and-international-partners-for-targeting-sensitive-data",
+      "published_at": "2026-10-08T12:00:00.000Z",
+      "summary": "On 8 October 2026 the National Cyber Security Centre published “China-linked malicious actors called out by UK and international partners for targeting sensitive data globally”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "52f06d83254fe9a1",
+      "source_id": "ncsc_news",
+      "source_name": "National Cyber Security Centre",
+      "jurisdiction": "GB",
+      "category": "cyber_advisory",
+      "title": "Incident affecting ASOS customers",
+      "link": "https://www.ncsc.gov.uk/news/incident-affecting-asos-customers",
+      "published_at": "2026-10-06T12:00:00.000Z",
+      "summary": "On 6 October 2026 the National Cyber Security Centre published “Incident affecting ASOS customers”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "59861d1e36b10a36",
+      "source_id": "sec_press",
+      "source_name": "U.S. Securities and Exchange Commission",
+      "jurisdiction": "US",
+      "category": "enforcement_action",
+      "title": "SEC Coordinates with Global Financial Regulators to Raise Fraud Awareness During World Investor Week",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-101-sec-coordinates-global-financial-regulators-raise-fraud-awareness-during-world-investor-week",
+      "published_at": "2026-10-05T12:47:36.000Z",
+      "date_source": "feed",
+      "summary": "On 5 October 2026 the U.S. Securities and Exchange Commission published “SEC Coordinates with Global Financial Regulators to Raise Fraud Awareness During World Investor Week”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "23b91c2a37fbd961",
+      "source_id": "kov_forelagganden",
+      "source_name": "Konsumentverket (Swedish Consumer Agency)",
+      "jurisdiction": "SE",
+      "category": "enforcement_action",
+      "title": "Föreläggande mot Leancom AB",
+      "link": "https://www.konsumentverket.se/forelaggande/forelaggande-mot-leancom-ab/",
+      "published_at": "2026-10-05T11:36:11.000Z",
+      "date_source": "feed",
+      "summary": "On 5 October 2026 Konsumentverket published “Föreläggande mot Leancom AB”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "7589834e1ea437bc",
+      "source_id": "kov_nyheter",
+      "source_name": "Konsumentverket (Swedish Consumer Agency)",
+      "jurisdiction": "SE",
+      "category": "consumer_guidance",
+      "title": "Nya föreskrifter tydliggör företagens ansvar för konsumentkrediter",
+      "link": "https://www.konsumentverket.se/nyhet/nya-foreskrifter-tydliggor-foretagens-ansvar-for-konsumentkrediter/",
+      "published_at": "2026-10-05T07:42:03.000Z",
+      "date_source": "feed",
+      "summary": "On 5 October 2026 Konsumentverket published “Nya föreskrifter tydliggör företagens ansvar för konsumentkrediter”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "3b0321b15e103535",
+      "source_id": "cfpb_newsroom",
+      "source_name": "Consumer Financial Protection Bureau",
+      "jurisdiction": "US",
+      "category": "consumer_guidance",
+      "title": "CFPB Proud to Support the National Strategy for Financial Literacy",
+      "link": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-proud-to-support-the-national-strategy-for-financial-literacy/",
+      "published_at": "2026-10-02T04:00:00.000Z",
+      "summary": "On 2 October 2026 the Consumer Financial Protection Bureau published “CFPB Proud to Support the National Strategy for Financial Literacy”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "92a763846c4acd63",
+      "source_id": "sec_press",
+      "source_name": "U.S. Securities and Exchange Commission",
+      "jurisdiction": "US",
+      "category": "enforcement_action",
+      "title": "SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-98-sec-charges-meyer-global-management-its-ceo-defrauding-retail-investors-private-funds-held-interests",
+      "published_at": "2026-09-30T18:30:01.000Z",
+      "date_source": "feed",
+      "summary": "On 30 September 2026 the U.S. Securities and Exchange Commission published “SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "b75d678970b73dbc",
+      "source_id": "sec_press",
+      "source_name": "U.S. Securities and Exchange Commission",
+      "jurisdiction": "US",
+      "category": "enforcement_action",
+      "title": "SEC Charges Two Individuals With Orchestrating Fraud Scheme That Targeted Veterans",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-97-sec-charges-two-individuals-orchestrating-fraud-scheme-targeted-veterans",
+      "published_at": "2026-09-30T16:42:15.000Z",
+      "date_source": "feed",
+      "summary": "On 30 September 2026 the U.S. Securities and Exchange Commission published “SEC Charges Two Individuals With Orchestrating Fraud Scheme That Targeted Veterans”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "61a2c8a3b88a0522",
+      "source_id": "kov_press",
+      "source_name": "Konsumentverket (Swedish Consumer Agency)",
+      "jurisdiction": "SE",
+      "category": "scam_warning",
+      "title": "Myndigheter tar krafttag för att skydda konsumenter från otillbörliga affärsmetoder i onlinespel",
+      "link": "https://www.konsumentverket.se/pressmeddelande/myndigheter-tar-krafttag-for-att-skydda-konsumenter-fran-otillborliga-affarsmetoder-i-onlinespel/",
+      "published_at": "2026-09-30T10:03:57.000Z",
+      "date_source": "feed",
+      "summary": "On 30 September 2026 Konsumentverket published “Myndigheter tar krafttag för att skydda konsumenter från otillbörliga affärsmetoder i onlinespel”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "f623a730add0936a",
+      "source_id": "sec_press",
+      "source_name": "U.S. Securities and Exchange Commission",
+      "jurisdiction": "US",
+      "category": "enforcement_action",
+      "title": "SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms",
+      "published_at": "2026-09-29T13:55:53.000Z",
+      "date_source": "feed",
+      "summary": "On 29 September 2026 the U.S. Securities and Exchange Commission published “SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "5d409261f52efe0b",
+      "source_id": "sec_press",
+      "source_name": "U.S. Securities and Exchange Commission",
+      "jurisdiction": "US",
+      "category": "enforcement_action",
+      "title": "SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-94-sec-charges-registered-investment-adviser-zoe-financial-failure-disclose-conflict-interest",
+      "published_at": "2026-09-28T17:46:30.000Z",
+      "date_source": "feed",
+      "summary": "On 28 September 2026 the U.S. Securities and Exchange Commission published “SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z",
+      "protect_slug": "scams/investment-scams-guaranteed-returns"
+    },
+    {
+      "id": "8d37bb8b74c7991b",
+      "source_id": "ncsc_news",
+      "source_name": "National Cyber Security Centre",
+      "jurisdiction": "GB",
+      "category": "cyber_advisory",
+      "title": "Exploitation of vulnerabilities affecting Citrix NetScaler ADC and Citrix NetScaler Gateway",
+      "link": "https://www.ncsc.gov.uk/news/exploitation-of-vulnerabilities-affecting-citrix-netscaler-adc-and-citrix-netscaler-gateway",
+      "published_at": "2026-09-28T12:00:00.000Z",
+      "summary": "On 28 September 2026 the National Cyber Security Centre published “Exploitation of vulnerabilities affecting Citrix NetScaler ADC and Citrix NetScaler Gateway”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "40bb6b568f21a579",
+      "source_id": "sec_press",
+      "source_name": "U.S. Securities and Exchange Commission",
+      "jurisdiction": "US",
+      "category": "enforcement_action",
+      "title": "SEC Charges South Florida Resident and His Company for Alleged Investment Scheme Defrauding Law Enforcement",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-92-sec-charges-south-florida-resident-his-company-alleged-investment-scheme-defrauding-law-enforcement",
+      "published_at": "2026-09-23T16:00:00.000Z",
+      "date_source": "feed",
+      "summary": "On 23 September 2026 the U.S. Securities and Exchange Commission published “SEC Charges South Florida Resident and His Company for Alleged Investment Scheme Defrauding Law Enforcement”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z",
+      "protect_slug": "scams/investment-scams-guaranteed-returns"
+    },
+    {
+      "id": "f66e95e84acea8f9",
+      "source_id": "kov_forelagganden",
+      "source_name": "Konsumentverket (Swedish Consumer Agency)",
+      "jurisdiction": "SE",
+      "category": "enforcement_action",
+      "title": "Föreläggande mot Duderhof AB",
+      "link": "https://www.konsumentverket.se/forelaggande/forelaggande-mot-duderhof-ab/",
+      "published_at": "2026-09-21T10:47:04.000Z",
+      "date_source": "feed",
+      "summary": "On 21 September 2026 Konsumentverket published “Föreläggande mot Duderhof AB”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "f38714c6209bd528",
+      "source_id": "kov_nyheter",
+      "source_name": "Konsumentverket (Swedish Consumer Agency)",
+      "jurisdiction": "SE",
+      "category": "consumer_guidance",
+      "title": "Många företag använder avtalsvillkor som riskerar att urholka konsumenträtten",
+      "link": "https://www.konsumentverket.se/nyhet/manga-foretag-anvander-avtalsvillkor-som-riskerar-att-urholka-konsumentratten/",
+      "published_at": "2026-09-17T06:55:49.000Z",
+      "date_source": "feed",
+      "summary": "On 17 September 2026 Konsumentverket published “Många företag använder avtalsvillkor som riskerar att urholka konsumenträtten”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "489620bbb2131b3c",
+      "source_id": "kov_press",
+      "source_name": "Konsumentverket (Swedish Consumer Agency)",
+      "jurisdiction": "SE",
+      "category": "scam_warning",
+      "title": "Myndigheter varnar för skaderisker med populära squishies",
+      "link": "https://www.konsumentverket.se/pressmeddelande/myndigheter-varnar-for-skaderisker-med-populara-squishies/",
+      "published_at": "2026-09-17T06:30:24.000Z",
+      "date_source": "feed",
+      "summary": "On 17 September 2026 Konsumentverket published “Myndigheter varnar för skaderisker med populära squishies”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "8c1d47c8eefcf629",
+      "source_id": "ncsc_news",
+      "source_name": "National Cyber Security Centre",
+      "jurisdiction": "GB",
+      "category": "cyber_advisory",
+      "title": "Iranian cyber targeting of dissidents, activists and journalists",
+      "link": "https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists",
+      "published_at": "2026-09-15T12:00:00.000Z",
+      "summary": "On 15 September 2026 the National Cyber Security Centre published “Iranian cyber targeting of dissidents, activists and journalists”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "a7bef2ea8e8d024e",
+      "source_id": "ncsc_news",
+      "source_name": "National Cyber Security Centre",
+      "jurisdiction": "GB",
+      "category": "cyber_advisory",
+      "title": "UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists",
+      "link": "https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists",
+      "published_at": "2026-09-15T12:00:00.000Z",
+      "summary": "On 15 September 2026 the National Cyber Security Centre published “UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "21d017e39b9a8804",
+      "source_id": "kov_press",
+      "source_name": "Konsumentverket (Swedish Consumer Agency)",
+      "jurisdiction": "SE",
+      "category": "scam_warning",
+      "title": "KO tar Postkodlotteriets reklam till domstol",
+      "link": "https://www.konsumentverket.se/pressmeddelande/ko-tar-postkodlotteriets-reklam-till-domstol/",
+      "published_at": "2026-09-11T08:04:20.000Z",
+      "date_source": "feed",
+      "summary": "On 11 September 2026 Konsumentverket published “KO tar Postkodlotteriets reklam till domstol”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "b636891c0cc45309",
+      "source_id": "kov_press",
+      "source_name": "Konsumentverket (Swedish Consumer Agency)",
+      "jurisdiction": "SE",
+      "category": "scam_warning",
+      "title": "Många hjälmar visar brister i gemensam EU-granskning",
+      "link": "https://www.konsumentverket.se/pressmeddelande/manga-hjalmar-visar-brister-i-gemensam-eugranskning/",
+      "published_at": "2026-09-10T10:47:22.000Z",
+      "date_source": "feed",
+      "summary": "On 10 September 2026 Konsumentverket published “Många hjälmar visar brister i gemensam EU-granskning”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "b8a68d19e786ab92",
+      "source_id": "kov_nyheter",
+      "source_name": "Konsumentverket (Swedish Consumer Agency)",
+      "jurisdiction": "SE",
+      "category": "consumer_guidance",
+      "title": "Momssänkningen på livsmedel har fått fullt genomslag i butikernas priser",
+      "link": "https://www.konsumentverket.se/nyhet/momssankningen-pa-livsmedel-har-fatt-fullt-genomslag-i-butikernas-priser/",
+      "published_at": "2026-09-01T07:01:09.000Z",
+      "date_source": "feed",
+      "summary": "On 1 September 2026 Konsumentverket published “Momssänkningen på livsmedel har fått fullt genomslag i butikernas priser”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "9d86e6ff664c44e5",
+      "source_id": "ncsc_news",
+      "source_name": "National Cyber Security Centre",
+      "jurisdiction": "GB",
+      "category": "cyber_advisory",
+      "title": "Disruptive cyber activity highlights risk from internet-exposed systems and edge devices",
+      "link": "https://www.ncsc.gov.uk/news/disruptive-cyber-activity-highlights-risk-from-internet-exposed-systems-and-edge-devices",
+      "published_at": "2026-08-27T12:00:00.000Z",
+      "summary": "On 27 August 2026 the National Cyber Security Centre published “Disruptive cyber activity highlights risk from internet-exposed systems and edge devices”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "2e2c19d681bfabf9",
+      "source_id": "cfpb_newsroom",
+      "source_name": "Consumer Financial Protection Bureau",
+      "jurisdiction": "US",
+      "category": "consumer_guidance",
+      "title": "The CFPB to Cease Discretionary Publication of Complaint Narratives and Visualizations",
+      "link": "https://www.consumerfinance.gov/about-us/newsroom/the-cfpb-to-cease-discretionary-publication-of-complaint-narratives-and-visualizations/",
+      "published_at": "2026-08-14T04:00:00.000Z",
+      "summary": "On 14 August 2026 the Consumer Financial Protection Bureau published “The CFPB to Cease Discretionary Publication of Complaint Narratives and Visualizations”.",
+      "language": "en",
+      "ui_visible": true,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-06T22:31:21Z"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "schema": "veritane/history/1",
+  "id": "hu.policy_rate.bis",
+  "unit": "%",
+  "frequency": "D",
+  "decimals": 2,
+  "storage": "steps",
+  "fingerprint": "WS_CBPOL HU|stats.bis.org/api/v2/data/dataflow/BIS/WS_CBPOL/1.0/D.JP+BR+IN+ID+MX+CN+SA+TR+KR+IL+CL+CO+PE+MY+TH+PL+HU+CZ+CH+NZ+RU+US+XM+GB+CA+AU+SE+NO+DK+ZA",
+  "source": {
+    "name": "Hungarian National Bank via BIS",
+    "provider_id": "bis",
+    "dataset": "WS_CBPOL HU",
+    "url": "https://data.bis.org/",
+    "api_url": "https://stats.bis.org/api/v2/data/dataflow/BIS/WS_CBPOL/1.0/D.JP+BR+IN+ID+MX+CN+SA+TR+KR+IL+CL+CO+PE+MY+TH+PL+HU+CZ+CH+NZ+RU+US+XM+GB+CA+AU+SE+NO+DK+ZA?lastNObservations=1&format=csv",
+    "retrieved_at": "2026-11-07T09:24:08Z"
+  },
+  "points": [
+    [
+      "2016-05",
+      0.9
+    ],
+    [
+      "2020-06",
+      0.75
+    ],
+    [
+      "2020-07",
+      0.6
+    ],
+    [
+      "2021-06",
+      0.9
+    ],
+    [
+      "2021-07",
+      1.2
+    ],
+    [
+      "2021-08",
+      1.5
+    ],
+    [
+      "2021-09",
+      1.65
+    ],
+    [
+      "2021-10",
+      1.8
+    ],
+    [
+      "2021-11",
+      2.1
+    ],
+    [
+      "2021-12",
+      2.4
+    ],
+    [
+      "2022-01",
+      2.9
+    ],
+    [
+      "2022-02",
+      3.4
+    ],
+    [
+      "2022-03",
+      4.4
+    ],
+    [
+      "2022-04",
+      5.4
+    ],
+    [
+      "2022-06",
+      7.75
+    ],
+    [
+      "2022-07",
+      10.75
+    ],
+    [
+      "2022-08",
+      11.75
+    ],
+    [
+      "2022-09",
+      13
+    ],
+    [
+      "2023-10",
+      12.25
+    ],
+    [
+      "2023-11",
+      11.5
+    ],
+    [
+      "2023-12",
+      10.75
+    ],
+    [
+      "2024-01",
+      10
+    ],
+    [
+      "2024-02",
+      9
+    ],
+    [
+      "2024-03",
+      8.25
+    ],
+    [
+      "2024-04",
+      7.75
+    ],
+    [
+      "2024-05",
+      7.25
+    ],
+    [
+      "2024-06",
+      7
+    ],
+    [
+      "2024-07",
+      6.75
+    ],
+    [
+      "2024-09",
+      6.5
+    ],
+    [
+      "2026-02",
+      6.25
+    ],
+    [
+      "2026-07",
+      5.75
+    ],
+    [
+      "2026-08",
+      5.5
+    ],
+    [
+      "2026-10-28",
+      5.5
+    ]
+  ],
+  "accumulated_since": null
+}

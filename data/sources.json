@@ -1,0 +1,1067 @@
+{
+  "schema": "veritane/sources/1",
+  "generated_at": "2026-11-07T12:54:42Z",
+  "sources": [
+    {
+      "id": "abs",
+      "name": "Australian Bureau of Statistics",
+      "short": "ABS",
+      "homepage": "https://www.abs.gov.au/",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://www.abs.gov.au/website-privacy-copyright-and-disclaimer",
+        "verified": true,
+        "verified_on": "2026-11-06"
+      },
+      "licence": "CC BY 4.0",
+      "datasets": [
+        "CPI 1.10001.10.50.Q (all groups CPI index)",
+        "LF M13.3.1599.20.AUS.M (unemployment rate)"
+      ],
+      "feeds": [],
+      "adapters": [
+        "abs"
+      ],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "bcb",
+      "name": "Banco Central do Brasil",
+      "homepage": "https://www.bcb.gov.br/en",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://dadosabertos.bcb.gov.br/",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://dadosabertos.bcb.gov.br/); not yet checked by Veritane",
+      "datasets": [
+        "SGS 13522 (IPCA, 12-month %)",
+        "SGS 24369 (PNAD unemployment rate)"
+      ],
+      "feeds": [],
+      "adapters": [
+        "bcb"
+      ],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "bis",
+      "name": "Bank for International Settlements",
+      "short": "BIS",
+      "homepage": "https://data.bis.org/",
+      "license": {
+        "name": "Free reuse with attribution (BIS terms for statistics)",
+        "url": "https://data.bis.org/help/legal",
+        "verified": true,
+        "verified_on": "2026-11-07",
+        "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
+      },
+      "licence": "Free reuse with attribution (BIS terms for statistics)",
+      "license_note": "Further conditions: no misleading use or implied endorsement; no extra charge when included in a commercial product. https://www.bis.org/about/terms-conditions points to these terms for statistics in the BIS Data Portal.",
+      "datasets": [
+        "WS_CBPOL (central bank policy rates, daily and monthly)",
+        "WS_SPP (selected residential property prices, quarterly, nominal and real, % change on a year earlier)"
+      ],
+      "feeds": [],
+      "adapters": [
+        "bis",
+        "bis_rpp"
+      ],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "boc",
+      "name": "Bank of Canada",
+      "homepage": "https://www.bankofcanada.ca/",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.bankofcanada.ca/terms/",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.bankofcanada.ca/terms/); not yet checked by Veritane",
+      "datasets": [
+        "V39079 (target for the overnight rate)",
+        "FXUSDCAD (CAD per USD)"
+      ],
+      "feeds": [
+        {
+          "id": "boc_press",
+          "url": "https://www.bankofcanada.ca/content_type/press-releases/feed/",
+          "language": "en",
+          "role": "news"
+        }
+      ],
+      "adapters": [
+        "boc"
+      ],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "boe",
+      "name": "Bank of England",
+      "homepage": "https://www.bankofengland.co.uk/",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.bankofengland.co.uk/legal",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.bankofengland.co.uk/legal); not yet checked by Veritane",
+      "datasets": [
+        "IUDBEDR (Bank Rate)",
+        "XUDLUSS (US dollar per pound sterling)",
+        "IUDSNPY, IUDMNPY, IUDLNPY (gilt par yields)"
+      ],
+      "feeds": [
+        {
+          "id": "boe_news",
+          "url": "https://www.bankofengland.co.uk/rss/news",
+          "language": "en",
+          "role": "news"
+        }
+      ],
+      "adapters": [
+        "boe"
+      ],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "boj",
+      "name": "Bank of Japan",
+      "homepage": "https://www.boj.or.jp/en/",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.boj.or.jp/en/",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.boj.or.jp/en/); not yet checked by Veritane",
+      "datasets": [],
+      "feeds": [
+        {
+          "id": "boj_whatsnew",
+          "url": "https://www.boj.or.jp/en/rss/whatsnew.xml",
+          "language": "en",
+          "role": "news"
+        }
+      ],
+      "adapters": [],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "cbk",
+      "name": "Central Bank of Kenya",
+      "homepage": "https://www.centralbank.go.ke/",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.centralbank.go.ke/",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.centralbank.go.ke/); not yet checked by Veritane",
+      "datasets": [],
+      "feeds": [
+        {
+          "id": "cbk_news",
+          "url": "https://www.centralbank.go.ke/feed/",
+          "language": "en",
+          "role": "both"
+        }
+      ],
+      "adapters": [],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "cftc",
+      "name": "Commodity Futures Trading Commission",
+      "short": "CFTC",
+      "homepage": "https://www.cftc.gov/",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.cftc.gov/",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.cftc.gov/); not yet checked by Veritane",
+      "datasets": [],
+      "feeds": [
+        {
+          "id": "cftc_press",
+          "url": "https://www.cftc.gov/RSS/RSSGP/rssgp.xml",
+          "language": "en",
+          "role": "news"
+        }
+      ],
+      "adapters": [],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "cfpb",
+      "name": "Consumer Financial Protection Bureau",
+      "short": "CFPB",
+      "homepage": "https://www.consumerfinance.gov/",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.consumerfinance.gov/",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.consumerfinance.gov/); not yet checked by Veritane",
+      "datasets": [],
+      "feeds": [
+        {
+          "id": "cfpb_newsroom",
+          "url": "https://www.consumerfinance.gov/about-us/newsroom/feed/",
+          "language": "en",
+          "role": "both"
+        },
+        {
+          "id": "cfpb_enforcement",
+          "url": "https://www.consumerfinance.gov/enforcement/actions/feed/",
+          "language": "en",
+          "role": "alert"
+        }
+      ],
+      "adapters": [],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "eba",
+      "name": "European Banking Authority",
+      "short": "EBA",
+      "homepage": "https://www.eba.europa.eu/homepage",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.eba.europa.eu/homepage",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.eba.europa.eu/homepage); not yet checked by Veritane",
+      "datasets": [],
+      "feeds": [
+        {
+          "id": "eba_news",
+          "url": "https://www.eba.europa.eu/rss.xml",
+          "language": "en",
+          "role": "news"
+        }
+      ],
+      "adapters": [],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "ecb",
+      "name": "European Central Bank",
+      "short": "ECB",
+      "homepage": "https://data.ecb.europa.eu/",
+      "license": {
+        "name": "Free reuse with source (ECB copyright notice)",
+        "url": "https://www.ecb.europa.eu/services/using-our-site/disclaimer/html/index.en.html",
+        "verified": true,
+        "verified_on": "2026-11-07",
+        "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
+      },
+      "licence": "Free reuse with source (ECB copyright notice)",
+      "datasets": [
+        "FM (key ECB interest rates)",
+        "LFSI (euro area unemployment)",
+        "Euro foreign exchange reference rates",
+        "YC (euro area yield curve)"
+      ],
+      "feeds": [
+        {
+          "id": "ecb_press",
+          "url": "https://www.ecb.europa.eu/rss/press.html",
+          "language": "en",
+          "role": "news"
+        },
+        {
+          "id": "ecb_statpress",
+          "url": "https://www.ecb.europa.eu/rss/statpress.html",
+          "language": "en",
+          "role": "news"
+        }
+      ],
+      "adapters": [
+        "ecb",
+        "ecb_fx"
+      ],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "esma",
+      "name": "European Securities and Markets Authority",
+      "short": "ESMA",
+      "homepage": "https://www.esma.europa.eu/",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.esma.europa.eu/",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.esma.europa.eu/); not yet checked by Veritane",
+      "datasets": [],
+      "feeds": [
+        {
+          "id": "esma_news",
+          "url": "https://www.esma.europa.eu/rss.xml",
+          "language": "en",
+          "role": "news"
+        }
+      ],
+      "adapters": [],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "europol",
+      "name": "Europol",
+      "homepage": "https://www.europol.europa.eu/",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.europol.europa.eu/",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.europol.europa.eu/); not yet checked by Veritane",
+      "datasets": [],
+      "feeds": [
+        {
+          "id": "europol_news",
+          "url": "https://www.europol.europa.eu/cms/api/rss/news",
+          "language": "en",
+          "role": "alert"
+        }
+      ],
+      "adapters": [],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "eurostat",
+      "name": "Eurostat",
+      "homepage": "https://ec.europa.eu/eurostat/",
+      "license": {
+        "name": "Free reuse with source (Eurostat copyright notice)",
+        "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+        "verified": true,
+        "verified_on": "2026-11-07",
+        "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
+      },
+      "licence": "Free reuse with source (Eurostat copyright notice)",
+      "license_note": "Read 2026-11-07. The notice limits commercial reuse of data for countries outside the EU, EFTA and the candidate countries; Veritane reads Eurostat data for EU member states, the EU and the euro area, plus Norway (EFTA) for energy prices, and is non-commercial. The editorial content of the Eurostat website is under CC BY 4.0.",
+      "datasets": [
+        "prc_hicp_minr (HICP, ECOICOP v2)",
+        "namq_10_gdp (quarterly GDP)",
+        "une_rt_m (monthly unemployment)",
+        "prc_hicp_minr (HICP by member state)",
+        "une_rt_m (unemployment by member state)",
+        "namq_10_gdp (quarterly GDP by member state)",
+        "gov_10dd_edpt1 (government deficit/surplus and debt, % of GDP, annual)",
+        "sts_trtu_m (retail trade, volume of sales, % change on a year earlier)",
+        "sts_inpr_m (industrial production, % change on a year earlier)",
+        "nrg_pc_204 (electricity prices for household consumers, half-yearly)",
+        "nrg_pc_202 (gas prices for household consumers, half-yearly)",
+        "earn_mw_cur (monthly minimum wages, euros, half-yearly)",
+        "prc_hicp_minr by ECOICOP category (My inflation)"
+      ],
+      "feeds": [],
+      "adapters": [
+        "eurostat",
+        "eurostat_members",
+        "eurostat_gov",
+        "eurostat_activity",
+        "eurostat_energy",
+        "eurostat_minwage",
+        "cpi_categories"
+      ],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "ic3",
+      "name": "FBI Internet Crime Complaint Center",
+      "short": "IC3",
+      "homepage": "https://www.ic3.gov/",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.ic3.gov/",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.ic3.gov/); not yet checked by Veritane",
+      "datasets": [],
+      "feeds": [
+        {
+          "id": "ic3_psa",
+          "url": "https://www.ic3.gov/PSA/RSS",
+          "language": "en",
+          "role": "alert"
+        }
+      ],
+      "adapters": [],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "nyfed",
+      "name": "Federal Reserve Bank of New York",
+      "short": "New York Fed",
+      "homepage": "https://www.newyorkfed.org/",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.newyorkfed.org/",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.newyorkfed.org/); not yet checked by Veritane",
+      "datasets": [
+        "EFFR and FOMC target range",
+        "SOFR"
+      ],
+      "feeds": [],
+      "adapters": [
+        "nyfed"
+      ],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "frb",
+      "name": "Federal Reserve Board",
+      "homepage": "https://www.federalreserve.gov/",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.federalreserve.gov/disclaimer.htm",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.federalreserve.gov/disclaimer.htm); not yet checked by Veritane",
+      "datasets": [],
+      "feeds": [
+        {
+          "id": "fed_press",
+          "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+          "language": "en",
+          "role": "news"
+        },
+        {
+          "id": "fed_speeches",
+          "url": "https://www.federalreserve.gov/feeds/speeches.xml",
+          "language": "en",
+          "role": "news"
+        }
+      ],
+      "adapters": [],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "fca",
+      "name": "Financial Conduct Authority",
+      "short": "FCA",
+      "homepage": "https://www.fca.org.uk/",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.fca.org.uk/",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.fca.org.uk/); not yet checked by Veritane",
+      "datasets": [],
+      "feeds": [
+        {
+          "id": "fca_news",
+          "url": "https://www.fca.org.uk/news/rss.xml",
+          "language": "en",
+          "role": "both"
+        }
+      ],
+      "adapters": [],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "ilo",
+      "name": "International Labour Organization (ILOSTAT)",
+      "short": "ILO",
+      "homepage": "https://ilostat.ilo.org/",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://www.ilo.org/rights-and-permissions",
+        "verified": true,
+        "verified_on": "2026-11-07",
+        "quote": "As of 3 May 2023, databases and datasets together with the accompanying referential metadata are covered by the Creative Commons CC BY 4.0 licence."
+      },
+      "licence": "CC BY 4.0",
+      "license_note": "ilostat.ilo.org refuses automated clients (HTTP 403); data is read from sdmx.ilo.org.",
+      "datasets": [
+        "DF_EAR_EMTA_SEX_CUR_NB (average monthly earnings of employees, US dollars, annual)"
+      ],
+      "feeds": [],
+      "adapters": [
+        "ilo_wages"
+      ],
+      "last_fetched": "2026-11-07T10:58:41Z",
+      "ok": true
+    },
+    {
+      "id": "imf",
+      "name": "International Monetary Fund",
+      "short": "IMF",
+      "homepage": "https://www.imf.org/external/datamapper/",
+      "license": {
+        "name": "Free reuse with attribution (IMF terms for Data)",
+        "url": "https://www.imf.org/en/About/copyright-and-terms",
+        "verified": true,
+        "verified_on": "2026-11-07",
+        "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
+      },
+      "licence": "Free reuse with attribution (IMF terms for Data)",
+      "license_note": "The IMF terms list World Economic Outlook, International Financial Statistics and Primary Commodity Prices as \"Data\". Commercial reuse needs permission (copyright@imf.org); Veritane is free and non-commercial. Data wave 2 reads WEO GGXWDG_NGDP, GGXCNL_NGDP and BCA_NGDPD from the same keyless DataMapper API (source: World Economic Outlook, October 2026).",
+      "datasets": [
+        "WEO PCPIPCH (inflation, projections)",
+        "WEO NGDP_RPCH (real GDP growth, projections)",
+        "IMF.STA:CPI (consumer prices, 12-month % change, monthly)",
+        "WEO GGXWDG_NGDP (Government debt, % of GDP, annual)",
+        "WEO GGXCNL_NGDP (Government balance, % of GDP, annual)",
+        "WEO BCA_NGDPD (Current account balance, % of GDP, annual)"
+      ],
+      "feeds": [],
+      "adapters": [
+        "imf_weo",
+        "imf_cpi",
+        "imf_fiscal"
+      ],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "konsumentverket",
+      "name": "Konsumentverket (Swedish Consumer Agency)",
+      "short": "Konsumentverket",
+      "homepage": "https://www.konsumentverket.se/",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.konsumentverket.se/",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.konsumentverket.se/); not yet checked by Veritane",
+      "datasets": [],
+      "feeds": [
+        {
+          "id": "kov_nyheter",
+          "url": "https://www.konsumentverket.se/api/feed/rss/nyheter-rss",
+          "language": "sv",
+          "role": "alert"
+        },
+        {
+          "id": "kov_press",
+          "url": "https://www.konsumentverket.se/api/feed/rss/pressmeddelanden-rss",
+          "language": "sv",
+          "role": "alert"
+        },
+        {
+          "id": "kov_forelagganden",
+          "url": "https://www.konsumentverket.se/api/feed/rss/forelagganden-rss",
+          "language": "sv",
+          "role": "alert"
+        }
+      ],
+      "adapters": [],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "ncsc",
+      "name": "National Cyber Security Centre",
+      "short": "NCSC",
+      "homepage": "https://www.ncsc.gov.uk/",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.ncsc.gov.uk/",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.ncsc.gov.uk/); not yet checked by Veritane",
+      "datasets": [],
+      "feeds": [
+        {
+          "id": "ncsc_news",
+          "url": "https://www.ncsc.gov.uk/api/1/services/v1/news-rss-feed.xml",
+          "language": "en",
+          "role": "alert"
+        }
+      ],
+      "adapters": [],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "norgesbank",
+      "name": "Norges Bank",
+      "homepage": "https://www.norges-bank.no/en/",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.norges-bank.no/en/",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.norges-bank.no/en/); not yet checked by Veritane",
+      "datasets": [
+        "IR B.KPRA.SD (key policy rate)",
+        "EXR B.USD+EUR.NOK.SP (exchange rates)"
+      ],
+      "feeds": [
+        {
+          "id": "norges_press",
+          "url": "https://www.norges-bank.no/en/rss-feeds/Press-releases---Norges-Bank/",
+          "language": "en",
+          "role": "news"
+        }
+      ],
+      "adapters": [
+        "norgesbank"
+      ],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "oecd",
+      "name": "OECD",
+      "homepage": "https://data-explorer.oecd.org/",
+      "license": {
+        "name": "Free reuse with attribution (OECD terms, Data)",
+        "url": "https://www.oecd.org/en/about/terms-conditions.html",
+        "verified": true,
+        "verified_on": "2026-11-07",
+        "quote": "Except where additional restrictions apply as stated above, you can extract from, download, copy, adapt, print, distribute, share and embed Data for any purpose, even for commercial use. You must give appropriate credit to the OECD."
+      },
+      "licence": "Free reuse with attribution (OECD terms, Data)",
+      "license_note": "The OECD terms page refuses automated clients (HTTP 403); the wording was read from the Internet Archive copy of 2026-10-27. The terms ask users to check the metadata for third-party restrictions; the DF_FINMARK, AV_AN_WAGE, DF_CLI (consumer and business confidence) and RMW (real minimum wages) dataflow metadata (read 2026-11-07) state none.",
+      "datasets": [
+        "DSD_LFS@DF_IALFS_UNE_M (monthly unemployment rate)",
+        "DSD_STES@DF_FINMARK (Financial market indicators: share prices, monthly, 2015 = 100)",
+        "DSD_EARNINGS@AV_AN_WAGE (average annual wages, US dollars at constant prices and PPPs)",
+        "DSD_STES@DF_CLI CCICP (composite consumer confidence, monthly)",
+        "DSD_STES@DF_CLI BCICP (composite business confidence, monthly)",
+        "DSD_EARNINGS@RMW (real minimum wages, annual, US dollars at constant prices and PPPs)"
+      ],
+      "feeds": [],
+      "adapters": [
+        "oecd",
+        "oecd_shares",
+        "oecd_wages",
+        "oecd_confidence",
+        "oecd_minwage"
+      ],
+      "last_fetched": "2026-11-07T11:33:11Z",
+      "ok": false
+    },
+    {
+      "id": "ons",
+      "name": "Office for National Statistics",
+      "short": "ONS",
+      "homepage": "https://www.ons.gov.uk/",
+      "license": {
+        "name": "Open Government Licence v3.0",
+        "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "verified": true,
+        "verified_on": "2026-11-06"
+      },
+      "licence": "Open Government Licence v3.0",
+      "datasets": [
+        "D7G7 (MM23)",
+        "MGSX (LMS)",
+        "IHYQ (QNA)",
+        "MM23 CPI components D7G8, D7GE, D7GD, D7GG, D7CE, D7CH (My inflation)"
+      ],
+      "feeds": [
+        {
+          "id": "ons_published",
+          "url": "https://www.ons.gov.uk/releasecalendar?rss&limit=30&release-type=type-published&sort=date-newest",
+          "language": "en",
+          "role": "news"
+        }
+      ],
+      "adapters": [
+        "ons",
+        "cpi_categories"
+      ],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "rba",
+      "name": "Reserve Bank of Australia",
+      "short": "RBA",
+      "homepage": "https://www.rba.gov.au/",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://www.rba.gov.au/copyright/",
+        "verified": true,
+        "verified_on": "2026-11-06"
+      },
+      "licence": "CC BY 4.0",
+      "datasets": [
+        "F1.1 FIRMMCRT (cash rate target, monthly average)",
+        "F11.1 FXRUSD (A$1 in US dollars)"
+      ],
+      "feeds": [
+        {
+          "id": "rba_media",
+          "url": "https://www.rba.gov.au/rss/rss-cb-media-releases.xml",
+          "language": "en",
+          "role": "news"
+        },
+        {
+          "id": "rba_speeches",
+          "url": "https://www.rba.gov.au/rss/rss-cb-speeches.xml",
+          "language": "en",
+          "role": "news"
+        }
+      ],
+      "adapters": [
+        "rba"
+      ],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "rbi",
+      "name": "Reserve Bank of India",
+      "short": "RBI",
+      "homepage": "https://rbi.org.in/",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://rbi.org.in/",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://rbi.org.in/); not yet checked by Veritane",
+      "datasets": [],
+      "feeds": [
+        {
+          "id": "rbi_press",
+          "url": "https://rbi.org.in/pressreleases_rss.xml",
+          "language": "en",
+          "role": "both"
+        }
+      ],
+      "adapters": [],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "sarb",
+      "name": "South African Reserve Bank",
+      "short": "SARB",
+      "homepage": "https://www.resbank.co.za/",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.resbank.co.za/",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.resbank.co.za/); not yet checked by Veritane",
+      "datasets": [
+        "CPI1000F (CPI, 12-month %)",
+        "MMRD002A (SARB policy rate)",
+        "EXCX135D (rand per US dollar)"
+      ],
+      "feeds": [],
+      "adapters": [
+        "sarb"
+      ],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "statcan",
+      "name": "Statistics Canada",
+      "homepage": "https://www.statcan.gc.ca/en/start",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.statcan.gc.ca/en/terms-conditions/open-licence",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.statcan.gc.ca/en/terms-conditions/open-licence); not yet checked by Veritane",
+      "datasets": [
+        "v41690973 (CPI all-items index)",
+        "v2062815 (unemployment rate)",
+        "v65201210 (monthly real GDP)"
+      ],
+      "feeds": [],
+      "adapters": [
+        "statcan"
+      ],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "dst",
+      "name": "Statistics Denmark",
+      "homepage": "https://www.dst.dk/en",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.dst.dk/en",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.dst.dk/en); not yet checked by Veritane",
+      "datasets": [
+        "PRIS01 (CPI, 12-month change)",
+        "DNRENTD (Danmarks Nationalbank official rates)"
+      ],
+      "feeds": [],
+      "adapters": [
+        "dst"
+      ],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "ssb",
+      "name": "Statistics Norway",
+      "short": "SSB",
+      "homepage": "https://www.ssb.no/en",
+      "license": {
+        "name": "NLOD 2.0 / CC BY 4.0",
+        "url": "https://www.ssb.no/en/diverse/lisens",
+        "verified": true,
+        "verified_on": "2026-11-06"
+      },
+      "licence": "NLOD 2.0 / CC BY 4.0",
+      "datasets": [
+        "14700 (CPI, 12-month rate)"
+      ],
+      "feeds": [
+        {
+          "id": "ssb_news",
+          "url": "https://www.ssb.no/rss/?lang=en",
+          "language": "en",
+          "role": "news"
+        }
+      ],
+      "adapters": [
+        "ssb"
+      ],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "scb",
+      "name": "Statistics Sweden",
+      "short": "SCB",
+      "homepage": "https://www.scb.se/en/",
+      "license": {
+        "name": "CC0 1.0",
+        "url": "https://www.scb.se/en/services/open-data-api/",
+        "verified": true,
+        "verified_on": "2026-11-06"
+      },
+      "licence": "CC0 1.0",
+      "datasets": [
+        "TAB6596 (CPI, annual change)",
+        "TAB676 (GDP indicator)"
+      ],
+      "feeds": [
+        {
+          "id": "scb_statnews",
+          "url": "https://www.scb.se/feed/statistiknyheter",
+          "language": "sv",
+          "role": "news"
+        }
+      ],
+      "adapters": [
+        "scb"
+      ],
+      "last_fetched": "2026-11-07T12:01:21Z",
+      "ok": false
+    },
+    {
+      "id": "riksbank",
+      "name": "Sveriges Riksbank",
+      "homepage": "https://www.riksbank.se/en-gb/",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.riksbank.se/en-gb/",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.riksbank.se/en-gb/); not yet checked by Veritane",
+      "datasets": [
+        "SECBREPOEFF (policy rate)",
+        "SEKEURPMI (SEK per EUR)"
+      ],
+      "feeds": [
+        {
+          "id": "riksbank_press_en",
+          "url": "https://www.riksbank.se/en-gb/rss/press-releases/",
+          "language": "en",
+          "role": "news"
+        },
+        {
+          "id": "riksbank_press_sv",
+          "url": "https://www.riksbank.se/sv/rss/pressmeddelanden/",
+          "language": "sv",
+          "role": "news"
+        }
+      ],
+      "adapters": [
+        "riksbank"
+      ],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "bea",
+      "name": "U.S. Bureau of Economic Analysis",
+      "short": "BEA",
+      "homepage": "https://www.bea.gov/",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.bea.gov/",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.bea.gov/); not yet checked by Veritane",
+      "datasets": [],
+      "feeds": [
+        {
+          "id": "bea_news",
+          "url": "https://apps.bea.gov/rss/rss.xml",
+          "language": "en",
+          "role": "news"
+        }
+      ],
+      "adapters": [],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "bls",
+      "name": "U.S. Bureau of Labor Statistics",
+      "short": "BLS",
+      "homepage": "https://www.bls.gov/",
+      "license": {
+        "name": "Public domain (U.S. government work)",
+        "url": "https://www.bls.gov/",
+        "verified": true,
+        "verified_on": "2026-11-06"
+      },
+      "licence": "Public domain (U.S. government work)",
+      "license_note": "www.bls.gov refuses automated clients; data is read from api.bls.gov.",
+      "datasets": [
+        "CUUR0000SA0 (CPI-U)",
+        "LNS14000000 (unemployment rate)",
+        "CES0000000001 (nonfarm payrolls)",
+        "CES0500000003 (average hourly earnings)",
+        "CPI-U components SAH1, SAF1, SAT, SAH21, SAM, SAR (My inflation)"
+      ],
+      "feeds": [],
+      "adapters": [
+        "bls",
+        "cpi_categories"
+      ],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "ustreasury",
+      "name": "U.S. Department of the Treasury",
+      "homepage": "https://home.treasury.gov/",
+      "license": {
+        "name": "Public domain (U.S. government work)",
+        "url": "https://home.treasury.gov/",
+        "verified": true,
+        "verified_on": "2026-11-06"
+      },
+      "licence": "Public domain (U.S. government work)",
+      "datasets": [
+        "Daily Treasury Par Yield Curve Rates"
+      ],
+      "feeds": [],
+      "adapters": [
+        "yield_curves"
+      ],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "sec",
+      "name": "U.S. Securities and Exchange Commission",
+      "short": "SEC",
+      "homepage": "https://www.sec.gov/",
+      "license": {
+        "name": "Public information, free to copy and redistribute (SEC website dissemination notice)",
+        "url": "https://www.sec.gov/privacy",
+        "verified": true,
+        "verified_on": "2026-11-07",
+        "quote": "Information presented on sec.gov is considered public information and may be copied or further distributed by users of the web site without the SEC’s permission."
+      },
+      "licence": "Public information, free to copy and redistribute (SEC website dissemination notice)",
+      "license_note": "The notice asks for citation of the SEC as the source and rules out use of the SEC seal and logos. Fair access: at most 10 requests per second and a declared User-Agent with a contact (https://www.sec.gov/search-filings/edgar-search-assistance/accessing-edgar-data). www.sec.gov and data.sec.gov answer 403 to automated clients without a contact e-mail (tested 2026-11-07); the press feed answered 200. Company figures (/companies/) come from EDGAR XBRL company facts and wait for config/site.json \"secContact\".",
+      "datasets": [],
+      "feeds": [
+        {
+          "id": "sec_press",
+          "url": "https://www.sec.gov/news/pressreleases.rss",
+          "language": "en",
+          "role": "both"
+        }
+      ],
+      "adapters": [],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "fiscaldata",
+      "name": "U.S. Treasury, Fiscal Data",
+      "homepage": "https://fiscaldata.treasury.gov/",
+      "license": {
+        "name": "Public domain (U.S. government work)",
+        "url": "https://fiscaldata.treasury.gov/about-us/",
+        "verified": true,
+        "verified_on": "2026-11-06"
+      },
+      "licence": "Public domain (U.S. government work)",
+      "datasets": [
+        "Debt to the Penny",
+        "Average Interest Rates on U.S. Treasury Securities",
+        "Interest Expense on the Public Debt Outstanding",
+        "Monthly Treasury Statement, table 1"
+      ],
+      "feeds": [],
+      "adapters": [
+        "fiscaldata"
+      ],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    },
+    {
+      "id": "worldbank",
+      "name": "World Bank",
+      "homepage": "https://data.worldbank.org/",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://data.worldbank.org/summary-terms-of-use",
+        "verified": true,
+        "verified_on": "2026-11-07",
+        "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
+      },
+      "licence": "CC BY 4.0",
+      "license_note": "The Commodity Markets page (https://www.worldbank.org/en/research/commodity-markets) links its \"Data Access and Licensing\" note to https://datacatalog.worldbank.org/public-licenses#cc-by (CC BY 4.0). The Pink Sheet names its own upstream sources per series; the monthly averages are published by the World Bank. World Development Indicators read in data wave 2 (NY.GDP.PCAP.PP.KD, SP.POP.TOTL, SI.POV.GINI, SI.POV.DDAY, NE.RSB.GNFS.ZS): the indicator metadata (api.worldbank.org/v2/indicator, read 2026-11-07) names the upstream sources (ICP, UN World Population Prospects, Poverty and Inequality Platform, national accounts) and states no other licence.",
+      "datasets": [
+        "NY.GDP.MKTP.KD.ZG (GDP growth, annual %)",
+        "SL.UEM.TOTL.ZS (unemployment, ILO modelled estimate)",
+        "Commodity Price Data (The Pink Sheet), CMO-Historical-Data-Monthly.xlsx, monthly averages in nominal US dollars",
+        "NY.GDP.PCAP.PP.KD (GDP per person)",
+        "SP.POP.TOTL (Population)",
+        "SI.POV.GINI (Income inequality: Gini index)",
+        "SI.POV.DDAY (Extreme poverty, % of population)",
+        "NE.RSB.GNFS.ZS (Trade balance, goods and services, % of GDP)"
+      ],
+      "feeds": [],
+      "adapters": [
+        "worldbank",
+        "wb_commodities",
+        "wb_living"
+      ],
+      "last_fetched": "2026-11-07T12:54:42Z",
+      "ok": true
+    }
+  ]
+}

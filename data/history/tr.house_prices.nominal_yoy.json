@@ -1,0 +1,184 @@
+{
+  "schema": "veritane/history/1",
+  "id": "tr.house_prices.nominal_yoy",
+  "unit": "% y/y",
+  "frequency": "Q",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "WS_SPP Q.TR.N.771|stats.bis.org/api/v2/data/dataflow/BIS/WS_SPP/1.0/Q.US+XM+GB+SE+CA+AU+JP+NO+DK+BR+IN+ID+ZA+MX+CN+NG+KE+TR+SA+EG+KR+AR+PK+BD+PH+VN+CL+CO+PE+IL+PL+HU+CZ+MY+TH+NZ+CH+RU+DE+FR+IT+ES+NL+BE+AT+IE+PT+FI+GR+RO.N+R.771",
+  "source": {
+    "name": "Bank for International Settlements, residential property prices",
+    "provider_id": "bis",
+    "dataset": "WS_SPP Q.TR.N.771",
+    "url": "https://data.bis.org/topics/RPP",
+    "api_url": "https://stats.bis.org/api/v2/data/dataflow/BIS/WS_SPP/1.0/Q.US+XM+GB+SE+CA+AU+JP+NO+DK+BR+IN+ID+ZA+MX+CN+NG+KE+TR+SA+EG+KR+AR+PK+BD+PH+VN+CL+CO+PE+IL+PL+HU+CZ+MY+TH+NZ+CH+RU+DE+FR+IT+ES+NL+BE+AT+IE+PT+FI+GR+RO.N+R.771?startPeriod=2016-Q1&format=csv&detail=dataonly",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2016-Q2",
+      12.7869
+    ],
+    [
+      "2016-Q3",
+      12.5199
+    ],
+    [
+      "2016-Q4",
+      11.6486
+    ],
+    [
+      "2017-Q1",
+      11.919
+    ],
+    [
+      "2017-Q2",
+      11.7369
+    ],
+    [
+      "2017-Q3",
+      10.0284
+    ],
+    [
+      "2017-Q4",
+      9.6707
+    ],
+    [
+      "2018-Q1",
+      8.138
+    ],
+    [
+      "2018-Q2",
+      8.3902
+    ],
+    [
+      "2018-Q3",
+      7.9871
+    ],
+    [
+      "2018-Q4",
+      6.8584
+    ],
+    [
+      "2019-Q1",
+      4.0879
+    ],
+    [
+      "2019-Q2",
+      2.5203
+    ],
+    [
+      "2019-Q3",
+      4.7719
+    ],
+    [
+      "2019-Q4",
+      7.7788
+    ],
+    [
+      "2020-Q1",
+      14.936
+    ],
+    [
+      "2020-Q2",
+      19.6078
+    ],
+    [
+      "2020-Q3",
+      28.4942
+    ],
+    [
+      "2020-Q4",
+      31.3392
+    ],
+    [
+      "2021-Q1",
+      31.4781
+    ],
+    [
+      "2021-Q2",
+      34.3039
+    ],
+    [
+      "2021-Q3",
+      33.2964
+    ],
+    [
+      "2021-Q4",
+      49.206
+    ],
+    [
+      "2022-Q1",
+      92.2426
+    ],
+    [
+      "2022-Q2",
+      143.2684
+    ],
+    [
+      "2022-Q3",
+      180.5053
+    ],
+    [
+      "2022-Q4",
+      170.4663
+    ],
+    [
+      "2023-Q1",
+      142.6874
+    ],
+    [
+      "2023-Q2",
+      105.4445
+    ],
+    [
+      "2023-Q3",
+      93.7552
+    ],
+    [
+      "2023-Q4",
+      87.2631
+    ],
+    [
+      "2024-Q1",
+      63.3482
+    ],
+    [
+      "2024-Q2",
+      49.6847
+    ],
+    [
+      "2024-Q3",
+      33.2763
+    ],
+    [
+      "2024-Q4",
+      28.5446
+    ],
+    [
+      "2025-Q1",
+      31.8392
+    ],
+    [
+      "2025-Q2",
+      32.6498
+    ],
+    [
+      "2025-Q3",
+      32.1311
+    ],
+    [
+      "2025-Q4",
+      30.6182
+    ],
+    [
+      "2026-Q1",
+      26.7171
+    ],
+    [
+      "2026-Q2",
+      25.1423
+    ]
+  ],
+  "accumulated_since": null
+}

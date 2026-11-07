@@ -1,0 +1,314 @@
+{
+  "schema": "veritane/targets/1",
+  "generated_at": "2026-11-07T09:16:26.873Z",
+  "targets": [
+    {
+      "id": "ea.ecb.hicp",
+      "region": "EA",
+      "setter": "European Central Bank",
+      "applies_to_series": [
+        "ea.inflation.hicp_yoy"
+      ],
+      "measure": "HICP, 12-month rate",
+      "measure_match": "exact",
+      "point": 2,
+      "band": null,
+      "horizon": "over the medium term (symmetric)",
+      "regimes": [
+        {
+          "from": "2021-07-08",
+          "to": null,
+          "point": 2,
+          "band": null,
+          "source_url": "https://www.ecb.europa.eu/press/pr/date/2021/html/ecb.pr210708~dc78cc4b0d.en.html",
+          "quote": "New strategy adopts symmetric 2% inflation target over medium term"
+        }
+      ],
+      "source_url": "https://www.ecb.europa.eu/mopo/strategy/html/index.en.html",
+      "quote": "aiming for 2% inflation over the medium term",
+      "valid_to": null,
+      "note": "Start date from the ECB press release of 8 July 2021 (new strategy). The earlier formulation is not shown.",
+      "verified_on": "2026-11-07",
+      "check": {
+        "ok": true,
+        "checked_at": "2026-11-07T09:16:26.873Z",
+        "last_ok_at": "2026-11-07T09:16:26.873Z",
+        "failures": 0
+      }
+    },
+    {
+      "id": "gb.boe.cpi",
+      "region": "GB",
+      "setter": "Bank of England (target set by the UK Government)",
+      "applies_to_series": [
+        "gb.inflation.cpi_yoy"
+      ],
+      "measure": "CPI, 12-month rate",
+      "measure_match": "exact",
+      "point": 2,
+      "band": null,
+      "horizon": "at all times (symmetric remit)",
+      "regimes": [
+        {
+          "from": null,
+          "to": null,
+          "point": 2,
+          "band": null
+        }
+      ],
+      "source_url": "https://www.bankofengland.co.uk/monetary-policy/inflation",
+      "quote": "The Government has set us a target of keeping inflation at 2%",
+      "valid_to": null,
+      "note": "The page does not state a start date.",
+      "verified_on": "2026-11-07",
+      "check": {
+        "ok": true,
+        "checked_at": "2026-11-07T09:16:26.873Z",
+        "last_ok_at": "2026-11-07T09:16:26.873Z",
+        "failures": 0
+      }
+    },
+    {
+      "id": "no.nb.cpi",
+      "region": "NO",
+      "setter": "Norges Bank (operational target in the Monetary Policy Regulation)",
+      "applies_to_series": [
+        "no.inflation.cpi_yoy"
+      ],
+      "measure": "CPI, 12-month rate",
+      "measure_match": "exact",
+      "point": 2,
+      "band": null,
+      "horizon": "over time (\"close to\")",
+      "regimes": [
+        {
+          "from": null,
+          "to": null,
+          "point": 2,
+          "band": null
+        }
+      ],
+      "source_url": "https://www.norges-bank.no/en/topics/monetary-policy/monetary-policy-strategy/",
+      "quote": "the operational target shall be annual consumer price inflation of close to 2 percent over time",
+      "valid_to": null,
+      "note": "The page does not state when this target took effect, so no start date is shown. The old URL /Mandate-monetary-policy/ redirects here.",
+      "verified_on": "2026-11-07",
+      "check": {
+        "ok": true,
+        "checked_at": "2026-11-07T09:16:26.873Z",
+        "last_ok_at": "2026-11-07T09:16:26.873Z",
+        "failures": 0
+      }
+    },
+    {
+      "id": "ca.boc.cpi",
+      "region": "CA",
+      "setter": "Bank of Canada and Government of Canada",
+      "applies_to_series": [
+        "ca.inflation.cpi_yoy"
+      ],
+      "measure": "CPI, 12-month rate (total CPI)",
+      "measure_match": "exact",
+      "point": 2,
+      "band": [
+        1,
+        3
+      ],
+      "horizon": "over the medium term",
+      "regimes": [
+        {
+          "from": "2022-01",
+          "to": "2026-12",
+          "point": 2,
+          "band": [
+            1,
+            3
+          ]
+        }
+      ],
+      "source_url": "https://www.bankofcanada.ca/rates/indicators/key-variables/inflation-control-target/",
+      "quote": "The target aims to keep total CPI inflation at the 2 per cent midpoint of a target range of 1 to 3 per cent over the medium term",
+      "valid_to": "2026-12-31",
+      "note": "Renewed in December 2021 for the five years to the end of 2026. The page says the framework was renewed for January 2027 to December 2031 but does not state that target here; a curator re-verifies before 2026-12-31.",
+      "verified_on": "2026-11-07",
+      "check": {
+        "ok": true,
+        "checked_at": "2026-11-07T09:16:26.873Z",
+        "last_ok_at": "2026-11-07T09:16:26.873Z",
+        "failures": 0
+      }
+    },
+    {
+      "id": "au.rba.cpi",
+      "region": "AU",
+      "setter": "Reserve Bank of Australia (Statement on the Conduct of Monetary Policy)",
+      "applies_to_series": [
+        "au.inflation.cpi_yoy"
+      ],
+      "measure": "CPI, annual change",
+      "measure_match": "exact",
+      "point": null,
+      "band": [
+        2,
+        3
+      ],
+      "horizon": "flexible inflation targeting",
+      "regimes": [
+        {
+          "from": null,
+          "to": null,
+          "point": null,
+          "band": [
+            2,
+            3
+          ]
+        }
+      ],
+      "source_url": "https://www.rba.gov.au/monetary-policy/about.html",
+      "quote": "The goal of this framework is to maintain consumer price inflation between 2 and 3 per cent",
+      "valid_to": null,
+      "note": "The page does not state a start date.",
+      "verified_on": "2026-11-07",
+      "check": {
+        "ok": true,
+        "checked_at": "2026-11-07T09:16:26.873Z",
+        "last_ok_at": "2026-11-07T09:16:26.873Z",
+        "failures": 0
+      }
+    },
+    {
+      "id": "jp.boj.cpi",
+      "region": "JP",
+      "setter": "Bank of Japan",
+      "applies_to_series": [
+        "jp.inflation.cpi_yoy"
+      ],
+      "measure": "CPI, year-on-year rate",
+      "measure_match": "exact",
+      "point": 2,
+      "band": null,
+      "horizon": "at the earliest possible time",
+      "regimes": [
+        {
+          "from": "2013-01",
+          "to": null,
+          "point": 2,
+          "band": null
+        }
+      ],
+      "source_url": "https://www.boj.or.jp/en/mopo/outline/index.htm",
+      "quote": "the Bank set the \"price stability target\" at 2 percent in terms of the year-on-year rate of change in the consumer price index (CPI) in January 2013",
+      "valid_to": null,
+      "note": "Veritane shows the all-items CPI as reported to the IMF.",
+      "verified_on": "2026-11-07",
+      "check": {
+        "ok": true,
+        "checked_at": "2026-11-07T09:16:26.873Z",
+        "last_ok_at": "2026-11-07T09:16:26.873Z",
+        "failures": 0
+      }
+    },
+    {
+      "id": "za.sarb.cpi",
+      "region": "ZA",
+      "setter": "South African Reserve Bank",
+      "applies_to_series": [
+        "za.inflation.cpi_yoy"
+      ],
+      "measure": "CPI, 12-month rate",
+      "measure_match": "exact",
+      "point": 3,
+      "band": [
+        2,
+        4
+      ],
+      "horizon": "point target with a tolerance band",
+      "regimes": [
+        {
+          "from": "2026-01",
+          "to": null,
+          "point": 3,
+          "band": [
+            2,
+            4
+          ]
+        }
+      ],
+      "source_url": "https://www.resbank.co.za/en/home/what-we-do/monetary-policy",
+      "quote": "The inflation target is 3% with a tolerance band of plus or minus 1 percentage point",
+      "valid_to": null,
+      "note": "The page says the target was revised in 2025 without giving a month, so the band is drawn from January 2026. The earlier 3-6% range is not drawn.",
+      "verified_on": "2026-11-07",
+      "check": {
+        "ok": true,
+        "checked_at": "2026-11-07T09:16:26.873Z",
+        "last_ok_at": "2026-11-07T09:16:26.873Z",
+        "failures": 0
+      }
+    },
+    {
+      "id": "us.fed.pce",
+      "region": "US",
+      "setter": "Federal Reserve (Federal Open Market Committee)",
+      "applies_to_series": [
+        "us.inflation.cpi_yoy"
+      ],
+      "measure": "PCE price index, annual change",
+      "measure_match": "different_measure",
+      "point": 2,
+      "band": null,
+      "horizon": "over the longer run",
+      "regimes": [
+        {
+          "from": null,
+          "to": null,
+          "point": 2,
+          "band": null
+        }
+      ],
+      "source_url": "https://www.federalreserve.gov/faqs/economy_14400.htm",
+      "quote": "inflation of 2 percent over the longer run, as measured by the annual change in the price index for personal consumption expenditures",
+      "valid_to": null,
+      "note": "The goal is for the PCE price index; Veritane shows CPI, so no line is drawn.",
+      "verified_on": "2026-11-07",
+      "check": {
+        "ok": true,
+        "checked_at": "2026-11-07T09:16:26.873Z",
+        "last_ok_at": "2026-11-07T09:16:26.873Z",
+        "failures": 0
+      }
+    },
+    {
+      "id": "se.rb.cpif",
+      "region": "SE",
+      "setter": "Sveriges Riksbank",
+      "applies_to_series": [
+        "se.inflation.cpi_yoy"
+      ],
+      "measure": "CPIF, annual change",
+      "measure_match": "different_measure",
+      "point": 2,
+      "band": null,
+      "horizon": "annual rate of increase",
+      "regimes": [
+        {
+          "from": null,
+          "to": null,
+          "point": 2,
+          "band": null
+        }
+      ],
+      "source_url": "https://www.riksbank.se/en-gb/monetary-policy/the-inflation-target/",
+      "quote": "The target is specified as an annual rate of increase of 2 per cent for the CPIF",
+      "valid_to": null,
+      "note": "The target is for CPIF; Veritane shows CPI, so no line is drawn.",
+      "verified_on": "2026-11-07",
+      "check": {
+        "ok": true,
+        "checked_at": "2026-11-07T09:16:26.873Z",
+        "last_ok_at": "2026-11-07T09:16:26.873Z",
+        "failures": 0
+      }
+    }
+  ]
+}

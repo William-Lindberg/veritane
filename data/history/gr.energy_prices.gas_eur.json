@@ -1,0 +1,105 @@
+{
+  "schema": "veritane/history/1",
+  "id": "gr.energy_prices.gas_eur",
+  "unit": "EUR per kWh",
+  "frequency": "S",
+  "decimals": 4,
+  "storage": "observations",
+  "fingerprint": "nrg_pc_202 EUR EL|ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nrg_pc_202?currency=EUR&currency=PPS&geo=AT&geo=BE&geo=CZ&geo=DE&geo=DK&geo=EL&geo=ES&geo=EU27_2020&geo=FI&geo=FR&geo=HU&geo=IE&geo=IT&geo=NL&geo=NO&geo=PL&geo=PT&geo=RO&geo=SE&lang=EN&nrg_cons=GJ20-199&siec=G3000&tax=I_TAX&unit=KWH",
+  "source": {
+    "name": "Eurostat",
+    "provider_id": "eurostat",
+    "dataset": "nrg_pc_202 EUR EL",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_202/default/table",
+    "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nrg_pc_202?siec=G3000&nrg_cons=GJ20-199&unit=KWH&tax=I_TAX&currency=EUR&currency=PPS&geo=EU27_2020&geo=SE&geo=DK&geo=PL&geo=HU&geo=CZ&geo=DE&geo=FR&geo=IT&geo=ES&geo=NL&geo=BE&geo=AT&geo=IE&geo=PT&geo=FI&geo=EL&geo=RO&geo=NO&sinceTimePeriod=2016-S1&format=JSON&lang=EN",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2016-S1",
+      0.0564
+    ],
+    [
+      "2016-S2",
+      0.0652
+    ],
+    [
+      "2017-S1",
+      0.056
+    ],
+    [
+      "2018-S1",
+      0.0532
+    ],
+    [
+      "2018-S2",
+      0.0654
+    ],
+    [
+      "2019-S1",
+      0.0555
+    ],
+    [
+      "2019-S2",
+      0.0587
+    ],
+    [
+      "2020-S1",
+      0.0483
+    ],
+    [
+      "2020-S2",
+      0.0517
+    ],
+    [
+      "2021-S1",
+      0.0449
+    ],
+    [
+      "2021-S2",
+      0.1014
+    ],
+    [
+      "2022-S1",
+      0.0821
+    ],
+    [
+      "2022-S2",
+      0.1599
+    ],
+    [
+      "2023-S1",
+      0.1187
+    ],
+    [
+      "2023-S2",
+      0.0926
+    ],
+    [
+      "2024-S1",
+      0.0744
+    ],
+    [
+      "2024-S2",
+      0.0945
+    ],
+    [
+      "2025-S1",
+      0.0869
+    ],
+    [
+      "2025-S2",
+      0.0918
+    ],
+    [
+      "2026-S1",
+      0.0771
+    ]
+  ],
+  "flags": {
+    "2017-S1": {
+      "provisional": true
+    }
+  },
+  "accumulated_since": null
+}

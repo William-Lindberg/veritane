@@ -1,0 +1,5 @@
+{
+  "schema": "veritane/reviews/1",
+  "$comment": "Hand-edited by volunteers AFTER publication. One line per checked item: {\"id\":\"<news or alert id>\",\"by\":\"<handle>\",\"at\":\"YYYY-MM-DD\",\"ok\":true} (ok:false plus \"note\" marks \"Source revised\"). The next pipeline run merges it into each item.",
+  "reviews": []
+}

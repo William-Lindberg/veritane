@@ -1,0 +1,116 @@
+{
+  "schema": "veritane/history/1",
+  "id": "jp.unemployment.rate",
+  "unit": "%",
+  "frequency": "M",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "DSD_LFS@DF_IALFS_UNE_M JPN|sdmx.oecd.org/public/rest/data/OECD.SDD.TPS,DSD_LFS@DF_IALFS_UNE_M,1.0/JPN..._Z.Y._T.Y_GE15..M?dimensionAtObservation=AllDimensions",
+  "source": {
+    "name": "OECD",
+    "provider_id": "oecd",
+    "dataset": "DF_IALFS_UNE_M (JPN)",
+    "url": "https://data-explorer.oecd.org/",
+    "api_url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.TPS,DSD_LFS@DF_IALFS_UNE_M,1.0/JPN..._Z.Y._T.Y_GE15..M?lastNObservations=24&format=jsondata&dimensionAtObservation=AllDimensions",
+    "retrieved_at": "2026-11-07T11:33:11Z"
+  },
+  "points": [
+    [
+      "2024-10",
+      2.5
+    ],
+    [
+      "2024-11",
+      2.5
+    ],
+    [
+      "2024-12",
+      2.5
+    ],
+    [
+      "2025-01",
+      2.5
+    ],
+    [
+      "2025-02",
+      2.4
+    ],
+    [
+      "2025-03",
+      2.5
+    ],
+    [
+      "2025-04",
+      2.5
+    ],
+    [
+      "2025-05",
+      2.5
+    ],
+    [
+      "2025-06",
+      2.5
+    ],
+    [
+      "2025-07",
+      2.4
+    ],
+    [
+      "2025-08",
+      2.6
+    ],
+    [
+      "2025-09",
+      2.6
+    ],
+    [
+      "2025-10",
+      2.6
+    ],
+    [
+      "2025-11",
+      2.6
+    ],
+    [
+      "2025-12",
+      2.6
+    ],
+    [
+      "2026-01",
+      2.7
+    ],
+    [
+      "2026-02",
+      2.6
+    ],
+    [
+      "2026-03",
+      2.7
+    ],
+    [
+      "2026-04",
+      2.5
+    ],
+    [
+      "2026-05",
+      2.5
+    ],
+    [
+      "2026-06",
+      2.5
+    ],
+    [
+      "2026-07",
+      2.4
+    ],
+    [
+      "2026-08",
+      2.5
+    ],
+    [
+      "2026-09",
+      2.4
+    ]
+  ],
+  "accumulated_since": null
+}

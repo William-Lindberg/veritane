@@ -1,0 +1,64 @@
+{
+  "schema": "veritane/history/1",
+  "id": "kr.unemployment.annual",
+  "unit": "%",
+  "frequency": "A",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "SL.UEM.TOTL.ZS|api.worldbank.org/v2/country/NOR;IND;IDN;ZAF;MEX;CHN;NGA;KEN;TUR;SAU;EGY;KOR;ARG;PAK;BGD;PHL;VNM;CHL;COL;PER;ISR;POL;HUN;CZE;MYS;THA;NZL;CHE;RUS;USA;GBR;SWE;CAN;AUS;DNK;JPN;BRA;DEU;FRA;ITA;ESP;NLD;BEL;AUT;IRL;PRT;FIN;GRC;ROU/indicator/SL.UEM.TOTL.ZS",
+  "source": {
+    "name": "World Bank",
+    "provider_id": "worldbank",
+    "dataset": "SL.UEM.TOTL.ZS",
+    "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS",
+    "api_url": "https://api.worldbank.org/v2/country/NOR;IND;IDN;ZAF;MEX;CHN;NGA;KEN;TUR;SAU;EGY;KOR;ARG;PAK;BGD;PHL;VNM;CHL;COL;PER;ISR;POL;HUN;CZE;MYS;THA;NZL;CHE;RUS;USA;GBR;SWE;CAN;AUS;DNK;JPN;BRA;DEU;FRA;ITA;ESP;NLD;BEL;AUT;IRL;PRT;FIN;GRC;ROU/indicator/SL.UEM.TOTL.ZS?format=json&date=2015:2026&per_page=2000",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2015",
+      3.546
+    ],
+    [
+      "2016",
+      3.65
+    ],
+    [
+      "2017",
+      3.653
+    ],
+    [
+      "2018",
+      3.824
+    ],
+    [
+      "2019",
+      3.746
+    ],
+    [
+      "2020",
+      3.931
+    ],
+    [
+      "2021",
+      3.639
+    ],
+    [
+      "2022",
+      2.857
+    ],
+    [
+      "2023",
+      2.675
+    ],
+    [
+      "2024",
+      2.784
+    ],
+    [
+      "2025",
+      2.683
+    ]
+  ],
+  "accumulated_since": null
+}

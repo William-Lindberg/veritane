@@ -1,0 +1,116 @@
+{
+  "schema": "veritane/history/1",
+  "id": "dk.policy_rate.current_account",
+  "unit": "%",
+  "frequency": "D",
+  "decimals": 2,
+  "storage": "steps",
+  "fingerprint": "DNRENTD|api.statbank.dk/v1/data/DNRENTD/CSV?INSTRUMENT=OFONAA&LAND=DK&OPGOER=E&lang=en",
+  "source": {
+    "name": "Statistics Denmark",
+    "provider_id": "dst",
+    "dataset": "DNRENTD (Danmarks Nationalbank official rates, via Statistics Denmark)",
+    "url": "https://www.nationalbanken.dk/en",
+    "api_url": "https://api.statbank.dk/v1/data/DNRENTD/CSV?lang=en&INSTRUMENT=OFONAA&LAND=DK&OPGOER=E&Tid=(-n400)",
+    "retrieved_at": "2026-11-07T09:35:09Z"
+  },
+  "points": [
+    [
+      "2016-01-22",
+      0
+    ],
+    [
+      "2021-03-19",
+      -0.5
+    ],
+    [
+      "2021-10-01",
+      -0.6
+    ],
+    [
+      "2022-07-22",
+      -0.1
+    ],
+    [
+      "2022-09-09",
+      0.65
+    ],
+    [
+      "2022-10-28",
+      1.25
+    ],
+    [
+      "2022-12-16",
+      1.75
+    ],
+    [
+      "2023-02-03",
+      2.1
+    ],
+    [
+      "2023-03-17",
+      2.6
+    ],
+    [
+      "2023-05-08",
+      2.85
+    ],
+    [
+      "2023-06-16",
+      3.1
+    ],
+    [
+      "2023-07-28",
+      3.35
+    ],
+    [
+      "2023-09-15",
+      3.6
+    ],
+    [
+      "2024-06-07",
+      3.35
+    ],
+    [
+      "2024-09-13",
+      3.1
+    ],
+    [
+      "2024-10-18",
+      2.85
+    ],
+    [
+      "2024-12-13",
+      2.6
+    ],
+    [
+      "2025-01-31",
+      2.35
+    ],
+    [
+      "2025-03-07",
+      2.1
+    ],
+    [
+      "2025-04-22",
+      1.85
+    ],
+    [
+      "2025-06-06",
+      1.6
+    ],
+    [
+      "2026-06-12",
+      1.85
+    ],
+    [
+      "2026-09-11",
+      2.1
+    ],
+    [
+      "2026-11-05",
+      2.1
+    ]
+  ],
+  "accumulated_since": null
+}

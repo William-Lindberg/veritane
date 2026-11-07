@@ -1,0 +1,869 @@
+{
+  "schema": "veritane/history/1",
+  "id": "be.retail_sales.volume_yoy",
+  "unit": "% y/y",
+  "frequency": "M",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "sts_trtu_m BE|ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_trtu_m?geo=AT&geo=BE&geo=CZ&geo=DE&geo=DK&geo=EA20&geo=EA21&geo=EL&geo=ES&geo=FI&geo=FR&geo=HU&geo=IE&geo=IT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SE&indic_bt=VOL_SLS&lang=EN&nace_r2=G47&s_adj=CA&unit=PCH_SM",
+  "source": {
+    "name": "Eurostat",
+    "provider_id": "eurostat",
+    "dataset": "sts_trtu_m BE",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/sts_trtu_m/default/table",
+    "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_trtu_m?indic_bt=VOL_SLS&nace_r2=G47&s_adj=CA&unit=PCH_SM&geo=EA21&geo=EA20&geo=SE&geo=DK&geo=PL&geo=HU&geo=CZ&geo=DE&geo=FR&geo=IT&geo=ES&geo=NL&geo=BE&geo=AT&geo=IE&geo=PT&geo=FI&geo=EL&geo=RO&sinceTimePeriod=2016-01&format=JSON&lang=EN",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2016-09",
+      -1.5
+    ],
+    [
+      "2016-10",
+      1.2
+    ],
+    [
+      "2016-11",
+      3.3
+    ],
+    [
+      "2016-12",
+      0.7
+    ],
+    [
+      "2017-01",
+      -0.2
+    ],
+    [
+      "2017-02",
+      -0.5
+    ],
+    [
+      "2017-03",
+      1
+    ],
+    [
+      "2017-04",
+      2
+    ],
+    [
+      "2017-05",
+      1.1
+    ],
+    [
+      "2017-06",
+      3.9
+    ],
+    [
+      "2017-07",
+      0.4
+    ],
+    [
+      "2017-08",
+      -1.3
+    ],
+    [
+      "2017-09",
+      2.5
+    ],
+    [
+      "2017-10",
+      -1.6
+    ],
+    [
+      "2017-11",
+      2.6
+    ],
+    [
+      "2017-12",
+      0.2
+    ],
+    [
+      "2018-01",
+      -0.1
+    ],
+    [
+      "2018-02",
+      3.3
+    ],
+    [
+      "2018-03",
+      1.2
+    ],
+    [
+      "2018-04",
+      -0.8
+    ],
+    [
+      "2018-05",
+      0.5
+    ],
+    [
+      "2018-06",
+      -0.9
+    ],
+    [
+      "2018-07",
+      0.7
+    ],
+    [
+      "2018-08",
+      1.2
+    ],
+    [
+      "2018-09",
+      -1.4
+    ],
+    [
+      "2018-10",
+      0.1
+    ],
+    [
+      "2018-11",
+      -0.9
+    ],
+    [
+      "2018-12",
+      -0.6
+    ],
+    [
+      "2019-01",
+      0.7
+    ],
+    [
+      "2019-02",
+      0
+    ],
+    [
+      "2019-03",
+      -0.8
+    ],
+    [
+      "2019-04",
+      2.2
+    ],
+    [
+      "2019-05",
+      0.1
+    ],
+    [
+      "2019-06",
+      1.7
+    ],
+    [
+      "2019-07",
+      1.3
+    ],
+    [
+      "2019-08",
+      0.6
+    ],
+    [
+      "2019-09",
+      1.1
+    ],
+    [
+      "2019-10",
+      1.7
+    ],
+    [
+      "2019-11",
+      2.7
+    ],
+    [
+      "2019-12",
+      2.8
+    ],
+    [
+      "2020-01",
+      1.3
+    ],
+    [
+      "2020-02",
+      1.6
+    ],
+    [
+      "2020-03",
+      -2.7
+    ],
+    [
+      "2020-04",
+      -10
+    ],
+    [
+      "2020-05",
+      3.5
+    ],
+    [
+      "2020-06",
+      6
+    ],
+    [
+      "2020-07",
+      0.6
+    ],
+    [
+      "2020-08",
+      12.1
+    ],
+    [
+      "2020-09",
+      3.7
+    ],
+    [
+      "2020-10",
+      6.8
+    ],
+    [
+      "2020-11",
+      -5
+    ],
+    [
+      "2020-12",
+      5.1
+    ],
+    [
+      "2021-01",
+      5.6
+    ],
+    [
+      "2021-02",
+      9.3
+    ],
+    [
+      "2021-03",
+      13
+    ],
+    [
+      "2021-04",
+      17.9
+    ],
+    [
+      "2021-05",
+      5.9
+    ],
+    [
+      "2021-06",
+      2.8
+    ],
+    [
+      "2021-07",
+      3
+    ],
+    [
+      "2021-08",
+      -5
+    ],
+    [
+      "2021-09",
+      1.5
+    ],
+    [
+      "2021-10",
+      -0.2
+    ],
+    [
+      "2021-11",
+      12.9
+    ],
+    [
+      "2021-12",
+      1.1
+    ],
+    [
+      "2022-01",
+      0
+    ],
+    [
+      "2022-02",
+      -4.4
+    ],
+    [
+      "2022-03",
+      -2.9
+    ],
+    [
+      "2022-04",
+      -1.1
+    ],
+    [
+      "2022-05",
+      -2.4
+    ],
+    [
+      "2022-06",
+      -4.4
+    ],
+    [
+      "2022-07",
+      -2.6
+    ],
+    [
+      "2022-08",
+      -0.5
+    ],
+    [
+      "2022-09",
+      0.6
+    ],
+    [
+      "2022-10",
+      -4.4
+    ],
+    [
+      "2022-11",
+      -4
+    ],
+    [
+      "2022-12",
+      -6.1
+    ],
+    [
+      "2023-01",
+      -6
+    ],
+    [
+      "2023-02",
+      -3.8
+    ],
+    [
+      "2023-03",
+      -5.8
+    ],
+    [
+      "2023-04",
+      -4.9
+    ],
+    [
+      "2023-05",
+      -4.8
+    ],
+    [
+      "2023-06",
+      -2.1
+    ],
+    [
+      "2023-07",
+      -2
+    ],
+    [
+      "2023-08",
+      -6.4
+    ],
+    [
+      "2023-09",
+      -6.7
+    ],
+    [
+      "2023-10",
+      -1.9
+    ],
+    [
+      "2023-11",
+      -0.5
+    ],
+    [
+      "2023-12",
+      -1.8
+    ],
+    [
+      "2024-01",
+      -2.4
+    ],
+    [
+      "2024-02",
+      -2.6
+    ],
+    [
+      "2024-03",
+      -1
+    ],
+    [
+      "2024-04",
+      -1.3
+    ],
+    [
+      "2024-05",
+      -1.5
+    ],
+    [
+      "2024-06",
+      -3.8
+    ],
+    [
+      "2024-07",
+      -1.6
+    ],
+    [
+      "2024-08",
+      1.4
+    ],
+    [
+      "2024-09",
+      2.6
+    ],
+    [
+      "2024-10",
+      0.3
+    ],
+    [
+      "2024-11",
+      -2.9
+    ],
+    [
+      "2024-12",
+      -0.2
+    ],
+    [
+      "2025-01",
+      -0.3
+    ],
+    [
+      "2025-02",
+      0
+    ],
+    [
+      "2025-03",
+      1
+    ],
+    [
+      "2025-04",
+      3.2
+    ],
+    [
+      "2025-05",
+      0.9
+    ],
+    [
+      "2025-06",
+      2.3
+    ],
+    [
+      "2025-07",
+      1.2
+    ],
+    [
+      "2025-08",
+      1.1
+    ],
+    [
+      "2025-09",
+      -0.8
+    ],
+    [
+      "2025-10",
+      -0.1
+    ],
+    [
+      "2025-11",
+      0.5
+    ],
+    [
+      "2025-12",
+      0
+    ],
+    [
+      "2026-01",
+      0.4
+    ],
+    [
+      "2026-02",
+      -0.4
+    ],
+    [
+      "2026-03",
+      1.9
+    ],
+    [
+      "2026-04",
+      -2.1
+    ],
+    [
+      "2026-05",
+      -0.4
+    ],
+    [
+      "2026-06",
+      -0.1
+    ],
+    [
+      "2026-07",
+      0.6
+    ],
+    [
+      "2026-08",
+      0
+    ],
+    [
+      "2026-09",
+      -0.6
+    ]
+  ],
+  "flags": {
+    "2016-09": {
+      "provisional": true
+    },
+    "2016-10": {
+      "provisional": true
+    },
+    "2016-11": {
+      "provisional": true
+    },
+    "2016-12": {
+      "provisional": true
+    },
+    "2017-01": {
+      "provisional": true
+    },
+    "2017-02": {
+      "provisional": true
+    },
+    "2017-03": {
+      "provisional": true
+    },
+    "2017-04": {
+      "provisional": true
+    },
+    "2017-05": {
+      "provisional": true
+    },
+    "2017-06": {
+      "provisional": true
+    },
+    "2017-07": {
+      "provisional": true
+    },
+    "2017-08": {
+      "provisional": true
+    },
+    "2017-09": {
+      "provisional": true
+    },
+    "2017-10": {
+      "provisional": true
+    },
+    "2017-11": {
+      "provisional": true
+    },
+    "2017-12": {
+      "provisional": true
+    },
+    "2018-01": {
+      "provisional": true
+    },
+    "2018-02": {
+      "provisional": true
+    },
+    "2018-03": {
+      "provisional": true
+    },
+    "2018-04": {
+      "provisional": true
+    },
+    "2018-05": {
+      "provisional": true
+    },
+    "2018-06": {
+      "provisional": true
+    },
+    "2018-07": {
+      "provisional": true
+    },
+    "2018-08": {
+      "provisional": true
+    },
+    "2018-09": {
+      "provisional": true
+    },
+    "2018-10": {
+      "provisional": true
+    },
+    "2018-11": {
+      "provisional": true
+    },
+    "2018-12": {
+      "provisional": true
+    },
+    "2019-01": {
+      "provisional": true
+    },
+    "2019-02": {
+      "provisional": true
+    },
+    "2019-03": {
+      "provisional": true
+    },
+    "2019-04": {
+      "provisional": true
+    },
+    "2019-05": {
+      "provisional": true
+    },
+    "2019-06": {
+      "provisional": true
+    },
+    "2019-07": {
+      "provisional": true
+    },
+    "2019-08": {
+      "provisional": true
+    },
+    "2019-09": {
+      "provisional": true
+    },
+    "2019-10": {
+      "provisional": true
+    },
+    "2019-11": {
+      "provisional": true
+    },
+    "2019-12": {
+      "provisional": true
+    },
+    "2020-01": {
+      "provisional": true
+    },
+    "2020-02": {
+      "provisional": true
+    },
+    "2020-03": {
+      "provisional": true
+    },
+    "2020-04": {
+      "provisional": true
+    },
+    "2020-05": {
+      "provisional": true
+    },
+    "2020-06": {
+      "provisional": true
+    },
+    "2020-07": {
+      "provisional": true
+    },
+    "2020-08": {
+      "provisional": true
+    },
+    "2020-09": {
+      "provisional": true
+    },
+    "2020-10": {
+      "provisional": true
+    },
+    "2020-11": {
+      "provisional": true
+    },
+    "2020-12": {
+      "provisional": true
+    },
+    "2021-01": {
+      "provisional": true
+    },
+    "2021-02": {
+      "provisional": true
+    },
+    "2021-03": {
+      "provisional": true
+    },
+    "2021-04": {
+      "provisional": true
+    },
+    "2021-05": {
+      "provisional": true
+    },
+    "2021-06": {
+      "provisional": true
+    },
+    "2021-07": {
+      "provisional": true
+    },
+    "2021-08": {
+      "provisional": true
+    },
+    "2021-09": {
+      "provisional": true
+    },
+    "2021-10": {
+      "provisional": true
+    },
+    "2021-11": {
+      "provisional": true
+    },
+    "2021-12": {
+      "provisional": true
+    },
+    "2022-01": {
+      "provisional": true
+    },
+    "2022-02": {
+      "provisional": true
+    },
+    "2022-03": {
+      "provisional": true
+    },
+    "2022-04": {
+      "provisional": true
+    },
+    "2022-05": {
+      "provisional": true
+    },
+    "2022-06": {
+      "provisional": true
+    },
+    "2022-07": {
+      "provisional": true
+    },
+    "2022-08": {
+      "provisional": true
+    },
+    "2022-09": {
+      "provisional": true
+    },
+    "2022-10": {
+      "provisional": true
+    },
+    "2022-11": {
+      "provisional": true
+    },
+    "2022-12": {
+      "provisional": true
+    },
+    "2023-01": {
+      "provisional": true
+    },
+    "2023-02": {
+      "provisional": true
+    },
+    "2023-03": {
+      "provisional": true
+    },
+    "2023-04": {
+      "provisional": true
+    },
+    "2023-05": {
+      "provisional": true
+    },
+    "2023-06": {
+      "provisional": true
+    },
+    "2023-07": {
+      "provisional": true
+    },
+    "2023-08": {
+      "provisional": true
+    },
+    "2023-09": {
+      "provisional": true
+    },
+    "2023-10": {
+      "provisional": true
+    },
+    "2023-11": {
+      "provisional": true
+    },
+    "2023-12": {
+      "provisional": true
+    },
+    "2024-01": {
+      "provisional": true
+    },
+    "2024-02": {
+      "provisional": true
+    },
+    "2024-03": {
+      "provisional": true
+    },
+    "2024-04": {
+      "provisional": true
+    },
+    "2024-05": {
+      "provisional": true
+    },
+    "2024-06": {
+      "provisional": true
+    },
+    "2024-07": {
+      "provisional": true
+    },
+    "2024-08": {
+      "provisional": true
+    },
+    "2024-09": {
+      "provisional": true
+    },
+    "2024-10": {
+      "provisional": true
+    },
+    "2024-11": {
+      "provisional": true
+    },
+    "2024-12": {
+      "provisional": true
+    },
+    "2025-01": {
+      "provisional": true
+    },
+    "2025-02": {
+      "provisional": true
+    },
+    "2025-03": {
+      "provisional": true
+    },
+    "2025-04": {
+      "provisional": true
+    },
+    "2025-05": {
+      "provisional": true
+    },
+    "2025-06": {
+      "provisional": true
+    },
+    "2025-07": {
+      "provisional": true
+    },
+    "2025-08": {
+      "provisional": true
+    },
+    "2025-09": {
+      "provisional": true
+    },
+    "2025-10": {
+      "provisional": true
+    },
+    "2025-11": {
+      "provisional": true
+    },
+    "2025-12": {
+      "provisional": true
+    },
+    "2026-01": {
+      "provisional": true
+    },
+    "2026-02": {
+      "provisional": true
+    },
+    "2026-03": {
+      "provisional": true
+    },
+    "2026-04": {
+      "provisional": true
+    },
+    "2026-05": {
+      "provisional": true
+    },
+    "2026-06": {
+      "provisional": true
+    },
+    "2026-07": {
+      "provisional": true
+    },
+    "2026-08": {
+      "provisional": true
+    },
+    "2026-09": {
+      "provisional": true
+    }
+  },
+  "accumulated_since": null
+}

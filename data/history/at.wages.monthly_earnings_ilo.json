@@ -1,0 +1,60 @@
+{
+  "schema": "veritane/history/1",
+  "id": "at.wages.monthly_earnings_ilo",
+  "unit": "USD per month",
+  "frequency": "A",
+  "decimals": 0,
+  "storage": "observations",
+  "fingerprint": "DF_EAR_EMTA_SEX_CUR_NB AUT.A.EAR_EMTA_NB.SEX_T.CUR_TYPE_USD|sdmx.ilo.org/rest/data/ILO,DF_EAR_EMTA_SEX_CUR_NB/USA+GBR+SWE+CAN+AUS+JPN+NOR+DNK+BRA+IND+IDN+ZAF+MEX+CHN+NGA+KEN+TUR+SAU+EGY+KOR+ARG+PAK+BGD+PHL+VNM+CHL+COL+PER+ISR+POL+HUN+CZE+MYS+THA+NZL+CHE+RUS+DEU+FRA+ITA+ESP+NLD+BEL+AUT+IRL+PRT+FIN+GRC+ROU.A.EAR_EMTA_NB.SEX_T.CUR_TYPE_USD",
+  "source": {
+    "name": "International Labour Organization, ILOSTAT",
+    "provider_id": "ilo",
+    "dataset": "DF_EAR_EMTA_SEX_CUR_NB AUT",
+    "url": "https://ilostat.ilo.org/data/",
+    "api_url": "https://sdmx.ilo.org/rest/data/ILO,DF_EAR_EMTA_SEX_CUR_NB/USA+GBR+SWE+CAN+AUS+JPN+NOR+DNK+BRA+IND+IDN+ZAF+MEX+CHN+NGA+KEN+TUR+SAU+EGY+KOR+ARG+PAK+BGD+PHL+VNM+CHL+COL+PER+ISR+POL+HUN+CZE+MYS+THA+NZL+CHE+RUS+DEU+FRA+ITA+ESP+NLD+BEL+AUT+IRL+PRT+FIN+GRC+ROU.A.EAR_EMTA_NB.SEX_T.CUR_TYPE_USD?startPeriod=2016",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2016",
+      4153.849
+    ],
+    [
+      "2017",
+      4288.678
+    ],
+    [
+      "2018",
+      4565.565
+    ],
+    [
+      "2019",
+      4452.49
+    ],
+    [
+      "2020",
+      4753.423
+    ],
+    [
+      "2021",
+      5057.051
+    ],
+    [
+      "2022",
+      4482.002
+    ],
+    [
+      "2023",
+      4855.474
+    ],
+    [
+      "2024",
+      5328.183
+    ],
+    [
+      "2025",
+      6155.034
+    ]
+  ],
+  "accumulated_since": null
+}

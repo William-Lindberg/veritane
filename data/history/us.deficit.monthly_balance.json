@@ -1,0 +1,116 @@
+{
+  "schema": "veritane/history/1",
+  "id": "us.deficit.monthly_balance",
+  "unit": "USD bn",
+  "frequency": "M",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "Monthly Treasury Statement, table 1|api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/mts/mts_table_1",
+  "source": {
+    "name": "U.S. Treasury, Fiscal Data",
+    "provider_id": "fiscaldata",
+    "dataset": "Monthly Treasury Statement, table 1",
+    "url": "https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/",
+    "api_url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/mts/mts_table_1?sort=-record_date&page%5Bsize%5D=40",
+    "retrieved_at": "2026-11-07T09:39:29Z"
+  },
+  "points": [
+    [
+      "2024-10",
+      257.45
+    ],
+    [
+      "2024-11",
+      366.7628
+    ],
+    [
+      "2024-12",
+      86.7316
+    ],
+    [
+      "2025-01",
+      128.6402
+    ],
+    [
+      "2025-02",
+      307.0172
+    ],
+    [
+      "2025-03",
+      160.5283
+    ],
+    [
+      "2025-04",
+      -258.3999
+    ],
+    [
+      "2025-05",
+      315.6517
+    ],
+    [
+      "2025-06",
+      -27.0097
+    ],
+    [
+      "2025-07",
+      291.1427
+    ],
+    [
+      "2025-08",
+      344.7919
+    ],
+    [
+      "2025-09",
+      -197.9377
+    ],
+    [
+      "2025-10",
+      284.3327
+    ],
+    [
+      "2025-11",
+      173.2772
+    ],
+    [
+      "2025-12",
+      144.7521
+    ],
+    [
+      "2026-01",
+      94.6152
+    ],
+    [
+      "2026-02",
+      307.5014
+    ],
+    [
+      "2026-03",
+      164.1003
+    ],
+    [
+      "2026-04",
+      -215.0241
+    ],
+    [
+      "2026-05",
+      292.6483
+    ],
+    [
+      "2026-06",
+      120.3053
+    ],
+    [
+      "2026-07",
+      432.2857
+    ],
+    [
+      "2026-08",
+      166.7788
+    ],
+    [
+      "2026-09",
+      26.9003
+    ]
+  ],
+  "accumulated_since": null
+}

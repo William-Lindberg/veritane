@@ -1,0 +1,60 @@
+{
+  "schema": "veritane/history/1",
+  "id": "it.wages.avg_annual_oecd",
+  "unit": "USD per year",
+  "frequency": "A",
+  "decimals": 0,
+  "storage": "observations",
+  "fingerprint": "DSD_EARNINGS@AV_AN_WAGE ITA.WG.USD_PPP.A.Q|sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_EARNINGS@AV_AN_WAGE,/.WG.USD_PPP.A.Q..",
+  "source": {
+    "name": "OECD, Average annual wages",
+    "provider_id": "oecd",
+    "dataset": "AV_AN_WAGE ITA USD_PPP",
+    "url": "https://data-explorer.oecd.org/",
+    "api_url": "https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_EARNINGS@AV_AN_WAGE,/.WG.USD_PPP.A.Q..?startPeriod=2016&format=csvfile",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2016",
+      56266.177
+    ],
+    [
+      "2017",
+      55769.491
+    ],
+    [
+      "2018",
+      55440.262
+    ],
+    [
+      "2019",
+      55581.059
+    ],
+    [
+      "2020",
+      52901.27
+    ],
+    [
+      "2021",
+      55576.962
+    ],
+    [
+      "2022",
+      53954.951
+    ],
+    [
+      "2023",
+      52732.366
+    ],
+    [
+      "2024",
+      53243.036
+    ],
+    [
+      "2025",
+      53864.157
+    ]
+  ],
+  "accumulated_since": null
+}

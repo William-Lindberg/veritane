@@ -1,0 +1,7 @@
+{
+  "schema": "veritane/revisions/1",
+  "generated_at": "2026-11-07T09:24:08Z",
+  "method": "Each run compares every period the source returned with the previous public/data/history file for that series. A change in the value at the number of decimals Veritane shows is recorded. Fixings such as exchange reference rates and projections are not compared.",
+  "template_version": "revision-templates/1",
+  "entries": []
+}

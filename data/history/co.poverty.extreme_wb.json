@@ -1,0 +1,60 @@
+{
+  "schema": "veritane/history/1",
+  "id": "co.poverty.extreme_wb",
+  "unit": "% of population",
+  "frequency": "A",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "SI.POV.DDAY COL|api.worldbank.org/v2/country/WLD;EMU;USA;GBR;SWE;CAN;AUS;JPN;NOR;DNK;BRA;IND;IDN;ZAF;MEX;CHN;NGA;KEN;TUR;SAU;EGY;KOR;ARG;PAK;BGD;PHL;VNM;CHL;COL;PER;ISR;POL;HUN;CZE;MYS;THA;NZL;CHE;RUS;DEU;FRA;ITA;ESP;NLD;BEL;AUT;IRL;PRT;FIN;GRC;ROU/indicator/SI.POV.DDAY",
+  "source": {
+    "name": "World Bank, World Development Indicators",
+    "provider_id": "worldbank",
+    "dataset": "SI.POV.DDAY",
+    "url": "https://data.worldbank.org/indicator/SI.POV.DDAY",
+    "api_url": "https://api.worldbank.org/v2/country/WLD;EMU;USA;GBR;SWE;CAN;AUS;JPN;NOR;DNK;BRA;IND;IDN;ZAF;MEX;CHN;NGA;KEN;TUR;SAU;EGY;KOR;ARG;PAK;BGD;PHL;VNM;CHL;COL;PER;ISR;POL;HUN;CZE;MYS;THA;NZL;CHE;RUS;DEU;FRA;ITA;ESP;NLD;BEL;AUT;IRL;PRT;FIN;GRC;ROU/indicator/SI.POV.DDAY?format=json&date=2015:2026&per_page=2000",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2015",
+      10.2
+    ],
+    [
+      "2016",
+      10.1
+    ],
+    [
+      "2017",
+      9.5
+    ],
+    [
+      "2018",
+      9.8
+    ],
+    [
+      "2019",
+      11.3
+    ],
+    [
+      "2020",
+      15.8
+    ],
+    [
+      "2021",
+      11.2
+    ],
+    [
+      "2022",
+      9.3
+    ],
+    [
+      "2023",
+      8.6
+    ],
+    [
+      "2024",
+      8.5
+    ]
+  ],
+  "accumulated_since": null
+}

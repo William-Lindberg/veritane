@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Veritane">
+  <title>Veritane</title>
+  <!-- the lens: a noisy line passes through it and comes out clear -->
+  <circle cx="32" cy="32" r="26" fill="none" stroke="currentColor" stroke-width="4"/>
+  <path d="M12 36 C15 30 17 44 20 38 C23 32 25 42 28 36 C30 33 31 34 32 34 L50 34" fill="none" stroke="#0B7A75" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="50" cy="34" r="4" fill="#0B7A75"/>
+</svg>

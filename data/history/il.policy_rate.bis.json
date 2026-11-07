@@ -1,0 +1,100 @@
+{
+  "schema": "veritane/history/1",
+  "id": "il.policy_rate.bis",
+  "unit": "%",
+  "frequency": "D",
+  "decimals": 2,
+  "storage": "steps",
+  "fingerprint": "WS_CBPOL IL|stats.bis.org/api/v2/data/dataflow/BIS/WS_CBPOL/1.0/D.JP+BR+IN+ID+MX+CN+SA+TR+KR+IL+CL+CO+PE+MY+TH+PL+HU+CZ+CH+NZ+RU+US+XM+GB+CA+AU+SE+NO+DK+ZA",
+  "source": {
+    "name": "Bank of Israel via BIS",
+    "provider_id": "bis",
+    "dataset": "WS_CBPOL IL",
+    "url": "https://data.bis.org/",
+    "api_url": "https://stats.bis.org/api/v2/data/dataflow/BIS/WS_CBPOL/1.0/D.JP+BR+IN+ID+MX+CN+SA+TR+KR+IL+CL+CO+PE+MY+TH+PL+HU+CZ+CH+NZ+RU+US+XM+GB+CA+AU+SE+NO+DK+ZA?lastNObservations=1&format=csv",
+    "retrieved_at": "2026-11-07T09:24:08Z"
+  },
+  "points": [
+    [
+      "2016-01",
+      0.1
+    ],
+    [
+      "2018-11",
+      0.25
+    ],
+    [
+      "2020-04",
+      0.1
+    ],
+    [
+      "2022-04",
+      0.35
+    ],
+    [
+      "2022-05",
+      0.75
+    ],
+    [
+      "2022-07",
+      1.25
+    ],
+    [
+      "2022-08",
+      2
+    ],
+    [
+      "2022-10",
+      2.75
+    ],
+    [
+      "2022-11",
+      3.25
+    ],
+    [
+      "2023-01",
+      3.75
+    ],
+    [
+      "2023-02",
+      4.25
+    ],
+    [
+      "2023-04",
+      4.5
+    ],
+    [
+      "2023-05",
+      4.75
+    ],
+    [
+      "2024-01",
+      4.5
+    ],
+    [
+      "2025-11",
+      4.25
+    ],
+    [
+      "2026-01",
+      4
+    ],
+    [
+      "2026-05",
+      3.75
+    ],
+    [
+      "2026-07",
+      3.5
+    ],
+    [
+      "2026-09",
+      3.25
+    ],
+    [
+      "2026-10-31",
+      3.25
+    ]
+  ],
+  "accumulated_since": null
+}

@@ -1,0 +1,1 @@
+function e(e,t,n){if(!e||e===`en`||!n)return t;for(let[t,r]of Object.entries(n))if(RegExp(`\\.${e}\\.tsx?$`).test(t))return r;return t}export{e as t};

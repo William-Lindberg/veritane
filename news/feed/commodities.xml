@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veritane News: Commodities</title>
+    <link>https://william-lindberg.github.io/veritane/news/</link>
+    <atom:link href="https://william-lindberg.github.io/veritane/news/feed/commodities.xml" rel="self" type="application/rss+xml" />
+    <description>Commodities: official figures and announcements, generated automatically from official sources. Education, not advice.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Nov 2026 11:33:11 GMT</lastBuildDate>
+    <item>
+      <title>World: Oil (Brent), October 2026</title>
+      <link>https://william-lindberg.github.io/veritane/news/0688a38e7a1bc4aa/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/news/0688a38e7a1bc4aa/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <description>New data: The average price of Brent crude oil was $125.00 a barrel in October 2026, up from $116.80 a barrel in September 2026. Source: World Bank Commodity Price Data (Pink Sheet). Source: World Bank Commodity Price Data (Pink Sheet) (https://www.worldbank.org/en/research/commodity-markets). Generated automatically from the source; review status: not yet reviewed.</description>
+      <source url="https://www.worldbank.org/en/research/commodity-markets">World Bank Commodity Price Data (Pink Sheet)</source>
+      <category>Commodities</category>
+    </item>
+    <item>
+      <title>World: Natural gas (Europe), October 2026</title>
+      <link>https://william-lindberg.github.io/veritane/news/0cf9fd9b5cadd3fb/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/news/0cf9fd9b5cadd3fb/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <description>New data: The average price of natural gas in Europe was $28.50 per million British thermal units in October 2026, up from $25.42 per million British thermal units in September 2026. Source: World Bank Commodity Price Data (Pink Sheet). Source: World Bank Commodity Price Data (Pink Sheet) (https://www.worldbank.org/en/research/commodity-markets). Generated automatically from the source; review status: not yet reviewed.</description>
+      <source url="https://www.worldbank.org/en/research/commodity-markets">World Bank Commodity Price Data (Pink Sheet)</source>
+      <category>Commodities</category>
+    </item>
+    <item>
+      <title>World: Wheat (US hard red winter), October 2026</title>
+      <link>https://william-lindberg.github.io/veritane/news/20b05dbe88ead999/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/news/20b05dbe88ead999/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <description>New data: The average price of US hard red winter wheat was $317.0 a tonne in October 2026, down from $347.0 a tonne in September 2026. Source: World Bank Commodity Price Data (Pink Sheet). Source: World Bank Commodity Price Data (Pink Sheet) (https://www.worldbank.org/en/research/commodity-markets). Generated automatically from the source; review status: not yet reviewed.</description>
+      <source url="https://www.worldbank.org/en/research/commodity-markets">World Bank Commodity Price Data (Pink Sheet)</source>
+      <category>Commodities</category>
+    </item>
+    <item>
+      <title>World: Gold, October 2026</title>
+      <link>https://william-lindberg.github.io/veritane/news/270d7a9e171a38e9/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/news/270d7a9e171a38e9/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <description>New data: The average price of gold was $4,105 a troy ounce in October 2026, down from $4,319 a troy ounce in September 2026. Source: World Bank Commodity Price Data (Pink Sheet). Source: World Bank Commodity Price Data (Pink Sheet) (https://www.worldbank.org/en/research/commodity-markets). Generated automatically from the source; review status: not yet reviewed.</description>
+      <source url="https://www.worldbank.org/en/research/commodity-markets">World Bank Commodity Price Data (Pink Sheet)</source>
+      <category>Commodities</category>
+    </item>
+  </channel>
+</rss>

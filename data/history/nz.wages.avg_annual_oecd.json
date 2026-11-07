@@ -1,0 +1,60 @@
+{
+  "schema": "veritane/history/1",
+  "id": "nz.wages.avg_annual_oecd",
+  "unit": "USD per year",
+  "frequency": "A",
+  "decimals": 0,
+  "storage": "observations",
+  "fingerprint": "DSD_EARNINGS@AV_AN_WAGE NZL.WG.USD_PPP.A.Q|sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_EARNINGS@AV_AN_WAGE,/.WG.USD_PPP.A.Q..",
+  "source": {
+    "name": "OECD, Average annual wages",
+    "provider_id": "oecd",
+    "dataset": "AV_AN_WAGE NZL USD_PPP",
+    "url": "https://data-explorer.oecd.org/",
+    "api_url": "https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_EARNINGS@AV_AN_WAGE,/.WG.USD_PPP.A.Q..?startPeriod=2016&format=csvfile",
+    "retrieved_at": "2026-11-07T10:55:58Z"
+  },
+  "points": [
+    [
+      "2016",
+      54442.809
+    ],
+    [
+      "2017",
+      54816.497
+    ],
+    [
+      "2018",
+      56182.612
+    ],
+    [
+      "2019",
+      57833.991
+    ],
+    [
+      "2020",
+      59356.605
+    ],
+    [
+      "2021",
+      62033.736
+    ],
+    [
+      "2022",
+      60826.985
+    ],
+    [
+      "2023",
+      60115.109
+    ],
+    [
+      "2024",
+      60468.692
+    ],
+    [
+      "2025",
+      60896.229
+    ]
+  ],
+  "accumulated_since": null
+}

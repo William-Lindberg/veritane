@@ -1,0 +1,60 @@
+{
+  "schema": "veritane/history/1",
+  "id": "jp.wages.avg_annual_oecd",
+  "unit": "USD per year",
+  "frequency": "A",
+  "decimals": 0,
+  "storage": "observations",
+  "fingerprint": "DSD_EARNINGS@AV_AN_WAGE JPN.WG.USD_PPP.A.Q|sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_EARNINGS@AV_AN_WAGE,/.WG.USD_PPP.A.Q..",
+  "source": {
+    "name": "OECD, Average annual wages",
+    "provider_id": "oecd",
+    "dataset": "AV_AN_WAGE JPN USD_PPP",
+    "url": "https://data-explorer.oecd.org/",
+    "api_url": "https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_EARNINGS@AV_AN_WAGE,/.WG.USD_PPP.A.Q..?startPeriod=2016&format=csvfile",
+    "retrieved_at": "2026-11-07T10:55:58Z"
+  },
+  "points": [
+    [
+      "2016",
+      51358.827
+    ],
+    [
+      "2017",
+      51067.532
+    ],
+    [
+      "2018",
+      51826.955
+    ],
+    [
+      "2019",
+      52069.774
+    ],
+    [
+      "2020",
+      51293.862
+    ],
+    [
+      "2021",
+      51822.753
+    ],
+    [
+      "2022",
+      51129.005
+    ],
+    [
+      "2023",
+      49970.485
+    ],
+    [
+      "2024",
+      50421.41
+    ],
+    [
+      "2025",
+      50182.646
+    ]
+  ],
+  "accumulated_since": null
+}

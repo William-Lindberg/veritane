@@ -1,0 +1,60 @@
+{
+  "schema": "veritane/history/1",
+  "id": "co.minimum_wage.real_annual_oecd",
+  "unit": "USD per year",
+  "frequency": "A",
+  "decimals": 0,
+  "storage": "observations",
+  "fingerprint": "DSD_EARNINGS@RMW COL.SM_WG.USD_PPP.A.Q|sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_EARNINGS@RMW,/.SM_WG.USD_PPP.A.Q..",
+  "source": {
+    "name": "OECD, Real minimum wages",
+    "provider_id": "oecd",
+    "dataset": "RMW COL USD_PPP",
+    "url": "https://data-explorer.oecd.org/",
+    "api_url": "https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_EARNINGS@RMW,/.SM_WG.USD_PPP.A.Q..?startPeriod=2016&format=csvfile",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2016",
+      9460.3625
+    ],
+    [
+      "2017",
+      9703.9519
+    ],
+    [
+      "2018",
+      9953.9141
+    ],
+    [
+      "2019",
+      10192.0713
+    ],
+    [
+      "2020",
+      10537.3611
+    ],
+    [
+      "2021",
+      10537.8644
+    ],
+    [
+      "2022",
+      10527.4503
+    ],
+    [
+      "2023",
+      10929.2049
+    ],
+    [
+      "2024",
+      11488.9316
+    ],
+    [
+      "2025",
+      11965.1082
+    ]
+  ],
+  "accumulated_since": null
+}

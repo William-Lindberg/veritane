@@ -1,0 +1,100 @@
+{
+  "schema": "veritane/history/1",
+  "id": "se.policy_rate.policy_rate",
+  "unit": "%",
+  "frequency": "D",
+  "decimals": 2,
+  "storage": "steps",
+  "fingerprint": "SECBREPOEFF|api.riksbank.se/swea/v1/Observations/SECBREPOEFF",
+  "source": {
+    "name": "Sveriges Riksbank",
+    "provider_id": "riksbank",
+    "dataset": "SECBREPOEFF (policy rate, effective)",
+    "url": "https://www.riksbank.se/en-gb/statistics/",
+    "api_url": "https://api.riksbank.se/swea/v1/Observations/SECBREPOEFF/2025-10-03",
+    "retrieved_at": "2026-11-07T09:27:57Z"
+  },
+  "points": [
+    [
+      "2016-02-17",
+      -0.5
+    ],
+    [
+      "2019-01-09",
+      -0.25
+    ],
+    [
+      "2020-01-08",
+      0
+    ],
+    [
+      "2022-05-04",
+      0.25
+    ],
+    [
+      "2022-07-06",
+      0.75
+    ],
+    [
+      "2022-09-21",
+      1.75
+    ],
+    [
+      "2022-11-30",
+      2.5
+    ],
+    [
+      "2023-02-15",
+      3
+    ],
+    [
+      "2023-05-03",
+      3.5
+    ],
+    [
+      "2023-07-05",
+      3.75
+    ],
+    [
+      "2023-09-27",
+      4
+    ],
+    [
+      "2024-05-15",
+      3.75
+    ],
+    [
+      "2024-08-21",
+      3.5
+    ],
+    [
+      "2024-10-02",
+      3.25
+    ],
+    [
+      "2024-11-13",
+      2.75
+    ],
+    [
+      "2025-01-08",
+      2.5
+    ],
+    [
+      "2025-02-05",
+      2.25
+    ],
+    [
+      "2025-06-25",
+      2
+    ],
+    [
+      "2025-10-01",
+      1.75
+    ],
+    [
+      "2026-11-06",
+      1.75
+    ]
+  ],
+  "accumulated_since": null
+}

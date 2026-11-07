@@ -1,0 +1,168 @@
+{
+  "schema": "veritane/history/1",
+  "id": "cl.policy_rate.bis",
+  "unit": "%",
+  "frequency": "D",
+  "decimals": 2,
+  "storage": "steps",
+  "fingerprint": "WS_CBPOL CL|stats.bis.org/api/v2/data/dataflow/BIS/WS_CBPOL/1.0/D.JP+BR+IN+ID+MX+CN+SA+TR+KR+IL+CL+CO+PE+MY+TH+PL+HU+CZ+CH+NZ+RU+US+XM+GB+CA+AU+SE+NO+DK+ZA",
+  "source": {
+    "name": "Central Bank of Chile via BIS",
+    "provider_id": "bis",
+    "dataset": "WS_CBPOL CL",
+    "url": "https://data.bis.org/",
+    "api_url": "https://stats.bis.org/api/v2/data/dataflow/BIS/WS_CBPOL/1.0/D.JP+BR+IN+ID+MX+CN+SA+TR+KR+IL+CL+CO+PE+MY+TH+PL+HU+CZ+CH+NZ+RU+US+XM+GB+CA+AU+SE+NO+DK+ZA?lastNObservations=1&format=csv",
+    "retrieved_at": "2026-11-07T09:24:08Z"
+  },
+  "points": [
+    [
+      "2016-01",
+      3.5
+    ],
+    [
+      "2017-01",
+      3.25
+    ],
+    [
+      "2017-03",
+      3
+    ],
+    [
+      "2017-04",
+      2.75
+    ],
+    [
+      "2017-05",
+      2.5
+    ],
+    [
+      "2018-10",
+      2.75
+    ],
+    [
+      "2019-01",
+      3
+    ],
+    [
+      "2019-06",
+      2.5
+    ],
+    [
+      "2019-09",
+      2
+    ],
+    [
+      "2019-10",
+      1.75
+    ],
+    [
+      "2020-03",
+      1
+    ],
+    [
+      "2020-04",
+      0.5
+    ],
+    [
+      "2021-07",
+      0.75
+    ],
+    [
+      "2021-09",
+      1.5
+    ],
+    [
+      "2021-10",
+      2.75
+    ],
+    [
+      "2021-12",
+      4
+    ],
+    [
+      "2022-01",
+      5.5
+    ],
+    [
+      "2022-03",
+      7
+    ],
+    [
+      "2022-05",
+      8.25
+    ],
+    [
+      "2022-06",
+      9
+    ],
+    [
+      "2022-07",
+      9.75
+    ],
+    [
+      "2022-09",
+      10.75
+    ],
+    [
+      "2022-10",
+      11.25
+    ],
+    [
+      "2023-07",
+      10.25
+    ],
+    [
+      "2023-09",
+      9.5
+    ],
+    [
+      "2023-10",
+      9
+    ],
+    [
+      "2023-12",
+      8.25
+    ],
+    [
+      "2024-02",
+      7.25
+    ],
+    [
+      "2024-04",
+      6.5
+    ],
+    [
+      "2024-05",
+      6
+    ],
+    [
+      "2024-06",
+      5.75
+    ],
+    [
+      "2024-09",
+      5.5
+    ],
+    [
+      "2024-10",
+      5.25
+    ],
+    [
+      "2024-12",
+      5
+    ],
+    [
+      "2025-07",
+      4.75
+    ],
+    [
+      "2025-12",
+      4.5
+    ],
+    [
+      "2026-11-03",
+      4.5
+    ]
+  ],
+  "accumulated_since": null
+}

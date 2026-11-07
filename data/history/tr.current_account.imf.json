@@ -1,0 +1,64 @@
+{
+  "schema": "veritane/history/1",
+  "id": "tr.current_account.imf",
+  "unit": "% of GDP",
+  "frequency": "A",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "WEO BCA_NGDPD TUR|www.imf.org/external/datamapper/api/v1/BCA_NGDPD",
+  "source": {
+    "name": "IMF, World Economic Outlook",
+    "provider_id": "imf",
+    "dataset": "WEO BCA_NGDPD TUR",
+    "url": "https://www.imf.org/en/Publications/WEO",
+    "api_url": "https://www.imf.org/external/datamapper/api/v1/BCA_NGDPD",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2015",
+      -2.5
+    ],
+    [
+      "2016",
+      -2.5
+    ],
+    [
+      "2017",
+      -4.1
+    ],
+    [
+      "2018",
+      -1.8
+    ],
+    [
+      "2019",
+      1.9
+    ],
+    [
+      "2020",
+      -4.2
+    ],
+    [
+      "2021",
+      -0.9
+    ],
+    [
+      "2022",
+      -5
+    ],
+    [
+      "2023",
+      -3.6
+    ],
+    [
+      "2024",
+      -1
+    ],
+    [
+      "2025",
+      -1.9
+    ]
+  ],
+  "accumulated_since": null
+}

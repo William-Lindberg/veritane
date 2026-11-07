@@ -1,0 +1,64 @@
+{
+  "schema": "veritane/history/1",
+  "id": "fi.trade_balance.goods_services_wb",
+  "unit": "% of GDP",
+  "frequency": "A",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "NE.RSB.GNFS.ZS FIN|api.worldbank.org/v2/country/EMU;USA;GBR;SWE;CAN;AUS;JPN;NOR;DNK;BRA;IND;IDN;ZAF;MEX;CHN;NGA;KEN;TUR;SAU;EGY;KOR;ARG;PAK;BGD;PHL;VNM;CHL;COL;PER;ISR;POL;HUN;CZE;MYS;THA;NZL;CHE;RUS;DEU;FRA;ITA;ESP;NLD;BEL;AUT;IRL;PRT;FIN;GRC;ROU/indicator/NE.RSB.GNFS.ZS",
+  "source": {
+    "name": "World Bank, World Development Indicators",
+    "provider_id": "worldbank",
+    "dataset": "NE.RSB.GNFS.ZS",
+    "url": "https://data.worldbank.org/indicator/NE.RSB.GNFS.ZS",
+    "api_url": "https://api.worldbank.org/v2/country/EMU;USA;GBR;SWE;CAN;AUS;JPN;NOR;DNK;BRA;IND;IDN;ZAF;MEX;CHN;NGA;KEN;TUR;SAU;EGY;KOR;ARG;PAK;BGD;PHL;VNM;CHL;COL;PER;ISR;POL;HUN;CZE;MYS;THA;NZL;CHE;RUS;DEU;FRA;ITA;ESP;NLD;BEL;AUT;IRL;PRT;FIN;GRC;ROU/indicator/NE.RSB.GNFS.ZS?format=json&date=2015:2026&per_page=2000",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2015",
+      -0.3987
+    ],
+    [
+      "2016",
+      -1.0555
+    ],
+    [
+      "2017",
+      0.3938
+    ],
+    [
+      "2018",
+      -0.8452
+    ],
+    [
+      "2019",
+      0.6725
+    ],
+    [
+      "2020",
+      0.2441
+    ],
+    [
+      "2021",
+      0.0543
+    ],
+    [
+      "2022",
+      -1.993
+    ],
+    [
+      "2023",
+      0.0227
+    ],
+    [
+      "2024",
+      0.3554
+    ],
+    [
+      "2025",
+      1.2574
+    ]
+  ],
+  "accumulated_since": null
+}

@@ -1,0 +1,1094 @@
+{
+  "schema": "veritane/outlets/1",
+  "version": "outlets/1",
+  "criteria_url": "/about/outlet-policy/",
+  "outlets": [
+    {
+      "id": "xinhua",
+      "name": "Xinhua",
+      "hosts": [
+        "xinhuanet.com",
+        "news.cn",
+        "english.news.cn"
+      ],
+      "country": "CN",
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "type": "wire",
+      "ownership": "public",
+      "owner": "State Council of China",
+      "owner_group": "state-council-of-china",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T10:30:00Z"
+    },
+    {
+      "id": "anadolu",
+      "name": "Anadolu Agency",
+      "hosts": [
+        "aa.com.tr"
+      ],
+      "country": "TR",
+      "languages": [
+        "tr",
+        "en"
+      ],
+      "type": "wire",
+      "ownership": "public",
+      "owner": "Government of Türkiye",
+      "owner_group": "government-of-turkiye",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T08:15:00Z"
+    },
+    {
+      "id": "cna_tw",
+      "name": "Focus Taiwan (CNA)",
+      "hosts": [
+        "focustaiwan.tw",
+        "cna.com.tw"
+      ],
+      "country": "TW",
+      "languages": [
+        "en",
+        "zh"
+      ],
+      "type": "wire",
+      "ownership": "public",
+      "owner": "Central News Agency (government-funded)",
+      "owner_group": "central-news-agency",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T11:30:00Z"
+    },
+    {
+      "id": "antara",
+      "name": "ANTARA",
+      "hosts": [
+        "antaranews.com",
+        "en.antaranews.com"
+      ],
+      "country": "ID",
+      "languages": [
+        "id",
+        "en"
+      ],
+      "type": "wire",
+      "ownership": "public",
+      "owner": "Government of Indonesia",
+      "owner_group": "government-of-indonesia",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T12:45:00Z"
+    },
+    {
+      "id": "dw",
+      "name": "Deutsche Welle",
+      "hosts": [
+        "dw.com"
+      ],
+      "country": "DE",
+      "languages": [
+        "de",
+        "en",
+        "es"
+      ],
+      "type": "international",
+      "ownership": "public",
+      "owner": "Federal Republic of Germany (statutory)",
+      "owner_group": "federal-republic-of-germany",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T09:00:00Z"
+    },
+    {
+      "id": "aljazeera",
+      "name": "Al Jazeera",
+      "hosts": [
+        "aljazeera.com",
+        "aljazeera.net"
+      ],
+      "country": "QA",
+      "languages": [
+        "en",
+        "ar"
+      ],
+      "type": "international",
+      "ownership": "public",
+      "owner": "Al Jazeera Media Network (state of Qatar)",
+      "owner_group": "al-jazeera-media-network",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T06:45:00Z"
+    },
+    {
+      "id": "npr",
+      "name": "NPR",
+      "hosts": [
+        "npr.org"
+      ],
+      "country": "US",
+      "languages": [
+        "en"
+      ],
+      "type": "public_media",
+      "ownership": "trust_or_nonprofit",
+      "owner": "NPR (non-profit)",
+      "owner_group": "npr",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T11:15:00Z"
+    },
+    {
+      "id": "fortune",
+      "name": "Fortune",
+      "hosts": [
+        "fortune.com"
+      ],
+      "country": "US",
+      "languages": [
+        "en"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Fortune Media",
+      "owner_group": "fortune-media",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T11:15:00Z"
+    },
+    {
+      "id": "cbc",
+      "name": "CBC / Radio-Canada",
+      "hosts": [
+        "cbc.ca",
+        "radio-canada.ca"
+      ],
+      "country": "CA",
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "type": "public_media",
+      "ownership": "public",
+      "owner": "CBC/Radio-Canada (statutory)",
+      "owner_group": "cbc-radio-canada",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T11:30:00Z"
+    },
+    {
+      "id": "globeandmail",
+      "name": "The Globe and Mail",
+      "hosts": [
+        "theglobeandmail.com"
+      ],
+      "country": "CA",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Woodbridge",
+      "owner_group": "woodbridge",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T11:45:00Z"
+    },
+    {
+      "id": "guardian",
+      "name": "The Guardian",
+      "hosts": [
+        "theguardian.com"
+      ],
+      "country": "GB",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "trust_or_nonprofit",
+      "owner": "Scott Trust",
+      "owner_group": "scott-trust",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T13:00:00Z"
+    },
+    {
+      "id": "mirror",
+      "name": "Daily Mirror",
+      "hosts": [
+        "mirror.co.uk"
+      ],
+      "country": "GB",
+      "languages": [
+        "en"
+      ],
+      "type": "popular",
+      "ownership": "private",
+      "owner": "Reach plc",
+      "owner_group": "reach-plc",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T12:00:00Z"
+    },
+    {
+      "id": "rte",
+      "name": "RTÉ",
+      "hosts": [
+        "rte.ie"
+      ],
+      "country": "IE",
+      "languages": [
+        "en"
+      ],
+      "type": "public_media",
+      "ownership": "public",
+      "owner": "RTÉ (statutory)",
+      "owner_group": "rte",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T07:00:00Z"
+    },
+    {
+      "id": "irishtimes",
+      "name": "The Irish Times",
+      "hosts": [
+        "irishtimes.com"
+      ],
+      "country": "IE",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "trust_or_nonprofit",
+      "owner": "The Irish Times Trust",
+      "owner_group": "the-irish-times-trust",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T08:30:00Z"
+    },
+    {
+      "id": "elpais",
+      "name": "El País",
+      "hosts": [
+        "elpais.com"
+      ],
+      "country": "ES",
+      "languages": [
+        "es",
+        "en",
+        "pt"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "PRISA",
+      "owner_group": "prisa",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T07:15:00Z"
+    },
+    {
+      "id": "swissinfo",
+      "name": "SWI swissinfo.ch",
+      "hosts": [
+        "swissinfo.ch"
+      ],
+      "country": "CH",
+      "languages": [
+        "en",
+        "de",
+        "fr",
+        "es"
+      ],
+      "type": "international",
+      "ownership": "public",
+      "owner": "SRG SSR",
+      "owner_group": "srg-ssr",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T12:15:00Z"
+    },
+    {
+      "id": "hurriyetdaily",
+      "name": "Hürriyet Daily News",
+      "hosts": [
+        "hurriyetdailynews.com"
+      ],
+      "country": "TR",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Demirören",
+      "owner_group": "demiroren",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T07:15:00Z"
+    },
+    {
+      "id": "arabnews",
+      "name": "Arab News",
+      "hosts": [
+        "arabnews.com"
+      ],
+      "country": "SA",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "SRMG",
+      "owner_group": "srmg",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T12:00:00Z"
+    },
+    {
+      "id": "aawsat",
+      "name": "Asharq Al-Awsat",
+      "hosts": [
+        "aawsat.com"
+      ],
+      "country": "SA",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "SRMG",
+      "owner_group": "srmg",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T09:45:00Z"
+    },
+    {
+      "id": "punch",
+      "name": "Punch",
+      "hosts": [
+        "punchng.com"
+      ],
+      "country": "NG",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Punch Nigeria",
+      "owner_group": "punch-nigeria",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T06:45:00Z"
+    },
+    {
+      "id": "vanguard",
+      "name": "Vanguard",
+      "hosts": [
+        "vanguardngr.com"
+      ],
+      "country": "NG",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Vanguard Media",
+      "owner_group": "vanguard-media",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T11:45:00Z"
+    },
+    {
+      "id": "graphic",
+      "name": "Graphic Online",
+      "hosts": [
+        "graphic.com.gh"
+      ],
+      "country": "GH",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "public",
+      "owner": "Graphic Communications Group (state)",
+      "owner_group": "graphic-communications-group",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T12:30:00Z"
+    },
+    {
+      "id": "koreaherald",
+      "name": "The Korea Herald",
+      "hosts": [
+        "koreaherald.com"
+      ],
+      "country": "KR",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Herald Corporation",
+      "owner_group": "herald-corporation",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T10:45:00Z"
+    },
+    {
+      "id": "globaltimes",
+      "name": "Global Times",
+      "hosts": [
+        "globaltimes.cn"
+      ],
+      "country": "CN",
+      "languages": [
+        "en",
+        "zh"
+      ],
+      "type": "general",
+      "ownership": "public",
+      "owner": "People's Daily",
+      "owner_group": "cpc",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T09:00:00Z"
+    },
+    {
+      "id": "thehindu",
+      "name": "The Hindu",
+      "hosts": [
+        "thehindu.com"
+      ],
+      "country": "IN",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "THG Publishing",
+      "owner_group": "thg",
+      "status": "listed",
+      "exclude_paths": [
+        "^/brandhub/"
+      ],
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T09:15:00Z"
+    },
+    {
+      "id": "businessline",
+      "name": "BusinessLine",
+      "hosts": [
+        "thehindubusinessline.com"
+      ],
+      "country": "IN",
+      "languages": [
+        "en"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "THG Publishing",
+      "owner_group": "thg",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 11,
+      "last_seen": "2026-11-07T11:45:00Z"
+    },
+    {
+      "id": "mint",
+      "name": "Mint",
+      "hosts": [
+        "livemint.com"
+      ],
+      "country": "IN",
+      "languages": [
+        "en"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "HT Media",
+      "owner_group": "ht-media",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 25,
+      "last_seen": "2026-11-07T12:45:00Z"
+    },
+    {
+      "id": "hindustantimes",
+      "name": "Hindustan Times",
+      "hosts": [
+        "hindustantimes.com"
+      ],
+      "country": "IN",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "HT Media",
+      "owner_group": "ht-media",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T13:00:00Z"
+    },
+    {
+      "id": "et",
+      "name": "The Economic Times",
+      "hosts": [
+        "economictimes.indiatimes.com"
+      ],
+      "country": "IN",
+      "languages": [
+        "en"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Bennett, Coleman & Co.",
+      "owner_group": "bennett-coleman",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 19,
+      "last_seen": "2026-11-07T12:15:00Z"
+    },
+    {
+      "id": "toi",
+      "name": "The Times of India",
+      "hosts": [
+        "timesofindia.indiatimes.com"
+      ],
+      "country": "IN",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Bennett, Coleman & Co.",
+      "owner_group": "bennett-coleman",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 7,
+      "last_seen": "2026-11-07T12:45:00Z"
+    },
+    {
+      "id": "bs",
+      "name": "Business Standard",
+      "hosts": [
+        "business-standard.com"
+      ],
+      "country": "IN",
+      "languages": [
+        "en"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Business Standard Pvt",
+      "owner_group": "business-standard-pvt",
+      "status": "listed",
+      "exclude_paths": [
+        "^/content/press-releases"
+      ],
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 5,
+      "last_seen": "2026-11-07T11:15:00Z"
+    },
+    {
+      "id": "moneycontrol",
+      "name": "Moneycontrol",
+      "hosts": [
+        "moneycontrol.com"
+      ],
+      "country": "IN",
+      "languages": [
+        "en"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Network18 (Reliance)",
+      "owner_group": "network18",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 7,
+      "last_seen": "2026-11-07T12:15:00Z"
+    },
+    {
+      "id": "tribune_pk",
+      "name": "The Express Tribune",
+      "hosts": [
+        "tribune.com.pk"
+      ],
+      "country": "PK",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Lakson Group",
+      "owner_group": "lakson-group",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 6,
+      "last_seen": "2026-11-07T09:00:00Z"
+    },
+    {
+      "id": "dailystar_bd",
+      "name": "The Daily Star (BD)",
+      "hosts": [
+        "thedailystar.net"
+      ],
+      "country": "BD",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Mediaworld",
+      "owner_group": "mediaworld",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T11:45:00Z"
+    },
+    {
+      "id": "jakartapost",
+      "name": "The Jakarta Post",
+      "hosts": [
+        "thejakartapost.com"
+      ],
+      "country": "ID",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Bina Media Tenggara",
+      "owner_group": "bina-media-tenggara",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T08:00:00Z"
+    },
+    {
+      "id": "thestar_my",
+      "name": "The Star (MY)",
+      "hosts": [
+        "thestar.com.my"
+      ],
+      "country": "MY",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Star Media Group",
+      "owner_group": "star-media-group",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T11:15:00Z"
+    },
+    {
+      "id": "fmt",
+      "name": "Free Malaysia Today",
+      "hosts": [
+        "freemalaysiatoday.com"
+      ],
+      "country": "MY",
+      "languages": [
+        "en",
+        "ms"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "FMT Media",
+      "owner_group": "fmt-media",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T11:30:00Z"
+    },
+    {
+      "id": "straitstimes",
+      "name": "The Straits Times",
+      "hosts": [
+        "straitstimes.com"
+      ],
+      "country": "SG",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "trust_or_nonprofit",
+      "owner": "SPH Media Trust",
+      "owner_group": "sph-media-trust",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T09:00:00Z"
+    },
+    {
+      "id": "bt_sg",
+      "name": "The Business Times",
+      "hosts": [
+        "businesstimes.com.sg"
+      ],
+      "country": "SG",
+      "languages": [
+        "en"
+      ],
+      "type": "business",
+      "ownership": "trust_or_nonprofit",
+      "owner": "SPH Media Trust",
+      "owner_group": "sph-media-trust",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T09:30:00Z"
+    },
+    {
+      "id": "cna_sg",
+      "name": "CNA",
+      "hosts": [
+        "channelnewsasia.com"
+      ],
+      "country": "SG",
+      "languages": [
+        "en"
+      ],
+      "type": "public_media",
+      "ownership": "public",
+      "owner": "Mediacorp (state-owned)",
+      "owner_group": "mediacorp",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T07:30:00Z"
+    },
+    {
+      "id": "philstar",
+      "name": "The Philippine Star",
+      "hosts": [
+        "philstar.com"
+      ],
+      "country": "PH",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "MediaQuest",
+      "owner_group": "mediaquest",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T08:15:00Z"
+    },
+    {
+      "id": "rappler",
+      "name": "Rappler",
+      "hosts": [
+        "rappler.com"
+      ],
+      "country": "PH",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Rappler",
+      "owner_group": "rappler",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T10:30:00Z"
+    },
+    {
+      "id": "vietnamnews",
+      "name": "Viet Nam News",
+      "hosts": [
+        "vietnamnews.vn"
+      ],
+      "country": "VN",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "public",
+      "owner": "Vietnam News Agency",
+      "owner_group": "vietnam-news-agency",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T10:30:00Z"
+    },
+    {
+      "id": "abc_au",
+      "name": "ABC News (AU)",
+      "hosts": [
+        "abc.net.au"
+      ],
+      "country": "AU",
+      "languages": [
+        "en"
+      ],
+      "type": "public_media",
+      "ownership": "public",
+      "owner": "ABC (statutory)",
+      "owner_group": "abc",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T07:00:00Z"
+    },
+    {
+      "id": "smh",
+      "name": "The Sydney Morning Herald",
+      "hosts": [
+        "smh.com.au"
+      ],
+      "country": "AU",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Nine Entertainment",
+      "owner_group": "nine",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T10:00:00Z"
+    }
+  ],
+  "blocked": [
+    {
+      "domain": "iraqsun.com",
+      "reason": "press_release_rehosting",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "pakistantelegraph.com",
+      "reason": "press_release_rehosting",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "austinglobe.com",
+      "reason": "press_release_rehosting",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "cambodiantimes.com",
+      "reason": "press_release_rehosting",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "russiaherald.com",
+      "reason": "press_release_rehosting",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "irishsun.com",
+      "reason": "press_release_rehosting",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "shanghainews.net",
+      "reason": "press_release_rehosting",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "calcuttanews.net",
+      "reason": "press_release_rehosting",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "thailandnews.net",
+      "reason": "press_release_rehosting",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "israelherald.com",
+      "reason": "press_release_rehosting",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "taiwansun.com",
+      "reason": "press_release_rehosting",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "iranherald.com",
+      "reason": "press_release_rehosting",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "centralasiatimes.com",
+      "reason": "press_release_rehosting",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "neworleanssun.com",
+      "reason": "press_release_rehosting",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "tennesseedaily.com",
+      "reason": "press_release_rehosting",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "itbusinessnet.com",
+      "reason": "press_release_rehosting",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "prnewswire.com",
+      "reason": "press_wire",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "globenewswire.com",
+      "reason": "press_wire",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "businesswire.com",
+      "reason": "press_wire",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "einpresswire.com",
+      "reason": "press_wire",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "openpr.com",
+      "reason": "press_wire",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "accessnewswire.com",
+      "reason": "press_wire",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "newsfilecorp.com",
+      "reason": "press_wire",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "dailypolitical.com",
+      "reason": "automated_content",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "themarketsdaily.com",
+      "reason": "automated_content",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "tickerreport.com",
+      "reason": "automated_content",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "bignewsnetwork.com",
+      "reason": "press_release_rehosting",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "sanantoniopost.com",
+      "reason": "press_release_rehosting",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "mexicostar.com",
+      "reason": "press_release_rehosting",
+      "since": "2026-11-07"
+    },
+    {
+      "domain": "indiagazette.com",
+      "reason": "press_release_rehosting",
+      "since": "2026-11-07"
+    }
+  ],
+  "changes": [
+    {
+      "date": "2026-11-07",
+      "change": "initial list of 321 outlets approved (D-1)",
+      "by": "founder"
+    }
+  ]
+}

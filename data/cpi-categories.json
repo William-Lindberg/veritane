@@ -1,0 +1,2968 @@
+{
+  "schema": "veritane/cpi-categories/1",
+  "generated_at": "2026-11-07T12:54:42Z",
+  "categories": [
+    "housing",
+    "food",
+    "transport",
+    "energy",
+    "health",
+    "leisure",
+    "other"
+  ],
+  "notes": [
+    "Each category is one published price index chosen so that no item is counted twice: housing excludes household energy, and household energy excludes motor fuel (which is part of transport).",
+    "\"Other\" uses the all-items rate."
+  ],
+  "areas": [
+    {
+      "code": "EA",
+      "name": "Euro area",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 3.8,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 3,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": 1,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 9.8,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 6.9,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 3.5,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 1.8,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 3.8,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for EA, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "EU",
+      "name": "European Union",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 3.8,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EU27_2020&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 3.4,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EU27_2020&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": 0.6,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EU27_2020&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 9.7,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EU27_2020&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 6.2,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EU27_2020&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 3.6,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EU27_2020&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 2.2,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EU27_2020&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 3.8,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EU27_2020&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for EU27_2020, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 3.6,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=AT&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 4.2,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=AT&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": 0.3,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=AT&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 10.8,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=AT&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 0.1,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=AT&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 4,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=AT&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 3.2,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=AT&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 3.6,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=AT&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for AT, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 4.5,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=BE&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 3.6,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=BE&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": -0.4,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=BE&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 8.9,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=BE&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 20.7,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=BE&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 3.6,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=BE&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 4.1,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=BE&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 4.5,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=BE&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for BE, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 5.6,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=BG&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 7.5,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=BG&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": 1.6,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=BG&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 16.4,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=BG&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 4.9,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=BG&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 3,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=BG&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 7.7,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=BG&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 5.6,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=BG&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for BG, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "HR",
+      "name": "Croatia",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 4.3,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=HR&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 10.9,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=HR&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": -0.5,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=HR&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 13.8,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=HR&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 10.8,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=HR&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 4.7,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=HR&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 5.6,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=HR&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 4.3,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=HR&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for HR, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 5.2,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CY&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 3.6,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CY&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": 4,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CY&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 13.3,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CY&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 11.8,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CY&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 1.1,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CY&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 4.1,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CY&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 5.2,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CY&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for CY, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "CZ",
+      "name": "Czechia",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 2.2,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CZ&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 5.2,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CZ&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": -3.8,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CZ&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 13.1,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CZ&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": -5.9,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CZ&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 3.8,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CZ&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 2.7,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CZ&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 2.2,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CZ&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for CZ, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 2.1,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=DK&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 2.3,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=DK&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": -2.1,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=DK&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 7.7,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=DK&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": -1.3,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=DK&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 1.4,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=DK&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 2.7,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=DK&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 2.1,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=DK&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for DK, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "EE",
+      "name": "Estonia",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 3.1,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EE&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 7.3,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EE&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": -1.2,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EE&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 12.4,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EE&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 7.5,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EE&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 2.6,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EE&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": -1.3,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EE&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 3.1,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EE&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for EE, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 2.7,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=FI&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 1.2,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=FI&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": 2,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=FI&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 9.4,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=FI&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": -2,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=FI&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 2.5,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=FI&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 1.6,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=FI&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 2.7,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=FI&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for FI, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 3.4,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=FR&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 2.2,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=FR&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": 1.5,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=FR&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 10.1,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=FR&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 7.3,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=FR&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 0.9,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=FR&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 0,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=FR&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 3.4,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=FR&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for FR, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 3.3,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=DE&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 2.4,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=DE&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": 0.4,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=DE&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 9.8,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=DE&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": -4.2,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=DE&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 6,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=DE&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 1.5,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=DE&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 3.3,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=DE&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for DE, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 5.1,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EL&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 5.3,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EL&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": -0.2,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EL&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 6.8,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EL&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 18,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EL&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 1.4,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EL&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 2,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EL&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 5.1,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EL&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for EL, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 2.1,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=HU&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 3.8,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=HU&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": -4.6,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=HU&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 3.9,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=HU&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 2.6,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=HU&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 3.6,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=HU&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 3.4,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=HU&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 2.1,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=HU&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for HU, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "IS",
+      "name": "Iceland",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 5.4,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IS&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 6.4,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IS&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": 4.1,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IS&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 11.3,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IS&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 6.6,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IS&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 5.4,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IS&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 4.3,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IS&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 5.4,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IS&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for IS, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 3.8,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IE&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 5.9,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IE&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": 0.3,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IE&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 7.9,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IE&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 6,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IE&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 1.8,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IE&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 1.6,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IE&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 3.8,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IE&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for IE, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 4.2,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IT&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 3.8,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IT&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": 1.7,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IT&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 8.5,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IT&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 19.1,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IT&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 1.3,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IT&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 1.3,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IT&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 4.2,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=IT&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for IT, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "LV",
+      "name": "Latvia",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 3,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LV&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 4.4,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LV&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": -4.8,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LV&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 12.8,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LV&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 9.3,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LV&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 3,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LV&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 5.4,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LV&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 3,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LV&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for LV, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "LT",
+      "name": "Lithuania",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 6.1,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LT&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 8,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LT&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": -1.8,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LT&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 17.7,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LT&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 24.9,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LT&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 5.3,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LT&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 5,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LT&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 6.1,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LT&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for LT, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 5.2,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LU&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 2.4,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LU&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": 1.5,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LU&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 17.4,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LU&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": -20.9,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LU&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 1.7,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LU&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 3.2,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LU&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 5.2,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=LU&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for LU, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "MT",
+      "name": "Malta",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 2.4,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=MT&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 4.9,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=MT&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": 2.5,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=MT&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 2.9,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=MT&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 0,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=MT&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 2.9,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=MT&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 3.6,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=MT&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 2.4,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=MT&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for MT, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 3,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=NL&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 4.4,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=NL&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": -1.8,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=NL&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 9.2,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=NL&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 4.2,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=NL&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 1.3,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=NL&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 3,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=NL&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 3,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=NL&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for NL, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 3.4,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=NO&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 4,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=NO&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": 2.5,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=NO&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 4.7,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=NO&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 2.8,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=NO&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 5,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=NO&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 4.1,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=NO&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 3.4,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=NO&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for NO, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 4,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=PL&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 6.1,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=PL&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": -0.3,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=PL&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 8.9,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=PL&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 6.3,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=PL&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 4.8,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=PL&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 5.1,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=PL&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 4,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=PL&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for PL, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 3.6,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=PT&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 5.2,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=PT&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": 2.4,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=PT&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 8.5,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=PT&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 1,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=PT&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 2.9,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=PT&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 0.3,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=PT&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 3.6,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=PT&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for PT, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 6.5,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=RO&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 16.7,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=RO&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": 2.6,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=RO&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 14.6,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=RO&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 3.5,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=RO&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 4.8,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=RO&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 9.1,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=RO&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 6.5,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=RO&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for RO, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 3,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SK&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 6.3,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SK&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": -3.2,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SK&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 9.1,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SK&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 11.1,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SK&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 4.2,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SK&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 4.2,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SK&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 3,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SK&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for SK, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "SI",
+      "name": "Slovenia",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 3.7,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SI&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 8.7,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SI&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": -0.5,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SI&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 7.2,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SI&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 8.2,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SI&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 3.1,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SI&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 3.6,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SI&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 3.7,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SI&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for SI, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 5,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=ES&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 3.1,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=ES&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": 2.7,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=ES&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 11.3,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=ES&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 9.9,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=ES&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 2,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=ES&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 4.2,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=ES&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 5,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=ES&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for ES, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 1,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SE&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 3.4,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SE&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": -6.3,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SE&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 4,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SE&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 13.2,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SE&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": -5.9,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SE&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 2.1,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SE&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 1,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=SE&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for SE, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 1.2,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CH&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 1.4,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CH&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": -0.6,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CH&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 3.3,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CH&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": -2.6,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CH&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 0.2,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CH&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 5.2,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CH&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 1.2,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=CH&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for CH, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "TR",
+      "name": "Türkiye",
+      "provider": "eurostat",
+      "measure": "HICP",
+      "measure_name": "Harmonised index of consumer prices (HICP), annual rate of change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "prc_hicp_minr",
+      "seasonal_adjustment": "unknown",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 29.7,
+        "code": "TOTAL",
+        "label": "Total",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=TR&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+      },
+      "categories": {
+        "housing": {
+          "value": 41.7,
+          "code": "SERV_HOUS",
+          "label": "Services related to housing",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=TR&coicop18=SERV_HOUS&time=2026-09&format=JSON&lang=EN"
+        },
+        "food": {
+          "value": 27.6,
+          "code": "CP01",
+          "label": "Food and non-alcoholic beverages",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=TR&coicop18=CP01&time=2026-09&format=JSON&lang=EN"
+        },
+        "transport": {
+          "value": 35,
+          "code": "CP07",
+          "label": "Transport",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=TR&coicop18=CP07&time=2026-09&format=JSON&lang=EN"
+        },
+        "energy": {
+          "value": 41,
+          "code": "ELC_GAS",
+          "label": "Electricity, gas, solid fuels and heat energy",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=TR&coicop18=ELC_GAS&time=2026-09&format=JSON&lang=EN"
+        },
+        "health": {
+          "value": 43.3,
+          "code": "CP06",
+          "label": "Health",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=TR&coicop18=CP06&time=2026-09&format=JSON&lang=EN"
+        },
+        "leisure": {
+          "value": 23.5,
+          "code": "CP09",
+          "label": "Recreation, sport and culture",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=TR&coicop18=CP09&time=2026-09&format=JSON&lang=EN"
+        },
+        "other": {
+          "value": 29.7,
+          "code": "TOTAL",
+          "label": "Total",
+          "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=TR&coicop18=TOTAL&time=2026-09&format=JSON&lang=EN"
+        }
+      },
+      "check_hint": "Each check link returns one value for TR, 2026-09; it is under \"value\".",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "dataset": "prc_hicp_minr (HICP, ECOICOP v2)",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+        "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-11-04T11:00:00+0100",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "provider": "ons",
+      "measure": "CPI",
+      "measure_name": "Consumer prices index (CPI), 12-month rate",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "MM23",
+      "seasonal_adjustment": "not_adjusted",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 3.5,
+        "code": "D7G7",
+        "label": "CPI ANNUAL RATE 00: ALL ITEMS 2015=100",
+        "check_url": "https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7g7/mm23/data",
+        "check_hint": "In the JSON, open \"months\" and find \"date\": \"2026 SEP\"."
+      },
+      "categories": {
+        "housing": {
+          "value": 4.2,
+          "code": "D7CE",
+          "label": "CPI INDEX 04.1 : ACTUAL RENTS FOR HOUSING 2015=100",
+          "check_url": "https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7ce/mm23/data",
+          "check_hint": "In the JSON, open \"months\" and find \"date\": \"2026 SEP\", and \"date\": \"2025 SEP\".",
+          "derivation": {
+            "formula": "(index ÷ index 12 months earlier − 1) × 100, rounded to 1 decimal",
+            "inputs": [
+              {
+                "period": "2025-09",
+                "value": "133.4"
+              },
+              {
+                "period": "2026-09",
+                "value": "139.0"
+              }
+            ]
+          }
+        },
+        "food": {
+          "value": 1.3,
+          "code": "D7G8",
+          "label": "CPI ANNUAL RATE 01 : FOOD AND NON-ALCOHOLIC BEVERAGES 2015=100",
+          "check_url": "https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7g8/mm23/data",
+          "check_hint": "In the JSON, open \"months\" and find \"date\": \"2026 SEP\"."
+        },
+        "transport": {
+          "value": 6.6,
+          "code": "D7GE",
+          "label": "CPI ANNUAL RATE 07 : TRANSPORT 2015=100",
+          "check_url": "https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7ge/mm23/data",
+          "check_hint": "In the JSON, open \"months\" and find \"date\": \"2026 SEP\"."
+        },
+        "energy": {
+          "value": 7.8,
+          "code": "D7CH",
+          "label": "CPI INDEX 04.5 : ELECTRICITY, GAS AND OTHER FUELS 2015=100",
+          "check_url": "https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7ch/mm23/data",
+          "check_hint": "In the JSON, open \"months\" and find \"date\": \"2026 SEP\", and \"date\": \"2025 SEP\".",
+          "derivation": {
+            "formula": "(index ÷ index 12 months earlier − 1) × 100, rounded to 1 decimal",
+            "inputs": [
+              {
+                "period": "2025-09",
+                "value": "171.3"
+              },
+              {
+                "period": "2026-09",
+                "value": "184.6"
+              }
+            ]
+          }
+        },
+        "health": {
+          "value": 3.5,
+          "code": "D7GD",
+          "label": "CPI ANNUAL RATE 06 : HEALTH 2015=100",
+          "check_url": "https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7gd/mm23/data",
+          "check_hint": "In the JSON, open \"months\" and find \"date\": \"2026 SEP\"."
+        },
+        "leisure": {
+          "value": 2.3,
+          "code": "D7GG",
+          "label": "CPI ANNUAL RATE 09 : RECREATION & CULTURE 2015=100",
+          "check_url": "https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7gg/mm23/data",
+          "check_hint": "In the JSON, open \"months\" and find \"date\": \"2026 SEP\"."
+        },
+        "other": {
+          "value": 3.5,
+          "code": "D7G7",
+          "label": "CPI ANNUAL RATE 00: ALL ITEMS 2015=100",
+          "check_url": "https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7g7/mm23/data",
+          "check_hint": "In the JSON, open \"months\" and find \"date\": \"2026 SEP\"."
+        }
+      },
+      "notes": [
+        "Housing is the ONS index for actual rents (04.1); owner-occupiers’ housing costs are not part of CPI."
+      ],
+      "source": {
+        "name": "Office for National Statistics",
+        "provider_id": "ons",
+        "dataset": "MM23 (Consumer price inflation time series)",
+        "url": "https://www.ons.gov.uk/economy/inflationandpriceindices",
+        "api_url": "https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7g7/mm23/data",
+        "license": {
+          "name": "Open Government Licence v3.0",
+          "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "publisher_updated": "2026-10-20T23:00:00.000Z",
+        "retrieved_at": "2026-11-07T10:59:10Z"
+      },
+      "retrieved_at": "2026-11-07T10:59:10Z"
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "provider": "bls",
+      "measure": "CPI-U",
+      "measure_name": "Consumer price index for all urban consumers (CPI-U), U.S. city average, 12-month change",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "dataset_id": "CPI-U (CU)",
+      "seasonal_adjustment": "not_adjusted",
+      "adjustment_text": null,
+      "basis": "y/y",
+      "headline": {
+        "value": 3.7,
+        "code": "CUUR0000SA0",
+        "label": "All items",
+        "check_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/CUUR0000SA0",
+        "check_hint": "Find year 2026, period M09, and year 2025, period M09.",
+        "derivation": {
+          "formula": "(index ÷ index 12 months earlier − 1) × 100, rounded to 1 decimal",
+          "inputs": [
+            {
+              "period": "2025-09",
+              "value": "324.800"
+            },
+            {
+              "period": "2026-09",
+              "value": "336.940"
+            }
+          ]
+        }
+      },
+      "categories": {
+        "housing": {
+          "value": 3.2,
+          "code": "CUUR0000SAH1",
+          "label": "Shelter",
+          "check_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/CUUR0000SAH1",
+          "check_hint": "Find year 2026, period M09, and year 2025, period M09.",
+          "derivation": {
+            "formula": "(index ÷ index 12 months earlier − 1) × 100, rounded to 1 decimal",
+            "inputs": [
+              {
+                "period": "2025-09",
+                "value": "418.598"
+              },
+              {
+                "period": "2026-09",
+                "value": "432.092"
+              }
+            ]
+          }
+        },
+        "food": {
+          "value": 2.5,
+          "code": "CUUR0000SAF1",
+          "label": "Food",
+          "check_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/CUUR0000SAF1",
+          "check_hint": "Find year 2026, period M09, and year 2025, period M09.",
+          "derivation": {
+            "formula": "(index ÷ index 12 months earlier − 1) × 100, rounded to 1 decimal",
+            "inputs": [
+              {
+                "period": "2025-09",
+                "value": "342.405"
+              },
+              {
+                "period": "2026-09",
+                "value": "350.905"
+              }
+            ]
+          }
+        },
+        "transport": {
+          "value": 7.9,
+          "code": "CUUR0000SAT",
+          "label": "Transportation",
+          "check_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/CUUR0000SAT",
+          "check_hint": "Find year 2026, period M09, and year 2025, period M09.",
+          "derivation": {
+            "formula": "(index ÷ index 12 months earlier − 1) × 100, rounded to 1 decimal",
+            "inputs": [
+              {
+                "period": "2025-09",
+                "value": "274.301"
+              },
+              {
+                "period": "2026-09",
+                "value": "295.862"
+              }
+            ]
+          }
+        },
+        "energy": {
+          "value": 6.2,
+          "code": "CUUR0000SAH21",
+          "label": "Household energy",
+          "check_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/CUUR0000SAH21",
+          "check_hint": "Find year 2026, period M09, and year 2025, period M09.",
+          "derivation": {
+            "formula": "(index ÷ index 12 months earlier − 1) × 100, rounded to 1 decimal",
+            "inputs": [
+              {
+                "period": "2025-09",
+                "value": "280.642"
+              },
+              {
+                "period": "2026-09",
+                "value": "297.942"
+              }
+            ]
+          }
+        },
+        "health": {
+          "value": 1.5,
+          "code": "CUUR0000SAM",
+          "label": "Medical care",
+          "check_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/CUUR0000SAM",
+          "check_hint": "Find year 2026, period M09, and year 2025, period M09.",
+          "derivation": {
+            "formula": "(index ÷ index 12 months earlier − 1) × 100, rounded to 1 decimal",
+            "inputs": [
+              {
+                "period": "2025-09",
+                "value": "584.858"
+              },
+              {
+                "period": "2026-09",
+                "value": "593.651"
+              }
+            ]
+          }
+        },
+        "leisure": {
+          "value": 2.8,
+          "code": "CUUR0000SAR",
+          "label": "Recreation",
+          "check_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/CUUR0000SAR",
+          "check_hint": "Find year 2026, period M09, and year 2025, period M09.",
+          "derivation": {
+            "formula": "(index ÷ index 12 months earlier − 1) × 100, rounded to 1 decimal",
+            "inputs": [
+              {
+                "period": "2025-09",
+                "value": "141.827"
+              },
+              {
+                "period": "2026-09",
+                "value": "145.854"
+              }
+            ]
+          }
+        },
+        "other": {
+          "value": 3.7,
+          "code": "CUUR0000SA0",
+          "label": "All items",
+          "check_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/CUUR0000SA0",
+          "check_hint": "Find year 2026, period M09, and year 2025, period M09.",
+          "derivation": {
+            "formula": "(index ÷ index 12 months earlier − 1) × 100, rounded to 1 decimal",
+            "inputs": [
+              {
+                "period": "2025-09",
+                "value": "324.800"
+              },
+              {
+                "period": "2026-09",
+                "value": "336.940"
+              }
+            ]
+          }
+        }
+      },
+      "notes": [
+        "Calculated by Veritane from the published indices: (index ÷ index 12 months earlier − 1) × 100, rounded to 1 decimal."
+      ],
+      "source": {
+        "name": "U.S. Bureau of Labor Statistics",
+        "provider_id": "bls",
+        "dataset": "CPI-U, not seasonally adjusted",
+        "url": "https://data.bls.gov/timeseries/CUUR0000SA0",
+        "api_url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+        "license": {
+          "name": "Public domain (U.S. government work)",
+          "url": "https://www.bls.gov/",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z"
+      },
+      "retrieved_at": "2026-11-07T12:54:42Z"
+    }
+  ]
+}

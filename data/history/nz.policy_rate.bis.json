@@ -1,0 +1,136 @@
+{
+  "schema": "veritane/history/1",
+  "id": "nz.policy_rate.bis",
+  "unit": "%",
+  "frequency": "D",
+  "decimals": 2,
+  "storage": "steps",
+  "fingerprint": "WS_CBPOL NZ|stats.bis.org/api/v2/data/dataflow/BIS/WS_CBPOL/1.0/D.JP+BR+IN+ID+MX+CN+SA+TR+KR+IL+CL+CO+PE+MY+TH+PL+HU+CZ+CH+NZ+RU+US+XM+GB+CA+AU+SE+NO+DK+ZA",
+  "source": {
+    "name": "Reserve Bank of New Zealand via BIS",
+    "provider_id": "bis",
+    "dataset": "WS_CBPOL NZ",
+    "url": "https://data.bis.org/",
+    "api_url": "https://stats.bis.org/api/v2/data/dataflow/BIS/WS_CBPOL/1.0/D.JP+BR+IN+ID+MX+CN+SA+TR+KR+IL+CL+CO+PE+MY+TH+PL+HU+CZ+CH+NZ+RU+US+XM+GB+CA+AU+SE+NO+DK+ZA?lastNObservations=1&format=csv",
+    "retrieved_at": "2026-11-07T09:24:08Z"
+  },
+  "points": [
+    [
+      "2016-08",
+      2
+    ],
+    [
+      "2016-11",
+      1.75
+    ],
+    [
+      "2019-05",
+      1.5
+    ],
+    [
+      "2019-08",
+      1
+    ],
+    [
+      "2020-03",
+      0.25
+    ],
+    [
+      "2021-10",
+      0.5
+    ],
+    [
+      "2021-11",
+      0.75
+    ],
+    [
+      "2022-02",
+      1
+    ],
+    [
+      "2022-04",
+      1.5
+    ],
+    [
+      "2022-05",
+      2
+    ],
+    [
+      "2022-07",
+      2.5
+    ],
+    [
+      "2022-08",
+      3
+    ],
+    [
+      "2022-10",
+      3.5
+    ],
+    [
+      "2022-11",
+      4.25
+    ],
+    [
+      "2023-02",
+      4.75
+    ],
+    [
+      "2023-04",
+      5.25
+    ],
+    [
+      "2023-05",
+      5.5
+    ],
+    [
+      "2024-08",
+      5.25
+    ],
+    [
+      "2024-10",
+      4.75
+    ],
+    [
+      "2024-11",
+      4.25
+    ],
+    [
+      "2025-02",
+      3.75
+    ],
+    [
+      "2025-04",
+      3.5
+    ],
+    [
+      "2025-05",
+      3.25
+    ],
+    [
+      "2025-08",
+      3
+    ],
+    [
+      "2025-10",
+      2.5
+    ],
+    [
+      "2025-11",
+      2.25
+    ],
+    [
+      "2026-07",
+      2.5
+    ],
+    [
+      "2026-09",
+      2.75
+    ],
+    [
+      "2026-10-30",
+      2.75
+    ]
+  ],
+  "accumulated_since": null
+}

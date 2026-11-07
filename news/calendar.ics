@@ -1,0 +1,623 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Veritane//Economic calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Veritane economic calendar
+BEGIN:VEVENT
+UID:eurostat_cal:22494472@veritane
+DTSTAMP:20261107T125442Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Euro area retail trade
+DESCRIPTION:How much shops sold\, by value and by volume\, compared with ea
+ rlier months.\nSource: Eurostat https://ec.europa.eu/eurostat/web/main/new
+ s/release-calendar
+URL:https://ec.europa.eu/eurostat/web/main/news/release-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ssb_cal:release-214226-en@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261110T070000Z
+SUMMARY:Norway consumer price index
+DESCRIPTION:How much the prices of everyday goods and services changed comp
+ ared with a year earlier.\nSource: Statistics Norway https://www.ssb.no/en
+ /priser-og-prisindekser/konsumpriser/statistikk/konsumprisindeksen
+URL:https://www.ssb.no/en/priser-og-prisindekser/konsumpriser/statistikk/ko
+ nsumprisindeksen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ons_cal:/releases/gdpfirstquarterlyestimateukjulytoseptember2026@verita
+ ne
+DTSTAMP:20261107T125442Z
+DTSTART:20261112T070000Z
+SUMMARY:UK quarterly GDP
+DESCRIPTION:The total value of goods and services an economy produced in a 
+ period\, compared with an earlier period.\nSource: Office for National Sta
+ tistics https://www.ons.gov.uk/releases/gdpfirstquarterlyestimateukjulytos
+ eptember2026
+URL:https://www.ons.gov.uk/releases/gdpfirstquarterlyestimateukjulytoseptem
+ ber2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ons_cal:/releases/gdpmonthlyestimateukseptember2026@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261112T070000Z
+SUMMARY:UK monthly GDP
+DESCRIPTION:The total value of goods and services an economy produced in a 
+ period\, compared with an earlier period.\nSource: Office for National Sta
+ tistics https://www.ons.gov.uk/releases/gdpmonthlyestimateukseptember2026
+URL:https://www.ons.gov.uk/releases/gdpmonthlyestimateukseptember2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ons_cal:/releases/uktradeseptember2026@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261112T070000Z
+SUMMARY:UK trade
+DESCRIPTION:The value of goods and services a country sold to and bought fr
+ om other countries.\nSource: Office for National Statistics https://www.on
+ s.gov.uk/releases/uktradeseptember2026
+URL:https://www.ons.gov.uk/releases/uktradeseptember2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eurostat_cal:22494494@veritane
+DTSTAMP:20261107T125442Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Euro area GDP
+DESCRIPTION:The total value of goods and services an economy produced in a 
+ period\, compared with an earlier period.\nSource: Eurostat https://ec.eur
+ opa.eu/eurostat/web/main/news/release-calendar
+URL:https://ec.europa.eu/eurostat/web/main/news/release-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eurostat_cal:22494535@veritane
+DTSTAMP:20261107T125442Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Euro area industrial production
+DESCRIPTION:How much factories\, mines and energy producers made\, compared
+  with earlier months.\nSource: Eurostat https://ec.europa.eu/eurostat/web/
+ main/news/release-calendar
+URL:https://ec.europa.eu/eurostat/web/main/news/release-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ons_cal:/releases/uklabourmarketnovember2026@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261117T070000Z
+SUMMARY:UK labour market
+DESCRIPTION:How many people have a job\, how many are looking for one\, and
+  how pay is changing.\nSource: Office for National Statistics https://www.
+ ons.gov.uk/releases/uklabourmarketnovember2026
+URL:https://www.ons.gov.uk/releases/uklabourmarketnovember2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed_cal:G.17 - Industrial Production and Capacity Utilization:2026-11-1
+ 7@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261117T141500Z
+SUMMARY:US industrial production
+DESCRIPTION:How much factories\, mines and energy producers made\, compared
+  with earlier months.\nSource: Federal Reserve Board https://www.federalre
+ serve.gov/newsevents/calendar.htm
+URL:https://www.federalreserve.gov/newsevents/calendar.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eurostat_cal:22494546@veritane
+DTSTAMP:20261107T125442Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Euro area inflation (HICP)
+DESCRIPTION:How much consumer prices in the euro area changed compared with
+  a year earlier\, measured the same way in every member country.\nSource: 
+ Eurostat https://ec.europa.eu/eurostat/web/main/news/release-calendar
+URL:https://ec.europa.eu/eurostat/web/main/news/release-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ons_cal:/releases/consumerpriceinflationukoctober2026@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261118T070000Z
+SUMMARY:UK consumer price inflation
+DESCRIPTION:How much the prices of everyday goods and services changed comp
+ ared with a year earlier.\nSource: Office for National Statistics https://
+ www.ons.gov.uk/releases/consumerpriceinflationukoctober2026
+URL:https://www.ons.gov.uk/releases/consumerpriceinflationukoctober2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ons_cal:/releases/producerpriceinflationukoctober2026@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261118T070000Z
+SUMMARY:UK producer price inflation
+DESCRIPTION:How prices changed for goods leaving factories and for material
+ s bought by manufacturers.\nSource: Office for National Statistics https:/
+ /www.ons.gov.uk/releases/producerpriceinflationukoctober2026
+URL:https://www.ons.gov.uk/releases/producerpriceinflationukoctober2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed_cal:FOMC Minutes:2026-11-18@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261118T190000Z
+SUMMARY:US Federal Reserve meeting minutes (FOMC)
+DESCRIPTION:A written account of the discussion at a recent interest-rate m
+ eeting.\nSource: Federal Reserve Board https://www.federalreserve.gov/mone
+ tarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ons_cal:/releases/publicsectorfinancesukoctober2026@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261120T070000Z
+SUMMARY:UK public sector finances
+DESCRIPTION:How much the UK government received and spent\, and how much it
+  borrowed.\nSource: Office for National Statistics https://www.ons.gov.uk/
+ releases/publicsectorfinancesukoctober2026
+URL:https://www.ons.gov.uk/releases/publicsectorfinancesukoctober2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ons_cal:/releases/retailsalesgreatbritainoctober2026@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261120T070000Z
+SUMMARY:Great Britain retail sales
+DESCRIPTION:How much shops sold\, by value and by volume\, compared with ea
+ rlier months.\nSource: Office for National Statistics https://www.ons.gov.
+ uk/releases/retailsalesgreatbritainoctober2026
+URL:https://www.ons.gov.uk/releases/retailsalesgreatbritainoctober2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ssb_cal:release-207791-en@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261125T070000Z
+SUMMARY:Norway labour force survey
+DESCRIPTION:How many people have a job and how many are looking for one\, f
+ rom a survey of people aged 15 to 89.\nSource: Statistics Norway https://w
+ ww.ssb.no/en/arbeid-og-lonn/sysselsetting/statistikk/arbeidskraftundersoke
+ lsen
+URL:https://www.ssb.no/en/arbeid-og-lonn/sysselsetting/statistikk/arbeidskr
+ aftundersokelsen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bea_cal:Gross Domestic Product:2026-11-25T13:30:00Z@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261125T133000Z
+SUMMARY:US GDP
+DESCRIPTION:The total value of goods and services an economy produced in a 
+ period\, compared with an earlier period.\nSource: U.S. Bureau of Economic
+  Analysis https://www.bea.gov/news/schedule
+URL:https://www.bea.gov/news/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bea_cal:Personal Income and Outlays:2026-11-25T13:30:00Z@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261125T133000Z
+SUMMARY:US personal income and outlays
+DESCRIPTION:How much people in the United States earned and spent\, includi
+ ng the price index the Federal Reserve uses for its inflation target.\nSou
+ rce: U.S. Bureau of Economic Analysis https://www.bea.gov/news/schedule
+URL:https://www.bea.gov/news/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed_cal:Beige Book:2026-11-25@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261125T190000Z
+SUMMARY:US Federal Reserve Beige Book
+DESCRIPTION:A Federal Reserve report that gathers information on economic c
+ onditions from businesses and other contacts in each of its 12 districts.\
+ nSource: Federal Reserve Board https://www.federalreserve.gov/newsevents/c
+ alendar.htm
+URL:https://www.federalreserve.gov/newsevents/calendar.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ssb_cal:release-218544-en@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261126T070000Z
+SUMMARY:Norway national accounts
+DESCRIPTION:The total value of goods and services an economy produced in a 
+ period\, compared with an earlier period.\nSource: Statistics Norway https
+ ://www.ssb.no/en/nasjonalregnskap-og-konjunkturer/nasjonalregnskap/statist
+ ikk/nasjonalregnskap
+URL:https://www.ssb.no/en/nasjonalregnskap-og-konjunkturer/nasjonalregnskap
+ /statistikk/nasjonalregnskap
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eurostat_cal:22494589@veritane
+DTSTAMP:20261107T125442Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Euro area inflation (HICP)
+DESCRIPTION:How much consumer prices in the euro area changed compared with
+  a year earlier\, measured the same way in every member country.\nSource: 
+ Eurostat https://ec.europa.eu/eurostat/web/main/news/release-calendar
+URL:https://ec.europa.eu/eurostat/web/main/news/release-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eurostat_cal:22494600@veritane
+DTSTAMP:20261107T125442Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Euro area and EU unemployment
+DESCRIPTION:The share of people in the labour force who have no job and are
+  looking for one.\nSource: Eurostat https://ec.europa.eu/eurostat/web/main
+ /news/release-calendar
+URL:https://ec.europa.eu/eurostat/web/main/news/release-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eurostat_cal:22519863@veritane
+DTSTAMP:20261107T125442Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Euro area retail trade
+DESCRIPTION:How much shops sold\, by value and by volume\, compared with ea
+ rlier months.\nSource: Eurostat https://ec.europa.eu/eurostat/web/main/new
+ s/release-calendar
+URL:https://ec.europa.eu/eurostat/web/main/news/release-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eurostat_cal:22519874@veritane
+DTSTAMP:20261107T125442Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Euro area GDP
+DESCRIPTION:The total value of goods and services an economy produced in a 
+ period\, compared with an earlier period.\nSource: Eurostat https://ec.eur
+ opa.eu/eurostat/web/main/news/release-calendar
+URL:https://ec.europa.eu/eurostat/web/main/news/release-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:curated:rba:2026-12-08@veritane
+DTSTAMP:20261107T125442Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Reserve Bank of Australia interest-rate decision
+DESCRIPTION:The Reserve Bank of Australia's Monetary Policy Board announces
+  its decision on the cash rate target\, its main interest rate. The bank's
+  own website explains how it uses this rate.\nSource: Reserve Bank of Aust
+ ralia https://www.rba.gov.au/schedules-events/board-meeting-schedules.html
+URL:https://www.rba.gov.au/schedules-events/board-meeting-schedules.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bea_cal:U.S. International Trade in Goods and Services:2026-12-08T13:30
+ :00Z@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261208T133000Z
+SUMMARY:US international trade
+DESCRIPTION:The value of goods and services a country sold to and bought fr
+ om other countries.\nSource: U.S. Bureau of Economic Analysis https://www.
+ bea.gov/news/schedule
+URL:https://www.bea.gov/news/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boc_cal:247290@bank-banque-canada.ca@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261209T144500Z
+SUMMARY:Bank of Canada interest-rate decision
+DESCRIPTION:The Bank of Canada announces its decision on the target for the
+  overnight rate\, its policy interest rate. The bank's own website explain
+ s how it uses this rate.\nSource: Bank of Canada https://www.bankofcanada.
+ ca/press/upcoming-events/
+URL:https://www.bankofcanada.ca/press/upcoming-events/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed_cal:FOMC Meeting:2026-12-09@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261209T190000Z
+SUMMARY:US Federal Reserve interest-rate decision (FOMC)
+DESCRIPTION:The Federal Open Market Committee sets the target range for the
+  federal funds rate\, the rate at which US banks lend to each other overni
+ ght.\nSource: Federal Reserve Board https://www.federalreserve.gov/monetar
+ ypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ons_cal:/releases/gdpmonthlyestimateukoctober2026@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261211T070000Z
+SUMMARY:UK monthly GDP
+DESCRIPTION:The total value of goods and services an economy produced in a 
+ period\, compared with an earlier period.\nSource: Office for National Sta
+ tistics https://www.ons.gov.uk/releases/gdpmonthlyestimateukoctober2026
+URL:https://www.ons.gov.uk/releases/gdpmonthlyestimateukoctober2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ons_cal:/releases/uktradeoctober2026@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261211T070000Z
+SUMMARY:UK trade
+DESCRIPTION:The value of goods and services a country sold to and bought fr
+ om other countries.\nSource: Office for National Statistics https://www.on
+ s.gov.uk/releases/uktradeoctober2026
+URL:https://www.ons.gov.uk/releases/uktradeoctober2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eurostat_cal:22519916@veritane
+DTSTAMP:20261107T125442Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Euro area industrial production
+DESCRIPTION:How much factories\, mines and energy producers made\, compared
+  with earlier months.\nSource: Eurostat https://ec.europa.eu/eurostat/web/
+ main/news/release-calendar
+URL:https://ec.europa.eu/eurostat/web/main/news/release-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ons_cal:/releases/uklabourmarketdecember2026@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261215T070000Z
+SUMMARY:UK labour market
+DESCRIPTION:How many people have a job\, how many are looking for one\, and
+  how pay is changing.\nSource: Office for National Statistics https://www.
+ ons.gov.uk/releases/uklabourmarketdecember2026
+URL:https://www.ons.gov.uk/releases/uklabourmarketdecember2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ons_cal:/releases/consumerpriceinflationuknovember2026@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261216T070000Z
+SUMMARY:UK consumer price inflation
+DESCRIPTION:How much the prices of everyday goods and services changed comp
+ ared with a year earlier.\nSource: Office for National Statistics https://
+ www.ons.gov.uk/releases/consumerpriceinflationuknovember2026
+URL:https://www.ons.gov.uk/releases/consumerpriceinflationuknovember2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ons_cal:/releases/producerpriceinflationuknovember2026@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261216T070000Z
+SUMMARY:UK producer price inflation
+DESCRIPTION:How prices changed for goods leaving factories and for material
+ s bought by manufacturers.\nSource: Office for National Statistics https:/
+ /www.ons.gov.uk/releases/producerpriceinflationuknovember2026
+URL:https://www.ons.gov.uk/releases/producerpriceinflationuknovember2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:riksbank_cal:2026-12-16@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261216T083000Z
+SUMMARY:Sveriges Riksbank interest-rate decision
+DESCRIPTION:Sveriges Riksbank announces its decision on the policy rate\, i
+ ts main interest rate. The bank's own website explains how it uses this ra
+ te.\nSource: Sveriges Riksbank https://www.riksbank.se/en-gb/press-and-pub
+ lished/calendar/calendar-2026/2026-12-16/
+URL:https://www.riksbank.se/en-gb/press-and-published/calendar/calendar-202
+ 6/2026-12-16/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed_cal:G.17 - Industrial Production and Capacity Utilization:2026-12-1
+ 6@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261216T141500Z
+SUMMARY:US industrial production
+DESCRIPTION:How much factories\, mines and energy producers made\, compared
+  with earlier months.\nSource: Federal Reserve Board https://www.federalre
+ serve.gov/newsevents/calendar.htm
+URL:https://www.federalreserve.gov/newsevents/calendar.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:curated:boe:2026-12-17@veritane
+DTSTAMP:20261107T125442Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Bank of England interest-rate decision (MPC)
+DESCRIPTION:The Bank of England's Monetary Policy Committee announces its d
+ ecision on Bank Rate\, its main interest rate. The bank's own website expl
+ ains how it uses this rate.\nSource: Bank of England https://www.bankofeng
+ land.co.uk/monetary-policy/upcoming-mpc-dates
+URL:https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:curated:ecb:2026-12-17@veritane
+DTSTAMP:20261107T125442Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:European Central Bank interest-rate decision
+DESCRIPTION:The Governing Council of the European Central Bank announces it
+ s decision on the key interest rates for the euro area. The bank's own web
+ site explains how it uses these rates.\nSource: European Central Bank http
+ s://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eurostat_cal:22519949@veritane
+DTSTAMP:20261107T125442Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Euro area inflation (HICP)
+DESCRIPTION:How much consumer prices in the euro area changed compared with
+  a year earlier\, measured the same way in every member country.\nSource: 
+ Eurostat https://ec.europa.eu/eurostat/web/main/news/release-calendar
+URL:https://ec.europa.eu/eurostat/web/main/news/release-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:norges_cal:147916@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261217T090000Z
+SUMMARY:Norges Bank interest-rate decision
+DESCRIPTION:Norges Bank announces its decision on the policy rate\, its mai
+ n interest rate. The bank's own website explains how it uses this rate.\nS
+ ource: Norges Bank https://www.norges-bank.no/en/news-events/calendar/poli
+ cy-rate-decisions/26-12-17/
+URL:https://www.norges-bank.no/en/news-events/calendar/policy-rate-decision
+ s/26-12-17/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:curated:boj:2026-12-18@veritane
+DTSTAMP:20261107T125442Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Bank of Japan monetary policy meeting
+DESCRIPTION:The Bank of Japan's Policy Board announces its monetary policy 
+ decisions at this meeting. The bank's own website explains how it conducts
+  monetary policy.\nSource: Bank of Japan https://www.boj.or.jp/en/mopo/mpm
+ sche_minu/index.htm
+URL:https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ons_cal:/releases/retailsalesgreatbritainnovember2026@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261218T070000Z
+SUMMARY:Great Britain retail sales
+DESCRIPTION:How much shops sold\, by value and by volume\, compared with ea
+ rlier months.\nSource: Office for National Statistics https://www.ons.gov.
+ uk/releases/retailsalesgreatbritainnovember2026
+URL:https://www.ons.gov.uk/releases/retailsalesgreatbritainnovember2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ons_cal:/releases/gdpquarterlynationalaccountsukjulytoseptember2026@ver
+ itane
+DTSTAMP:20261107T125442Z
+DTSTART:20261222T070000Z
+SUMMARY:UK quarterly GDP
+DESCRIPTION:The total value of goods and services an economy produced in a 
+ period\, compared with an earlier period.\nSource: Office for National Sta
+ tistics https://www.ons.gov.uk/releases/gdpquarterlynationalaccountsukjuly
+ toseptember2026
+URL:https://www.ons.gov.uk/releases/gdpquarterlynationalaccountsukjulytosep
+ tember2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ons_cal:/releases/publicsectorfinancesuknovember2026@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261222T070000Z
+SUMMARY:UK public sector finances
+DESCRIPTION:How much the UK government received and spent\, and how much it
+  borrowed.\nSource: Office for National Statistics https://www.ons.gov.uk/
+ releases/publicsectorfinancesuknovember2026
+URL:https://www.ons.gov.uk/releases/publicsectorfinancesuknovember2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bea_cal:Gross Domestic Product:2026-12-23T13:30:00Z@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261223T133000Z
+SUMMARY:US GDP
+DESCRIPTION:The total value of goods and services an economy produced in a 
+ period\, compared with an earlier period.\nSource: U.S. Bureau of Economic
+  Analysis https://www.bea.gov/news/schedule
+URL:https://www.bea.gov/news/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bea_cal:Personal Income and Outlays:2026-12-23T13:30:00Z@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261223T133000Z
+SUMMARY:US personal income and outlays
+DESCRIPTION:How much people in the United States earned and spent\, includi
+ ng the price index the Federal Reserve uses for its inflation target.\nSou
+ rce: U.S. Bureau of Economic Analysis https://www.bea.gov/news/schedule
+URL:https://www.bea.gov/news/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fed_cal:FOMC Minutes:2026-12-30@veritane
+DTSTAMP:20261107T125442Z
+DTSTART:20261230T190000Z
+SUMMARY:US Federal Reserve meeting minutes (FOMC)
+DESCRIPTION:A written account of the discussion at a recent interest-rate m
+ eeting.\nSource: Federal Reserve Board https://www.federalreserve.gov/mone
+ tarypolicy/fomccalendars.htm
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eurostat_cal:24464650@veritane
+DTSTAMP:20261107T125442Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Euro area inflation (HICP)
+DESCRIPTION:How much consumer prices in the euro area changed compared with
+  a year earlier\, measured the same way in every member country.\nSource: 
+ Eurostat https://ec.europa.eu/eurostat/web/main/news/release-calendar
+URL:https://ec.europa.eu/eurostat/web/main/news/release-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

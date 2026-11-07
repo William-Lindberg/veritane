@@ -1,0 +1,108 @@
+{
+  "schema": "veritane/digest/1",
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T12:54:42Z",
+  "final": false,
+  "template_version": "digest-templates/1",
+  "headline": "No new official figures or decisions were collected on 7 November 2026.",
+  "headline_simple": "7 November 2026: no new figures or decisions.",
+  "counts": {
+    "data": 0,
+    "decisions": 0,
+    "revisions": 0,
+    "alerts": 0,
+    "publications": 0,
+    "coming_up": 5
+  },
+  "sections": [
+    {
+      "key": "data",
+      "entries": []
+    },
+    {
+      "key": "decisions",
+      "entries": []
+    },
+    {
+      "key": "revisions",
+      "entries": []
+    },
+    {
+      "key": "alerts",
+      "entries": []
+    },
+    {
+      "key": "publications",
+      "entries": []
+    },
+    {
+      "key": "coming_up",
+      "entries": [
+        {
+          "calendar_id": "ssb_cal:release-214226-en",
+          "region": "NO",
+          "start": "2026-11-10T07:00:00Z",
+          "display_title": "Norway consumer price index",
+          "status": "confirmed",
+          "source": {
+            "name": "Statistics Norway",
+            "url": "https://www.ssb.no/en/priser-og-prisindekser/konsumpriser/statistikk/konsumprisindeksen"
+          }
+        },
+        {
+          "calendar_id": "ons_cal:/releases/gdpfirstquarterlyestimateukjulytoseptember2026",
+          "region": "GB",
+          "start": "2026-11-12T07:00:00Z",
+          "display_title": "UK quarterly GDP",
+          "status": "confirmed",
+          "source": {
+            "name": "Office for National Statistics",
+            "url": "https://www.ons.gov.uk/releases/gdpfirstquarterlyestimateukjulytoseptember2026"
+          }
+        },
+        {
+          "calendar_id": "ons_cal:/releases/gdpmonthlyestimateukseptember2026",
+          "region": "GB",
+          "start": "2026-11-12T07:00:00Z",
+          "display_title": "UK monthly GDP",
+          "status": "confirmed",
+          "source": {
+            "name": "Office for National Statistics",
+            "url": "https://www.ons.gov.uk/releases/gdpmonthlyestimateukseptember2026"
+          }
+        },
+        {
+          "calendar_id": "ons_cal:/releases/uktradeseptember2026",
+          "region": "GB",
+          "start": "2026-11-12T07:00:00Z",
+          "display_title": "UK trade",
+          "status": "confirmed",
+          "source": {
+            "name": "Office for National Statistics",
+            "url": "https://www.ons.gov.uk/releases/uktradeseptember2026"
+          }
+        },
+        {
+          "calendar_id": "eurostat_cal:22494494",
+          "region": "EA",
+          "start": "2026-11-13",
+          "display_title": "Euro area GDP",
+          "status": "confirmed",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
+          }
+        }
+      ]
+    }
+  ],
+  "sources": {
+    "ok": 59,
+    "failed": 3,
+    "failed_names": [
+      "OECD",
+      "Statistics Sweden"
+    ]
+  },
+  "empty": true
+}

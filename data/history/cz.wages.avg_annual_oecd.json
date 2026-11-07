@@ -1,0 +1,60 @@
+{
+  "schema": "veritane/history/1",
+  "id": "cz.wages.avg_annual_oecd",
+  "unit": "USD per year",
+  "frequency": "A",
+  "decimals": 0,
+  "storage": "observations",
+  "fingerprint": "DSD_EARNINGS@AV_AN_WAGE CZE.WG.USD_PPP.A.Q|sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_EARNINGS@AV_AN_WAGE,/.WG.USD_PPP.A.Q..",
+  "source": {
+    "name": "OECD, Average annual wages",
+    "provider_id": "oecd",
+    "dataset": "AV_AN_WAGE CZE USD_PPP",
+    "url": "https://data-explorer.oecd.org/",
+    "api_url": "https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_EARNINGS@AV_AN_WAGE,/.WG.USD_PPP.A.Q..?startPeriod=2016&format=csvfile",
+    "retrieved_at": "2026-11-07T10:55:58Z"
+  },
+  "points": [
+    [
+      "2016",
+      37050.542
+    ],
+    [
+      "2017",
+      38770.51
+    ],
+    [
+      "2018",
+      40736.846
+    ],
+    [
+      "2019",
+      42594.854
+    ],
+    [
+      "2020",
+      42330.369
+    ],
+    [
+      "2021",
+      43202.076
+    ],
+    [
+      "2022",
+      41059.62
+    ],
+    [
+      "2023",
+      40594.508
+    ],
+    [
+      "2024",
+      41953.664
+    ],
+    [
+      "2025",
+      43607.144
+    ]
+  ],
+  "accumulated_since": null
+}

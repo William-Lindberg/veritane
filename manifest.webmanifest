@@ -1,0 +1,16 @@
+{
+  "name": "Veritane News",
+  "short_name": "Veritane",
+  "description": "Economic news from official sources, with free tools and plain-language explainers, for everyone.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAFAF7",
+  "theme_color": "#0B7A75",
+  "lang": "en",
+  "icons": [
+    { "src": "brand/icon-512.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "brand/icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}

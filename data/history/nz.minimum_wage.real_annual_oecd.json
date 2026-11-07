@@ -1,0 +1,60 @@
+{
+  "schema": "veritane/history/1",
+  "id": "nz.minimum_wage.real_annual_oecd",
+  "unit": "USD per year",
+  "frequency": "A",
+  "decimals": 0,
+  "storage": "observations",
+  "fingerprint": "DSD_EARNINGS@RMW NZL.SM_WG.USD_PPP.A.Q|sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_EARNINGS@RMW,/.SM_WG.USD_PPP.A.Q..",
+  "source": {
+    "name": "OECD, Real minimum wages",
+    "provider_id": "oecd",
+    "dataset": "RMW NZL USD_PPP",
+    "url": "https://data-explorer.oecd.org/",
+    "api_url": "https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_EARNINGS@RMW,/.SM_WG.USD_PPP.A.Q..?startPeriod=2016&format=csvfile",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2016",
+      27434.1817
+    ],
+    [
+      "2017",
+      27826.0806
+    ],
+    [
+      "2018",
+      28374.3133
+    ],
+    [
+      "2019",
+      29366.6968
+    ],
+    [
+      "2020",
+      31542.6198
+    ],
+    [
+      "2021",
+      32182.1239
+    ],
+    [
+      "2022",
+      31398.5088
+    ],
+    [
+      "2023",
+      32143.6609
+    ],
+    [
+      "2024",
+      32227.5902
+    ],
+    [
+      "2025",
+      31847.7627
+    ]
+  ],
+  "accumulated_since": null
+}

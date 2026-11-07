@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veritane News: Denmark</title>
+    <link>https://william-lindberg.github.io/veritane/news/countries/dk/</link>
+    <atom:link href="https://william-lindberg.github.io/veritane/news/countries/dk/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Official economic figures and announcements for Denmark, generated automatically from official sources. Education, not advice.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Nov 2026 11:33:11 GMT</lastBuildDate>
+    <item>
+      <title>Denmark: Unemployment rate, September 2026</title>
+      <link>https://william-lindberg.github.io/veritane/news/f23a0f2c34f93d6e/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/news/f23a0f2c34f93d6e/</guid>
+      <pubDate>Thu, 05 Nov 2026 22:00:00 GMT</pubDate>
+      <description>New data: In Denmark, the unemployment rate (seasonally adjusted) was 6.8% in September 2026, up from 5.8% in August 2026. Source: Eurostat. Source: Eurostat (https://ec.europa.eu/eurostat/databrowser/view/une_rt_m/default/table). Generated automatically from the source; review status: not yet reviewed.</description>
+      <source url="https://ec.europa.eu/eurostat/databrowser/view/une_rt_m/default/table">Eurostat</source>
+      <category>Jobs</category>
+    </item>
+  </channel>
+</rss>

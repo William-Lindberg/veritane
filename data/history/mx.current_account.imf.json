@@ -1,0 +1,64 @@
+{
+  "schema": "veritane/history/1",
+  "id": "mx.current_account.imf",
+  "unit": "% of GDP",
+  "frequency": "A",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "WEO BCA_NGDPD MEX|www.imf.org/external/datamapper/api/v1/BCA_NGDPD",
+  "source": {
+    "name": "IMF, World Economic Outlook",
+    "provider_id": "imf",
+    "dataset": "WEO BCA_NGDPD MEX",
+    "url": "https://www.imf.org/en/Publications/WEO",
+    "api_url": "https://www.imf.org/external/datamapper/api/v1/BCA_NGDPD",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2015",
+      -2.6
+    ],
+    [
+      "2016",
+      -2.3
+    ],
+    [
+      "2017",
+      -1.8
+    ],
+    [
+      "2018",
+      -2.1
+    ],
+    [
+      "2019",
+      -0.3
+    ],
+    [
+      "2020",
+      2.4
+    ],
+    [
+      "2021",
+      -0.3
+    ],
+    [
+      "2022",
+      -1
+    ],
+    [
+      "2023",
+      -0.6
+    ],
+    [
+      "2024",
+      -0.9
+    ],
+    [
+      "2025",
+      -0.5
+    ]
+  ],
+  "accumulated_since": null
+}

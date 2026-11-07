@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veritane News: Czechia</title>
+    <link>https://william-lindberg.github.io/veritane/news/countries/cz/</link>
+    <atom:link href="https://william-lindberg.github.io/veritane/news/countries/cz/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Official economic figures and announcements for Czechia, generated automatically from official sources. Education, not advice.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Nov 2026 11:33:11 GMT</lastBuildDate>
+    <item>
+      <title>Czechia: CPI inflation, September 2026</title>
+      <link>https://william-lindberg.github.io/veritane/news/bd8556c84ae3f62f/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/news/bd8556c84ae3f62f/</guid>
+      <pubDate>Fri, 06 Nov 2026 07:46:58 GMT</pubDate>
+      <description>New data: In Czechia, consumer price inflation (12-month change) was 2.5% in September 2026, up from 1.9% in August 2026. Source: International Monetary Fund (CPI dataset). Source: International Monetary Fund (CPI dataset) (https://data.imf.org/). Generated automatically from the source; review status: not yet reviewed.</description>
+      <source url="https://data.imf.org/">International Monetary Fund (CPI dataset)</source>
+      <category>Inflation</category>
+    </item>
+  </channel>
+</rss>

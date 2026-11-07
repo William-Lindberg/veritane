@@ -1,0 +1,2168 @@
+{
+  "schema": "veritane/calendar/1",
+  "generated_at": "2026-11-07T12:54:42Z",
+  "template_version": "calendar-templates/1",
+  "horizon_days": 60,
+  "coverage": {
+    "GB": {
+      "releases": true,
+      "decisions": true
+    },
+    "EA": {
+      "releases": true,
+      "decisions": true
+    },
+    "US": {
+      "releases": "partial",
+      "decisions": true,
+      "note_key": "us_bls_missing"
+    },
+    "NO": {
+      "releases": true,
+      "decisions": true
+    },
+    "SE": {
+      "releases": false,
+      "decisions": true
+    },
+    "CA": {
+      "releases": false,
+      "decisions": true
+    },
+    "AU": {
+      "releases": false,
+      "decisions": true
+    },
+    "JP": {
+      "releases": false,
+      "decisions": true
+    }
+  },
+  "entries": [
+    {
+      "id": "eurostat_cal:22494472",
+      "release_key": "ea.retail",
+      "kind": "data_release",
+      "region": "EA",
+      "topics": [
+        "consumer"
+      ],
+      "title": "Retail trade",
+      "display_title": "Euro area retail trade",
+      "reference_period": "September 2026",
+      "start": "2026-11-06",
+      "all_day": true,
+      "publisher_tz": "Europe/Luxembourg",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "ea.retail_sales.volume_yoy",
+        "se.retail_sales.volume_yoy",
+        "dk.retail_sales.volume_yoy",
+        "at.retail_sales.volume_yoy",
+        "be.retail_sales.volume_yoy",
+        "cz.retail_sales.volume_yoy",
+        "de.retail_sales.volume_yoy",
+        "es.retail_sales.volume_yoy",
+        "fi.retail_sales.volume_yoy",
+        "fr.retail_sales.volume_yoy",
+        "gr.retail_sales.volume_yoy",
+        "hu.retail_sales.volume_yoy",
+        "ie.retail_sales.volume_yoy",
+        "it.retail_sales.volume_yoy",
+        "nl.retail_sales.volume_yoy",
+        "pl.retail_sales.volume_yoy",
+        "pt.retail_sales.volume_yoy",
+        "ro.retail_sales.volume_yoy"
+      ],
+      "what_it_measures": "How much shops sold, by value and by volume, compared with earlier months.",
+      "glossary": [],
+      "dataset_codes": [
+        "sts_trtu_m",
+        "sts_trtu_q",
+        "sts_trtu_a"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar",
+        "api_url": "https://ec.europa.eu/eurostat/o/calendars/eventsJson",
+        "license": {
+          "name": "Free reuse with source (Eurostat copyright notice)",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
+      },
+      "published": null
+    },
+    {
+      "id": "ssb_cal:release-214226-en",
+      "release_key": "no.cpi",
+      "kind": "data_release",
+      "region": "NO",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Consumer price index, Figures for October 2026",
+      "display_title": "Norway consumer price index",
+      "reference_period": "October 2026",
+      "start": "2026-11-10T07:00:00Z",
+      "all_day": false,
+      "publisher_tz": "Europe/Oslo",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "no.inflation.cpi_yoy"
+      ],
+      "what_it_measures": "How much the prices of everyday goods and services changed compared with a year earlier.",
+      "glossary": [
+        "consumer-price-index"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Statistics Norway",
+        "provider_id": "ssb",
+        "url": "https://www.ssb.no/en/priser-og-prisindekser/konsumpriser/statistikk/konsumprisindeksen",
+        "api_url": "https://www.ssb.no/rss/statkal?lang=en",
+        "license": {
+          "name": "NLOD 2.0 / CC BY 4.0",
+          "url": "https://www.ssb.no/en/diverse/lisens",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.ssb.no/en/kommende-publiseringer"
+      },
+      "published": null
+    },
+    {
+      "id": "ons_cal:/releases/gdpfirstquarterlyestimateukjulytoseptember2026",
+      "release_key": "gb.gdp.quarterly",
+      "kind": "data_release",
+      "region": "GB",
+      "topics": [
+        "gdp"
+      ],
+      "title": "GDP first quarterly estimate, UK: July to September 2026",
+      "display_title": "UK quarterly GDP",
+      "reference_period": "July to September 2026",
+      "start": "2026-11-12T07:00:00Z",
+      "all_day": false,
+      "publisher_tz": "Europe/London",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "gb.gdp.qoq"
+      ],
+      "what_it_measures": "The total value of goods and services an economy produced in a period, compared with an earlier period.",
+      "what_it_measures_pro": "Quarterly gross domestic product, chained volume measure, quarter-on-quarter growth (ONS series IHYQ).",
+      "glossary": [
+        "gdp"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Office for National Statistics",
+        "provider_id": "ons",
+        "url": "https://www.ons.gov.uk/releases/gdpfirstquarterlyestimateukjulytoseptember2026",
+        "api_url": "https://api.beta.ons.gov.uk/v1/search/releases?release-type=type-upcoming&limit=100&offset=0&sort=release_date_asc",
+        "license": {
+          "name": "Open Government Licence v3.0",
+          "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.ons.gov.uk/releasecalendar"
+      },
+      "published": null
+    },
+    {
+      "id": "ons_cal:/releases/gdpmonthlyestimateukseptember2026",
+      "release_key": "gb.gdp.monthly",
+      "kind": "data_release",
+      "region": "GB",
+      "topics": [
+        "gdp"
+      ],
+      "title": "GDP monthly estimate, UK: September 2026",
+      "display_title": "UK monthly GDP",
+      "reference_period": "September 2026",
+      "start": "2026-11-12T07:00:00Z",
+      "all_day": false,
+      "publisher_tz": "Europe/London",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "The total value of goods and services an economy produced in a period, compared with an earlier period.",
+      "what_it_measures_pro": "Monthly gross domestic product, chained volume measure, with the three-month-on-three-month growth rate.",
+      "glossary": [
+        "gdp"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Office for National Statistics",
+        "provider_id": "ons",
+        "url": "https://www.ons.gov.uk/releases/gdpmonthlyestimateukseptember2026",
+        "api_url": "https://api.beta.ons.gov.uk/v1/search/releases?release-type=type-upcoming&limit=100&offset=0&sort=release_date_asc",
+        "license": {
+          "name": "Open Government Licence v3.0",
+          "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.ons.gov.uk/releasecalendar"
+      },
+      "published": null
+    },
+    {
+      "id": "ons_cal:/releases/uktradeseptember2026",
+      "release_key": "gb.trade",
+      "kind": "data_release",
+      "region": "GB",
+      "topics": [
+        "other"
+      ],
+      "title": "UK Trade: September 2026",
+      "display_title": "UK trade",
+      "reference_period": "September 2026",
+      "start": "2026-11-12T07:00:00Z",
+      "all_day": false,
+      "publisher_tz": "Europe/London",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "The value of goods and services a country sold to and bought from other countries.",
+      "glossary": [
+        "trade-balance"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Office for National Statistics",
+        "provider_id": "ons",
+        "url": "https://www.ons.gov.uk/releases/uktradeseptember2026",
+        "api_url": "https://api.beta.ons.gov.uk/v1/search/releases?release-type=type-upcoming&limit=100&offset=0&sort=release_date_asc",
+        "license": {
+          "name": "Open Government Licence v3.0",
+          "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.ons.gov.uk/releasecalendar"
+      },
+      "published": null
+    },
+    {
+      "id": "eurostat_cal:22494494",
+      "release_key": "ea.gdp",
+      "kind": "data_release",
+      "region": "EA",
+      "topics": [
+        "gdp"
+      ],
+      "title": "Flash estimate GDP and employment - EU and euro area",
+      "display_title": "Euro area GDP",
+      "reference_period": "Q3/2026",
+      "start": "2026-11-13",
+      "all_day": true,
+      "publisher_tz": "Europe/Luxembourg",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "ea.gdp.qoq"
+      ],
+      "what_it_measures": "The total value of goods and services an economy produced in a period, compared with an earlier period.",
+      "what_it_measures_pro": "Quarterly GDP and employment, chain-linked volumes, seasonally and calendar adjusted (namq_10_gdp). The flash estimate comes first.",
+      "glossary": [
+        "gdp"
+      ],
+      "dataset_codes": [
+        "namq_10_gdp",
+        "namq_10_a10_e"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar",
+        "api_url": "https://ec.europa.eu/eurostat/o/calendars/eventsJson",
+        "license": {
+          "name": "Free reuse with source (Eurostat copyright notice)",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
+      },
+      "published": null
+    },
+    {
+      "id": "eurostat_cal:22494535",
+      "release_key": "ea.industry",
+      "kind": "data_release",
+      "region": "EA",
+      "topics": [
+        "other"
+      ],
+      "title": "Industrial production",
+      "display_title": "Euro area industrial production",
+      "reference_period": "September 2026",
+      "start": "2026-11-16",
+      "all_day": true,
+      "publisher_tz": "Europe/Luxembourg",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "ea.industrial_production.yoy",
+        "se.industrial_production.yoy",
+        "dk.industrial_production.yoy",
+        "at.industrial_production.yoy",
+        "be.industrial_production.yoy",
+        "cz.industrial_production.yoy",
+        "de.industrial_production.yoy",
+        "es.industrial_production.yoy",
+        "fi.industrial_production.yoy",
+        "fr.industrial_production.yoy",
+        "gr.industrial_production.yoy",
+        "hu.industrial_production.yoy",
+        "ie.industrial_production.yoy",
+        "it.industrial_production.yoy",
+        "nl.industrial_production.yoy",
+        "pl.industrial_production.yoy",
+        "pt.industrial_production.yoy",
+        "ro.industrial_production.yoy"
+      ],
+      "what_it_measures": "How much factories, mines and energy producers made, compared with earlier months.",
+      "glossary": [],
+      "dataset_codes": [
+        "sts_inpr_a",
+        "sts_inpr_m",
+        "sts_inpr_q"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar",
+        "api_url": "https://ec.europa.eu/eurostat/o/calendars/eventsJson",
+        "license": {
+          "name": "Free reuse with source (Eurostat copyright notice)",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
+      },
+      "published": null
+    },
+    {
+      "id": "ons_cal:/releases/uklabourmarketnovember2026",
+      "release_key": "gb.labour",
+      "kind": "data_release",
+      "region": "GB",
+      "topics": [
+        "unemployment"
+      ],
+      "title": "UK Labour Market: November 2026",
+      "display_title": "UK labour market",
+      "reference_period": "November 2026",
+      "start": "2026-11-17T07:00:00Z",
+      "all_day": false,
+      "publisher_tz": "Europe/London",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "gb.unemployment.rate"
+      ],
+      "what_it_measures": "How many people have a job, how many are looking for one, and how pay is changing.",
+      "what_it_measures_pro": "Labour Force Survey employment, unemployment and inactivity rates (rolling three-month periods), plus average weekly earnings.",
+      "glossary": [
+        "unemployment-rate",
+        "labour-force"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Office for National Statistics",
+        "provider_id": "ons",
+        "url": "https://www.ons.gov.uk/releases/uklabourmarketnovember2026",
+        "api_url": "https://api.beta.ons.gov.uk/v1/search/releases?release-type=type-upcoming&limit=100&offset=0&sort=release_date_asc",
+        "license": {
+          "name": "Open Government Licence v3.0",
+          "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.ons.gov.uk/releasecalendar"
+      },
+      "published": null
+    },
+    {
+      "id": "fed_cal:G.17 - Industrial Production and Capacity Utilization:2026-11-17",
+      "release_key": "us.ip",
+      "kind": "data_release",
+      "region": "US",
+      "topics": [
+        "other"
+      ],
+      "title": "G.17 - Industrial Production and Capacity Utilization",
+      "display_title": "US industrial production",
+      "start": "2026-11-17T14:15:00Z",
+      "all_day": false,
+      "publisher_tz": "America/New_York",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "How much factories, mines and energy producers made, compared with earlier months.",
+      "glossary": [],
+      "language": "en",
+      "source": {
+        "name": "Federal Reserve Board",
+        "provider_id": "frb",
+        "url": "https://www.federalreserve.gov/newsevents/calendar.htm",
+        "api_url": "https://www.federalreserve.gov/json/calendar.json",
+        "license": {
+          "name": "Terms: see provider",
+          "url": "https://www.federalreserve.gov/disclaimer.htm",
+          "verified": false
+        },
+        "retrieved_at": "2026-11-07T09:16:33Z",
+        "calendar_url": "https://www.federalreserve.gov/newsevents/calendar.htm"
+      },
+      "published": null
+    },
+    {
+      "id": "eurostat_cal:22494546",
+      "release_key": "ea.hicp",
+      "kind": "data_release",
+      "region": "EA",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Inflation (HICP)",
+      "display_title": "Euro area inflation (HICP)",
+      "reference_period": "October 2026",
+      "start": "2026-11-18",
+      "all_day": true,
+      "publisher_tz": "Europe/Luxembourg",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "ea.inflation.hicp_yoy"
+      ],
+      "what_it_measures": "How much consumer prices in the euro area changed compared with a year earlier, measured the same way in every member country.",
+      "what_it_measures_pro": "Harmonised Index of Consumer Prices, annual rate of change (prc_hicp_manr). The flash estimate is published first and revised at the full release.",
+      "glossary": [
+        "inflation",
+        "headline-inflation"
+      ],
+      "dataset_codes": [
+        "prc_hicp_aind",
+        "prc_hicp_apc",
+        "prc_hicp_cann",
+        "prc_hicp_cind",
+        "prc_hicp_cmon",
+        "prc_hicp_cow",
+        "prc_hicp_inw",
+        "prc_hicp_manr",
+        "prc_hicp_midx",
+        "prc_hicp_mmor",
+        "prc_hicp_mv12r",
+        "prc_hicp_fp",
+        "prc_hicp_ctrb",
+        "prc_ipc_g20"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar",
+        "api_url": "https://ec.europa.eu/eurostat/o/calendars/eventsJson",
+        "license": {
+          "name": "Free reuse with source (Eurostat copyright notice)",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
+      },
+      "published": null
+    },
+    {
+      "id": "ons_cal:/releases/consumerpriceinflationukoctober2026",
+      "release_key": "gb.cpi",
+      "kind": "data_release",
+      "region": "GB",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Consumer price inflation, UK: October 2026",
+      "display_title": "UK consumer price inflation",
+      "reference_period": "October 2026",
+      "start": "2026-11-18T07:00:00Z",
+      "all_day": false,
+      "publisher_tz": "Europe/London",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "gb.inflation.cpi_yoy"
+      ],
+      "what_it_measures": "How much the prices of everyday goods and services changed compared with a year earlier.",
+      "what_it_measures_pro": "CPI and CPIH 12-month rates, index levels and weights (MM23 dataset). Headline series D7G7.",
+      "glossary": [
+        "consumer-price-index",
+        "headline-inflation"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Office for National Statistics",
+        "provider_id": "ons",
+        "url": "https://www.ons.gov.uk/releases/consumerpriceinflationukoctober2026",
+        "api_url": "https://api.beta.ons.gov.uk/v1/search/releases?release-type=type-upcoming&limit=100&offset=0&sort=release_date_asc",
+        "license": {
+          "name": "Open Government Licence v3.0",
+          "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.ons.gov.uk/releasecalendar"
+      },
+      "published": null
+    },
+    {
+      "id": "ons_cal:/releases/producerpriceinflationukoctober2026",
+      "release_key": "gb.ppi",
+      "kind": "data_release",
+      "region": "GB",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Producer price inflation, UK: October 2026",
+      "display_title": "UK producer price inflation",
+      "reference_period": "October 2026",
+      "start": "2026-11-18T07:00:00Z",
+      "all_day": false,
+      "publisher_tz": "Europe/London",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "How prices changed for goods leaving factories and for materials bought by manufacturers.",
+      "glossary": [
+        "inflation"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Office for National Statistics",
+        "provider_id": "ons",
+        "url": "https://www.ons.gov.uk/releases/producerpriceinflationukoctober2026",
+        "api_url": "https://api.beta.ons.gov.uk/v1/search/releases?release-type=type-upcoming&limit=100&offset=0&sort=release_date_asc",
+        "license": {
+          "name": "Open Government Licence v3.0",
+          "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.ons.gov.uk/releasecalendar"
+      },
+      "published": null
+    },
+    {
+      "id": "fed_cal:FOMC Minutes:2026-11-18",
+      "release_key": "us.fomc.minutes",
+      "kind": "minutes",
+      "region": "US",
+      "topics": [
+        "policy_rate"
+      ],
+      "title": "FOMC Minutes",
+      "display_title": "US Federal Reserve meeting minutes (FOMC)",
+      "start": "2026-11-18T19:00:00Z",
+      "all_day": false,
+      "publisher_tz": "America/New_York",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "A written account of the discussion at a recent interest-rate meeting.",
+      "glossary": [
+        "monetary-policy"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Federal Reserve Board",
+        "provider_id": "frb",
+        "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+        "api_url": "https://www.federalreserve.gov/json/calendar.json",
+        "license": {
+          "name": "Terms: see provider",
+          "url": "https://www.federalreserve.gov/disclaimer.htm",
+          "verified": false
+        },
+        "retrieved_at": "2026-11-07T09:16:33Z",
+        "calendar_url": "https://www.federalreserve.gov/newsevents/calendar.htm"
+      },
+      "published": null
+    },
+    {
+      "id": "ons_cal:/releases/publicsectorfinancesukoctober2026",
+      "release_key": "gb.psf",
+      "kind": "data_release",
+      "region": "GB",
+      "topics": [
+        "public_finance"
+      ],
+      "title": "Public sector finances, UK: October 2026",
+      "display_title": "UK public sector finances",
+      "reference_period": "October 2026",
+      "start": "2026-11-20T07:00:00Z",
+      "all_day": false,
+      "publisher_tz": "Europe/London",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "How much the UK government received and spent, and how much it borrowed.",
+      "glossary": [
+        "budget-deficit"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Office for National Statistics",
+        "provider_id": "ons",
+        "url": "https://www.ons.gov.uk/releases/publicsectorfinancesukoctober2026",
+        "api_url": "https://api.beta.ons.gov.uk/v1/search/releases?release-type=type-upcoming&limit=100&offset=0&sort=release_date_asc",
+        "license": {
+          "name": "Open Government Licence v3.0",
+          "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.ons.gov.uk/releasecalendar"
+      },
+      "published": null
+    },
+    {
+      "id": "ons_cal:/releases/retailsalesgreatbritainoctober2026",
+      "release_key": "gb.retail",
+      "kind": "data_release",
+      "region": "GB",
+      "topics": [
+        "consumer"
+      ],
+      "title": "Retail sales, Great Britain: October 2026",
+      "display_title": "Great Britain retail sales",
+      "reference_period": "October 2026",
+      "start": "2026-11-20T07:00:00Z",
+      "all_day": false,
+      "publisher_tz": "Europe/London",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "How much shops sold, by value and by volume, compared with earlier months.",
+      "glossary": [],
+      "language": "en",
+      "source": {
+        "name": "Office for National Statistics",
+        "provider_id": "ons",
+        "url": "https://www.ons.gov.uk/releases/retailsalesgreatbritainoctober2026",
+        "api_url": "https://api.beta.ons.gov.uk/v1/search/releases?release-type=type-upcoming&limit=100&offset=0&sort=release_date_asc",
+        "license": {
+          "name": "Open Government Licence v3.0",
+          "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.ons.gov.uk/releasecalendar"
+      },
+      "published": null
+    },
+    {
+      "id": "ssb_cal:release-207791-en",
+      "release_key": "no.lfs",
+      "kind": "data_release",
+      "region": "NO",
+      "topics": [
+        "unemployment"
+      ],
+      "title": "Labour force survey, Figures for October 2026",
+      "display_title": "Norway labour force survey",
+      "reference_period": "October 2026",
+      "start": "2026-11-25T07:00:00Z",
+      "all_day": false,
+      "publisher_tz": "Europe/Oslo",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "How many people have a job and how many are looking for one, from a survey of people aged 15 to 89.",
+      "glossary": [
+        "unemployment-rate",
+        "labour-force"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Statistics Norway",
+        "provider_id": "ssb",
+        "url": "https://www.ssb.no/en/arbeid-og-lonn/sysselsetting/statistikk/arbeidskraftundersokelsen",
+        "api_url": "https://www.ssb.no/rss/statkal?lang=en",
+        "license": {
+          "name": "NLOD 2.0 / CC BY 4.0",
+          "url": "https://www.ssb.no/en/diverse/lisens",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.ssb.no/en/kommende-publiseringer"
+      },
+      "published": null
+    },
+    {
+      "id": "bea_cal:Gross Domestic Product:2026-11-25T13:30:00Z",
+      "release_key": "us.gdp",
+      "kind": "data_release",
+      "region": "US",
+      "topics": [
+        "gdp"
+      ],
+      "title": "Gross Domestic Product",
+      "display_title": "US GDP",
+      "start": "2026-11-25T13:30:00Z",
+      "all_day": false,
+      "publisher_tz": "America/New_York",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "The total value of goods and services an economy produced in a period, compared with an earlier period.",
+      "glossary": [
+        "gdp"
+      ],
+      "language": "en",
+      "source": {
+        "name": "U.S. Bureau of Economic Analysis",
+        "provider_id": "bea",
+        "url": "https://www.bea.gov/news/schedule",
+        "api_url": "https://apps.bea.gov/API/signup/release_dates.json",
+        "license": {
+          "name": "Terms: see provider",
+          "url": "https://www.bea.gov/",
+          "verified": false
+        },
+        "retrieved_at": "2026-11-07T09:16:33Z",
+        "calendar_url": "https://www.bea.gov/news/schedule"
+      },
+      "published": null
+    },
+    {
+      "id": "bea_cal:Personal Income and Outlays:2026-11-25T13:30:00Z",
+      "release_key": "us.pio",
+      "kind": "data_release",
+      "region": "US",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Personal Income and Outlays",
+      "display_title": "US personal income and outlays",
+      "start": "2026-11-25T13:30:00Z",
+      "all_day": false,
+      "publisher_tz": "America/New_York",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "How much people in the United States earned and spent, including the price index the Federal Reserve uses for its inflation target.",
+      "glossary": [
+        "inflation-target"
+      ],
+      "language": "en",
+      "source": {
+        "name": "U.S. Bureau of Economic Analysis",
+        "provider_id": "bea",
+        "url": "https://www.bea.gov/news/schedule",
+        "api_url": "https://apps.bea.gov/API/signup/release_dates.json",
+        "license": {
+          "name": "Terms: see provider",
+          "url": "https://www.bea.gov/",
+          "verified": false
+        },
+        "retrieved_at": "2026-11-07T09:16:33Z",
+        "calendar_url": "https://www.bea.gov/news/schedule"
+      },
+      "published": null
+    },
+    {
+      "id": "fed_cal:Beige Book:2026-11-25",
+      "release_key": "us.beige",
+      "kind": "report",
+      "region": "US",
+      "topics": [
+        "other"
+      ],
+      "title": "Beige Book",
+      "display_title": "US Federal Reserve Beige Book",
+      "start": "2026-11-25T19:00:00Z",
+      "all_day": false,
+      "publisher_tz": "America/New_York",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "A Federal Reserve report that gathers information on economic conditions from businesses and other contacts in each of its 12 districts.",
+      "glossary": [],
+      "language": "en",
+      "source": {
+        "name": "Federal Reserve Board",
+        "provider_id": "frb",
+        "url": "https://www.federalreserve.gov/newsevents/calendar.htm",
+        "api_url": "https://www.federalreserve.gov/json/calendar.json",
+        "license": {
+          "name": "Terms: see provider",
+          "url": "https://www.federalreserve.gov/disclaimer.htm",
+          "verified": false
+        },
+        "retrieved_at": "2026-11-07T09:16:33Z",
+        "calendar_url": "https://www.federalreserve.gov/newsevents/calendar.htm"
+      },
+      "published": null
+    },
+    {
+      "id": "ssb_cal:release-218544-en",
+      "release_key": "no.na",
+      "kind": "data_release",
+      "region": "NO",
+      "topics": [
+        "gdp"
+      ],
+      "title": "National accounts, Figures for July 2026",
+      "display_title": "Norway national accounts",
+      "reference_period": "July 2026",
+      "start": "2026-11-26T07:00:00Z",
+      "all_day": false,
+      "publisher_tz": "Europe/Oslo",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "The total value of goods and services an economy produced in a period, compared with an earlier period.",
+      "glossary": [
+        "gdp"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Statistics Norway",
+        "provider_id": "ssb",
+        "url": "https://www.ssb.no/en/nasjonalregnskap-og-konjunkturer/nasjonalregnskap/statistikk/nasjonalregnskap",
+        "api_url": "https://www.ssb.no/rss/statkal?lang=en",
+        "license": {
+          "name": "NLOD 2.0 / CC BY 4.0",
+          "url": "https://www.ssb.no/en/diverse/lisens",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.ssb.no/en/kommende-publiseringer"
+      },
+      "published": null
+    },
+    {
+      "id": "eurostat_cal:22494589",
+      "release_key": "ea.hicp",
+      "kind": "data_release",
+      "region": "EA",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Flash estimate inflation euro area",
+      "display_title": "Euro area inflation (HICP)",
+      "reference_period": "November 2026",
+      "start": "2026-12-01",
+      "all_day": true,
+      "publisher_tz": "Europe/Luxembourg",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "ea.inflation.hicp_yoy"
+      ],
+      "what_it_measures": "How much consumer prices in the euro area changed compared with a year earlier, measured the same way in every member country.",
+      "what_it_measures_pro": "Harmonised Index of Consumer Prices, annual rate of change (prc_hicp_manr). The flash estimate is published first and revised at the full release.",
+      "glossary": [
+        "inflation",
+        "headline-inflation"
+      ],
+      "dataset_codes": [
+        "prc_hicp_fp",
+        "prc_hicp_manr",
+        "prc_hicp_mmor",
+        "prc_hicp_midx",
+        "prc_hicp_inw",
+        "prc_hicp_cow"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar",
+        "api_url": "https://ec.europa.eu/eurostat/o/calendars/eventsJson",
+        "license": {
+          "name": "Free reuse with source (Eurostat copyright notice)",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
+      },
+      "published": null
+    },
+    {
+      "id": "eurostat_cal:22494600",
+      "release_key": "ea.unemployment",
+      "kind": "data_release",
+      "region": "EA",
+      "topics": [
+        "unemployment"
+      ],
+      "title": "Unemployment",
+      "display_title": "Euro area and EU unemployment",
+      "reference_period": "October 2026",
+      "start": "2026-12-02",
+      "all_day": true,
+      "publisher_tz": "Europe/Luxembourg",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "ea.unemployment.rate",
+        "se.unemployment.rate",
+        "dk.unemployment.rate",
+        "at.unemployment.rate",
+        "be.unemployment.rate",
+        "cz.unemployment.rate",
+        "de.unemployment.rate",
+        "es.unemployment.rate",
+        "fi.unemployment.rate",
+        "fr.unemployment.rate",
+        "gr.unemployment.rate",
+        "hu.unemployment.rate",
+        "ie.unemployment.rate",
+        "it.unemployment.rate",
+        "nl.unemployment.rate",
+        "pl.unemployment.rate",
+        "pt.unemployment.rate",
+        "ro.unemployment.rate"
+      ],
+      "what_it_measures": "The share of people in the labour force who have no job and are looking for one.",
+      "what_it_measures_pro": "Monthly unemployment rates, seasonally adjusted, ILO definition (une_rt_m), for the euro area, the EU and each member state.",
+      "glossary": [
+        "unemployment-rate",
+        "labour-force"
+      ],
+      "dataset_codes": [
+        "une_rt_m"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar",
+        "api_url": "https://ec.europa.eu/eurostat/o/calendars/eventsJson",
+        "license": {
+          "name": "Free reuse with source (Eurostat copyright notice)",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
+      },
+      "published": null
+    },
+    {
+      "id": "eurostat_cal:22519863",
+      "release_key": "ea.retail",
+      "kind": "data_release",
+      "region": "EA",
+      "topics": [
+        "consumer"
+      ],
+      "title": "Retail trade",
+      "display_title": "Euro area retail trade",
+      "reference_period": "October 2026",
+      "start": "2026-12-04",
+      "all_day": true,
+      "publisher_tz": "Europe/Luxembourg",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "ea.retail_sales.volume_yoy",
+        "se.retail_sales.volume_yoy",
+        "dk.retail_sales.volume_yoy",
+        "at.retail_sales.volume_yoy",
+        "be.retail_sales.volume_yoy",
+        "cz.retail_sales.volume_yoy",
+        "de.retail_sales.volume_yoy",
+        "es.retail_sales.volume_yoy",
+        "fi.retail_sales.volume_yoy",
+        "fr.retail_sales.volume_yoy",
+        "gr.retail_sales.volume_yoy",
+        "hu.retail_sales.volume_yoy",
+        "ie.retail_sales.volume_yoy",
+        "it.retail_sales.volume_yoy",
+        "nl.retail_sales.volume_yoy",
+        "pl.retail_sales.volume_yoy",
+        "pt.retail_sales.volume_yoy",
+        "ro.retail_sales.volume_yoy"
+      ],
+      "what_it_measures": "How much shops sold, by value and by volume, compared with earlier months.",
+      "glossary": [],
+      "dataset_codes": [
+        "sts_trtu_m",
+        "sts_trtu_q",
+        "sts_trtu_a"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar",
+        "api_url": "https://ec.europa.eu/eurostat/o/calendars/eventsJson",
+        "license": {
+          "name": "Free reuse with source (Eurostat copyright notice)",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
+      },
+      "published": null
+    },
+    {
+      "id": "eurostat_cal:22519874",
+      "release_key": "ea.gdp",
+      "kind": "data_release",
+      "region": "EA",
+      "topics": [
+        "gdp"
+      ],
+      "title": "GDP main aggregates and employment",
+      "display_title": "Euro area GDP",
+      "reference_period": "Q3/2026",
+      "start": "2026-12-07",
+      "all_day": true,
+      "publisher_tz": "Europe/Luxembourg",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "ea.gdp.qoq"
+      ],
+      "what_it_measures": "The total value of goods and services an economy produced in a period, compared with an earlier period.",
+      "what_it_measures_pro": "Quarterly GDP and employment, chain-linked volumes, seasonally and calendar adjusted (namq_10_gdp). The flash estimate comes first.",
+      "glossary": [
+        "gdp"
+      ],
+      "dataset_codes": [
+        "namq_10_gdp",
+        "namq_10_fcs",
+        "namq_10_exi",
+        "namq_10_pe",
+        "namq_10_pc",
+        "namq_10_lp_ulc",
+        "namq_10_a10",
+        "namq_10_an6",
+        "namq_10_a10_e",
+        "nama_10_gdp",
+        "nama_10_fcs",
+        "nama_10_exi",
+        "nama_10_pc",
+        "nama_10_pe",
+        "nama_10_a10",
+        "nama_10_an6",
+        "nama_10_a10_e",
+        "nama_10_lpc",
+        "nama_10_lp_ulc"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar",
+        "api_url": "https://ec.europa.eu/eurostat/o/calendars/eventsJson",
+        "license": {
+          "name": "Free reuse with source (Eurostat copyright notice)",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
+      },
+      "published": null
+    },
+    {
+      "id": "curated:rba:2026-12-08",
+      "release_key": "au.rba",
+      "kind": "rate_decision",
+      "region": "AU",
+      "topics": [
+        "policy_rate"
+      ],
+      "title": "7-8 December",
+      "display_title": "Reserve Bank of Australia interest-rate decision",
+      "start": "2026-12-08",
+      "all_day": true,
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "au.policy_rate.cash_rate_target"
+      ],
+      "what_it_measures": "The Reserve Bank of Australia's Monetary Policy Board announces its decision on the cash rate target, its main interest rate. The bank's own website explains how it uses this rate.",
+      "about_url": "https://www.rba.gov.au/monetary-policy/",
+      "glossary": [
+        "policy-rate",
+        "monetary-policy"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Reserve Bank of Australia",
+        "provider_id": "rba",
+        "url": "https://www.rba.gov.au/schedules-events/board-meeting-schedules.html",
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://www.rba.gov.au/copyright/",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z"
+      },
+      "published": null,
+      "curated": {
+        "checked_at": "2026-11-07T12:54:42Z",
+        "check": "ok",
+        "added_by": "maintainer",
+        "added_on": "2026-11-07"
+      }
+    },
+    {
+      "id": "bea_cal:U.S. International Trade in Goods and Services:2026-12-08T13:30:00Z",
+      "release_key": "us.trade",
+      "kind": "data_release",
+      "region": "US",
+      "topics": [
+        "other"
+      ],
+      "title": "U.S. International Trade in Goods and Services",
+      "display_title": "US international trade",
+      "start": "2026-12-08T13:30:00Z",
+      "all_day": false,
+      "publisher_tz": "America/New_York",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "The value of goods and services a country sold to and bought from other countries.",
+      "glossary": [
+        "trade-balance"
+      ],
+      "language": "en",
+      "source": {
+        "name": "U.S. Bureau of Economic Analysis",
+        "provider_id": "bea",
+        "url": "https://www.bea.gov/news/schedule",
+        "api_url": "https://apps.bea.gov/API/signup/release_dates.json",
+        "license": {
+          "name": "Terms: see provider",
+          "url": "https://www.bea.gov/",
+          "verified": false
+        },
+        "retrieved_at": "2026-11-07T09:16:33Z",
+        "calendar_url": "https://www.bea.gov/news/schedule"
+      },
+      "published": null
+    },
+    {
+      "id": "boc_cal:247290@bank-banque-canada.ca",
+      "release_key": "ca.boc",
+      "kind": "rate_decision",
+      "region": "CA",
+      "topics": [
+        "policy_rate"
+      ],
+      "title": "Interest Rate Announcement",
+      "display_title": "Bank of Canada interest-rate decision",
+      "start": "2026-12-09T14:45:00Z",
+      "all_day": false,
+      "publisher_tz": "America/Toronto",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "ca.policy_rate.overnight_target"
+      ],
+      "what_it_measures": "The Bank of Canada announces its decision on the target for the overnight rate, its policy interest rate. The bank's own website explains how it uses this rate.",
+      "about_url": "https://www.bankofcanada.ca/core-functions/monetary-policy/",
+      "glossary": [
+        "policy-rate",
+        "monetary-policy"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Bank of Canada",
+        "provider_id": "boc",
+        "url": "https://www.bankofcanada.ca/press/upcoming-events/",
+        "api_url": "https://www.bankofcanada.ca/content_type/upcoming-events/?feed=ical",
+        "license": {
+          "name": "Terms: see provider",
+          "url": "https://www.bankofcanada.ca/terms/",
+          "verified": false
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.bankofcanada.ca/press/upcoming-events/"
+      },
+      "published": null
+    },
+    {
+      "id": "fed_cal:FOMC Meeting:2026-12-09",
+      "release_key": "us.fomc",
+      "kind": "rate_decision",
+      "region": "US",
+      "topics": [
+        "policy_rate"
+      ],
+      "title": "FOMC Meeting",
+      "display_title": "US Federal Reserve interest-rate decision (FOMC)",
+      "start": "2026-12-09T19:00:00Z",
+      "all_day": false,
+      "publisher_tz": "America/New_York",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "us.policy_rate.target_upper"
+      ],
+      "what_it_measures": "The Federal Open Market Committee sets the target range for the federal funds rate, the rate at which US banks lend to each other overnight.",
+      "about_url": "https://www.federalreserve.gov/monetarypolicy/fomc.htm",
+      "glossary": [
+        "policy-rate",
+        "monetary-policy"
+      ],
+      "press_conference": true,
+      "language": "en",
+      "source": {
+        "name": "Federal Reserve Board",
+        "provider_id": "frb",
+        "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+        "api_url": "https://www.federalreserve.gov/json/calendar.json",
+        "license": {
+          "name": "Terms: see provider",
+          "url": "https://www.federalreserve.gov/disclaimer.htm",
+          "verified": false
+        },
+        "retrieved_at": "2026-11-07T09:16:33Z",
+        "calendar_url": "https://www.federalreserve.gov/newsevents/calendar.htm"
+      },
+      "published": null
+    },
+    {
+      "id": "ons_cal:/releases/gdpmonthlyestimateukoctober2026",
+      "release_key": "gb.gdp.monthly",
+      "kind": "data_release",
+      "region": "GB",
+      "topics": [
+        "gdp"
+      ],
+      "title": "GDP monthly estimate, UK: October 2026",
+      "display_title": "UK monthly GDP",
+      "reference_period": "October 2026",
+      "start": "2026-12-11T07:00:00Z",
+      "all_day": false,
+      "publisher_tz": "Europe/London",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "The total value of goods and services an economy produced in a period, compared with an earlier period.",
+      "what_it_measures_pro": "Monthly gross domestic product, chained volume measure, with the three-month-on-three-month growth rate.",
+      "glossary": [
+        "gdp"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Office for National Statistics",
+        "provider_id": "ons",
+        "url": "https://www.ons.gov.uk/releases/gdpmonthlyestimateukoctober2026",
+        "api_url": "https://api.beta.ons.gov.uk/v1/search/releases?release-type=type-upcoming&limit=100&offset=0&sort=release_date_asc",
+        "license": {
+          "name": "Open Government Licence v3.0",
+          "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.ons.gov.uk/releasecalendar"
+      },
+      "published": null
+    },
+    {
+      "id": "ons_cal:/releases/uktradeoctober2026",
+      "release_key": "gb.trade",
+      "kind": "data_release",
+      "region": "GB",
+      "topics": [
+        "other"
+      ],
+      "title": "UK trade: October 2026",
+      "display_title": "UK trade",
+      "reference_period": "October 2026",
+      "start": "2026-12-11T07:00:00Z",
+      "all_day": false,
+      "publisher_tz": "Europe/London",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "The value of goods and services a country sold to and bought from other countries.",
+      "glossary": [
+        "trade-balance"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Office for National Statistics",
+        "provider_id": "ons",
+        "url": "https://www.ons.gov.uk/releases/uktradeoctober2026",
+        "api_url": "https://api.beta.ons.gov.uk/v1/search/releases?release-type=type-upcoming&limit=100&offset=0&sort=release_date_asc",
+        "license": {
+          "name": "Open Government Licence v3.0",
+          "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.ons.gov.uk/releasecalendar"
+      },
+      "published": null
+    },
+    {
+      "id": "eurostat_cal:22519916",
+      "release_key": "ea.industry",
+      "kind": "data_release",
+      "region": "EA",
+      "topics": [
+        "other"
+      ],
+      "title": "Industrial production",
+      "display_title": "Euro area industrial production",
+      "reference_period": "October 2026",
+      "start": "2026-12-15",
+      "all_day": true,
+      "publisher_tz": "Europe/Luxembourg",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "ea.industrial_production.yoy",
+        "se.industrial_production.yoy",
+        "dk.industrial_production.yoy",
+        "at.industrial_production.yoy",
+        "be.industrial_production.yoy",
+        "cz.industrial_production.yoy",
+        "de.industrial_production.yoy",
+        "es.industrial_production.yoy",
+        "fi.industrial_production.yoy",
+        "fr.industrial_production.yoy",
+        "gr.industrial_production.yoy",
+        "hu.industrial_production.yoy",
+        "ie.industrial_production.yoy",
+        "it.industrial_production.yoy",
+        "nl.industrial_production.yoy",
+        "pl.industrial_production.yoy",
+        "pt.industrial_production.yoy",
+        "ro.industrial_production.yoy"
+      ],
+      "what_it_measures": "How much factories, mines and energy producers made, compared with earlier months.",
+      "glossary": [],
+      "dataset_codes": [
+        "sts_inpr_a",
+        "sts_inpr_m",
+        "sts_inpr_q"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar",
+        "api_url": "https://ec.europa.eu/eurostat/o/calendars/eventsJson",
+        "license": {
+          "name": "Free reuse with source (Eurostat copyright notice)",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
+      },
+      "published": null
+    },
+    {
+      "id": "ons_cal:/releases/uklabourmarketdecember2026",
+      "release_key": "gb.labour",
+      "kind": "data_release",
+      "region": "GB",
+      "topics": [
+        "unemployment"
+      ],
+      "title": "UK Labour Market: December 2026",
+      "display_title": "UK labour market",
+      "reference_period": "December 2026",
+      "start": "2026-12-15T07:00:00Z",
+      "all_day": false,
+      "publisher_tz": "Europe/London",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "gb.unemployment.rate"
+      ],
+      "what_it_measures": "How many people have a job, how many are looking for one, and how pay is changing.",
+      "what_it_measures_pro": "Labour Force Survey employment, unemployment and inactivity rates (rolling three-month periods), plus average weekly earnings.",
+      "glossary": [
+        "unemployment-rate",
+        "labour-force"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Office for National Statistics",
+        "provider_id": "ons",
+        "url": "https://www.ons.gov.uk/releases/uklabourmarketdecember2026",
+        "api_url": "https://api.beta.ons.gov.uk/v1/search/releases?release-type=type-upcoming&limit=100&offset=0&sort=release_date_asc",
+        "license": {
+          "name": "Open Government Licence v3.0",
+          "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.ons.gov.uk/releasecalendar"
+      },
+      "published": null
+    },
+    {
+      "id": "ons_cal:/releases/consumerpriceinflationuknovember2026",
+      "release_key": "gb.cpi",
+      "kind": "data_release",
+      "region": "GB",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Consumer price inflation, UK: November 2026",
+      "display_title": "UK consumer price inflation",
+      "reference_period": "November 2026",
+      "start": "2026-12-16T07:00:00Z",
+      "all_day": false,
+      "publisher_tz": "Europe/London",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "gb.inflation.cpi_yoy"
+      ],
+      "what_it_measures": "How much the prices of everyday goods and services changed compared with a year earlier.",
+      "what_it_measures_pro": "CPI and CPIH 12-month rates, index levels and weights (MM23 dataset). Headline series D7G7.",
+      "glossary": [
+        "consumer-price-index",
+        "headline-inflation"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Office for National Statistics",
+        "provider_id": "ons",
+        "url": "https://www.ons.gov.uk/releases/consumerpriceinflationuknovember2026",
+        "api_url": "https://api.beta.ons.gov.uk/v1/search/releases?release-type=type-upcoming&limit=100&offset=0&sort=release_date_asc",
+        "license": {
+          "name": "Open Government Licence v3.0",
+          "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.ons.gov.uk/releasecalendar"
+      },
+      "published": null
+    },
+    {
+      "id": "ons_cal:/releases/producerpriceinflationuknovember2026",
+      "release_key": "gb.ppi",
+      "kind": "data_release",
+      "region": "GB",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Producer price inflation, UK: November 2026",
+      "display_title": "UK producer price inflation",
+      "reference_period": "November 2026",
+      "start": "2026-12-16T07:00:00Z",
+      "all_day": false,
+      "publisher_tz": "Europe/London",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "How prices changed for goods leaving factories and for materials bought by manufacturers.",
+      "glossary": [
+        "inflation"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Office for National Statistics",
+        "provider_id": "ons",
+        "url": "https://www.ons.gov.uk/releases/producerpriceinflationuknovember2026",
+        "api_url": "https://api.beta.ons.gov.uk/v1/search/releases?release-type=type-upcoming&limit=100&offset=0&sort=release_date_asc",
+        "license": {
+          "name": "Open Government Licence v3.0",
+          "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.ons.gov.uk/releasecalendar"
+      },
+      "published": null
+    },
+    {
+      "id": "riksbank_cal:2026-12-16",
+      "release_key": "se.riksbank",
+      "kind": "rate_decision",
+      "region": "SE",
+      "topics": [
+        "policy_rate"
+      ],
+      "title": "Publication of monetary policy decision, including the policy rate, and the Monetary Policy Report",
+      "display_title": "Sveriges Riksbank interest-rate decision",
+      "start": "2026-12-16T08:30:00Z",
+      "all_day": false,
+      "publisher_tz": "Europe/Stockholm",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "se.policy_rate.policy_rate"
+      ],
+      "what_it_measures": "Sveriges Riksbank announces its decision on the policy rate, its main interest rate. The bank's own website explains how it uses this rate.",
+      "about_url": "https://www.riksbank.se/en-gb/monetary-policy/",
+      "glossary": [
+        "policy-rate",
+        "monetary-policy"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Sveriges Riksbank",
+        "provider_id": "riksbank",
+        "url": "https://www.riksbank.se/en-gb/press-and-published/calendar/calendar-2026/2026-12-16/",
+        "api_url": "https://www.riksbank.se/en-gb/press-and-published/calendar/",
+        "license": {
+          "name": "Terms: see provider",
+          "url": "https://www.riksbank.se/en-gb/",
+          "verified": false
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.riksbank.se/en-gb/press-and-published/calendar/"
+      },
+      "published": null
+    },
+    {
+      "id": "fed_cal:G.17 - Industrial Production and Capacity Utilization:2026-12-16",
+      "release_key": "us.ip",
+      "kind": "data_release",
+      "region": "US",
+      "topics": [
+        "other"
+      ],
+      "title": "G.17 - Industrial Production and Capacity Utilization",
+      "display_title": "US industrial production",
+      "start": "2026-12-16T14:15:00Z",
+      "all_day": false,
+      "publisher_tz": "America/New_York",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "How much factories, mines and energy producers made, compared with earlier months.",
+      "glossary": [],
+      "language": "en",
+      "source": {
+        "name": "Federal Reserve Board",
+        "provider_id": "frb",
+        "url": "https://www.federalreserve.gov/newsevents/calendar.htm",
+        "api_url": "https://www.federalreserve.gov/json/calendar.json",
+        "license": {
+          "name": "Terms: see provider",
+          "url": "https://www.federalreserve.gov/disclaimer.htm",
+          "verified": false
+        },
+        "retrieved_at": "2026-11-07T09:16:33Z",
+        "calendar_url": "https://www.federalreserve.gov/newsevents/calendar.htm"
+      },
+      "published": null
+    },
+    {
+      "id": "curated:boe:2026-12-17",
+      "release_key": "gb.boe",
+      "kind": "rate_decision",
+      "region": "GB",
+      "topics": [
+        "policy_rate"
+      ],
+      "title": "Thursday 17 December",
+      "display_title": "Bank of England interest-rate decision (MPC)",
+      "start": "2026-12-17",
+      "all_day": true,
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "gb.policy_rate.bank_rate"
+      ],
+      "what_it_measures": "The Bank of England's Monetary Policy Committee announces its decision on Bank Rate, its main interest rate. The bank's own website explains how it uses this rate.",
+      "about_url": "https://www.bankofengland.co.uk/monetary-policy",
+      "glossary": [
+        "policy-rate",
+        "monetary-policy"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Bank of England",
+        "provider_id": "boe",
+        "url": "https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates",
+        "license": {
+          "name": "Terms: see provider",
+          "url": "https://www.bankofengland.co.uk/legal",
+          "verified": false
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z"
+      },
+      "published": null,
+      "curated": {
+        "checked_at": "2026-11-07T12:54:42Z",
+        "check": "ok",
+        "added_by": "maintainer",
+        "added_on": "2026-11-07"
+      }
+    },
+    {
+      "id": "curated:ecb:2026-12-17",
+      "release_key": "ea.ecb",
+      "kind": "rate_decision",
+      "region": "EA",
+      "topics": [
+        "policy_rate"
+      ],
+      "title": "17/12/2026 Governing Council of the ECB: monetary policy meeting",
+      "display_title": "European Central Bank interest-rate decision",
+      "start": "2026-12-17",
+      "all_day": true,
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "ea.policy_rate.dfr"
+      ],
+      "what_it_measures": "The Governing Council of the European Central Bank announces its decision on the key interest rates for the euro area. The bank's own website explains how it uses these rates.",
+      "about_url": "https://www.ecb.europa.eu/mopo/html/index.en.html",
+      "glossary": [
+        "policy-rate",
+        "monetary-policy"
+      ],
+      "language": "en",
+      "source": {
+        "name": "European Central Bank",
+        "provider_id": "ecb",
+        "url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+        "license": {
+          "name": "Free reuse with source (ECB copyright notice)",
+          "url": "https://www.ecb.europa.eu/services/using-our-site/disclaimer/html/index.en.html",
+          "verified": true,
+          "verified_on": "2026-11-07",
+          "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z"
+      },
+      "published": null,
+      "curated": {
+        "checked_at": "2026-11-07T12:54:42Z",
+        "check": "ok",
+        "added_by": "maintainer",
+        "added_on": "2026-11-07"
+      }
+    },
+    {
+      "id": "eurostat_cal:22519949",
+      "release_key": "ea.hicp",
+      "kind": "data_release",
+      "region": "EA",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Inflation (HICP)",
+      "display_title": "Euro area inflation (HICP)",
+      "reference_period": "November 2026",
+      "start": "2026-12-17",
+      "all_day": true,
+      "publisher_tz": "Europe/Luxembourg",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "ea.inflation.hicp_yoy"
+      ],
+      "what_it_measures": "How much consumer prices in the euro area changed compared with a year earlier, measured the same way in every member country.",
+      "what_it_measures_pro": "Harmonised Index of Consumer Prices, annual rate of change (prc_hicp_manr). The flash estimate is published first and revised at the full release.",
+      "glossary": [
+        "inflation",
+        "headline-inflation"
+      ],
+      "dataset_codes": [
+        "prc_hicp_aind",
+        "prc_hicp_apc",
+        "prc_hicp_cann",
+        "prc_hicp_cind",
+        "prc_hicp_cmon",
+        "prc_hicp_cow",
+        "prc_hicp_inw",
+        "prc_hicp_manr",
+        "prc_hicp_midx",
+        "prc_hicp_mmor",
+        "prc_hicp_mv12r",
+        "prc_hicp_fp",
+        "prc_hicp_ctrb",
+        "prc_ipc_g20"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar",
+        "api_url": "https://ec.europa.eu/eurostat/o/calendars/eventsJson",
+        "license": {
+          "name": "Free reuse with source (Eurostat copyright notice)",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
+      },
+      "published": null
+    },
+    {
+      "id": "norges_cal:147916",
+      "release_key": "no.norges",
+      "kind": "rate_decision",
+      "region": "NO",
+      "topics": [
+        "policy_rate"
+      ],
+      "title": "Policy rate decision and Monetary Policy Report",
+      "display_title": "Norges Bank interest-rate decision",
+      "start": "2026-12-17T09:00:00Z",
+      "all_day": false,
+      "publisher_tz": "Europe/Oslo",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "no.policy_rate.policy_rate"
+      ],
+      "what_it_measures": "Norges Bank announces its decision on the policy rate, its main interest rate. The bank's own website explains how it uses this rate.",
+      "about_url": "https://www.norges-bank.no/en/topics/Monetary-policy/",
+      "glossary": [
+        "policy-rate",
+        "monetary-policy"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Norges Bank",
+        "provider_id": "norgesbank",
+        "url": "https://www.norges-bank.no/en/news-events/calendar/policy-rate-decisions/26-12-17/",
+        "api_url": "https://www.norges-bank.no/en/news-events/calendar/",
+        "license": {
+          "name": "Terms: see provider",
+          "url": "https://www.norges-bank.no/en/",
+          "verified": false
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.norges-bank.no/en/news-events/calendar/"
+      },
+      "published": null
+    },
+    {
+      "id": "curated:boj:2026-12-18",
+      "release_key": "jp.boj",
+      "kind": "rate_decision",
+      "region": "JP",
+      "topics": [
+        "policy_rate"
+      ],
+      "title": "Dec. 17 (Thurs.), 18 (Fri.)",
+      "display_title": "Bank of Japan monetary policy meeting",
+      "start": "2026-12-18",
+      "all_day": true,
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "jp.policy_rate.bis"
+      ],
+      "what_it_measures": "The Bank of Japan's Policy Board announces its monetary policy decisions at this meeting. The bank's own website explains how it conducts monetary policy.",
+      "about_url": "https://www.boj.or.jp/en/mopo/outline/index.htm",
+      "glossary": [
+        "policy-rate",
+        "monetary-policy"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Bank of Japan",
+        "provider_id": "boj",
+        "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm",
+        "license": {
+          "name": "Terms: see provider",
+          "url": "https://www.boj.or.jp/en/",
+          "verified": false
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z"
+      },
+      "published": null,
+      "curated": {
+        "checked_at": "2026-11-07T12:54:42Z",
+        "check": "ok",
+        "added_by": "maintainer",
+        "added_on": "2026-11-07"
+      }
+    },
+    {
+      "id": "ons_cal:/releases/retailsalesgreatbritainnovember2026",
+      "release_key": "gb.retail",
+      "kind": "data_release",
+      "region": "GB",
+      "topics": [
+        "consumer"
+      ],
+      "title": "Retail sales, Great Britain: November 2026",
+      "display_title": "Great Britain retail sales",
+      "reference_period": "November 2026",
+      "start": "2026-12-18T07:00:00Z",
+      "all_day": false,
+      "publisher_tz": "Europe/London",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "How much shops sold, by value and by volume, compared with earlier months.",
+      "glossary": [],
+      "language": "en",
+      "source": {
+        "name": "Office for National Statistics",
+        "provider_id": "ons",
+        "url": "https://www.ons.gov.uk/releases/retailsalesgreatbritainnovember2026",
+        "api_url": "https://api.beta.ons.gov.uk/v1/search/releases?release-type=type-upcoming&limit=100&offset=0&sort=release_date_asc",
+        "license": {
+          "name": "Open Government Licence v3.0",
+          "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.ons.gov.uk/releasecalendar"
+      },
+      "published": null
+    },
+    {
+      "id": "ons_cal:/releases/gdpquarterlynationalaccountsukjulytoseptember2026",
+      "release_key": "gb.gdp.quarterly",
+      "kind": "data_release",
+      "region": "GB",
+      "topics": [
+        "gdp"
+      ],
+      "title": "GDP quarterly national accounts, UK: July to September 2026",
+      "display_title": "UK quarterly GDP",
+      "reference_period": "July to September 2026",
+      "start": "2026-12-22T07:00:00Z",
+      "all_day": false,
+      "publisher_tz": "Europe/London",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "gb.gdp.qoq"
+      ],
+      "what_it_measures": "The total value of goods and services an economy produced in a period, compared with an earlier period.",
+      "what_it_measures_pro": "Quarterly gross domestic product, chained volume measure, quarter-on-quarter growth (ONS series IHYQ).",
+      "glossary": [
+        "gdp"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Office for National Statistics",
+        "provider_id": "ons",
+        "url": "https://www.ons.gov.uk/releases/gdpquarterlynationalaccountsukjulytoseptember2026",
+        "api_url": "https://api.beta.ons.gov.uk/v1/search/releases?release-type=type-upcoming&limit=100&offset=0&sort=release_date_asc",
+        "license": {
+          "name": "Open Government Licence v3.0",
+          "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.ons.gov.uk/releasecalendar"
+      },
+      "published": null
+    },
+    {
+      "id": "ons_cal:/releases/publicsectorfinancesuknovember2026",
+      "release_key": "gb.psf",
+      "kind": "data_release",
+      "region": "GB",
+      "topics": [
+        "public_finance"
+      ],
+      "title": "Public sector finances, UK: November 2026",
+      "display_title": "UK public sector finances",
+      "reference_period": "November 2026",
+      "start": "2026-12-22T07:00:00Z",
+      "all_day": false,
+      "publisher_tz": "Europe/London",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "How much the UK government received and spent, and how much it borrowed.",
+      "glossary": [
+        "budget-deficit"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Office for National Statistics",
+        "provider_id": "ons",
+        "url": "https://www.ons.gov.uk/releases/publicsectorfinancesuknovember2026",
+        "api_url": "https://api.beta.ons.gov.uk/v1/search/releases?release-type=type-upcoming&limit=100&offset=0&sort=release_date_asc",
+        "license": {
+          "name": "Open Government Licence v3.0",
+          "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+          "verified": true,
+          "verified_on": "2026-11-06"
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://www.ons.gov.uk/releasecalendar"
+      },
+      "published": null
+    },
+    {
+      "id": "bea_cal:Gross Domestic Product:2026-12-23T13:30:00Z",
+      "release_key": "us.gdp",
+      "kind": "data_release",
+      "region": "US",
+      "topics": [
+        "gdp"
+      ],
+      "title": "Gross Domestic Product",
+      "display_title": "US GDP",
+      "start": "2026-12-23T13:30:00Z",
+      "all_day": false,
+      "publisher_tz": "America/New_York",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "The total value of goods and services an economy produced in a period, compared with an earlier period.",
+      "glossary": [
+        "gdp"
+      ],
+      "language": "en",
+      "source": {
+        "name": "U.S. Bureau of Economic Analysis",
+        "provider_id": "bea",
+        "url": "https://www.bea.gov/news/schedule",
+        "api_url": "https://apps.bea.gov/API/signup/release_dates.json",
+        "license": {
+          "name": "Terms: see provider",
+          "url": "https://www.bea.gov/",
+          "verified": false
+        },
+        "retrieved_at": "2026-11-07T09:16:33Z",
+        "calendar_url": "https://www.bea.gov/news/schedule"
+      },
+      "published": null
+    },
+    {
+      "id": "bea_cal:Personal Income and Outlays:2026-12-23T13:30:00Z",
+      "release_key": "us.pio",
+      "kind": "data_release",
+      "region": "US",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Personal Income and Outlays",
+      "display_title": "US personal income and outlays",
+      "start": "2026-12-23T13:30:00Z",
+      "all_day": false,
+      "publisher_tz": "America/New_York",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "How much people in the United States earned and spent, including the price index the Federal Reserve uses for its inflation target.",
+      "glossary": [
+        "inflation-target"
+      ],
+      "language": "en",
+      "source": {
+        "name": "U.S. Bureau of Economic Analysis",
+        "provider_id": "bea",
+        "url": "https://www.bea.gov/news/schedule",
+        "api_url": "https://apps.bea.gov/API/signup/release_dates.json",
+        "license": {
+          "name": "Terms: see provider",
+          "url": "https://www.bea.gov/",
+          "verified": false
+        },
+        "retrieved_at": "2026-11-07T09:16:33Z",
+        "calendar_url": "https://www.bea.gov/news/schedule"
+      },
+      "published": null
+    },
+    {
+      "id": "fed_cal:FOMC Minutes:2026-12-30",
+      "release_key": "us.fomc.minutes",
+      "kind": "minutes",
+      "region": "US",
+      "topics": [
+        "policy_rate"
+      ],
+      "title": "FOMC Minutes",
+      "display_title": "US Federal Reserve meeting minutes (FOMC)",
+      "start": "2026-12-30T19:00:00Z",
+      "all_day": false,
+      "publisher_tz": "America/New_York",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [],
+      "what_it_measures": "A written account of the discussion at a recent interest-rate meeting.",
+      "glossary": [
+        "monetary-policy"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Federal Reserve Board",
+        "provider_id": "frb",
+        "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+        "api_url": "https://www.federalreserve.gov/json/calendar.json",
+        "license": {
+          "name": "Terms: see provider",
+          "url": "https://www.federalreserve.gov/disclaimer.htm",
+          "verified": false
+        },
+        "retrieved_at": "2026-11-07T09:16:33Z",
+        "calendar_url": "https://www.federalreserve.gov/newsevents/calendar.htm"
+      },
+      "published": null
+    },
+    {
+      "id": "eurostat_cal:24464650",
+      "release_key": "ea.hicp",
+      "kind": "data_release",
+      "region": "EA",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Flash estimate inflation euro area",
+      "display_title": "Euro area inflation (HICP)",
+      "reference_period": "December 2026",
+      "start": "2027-01-06",
+      "all_day": true,
+      "publisher_tz": "Europe/Luxembourg",
+      "status": "confirmed",
+      "status_text": "Confirmed date.",
+      "date_changes": [],
+      "related_series": [
+        "ea.inflation.hicp_yoy"
+      ],
+      "what_it_measures": "How much consumer prices in the euro area changed compared with a year earlier, measured the same way in every member country.",
+      "what_it_measures_pro": "Harmonised Index of Consumer Prices, annual rate of change (prc_hicp_manr). The flash estimate is published first and revised at the full release.",
+      "glossary": [
+        "inflation",
+        "headline-inflation"
+      ],
+      "dataset_codes": [
+        "prc_hicp_fp",
+        "prc_hicp_manr",
+        "prc_hicp_mmor",
+        "prc_hicp_midx",
+        "prc_hicp_inw",
+        "prc_hicp_cow"
+      ],
+      "language": "en",
+      "source": {
+        "name": "Eurostat",
+        "provider_id": "eurostat",
+        "url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar",
+        "api_url": "https://ec.europa.eu/eurostat/o/calendars/eventsJson",
+        "license": {
+          "name": "Free reuse with source (Eurostat copyright notice)",
+          "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
+          "verified": true,
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
+        },
+        "retrieved_at": "2026-11-07T12:54:42Z",
+        "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
+      },
+      "published": null
+    }
+  ],
+  "dropped": {
+    "unmatched": 277,
+    "past": 0,
+    "beyond_horizon": 53,
+    "merged": 0
+  }
+}

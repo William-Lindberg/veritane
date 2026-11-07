@@ -1,0 +1,64 @@
+{
+  "schema": "veritane/history/1",
+  "id": "us.gov_balance.imf",
+  "unit": "% of GDP",
+  "frequency": "A",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "WEO GGXCNL_NGDP USA|www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP",
+  "source": {
+    "name": "IMF, World Economic Outlook",
+    "provider_id": "imf",
+    "dataset": "WEO GGXCNL_NGDP USA",
+    "url": "https://www.imf.org/en/Publications/WEO",
+    "api_url": "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2015",
+      -3.5
+    ],
+    [
+      "2016",
+      -4.4
+    ],
+    [
+      "2017",
+      -4.8
+    ],
+    [
+      "2018",
+      -5.3
+    ],
+    [
+      "2019",
+      -5.8
+    ],
+    [
+      "2020",
+      -14.1
+    ],
+    [
+      "2021",
+      -11.5
+    ],
+    [
+      "2022",
+      -3.7
+    ],
+    [
+      "2023",
+      -7.9
+    ],
+    [
+      "2024",
+      -7.8
+    ],
+    [
+      "2025",
+      -7.1
+    ]
+  ],
+  "accumulated_since": null
+}

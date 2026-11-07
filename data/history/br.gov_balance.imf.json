@@ -1,0 +1,64 @@
+{
+  "schema": "veritane/history/1",
+  "id": "br.gov_balance.imf",
+  "unit": "% of GDP",
+  "frequency": "A",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "WEO GGXCNL_NGDP BRA|www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP",
+  "source": {
+    "name": "IMF, World Economic Outlook",
+    "provider_id": "imf",
+    "dataset": "WEO GGXCNL_NGDP BRA",
+    "url": "https://www.imf.org/en/Publications/WEO",
+    "api_url": "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2015",
+      -9.3
+    ],
+    [
+      "2016",
+      -8
+    ],
+    [
+      "2017",
+      -8
+    ],
+    [
+      "2018",
+      -7
+    ],
+    [
+      "2019",
+      -4.9
+    ],
+    [
+      "2020",
+      -11.6
+    ],
+    [
+      "2021",
+      -2.6
+    ],
+    [
+      "2022",
+      -4
+    ],
+    [
+      "2023",
+      -7.7
+    ],
+    [
+      "2024",
+      -6.3
+    ],
+    [
+      "2025",
+      -7.4
+    ]
+  ],
+  "accumulated_since": null
+}

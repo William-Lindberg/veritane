@@ -1,0 +1,64 @@
+{
+  "schema": "veritane/history/1",
+  "id": "vn.gov_balance.imf",
+  "unit": "% of GDP",
+  "frequency": "A",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "WEO GGXCNL_NGDP VNM|www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP",
+  "source": {
+    "name": "IMF, World Economic Outlook",
+    "provider_id": "imf",
+    "dataset": "WEO GGXCNL_NGDP VNM",
+    "url": "https://www.imf.org/en/Publications/WEO",
+    "api_url": "https://www.imf.org/external/datamapper/api/v1/GGXCNL_NGDP",
+    "retrieved_at": "2026-11-07T11:41:24Z"
+  },
+  "points": [
+    [
+      "2015",
+      -5
+    ],
+    [
+      "2016",
+      -3.2
+    ],
+    [
+      "2017",
+      -2
+    ],
+    [
+      "2018",
+      -1
+    ],
+    [
+      "2019",
+      -0.4
+    ],
+    [
+      "2020",
+      -2.9
+    ],
+    [
+      "2021",
+      -1.4
+    ],
+    [
+      "2022",
+      0.7
+    ],
+    [
+      "2023",
+      -1.7
+    ],
+    [
+      "2024",
+      -0.9
+    ],
+    [
+      "2025",
+      0
+    ]
+  ],
+  "accumulated_since": null
+}

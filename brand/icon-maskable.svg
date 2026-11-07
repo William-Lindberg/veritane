@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Veritane app icon">
+  <title>Veritane</title>
+  <rect width="512" height="512" fill="#0B7A75"/>
+  <g transform="translate(256 256) scale(0.8) translate(-256 -256)">
+    <circle cx="256" cy="256" r="150" fill="none" stroke="#FFFFFF" stroke-width="26"/>
+    <path d="M140 278 C158 240 170 328 188 290 C206 252 218 316 236 278 C248 258 254 266 262 266 L372 266" fill="none" stroke="#FFFFFF" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="372" cy="266" r="24" fill="#FFFFFF"/>
+  </g>
+</svg>
