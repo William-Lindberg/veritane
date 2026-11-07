@@ -1,0 +1,254 @@
+{
+  "schema": "veritane/story-day/1",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-07T13:50:02Z",
+  "stories": [
+    {
+      "id": "s20261104-33fd0fa563",
+      "label": "Place not identified: Economy",
+      "label_source": "template",
+      "headline": {
+        "t": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+        "o": "bbc",
+        "u": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko",
+        "l": "en"
+      },
+      "countries": [],
+      "regions": [],
+      "categories": [],
+      "country_basis": "none",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "bbc",
+          "t": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+          "u": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko",
+          "s": "2026-11-04T21:30:00Z",
+          "l": "en",
+          "join": "seed",
+          "copies": 1
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "WLD",
+          "count": 0,
+          "names": []
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T13:50:02Z",
+        "frozen_after": "2026-11-07T21:30:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 8,
+        "computed_at": "2026-11-07T13:50:02Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [],
+          "regions": [],
+          "scope": "unknown",
+          "places": 0,
+          "categories": [],
+          "category": null,
+          "category_weight": 0,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 64.33,
+          "first_seen": "2026-11-04T21:30:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 0,
+          "M": 0,
+          "P": 0,
+          "T": 1.56
+        },
+        "base": 5.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261104213000"
+        ],
+        "events": [
+          [
+            "2026-11-07T13:50:02Z",
+            "created",
+            {
+              "outlet": "bbc",
+              "seen_at": "2026-11-04T21:30:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-04T21:30:00Z",
+      "last_seen": "2026-11-04T21:30:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261104-cde0b81034",
+      "label": "Place not identified: Financial markets",
+      "label_source": "template",
+      "headline": {
+        "t": "The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+        "o": "cnbc",
+        "u": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+        "l": "en"
+      },
+      "countries": [],
+      "regions": [],
+      "categories": [
+        "markets"
+      ],
+      "country_basis": "none",
+      "opinion": true,
+      "coverage": [
+        {
+          "o": "cnbc",
+          "t": "The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+          "u": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+          "s": "2026-11-04T22:45:00Z",
+          "l": "en",
+          "op": true,
+          "join": "seed",
+          "copies": 1
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "WLD",
+          "count": 0,
+          "names": []
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T13:50:02Z",
+        "frozen_after": "2026-11-07T22:45:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 15,
+        "computed_at": "2026-11-07T13:50:02Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [],
+          "regions": [],
+          "scope": "unknown",
+          "places": 0,
+          "categories": [
+            "markets"
+          ],
+          "category": "markets",
+          "category_weight": 0.7,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 63.08,
+          "first_seen": "2026-11-04T22:45:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 7,
+          "M": 0,
+          "P": 0,
+          "T": 1.62
+        },
+        "base": 12.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261104224500"
+        ],
+        "events": [
+          [
+            "2026-11-07T13:50:02Z",
+            "created",
+            {
+              "outlet": "cnbc",
+              "seen_at": "2026-11-04T22:45:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-04T22:45:00Z",
+      "last_seen": "2026-11-04T22:45:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    }
+  ]
+}

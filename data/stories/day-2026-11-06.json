@@ -1,0 +1,1108 @@
+{
+  "schema": "veritane/story-day/1",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-07T13:50:02Z",
+  "stories": [
+    {
+      "id": "s20261106-19cd7fb665",
+      "label": "Place not identified: Economy",
+      "label_source": "template",
+      "headline": {
+        "t": "The engine parts that 'fight the laws of the universe'",
+        "o": "bbc",
+        "u": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo",
+        "l": "en"
+      },
+      "countries": [],
+      "regions": [],
+      "categories": [],
+      "country_basis": "none",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "bbc",
+          "t": "The engine parts that 'fight the laws of the universe'",
+          "u": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo",
+          "s": "2026-11-06T00:00:00Z",
+          "l": "en",
+          "join": "seed",
+          "copies": 1
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "WLD",
+          "count": 0,
+          "names": []
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T13:50:02Z",
+        "frozen_after": "2026-11-09T00:00:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 9,
+        "computed_at": "2026-11-07T13:50:02Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [],
+          "regions": [],
+          "scope": "unknown",
+          "places": 0,
+          "categories": [],
+          "category": null,
+          "category_weight": 0,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 37.83,
+          "first_seen": "2026-11-06T00:00:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 0,
+          "M": 0,
+          "P": 0,
+          "T": 3.35
+        },
+        "base": 5.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261106000000"
+        ],
+        "events": [
+          [
+            "2026-11-07T13:50:02Z",
+            "created",
+            {
+              "outlet": "bbc",
+              "seen_at": "2026-11-06T00:00:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-06T00:00:00Z",
+      "last_seen": "2026-11-06T00:00:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261106-3178d1b07c",
+      "label": "Place not identified: Economy",
+      "label_source": "template",
+      "headline": {
+        "t": "Tornano agli antichi fasti 50 statue dell’Albergo dei poveri di Genova",
+        "o": "sole24ore",
+        "u": "https://www.ilsole24ore.com/art/tornano-antichi-fasti-50-statue-dell-albergo-poveri-genova-AJllr35B",
+        "l": "it"
+      },
+      "countries": [],
+      "regions": [],
+      "categories": [],
+      "country_basis": "none",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "sole24ore",
+          "t": "Tornano agli antichi fasti 50 statue dell’Albergo dei poveri di Genova",
+          "u": "https://www.ilsole24ore.com/art/tornano-antichi-fasti-50-statue-dell-albergo-poveri-genova-AJllr35B",
+          "s": "2026-11-06T06:00:00Z",
+          "l": "it",
+          "join": "seed",
+          "copies": 1
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "WLD",
+          "count": 0,
+          "names": []
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T13:50:02Z",
+        "frozen_after": "2026-11-09T06:00:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 10,
+        "computed_at": "2026-11-07T13:50:02Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [],
+          "regions": [],
+          "scope": "unknown",
+          "places": 0,
+          "categories": [],
+          "category": null,
+          "category_weight": 0,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 31.83,
+          "first_seen": "2026-11-06T06:00:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 0,
+          "M": 0,
+          "P": 0,
+          "T": 3.99
+        },
+        "base": 5.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261106060000"
+        ],
+        "events": [
+          [
+            "2026-11-07T13:50:02Z",
+            "created",
+            {
+              "outlet": "sole24ore",
+              "seen_at": "2026-11-06T06:00:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-06T06:00:00Z",
+      "last_seen": "2026-11-06T06:00:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261106-e422b48a74",
+      "label": "Place not identified: Economy",
+      "label_source": "template",
+      "headline": {
+        "t": "Tv e piattaforme alla sfida della visibilità: il Tar conferma le tutele Agcom",
+        "o": "sole24ore",
+        "u": "https://www.ilsole24ore.com/art/tv-e-piattaforme-sfida-visibilita-tar-conferma-tutele-agcom-AJLbdc5B",
+        "l": "it"
+      },
+      "countries": [],
+      "regions": [],
+      "categories": [],
+      "country_basis": "none",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "sole24ore",
+          "t": "Tv e piattaforme alla sfida della visibilità: il Tar conferma le tutele Agcom",
+          "u": "https://www.ilsole24ore.com/art/tv-e-piattaforme-sfida-visibilita-tar-conferma-tutele-agcom-AJLbdc5B",
+          "s": "2026-11-06T06:30:00Z",
+          "l": "it",
+          "join": "seed",
+          "copies": 1
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "WLD",
+          "count": 0,
+          "names": []
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T13:50:02Z",
+        "frozen_after": "2026-11-09T06:30:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 10,
+        "computed_at": "2026-11-07T13:50:02Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [],
+          "regions": [],
+          "scope": "unknown",
+          "places": 0,
+          "categories": [],
+          "category": null,
+          "category_weight": 0,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 31.33,
+          "first_seen": "2026-11-06T06:30:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 0,
+          "M": 0,
+          "P": 0,
+          "T": 4.05
+        },
+        "base": 5.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261106063000"
+        ],
+        "events": [
+          [
+            "2026-11-07T13:50:02Z",
+            "created",
+            {
+              "outlet": "sole24ore",
+              "seen_at": "2026-11-06T06:30:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-06T06:30:00Z",
+      "last_seen": "2026-11-06T06:30:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261106-0eb8fc16d1",
+      "label": "Global: Economy",
+      "label_source": "template",
+      "headline": {
+        "t": "Young Factor Europe, sei Paesi a lezione di finanza",
+        "o": "sole24ore",
+        "u": "https://www.ilsole24ore.com/art/young-factor-europe-sei-paesi-lezione-finanza-AJKazx6B",
+        "l": "it"
+      },
+      "countries": [],
+      "regions": [
+        "eu",
+        "europe-other",
+        "global"
+      ],
+      "categories": [],
+      "country_basis": "title_region",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "sole24ore",
+          "t": "Young Factor Europe, sei Paesi a lezione di finanza",
+          "u": "https://www.ilsole24ore.com/art/young-factor-europe-sei-paesi-lezione-finanza-AJKazx6B",
+          "s": "2026-11-06T08:45:00Z",
+          "l": "it",
+          "join": "seed",
+          "copies": 1
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "WLD",
+          "count": 1,
+          "names": [
+            "World Bank"
+          ]
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 1 international source we follow for the world economy published a matching release in the days around this story.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T13:50:02Z",
+        "frozen_after": "2026-11-09T08:45:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 20,
+        "computed_at": "2026-11-07T13:50:02Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [],
+          "regions": [
+            "eu",
+            "europe-other",
+            "global"
+          ],
+          "scope": "global",
+          "places": 0,
+          "categories": [],
+          "category": null,
+          "category_weight": 0,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 29.08,
+          "first_seen": "2026-11-06T08:45:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 10,
+          "K": 0,
+          "M": 0,
+          "P": 0,
+          "T": 4.32
+        },
+        "base": 15.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261106084500"
+        ],
+        "events": [
+          [
+            "2026-11-07T13:50:02Z",
+            "created",
+            {
+              "outlet": "sole24ore",
+              "seen_at": "2026-11-06T08:45:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-06T08:45:00Z",
+      "last_seen": "2026-11-06T08:45:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261106-c89441cddd",
+      "label": "United States: Employment and wages",
+      "label_source": "template",
+      "headline": {
+        "t": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+        "o": "cnbc",
+        "u": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+        "l": "en"
+      },
+      "countries": [
+        "US"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "categories": [
+        "jobs",
+        "macro"
+      ],
+      "country_basis": "title",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "cnbc",
+          "t": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+          "u": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+          "s": "2026-11-06T16:00:00Z",
+          "l": "en",
+          "join": "seed",
+          "copies": 1
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "linked",
+        "official": [
+          {
+            "evidence_id": "series:us.unemployment.payrolls_change@2026-10",
+            "kind": "data_release",
+            "institution": "bls",
+            "institution_name": "U.S. Bureau of Labor Statistics",
+            "title": "United States: Nonfarm payrolls, monthly change, October 2026",
+            "url": "https://data.bls.gov/timeseries/CES0000000001",
+            "at": "2026-11-01T00:00:00Z",
+            "series_id": "us.unemployment.payrolls_change",
+            "period": "2026-10",
+            "method": "C",
+            "signals": [
+              "topic",
+              "figure",
+              "period",
+              "date"
+            ],
+            "window": "fallback"
+          },
+          {
+            "evidence_id": "series:us.unemployment.rate@2026-10",
+            "kind": "data_release",
+            "institution": "bls",
+            "institution_name": "U.S. Bureau of Labor Statistics",
+            "title": "United States: Unemployment rate, October 2026",
+            "url": "https://data.bls.gov/timeseries/LNS14000000",
+            "at": "2026-11-01T00:00:00Z",
+            "series_id": "us.unemployment.rate",
+            "period": "2026-10",
+            "method": "C",
+            "signals": [
+              "topic",
+              "figure",
+              "period",
+              "date"
+            ],
+            "window": "fallback"
+          }
+        ],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "US",
+          "count": 13,
+          "names": [
+            "Commodity Futures Trading Commission",
+            "Consumer Financial Protection Bureau",
+            "Federal Reserve",
+            "Federal Reserve Bank of New York",
+            "U.S. Bureau of Economic Analysis",
+            "U.S. Bureau of Labor Statistics",
+            "U.S. Securities and Exchange Commission",
+            "U.S. Treasury",
+            "Bank for International Settlements",
+            "International Labour Organization",
+            "International Monetary Fund",
+            "OECD",
+            "World Bank"
+          ]
+        },
+        "text": "Linked to an official release. U.S. Bureau of Labor Statistics published “United States: Nonfarm payrolls, monthly change, October 2026” on 1 November 2026. The reports match it on topic, figure and date. Matching is automatic. It shows that an official release on this exists. It does not check each claim in the reports.",
+        "text_simple": "An official source published this: U.S. Bureau of Labor Statistics, on 1 November 2026.",
+        "checked_at": "2026-11-07T13:50:02Z",
+        "frozen_after": "2026-11-09T16:00:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 36,
+        "computed_at": "2026-11-07T13:50:02Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [
+            "US"
+          ],
+          "regions": [
+            "north-america"
+          ],
+          "scope": "one_country",
+          "places": 1,
+          "categories": [
+            "jobs",
+            "macro"
+          ],
+          "category": "jobs",
+          "category_weight": 1,
+          "match_kind": "data_release",
+          "p_hours": 1,
+          "age_h": 21.83,
+          "first_seen": "2026-11-06T16:00:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 10,
+          "M": 15,
+          "P": 0,
+          "T": 5.32
+        },
+        "base": 30.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261106160000"
+        ],
+        "events": [
+          [
+            "2026-11-07T13:50:02Z",
+            "created",
+            {
+              "outlet": "cnbc",
+              "seen_at": "2026-11-06T16:00:00Z"
+            }
+          ],
+          [
+            "2026-11-07T13:50:02Z",
+            "match",
+            {
+              "evidence_id": "series:us.unemployment.payrolls_change@2026-10",
+              "method": "C",
+              "signals": [
+                "topic",
+                "figure",
+                "period",
+                "date"
+              ]
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-06T16:00:00Z",
+      "last_seen": "2026-11-06T16:00:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261106-beadeea7e4",
+      "label": "European Union: Economy",
+      "label_source": "template",
+      "headline": {
+        "t": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+        "o": "bbc",
+        "u": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo",
+        "l": "en"
+      },
+      "countries": [
+        "EU"
+      ],
+      "regions": [
+        "eu"
+      ],
+      "categories": [],
+      "country_basis": "title",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "bbc",
+          "t": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+          "u": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo",
+          "s": "2026-11-06T17:15:00Z",
+          "l": "en",
+          "join": "seed",
+          "copies": 1
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "EU",
+          "count": 3,
+          "names": [
+            "European Banking Authority",
+            "European Securities and Markets Authority",
+            "Eurostat"
+          ]
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 3 official sources we follow for the European Union published a matching release in the days around this story.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T13:50:02Z",
+        "frozen_after": "2026-11-09T17:15:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 16,
+        "computed_at": "2026-11-07T13:50:02Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [
+            "EU"
+          ],
+          "regions": [
+            "eu"
+          ],
+          "scope": "one_region",
+          "places": 1,
+          "categories": [],
+          "category": null,
+          "category_weight": 0,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 20.58,
+          "first_seen": "2026-11-06T17:15:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 5,
+          "K": 0,
+          "M": 0,
+          "P": 0,
+          "T": 5.52
+        },
+        "base": 10.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261106171500"
+        ],
+        "events": [
+          [
+            "2026-11-07T13:50:02Z",
+            "created",
+            {
+              "outlet": "bbc",
+              "seen_at": "2026-11-06T17:15:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-06T17:15:00Z",
+      "last_seen": "2026-11-06T17:15:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261106-cc73a5c54f",
+      "label": "United States: Financial markets",
+      "label_source": "template",
+      "headline": {
+        "t": "Why the US midterms sparked an AI stock selloff",
+        "o": "bbc",
+        "u": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo",
+        "l": "en"
+      },
+      "countries": [
+        "US"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "categories": [
+        "markets"
+      ],
+      "country_basis": "title",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "bbc",
+          "t": "Why the US midterms sparked an AI stock selloff",
+          "u": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo",
+          "s": "2026-11-06T18:30:00Z",
+          "l": "en",
+          "join": "seed",
+          "copies": 1
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "US",
+          "count": 13,
+          "names": [
+            "Commodity Futures Trading Commission",
+            "Consumer Financial Protection Bureau",
+            "Federal Reserve",
+            "Federal Reserve Bank of New York",
+            "U.S. Bureau of Economic Analysis",
+            "U.S. Bureau of Labor Statistics",
+            "U.S. Securities and Exchange Commission",
+            "U.S. Treasury",
+            "Bank for International Settlements",
+            "International Labour Organization",
+            "International Monetary Fund",
+            "OECD",
+            "World Bank"
+          ]
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 13 official sources we follow for the United States published a matching release in the days around this story.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T13:50:02Z",
+        "frozen_after": "2026-11-09T18:30:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 19,
+        "computed_at": "2026-11-07T13:50:02Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [
+            "US"
+          ],
+          "regions": [
+            "north-america"
+          ],
+          "scope": "one_country",
+          "places": 1,
+          "categories": [
+            "markets"
+          ],
+          "category": "markets",
+          "category_weight": 0.7,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 19.33,
+          "first_seen": "2026-11-06T18:30:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 7,
+          "M": 0,
+          "P": 0,
+          "T": 5.72
+        },
+        "base": 12.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261106183000"
+        ],
+        "events": [
+          [
+            "2026-11-07T13:50:02Z",
+            "created",
+            {
+              "outlet": "bbc",
+              "seen_at": "2026-11-06T18:30:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-06T18:30:00Z",
+      "last_seen": "2026-11-06T18:30:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261106-7886b128bf",
+      "label": "Place not identified: Employment and wages",
+      "label_source": "template",
+      "headline": {
+        "t": "A disturbing employment trend is hiding beneath the latest strong job numbers",
+        "o": "cnbc",
+        "u": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
+        "l": "en"
+      },
+      "countries": [],
+      "regions": [],
+      "categories": [
+        "jobs"
+      ],
+      "country_basis": "none",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "cnbc",
+          "t": "A disturbing employment trend is hiding beneath the latest strong job numbers",
+          "u": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
+          "s": "2026-11-06T20:00:00Z",
+          "l": "en",
+          "join": "seed",
+          "copies": 1
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "WLD",
+          "count": 0,
+          "names": []
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T13:50:02Z",
+        "frozen_after": "2026-11-09T20:00:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 22,
+        "computed_at": "2026-11-07T13:50:02Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [],
+          "regions": [],
+          "scope": "unknown",
+          "places": 0,
+          "categories": [
+            "jobs"
+          ],
+          "category": "jobs",
+          "category_weight": 1,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 17.83,
+          "first_seen": "2026-11-06T20:00:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 10,
+          "M": 0,
+          "P": 0,
+          "T": 5.97
+        },
+        "base": 15.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261106200000"
+        ],
+        "events": [
+          [
+            "2026-11-07T13:50:02Z",
+            "created",
+            {
+              "outlet": "cnbc",
+              "seen_at": "2026-11-06T20:00:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-06T20:00:00Z",
+      "last_seen": "2026-11-06T20:00:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    }
+  ]
+}

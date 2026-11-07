@@ -1,9 +1,9 @@
 {
   "schema": "veritane/status/1",
-  "generated_at": "2026-11-07T12:54:42Z",
+  "generated_at": "2026-11-07T13:50:02Z",
   "summary": {
-    "ok": 59,
-    "failed": 3,
+    "ok": 61,
+    "failed": 1,
     "series": 1189,
     "news": 348,
     "alerts": 39
@@ -33,25 +33,7 @@
           "ok": true,
           "note": "not_modified",
           "entries": 6,
-          "duration_ms": 135
-        },
-        {
-          "id": "bea_cal",
-          "provider": "bea",
-          "url": "https://www.bea.gov/news/schedule",
-          "ok": true,
-          "note": "not_modified",
-          "entries": 5,
-          "duration_ms": 300
-        },
-        {
-          "id": "boc_cal",
-          "provider": "boc",
-          "url": "https://www.bankofcanada.ca/press/upcoming-events/",
-          "ok": true,
-          "events": 11,
-          "entries": 1,
-          "duration_ms": 62
+          "duration_ms": 153
         },
         {
           "id": "eurostat_cal",
@@ -60,16 +42,25 @@
           "ok": true,
           "events": 38,
           "entries": 13,
-          "duration_ms": 574
+          "duration_ms": 154
         },
         {
-          "id": "norges_cal",
-          "provider": "norgesbank",
-          "url": "https://www.norges-bank.no/en/news-events/calendar/",
+          "id": "boc_cal",
+          "provider": "boc",
+          "url": "https://www.bankofcanada.ca/press/upcoming-events/",
           "ok": true,
-          "events": 1,
+          "events": 11,
           "entries": 1,
-          "duration_ms": 422
+          "duration_ms": 124
+        },
+        {
+          "id": "bea_cal",
+          "provider": "bea",
+          "url": "https://www.bea.gov/news/schedule",
+          "ok": true,
+          "note": "not_modified",
+          "entries": 5,
+          "duration_ms": 364
         },
         {
           "id": "ssb_cal",
@@ -78,7 +69,16 @@
           "ok": true,
           "events": 71,
           "entries": 3,
-          "duration_ms": 1003
+          "duration_ms": 453
+        },
+        {
+          "id": "norges_cal",
+          "provider": "norgesbank",
+          "url": "https://www.norges-bank.no/en/news-events/calendar/",
+          "ok": true,
+          "events": 1,
+          "entries": 1,
+          "duration_ms": 368
         },
         {
           "id": "ons_cal",
@@ -87,7 +87,7 @@
           "ok": true,
           "events": 200,
           "entries": 27,
-          "duration_ms": 1212
+          "duration_ms": 1129
         },
         {
           "id": "riksbank_cal",
@@ -96,7 +96,7 @@
           "ok": true,
           "events": 2,
           "entries": 1,
-          "duration_ms": 2226
+          "duration_ms": 2234
         }
       ],
       "curated_check": "ok",
@@ -107,29 +107,30 @@
         "beyond_horizon": 53,
         "merged": 0
       },
-      "duration_ms": 4109
+      "duration_ms": 2976
     },
     "stories": {
       "ok": true,
       "discovery": "ok",
-      "data_clock": "20261107130000",
-      "duration_ms": 4404,
+      "data_clock": "20261107140000",
+      "duration_ms": 20942,
       "files_ok": 4,
       "files_failed": 0,
       "files_skipped_budget": 0,
-      "bytes": 11496400,
-      "articles": 120,
-      "articles_used": 120,
-      "clusters": 101,
-      "stories_new": 11,
-      "stories_updated": 3,
-      "index_story_rows": 96,
+      "bytes": 75985819,
+      "articles": 1240,
+      "articles_used": 1240,
+      "clusters": 1115,
+      "stories_new": 94,
+      "stories_updated": 2,
+      "index_story_rows": 190,
       "index_official_rows": 172,
-      "published_records": 96,
-      "merges": 0,
+      "published_records": 190,
+      "merges": 4,
       "skipped": {
-        "no_listed_headline": 97,
-        "cap": 5
+        "no_listed_headline": 343,
+        "cap": 39,
+        "not_major_event": 654
       },
       "dropped": 0,
       "removed": {
@@ -137,10 +138,139 @@
         "articles": 0,
         "stories": 0
       },
-      "leads": 179,
-      "pending": 25,
-      "importance": "provisional/0",
+      "leads": 272,
+      "pending": 724,
+      "importance": "importance/1",
+      "classify": {
+        "version": "classify/1",
+        "on": false,
+        "reason": "no AI key",
+        "cached": 0,
+        "candidates": 243
+      },
+      "balance": {
+        "2026-11-07": {
+          "caps": {
+            "day": 400,
+            "outlet": 19,
+            "group": 29,
+            "country": 29
+          },
+          "outlet_countries": {
+            "IN": 44,
+            "AR": 10,
+            "CL": 9,
+            "IT": 9,
+            "US": 8,
+            "DE": 7,
+            "ES": 7,
+            "BR": 6,
+            "GB": 6,
+            "TR": 6,
+            "MY": 5,
+            "PK": 5,
+            "ID": 4,
+            "IE": 4,
+            "NG": 4,
+            "AT": 3,
+            "BE": 3,
+            "CN": 3,
+            "QA": 3,
+            "SG": 3,
+            "VN": 3,
+            "AU": 2,
+            "CA": 2,
+            "CH": 2,
+            "PH": 2,
+            "PL": 2,
+            "SA": 2,
+            "TW": 2,
+            "AE": 1,
+            "BD": 1,
+            "FR": 1,
+            "HU": 1,
+            "JP": 1,
+            "KR": 1,
+            "MX": 1
+          }
+        },
+        "2026-11-04": {
+          "caps": {
+            "day": 400,
+            "outlet": 3,
+            "group": 4,
+            "country": 3
+          },
+          "outlet_countries": {
+            "GB": 1,
+            "US": 1
+          }
+        },
+        "2026-11-05": {
+          "caps": {
+            "day": 400,
+            "outlet": 3,
+            "group": 4,
+            "country": 3
+          },
+          "outlet_countries": {
+            "GB": 3,
+            "US": 3
+          }
+        },
+        "2026-11-06": {
+          "caps": {
+            "day": 400,
+            "outlet": 3,
+            "group": 4,
+            "country": 4
+          },
+          "outlet_countries": {
+            "GB": 3,
+            "IT": 3,
+            "US": 2
+          }
+        }
+      },
+      "major_events": 7,
+      "translation": {
+        "files_planned": 8,
+        "files_ok": 8,
+        "files_failed": 0,
+        "bytes": 63421176,
+        "rows": 16490,
+        "kept": 868,
+        "duration_ms": 15437
+      },
+      "feeds": {
+        "version": "outlet-feeds/1",
+        "feeds": 3,
+        "ok": 3,
+        "not_modified": 0,
+        "failed": 0,
+        "skipped_budget": 0,
+        "items": 96,
+        "rows": 46,
+        "per_feed": {
+          "bbc-business": "ok 27/54",
+          "sole24ore-economia": "ok 12/12",
+          "cnbc-economy": "ok 7/30"
+        },
+        "duration_ms": 299,
+        "kept": 43
+      },
+      "event_track": 720,
       "out": "public"
+    },
+    "events": {
+      "ok": true,
+      "stories": 190,
+      "seeds": 7,
+      "classified": 7,
+      "events": 7,
+      "days": 4,
+      "day_files": 4,
+      "duration_ms": 67
     }
   },
   "problems": [],
@@ -153,9 +283,9 @@
       "url": "https://apps.bea.gov/rss/rss.xml",
       "ok": true,
       "note": "not_modified",
-      "duration_ms": 295,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 431,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "boc_press",
@@ -163,10 +293,14 @@
       "provider": "boc",
       "url": "https://www.bankofcanada.ca/content_type/press-releases/feed/",
       "ok": true,
-      "note": "not_modified",
-      "duration_ms": 86,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "language": "en",
+      "ui_visible": true,
+      "items": 10,
+      "news": 10,
+      "alerts": 0,
+      "duration_ms": 131,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "boe_news",
@@ -179,9 +313,9 @@
       "items": 50,
       "news": 50,
       "alerts": 0,
-      "duration_ms": 193,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 324,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "boj_whatsnew",
@@ -195,9 +329,9 @@
       "raw_items": 48,
       "news": 12,
       "alerts": 0,
-      "duration_ms": 307,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 420,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "cbk_news",
@@ -206,9 +340,9 @@
       "url": "https://www.centralbank.go.ke/feed/",
       "ok": true,
       "note": "not_modified",
-      "duration_ms": 2019,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 91,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "cfpb_enforcement",
@@ -217,9 +351,9 @@
       "url": "https://www.consumerfinance.gov/enforcement/actions/feed/",
       "ok": true,
       "note": "not_modified",
-      "duration_ms": 1308,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 1479,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "cfpb_newsroom",
@@ -228,9 +362,9 @@
       "url": "https://www.consumerfinance.gov/about-us/newsroom/feed/",
       "ok": true,
       "note": "not_modified",
-      "duration_ms": 134,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 224,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "cftc_press",
@@ -238,14 +372,10 @@
       "provider": "cftc",
       "url": "https://www.cftc.gov/RSS/RSSGP/rssgp.xml",
       "ok": true,
-      "language": "en",
-      "ui_visible": true,
-      "items": 10,
-      "news": 10,
-      "alerts": 0,
-      "duration_ms": 187,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "note": "not_modified",
+      "duration_ms": 121,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "eba_news",
@@ -258,9 +388,9 @@
       "items": 10,
       "news": 10,
       "alerts": 0,
-      "duration_ms": 3643,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 257,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "ecb_press",
@@ -273,9 +403,9 @@
       "items": 15,
       "news": 15,
       "alerts": 0,
-      "duration_ms": 506,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 82,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "ecb_statpress",
@@ -288,9 +418,9 @@
       "items": 15,
       "news": 15,
       "alerts": 0,
-      "duration_ms": 1147,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 1022,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "esma_news",
@@ -303,9 +433,9 @@
       "items": 10,
       "news": 10,
       "alerts": 0,
-      "duration_ms": 182,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 86,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "europol_news",
@@ -318,9 +448,9 @@
       "items": 10,
       "news": 0,
       "alerts": 1,
-      "duration_ms": 1065,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 153,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "fca_news",
@@ -329,9 +459,9 @@
       "url": "https://www.fca.org.uk/news/rss.xml",
       "ok": true,
       "note": "not_modified",
-      "duration_ms": 66,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 133,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "fed_press",
@@ -340,9 +470,9 @@
       "url": "https://www.federalreserve.gov/feeds/press_all.xml",
       "ok": true,
       "note": "not_modified",
-      "duration_ms": 116,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 91,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "fed_speeches",
@@ -351,9 +481,9 @@
       "url": "https://www.federalreserve.gov/feeds/speeches.xml",
       "ok": true,
       "note": "not_modified",
-      "duration_ms": 1021,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 1039,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "ic3_psa",
@@ -366,9 +496,9 @@
       "items": 5,
       "news": 0,
       "alerts": 5,
-      "duration_ms": 422,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 1142,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "kov_forelagganden",
@@ -381,9 +511,9 @@
       "items": 15,
       "news": 0,
       "alerts": 15,
-      "duration_ms": 1188,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 1811,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "kov_nyheter",
@@ -396,9 +526,9 @@
       "items": 15,
       "news": 0,
       "alerts": 15,
-      "duration_ms": 754,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 306,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "kov_press",
@@ -411,9 +541,9 @@
       "items": 15,
       "news": 0,
       "alerts": 15,
-      "duration_ms": 451,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 950,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "ncsc_news",
@@ -422,9 +552,9 @@
       "url": "https://www.ncsc.gov.uk/api/1/services/v1/news-rss-feed.xml",
       "ok": true,
       "note": "not_modified",
-      "duration_ms": 280,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 90,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "norges_press",
@@ -437,9 +567,9 @@
       "items": 5,
       "news": 5,
       "alerts": 0,
-      "duration_ms": 293,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 195,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "ons_published",
@@ -452,9 +582,9 @@
       "items": 30,
       "news": 30,
       "alerts": 0,
-      "duration_ms": 254,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 139,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "rba_media",
@@ -463,9 +593,9 @@
       "url": "https://www.rba.gov.au/rss/rss-cb-media-releases.xml",
       "ok": true,
       "note": "not_modified",
-      "duration_ms": 622,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 729,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "rba_speeches",
@@ -474,9 +604,9 @@
       "url": "https://www.rba.gov.au/rss/rss-cb-speeches.xml",
       "ok": true,
       "note": "not_modified",
-      "duration_ms": 1154,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 1150,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "rbi_press",
@@ -489,9 +619,9 @@
       "items": 10,
       "news": 10,
       "alerts": 1,
-      "duration_ms": 92,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 693,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "riksbank_press_en",
@@ -504,9 +634,9 @@
       "items": 10,
       "news": 10,
       "alerts": 0,
-      "duration_ms": 696,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 216,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "riksbank_press_sv",
@@ -519,22 +649,24 @@
       "items": 10,
       "news": 10,
       "alerts": 0,
-      "duration_ms": 1057,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 932,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "scb_statnews",
       "kind": "feed",
       "provider": "scb",
       "url": "https://www.scb.se/feed/statistiknyheter",
-      "ok": false,
-      "kept_previous": true,
-      "error": "ETIMEDOUT (https://www.scb.se/feed/statistiknyheter)",
-      "note": "network",
-      "duration_ms": 7248,
-      "last_success_at": "2026-11-07T12:01:21Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "ok": true,
+      "language": "sv",
+      "ui_visible": false,
+      "items": 10,
+      "news": 10,
+      "alerts": 0,
+      "duration_ms": 419,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "sec_press",
@@ -542,10 +674,14 @@
       "provider": "sec",
       "url": "https://www.sec.gov/news/pressreleases.rss",
       "ok": true,
-      "note": "not_modified",
-      "duration_ms": 412,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "language": "en",
+      "ui_visible": true,
+      "items": 25,
+      "news": 25,
+      "alerts": 7,
+      "duration_ms": 144,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "ssb_news",
@@ -554,9 +690,9 @@
       "url": "https://www.ssb.no/rss/?lang=en",
       "ok": true,
       "note": "not_modified",
-      "duration_ms": 577,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 225,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "cpi_categories",
@@ -566,9 +702,9 @@
       "files": [
         "cpi-categories.json"
       ],
-      "duration_ms": 652,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 0,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "ecb_fx",
@@ -580,9 +716,9 @@
         "fx.json",
         "fx-history.json"
       ],
-      "duration_ms": 1438,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 1069,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "yield_curves",
@@ -592,9 +728,9 @@
       "files": [
         "yield-curves.json"
       ],
-      "duration_ms": 39459,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 37508,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "abs",
@@ -602,9 +738,9 @@
       "provider": "abs",
       "ok": true,
       "series": 2,
-      "duration_ms": 1190,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 2194,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "bcb",
@@ -612,9 +748,9 @@
       "provider": "bcb",
       "ok": true,
       "series": 2,
-      "duration_ms": 1737,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 2232,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "bis",
@@ -622,9 +758,9 @@
       "provider": "bis",
       "ok": true,
       "series": 21,
-      "duration_ms": 1165,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 1056,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "bis_rpp",
@@ -640,11 +776,14 @@
       "id": "bls",
       "kind": "indicators",
       "provider": "bls",
-      "ok": true,
-      "series": 4,
-      "duration_ms": 579,
+      "ok": false,
+      "kept_previous": true,
+      "error": "BLS: Request could not be serviced, as the daily threshold for total number of requests allocated to the user with registration key has been reached.",
+      "note": "quota",
+      "http": 200,
+      "duration_ms": 283,
       "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "boc",
@@ -652,9 +791,9 @@
       "provider": "boc",
       "ok": true,
       "series": 2,
-      "duration_ms": 1032,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 1030,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "boe",
@@ -662,9 +801,9 @@
       "provider": "boe",
       "ok": true,
       "series": 2,
-      "duration_ms": 743,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 717,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "dst",
@@ -672,9 +811,9 @@
       "provider": "dst",
       "ok": true,
       "series": 2,
-      "duration_ms": 10949,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 10489,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "ecb",
@@ -682,9 +821,9 @@
       "provider": "ecb",
       "ok": true,
       "series": 2,
-      "duration_ms": 1184,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 1119,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "eurostat",
@@ -692,9 +831,9 @@
       "provider": "eurostat",
       "ok": true,
       "series": 4,
-      "duration_ms": 2196,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 2097,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "fiscaldata",
@@ -702,9 +841,9 @@
       "provider": "fiscaldata",
       "ok": true,
       "series": 4,
-      "duration_ms": 3300,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 3268,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "ilo_wages",
@@ -722,9 +861,9 @@
       "provider": "imf",
       "ok": true,
       "series": 27,
-      "duration_ms": 1747,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 2517,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "imf_weo",
@@ -732,9 +871,9 @@
       "provider": "imf",
       "ok": true,
       "series": 98,
-      "duration_ms": 1498,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 1501,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "norgesbank",
@@ -742,9 +881,9 @@
       "provider": "norgesbank",
       "ok": true,
       "series": 2,
-      "duration_ms": 1203,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 1115,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "nyfed",
@@ -752,22 +891,19 @@
       "provider": "nyfed",
       "ok": true,
       "series": 3,
-      "duration_ms": 1138,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 1289,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "oecd",
       "kind": "indicators",
       "provider": "oecd",
-      "ok": false,
-      "kept_previous": true,
-      "error": "HTTP 500: Internal server error",
-      "note": "server",
-      "http": 500,
-      "duration_ms": 8584,
-      "last_success_at": "2026-11-07T11:33:11Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "ok": true,
+      "series": 1,
+      "duration_ms": 185,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "oecd_shares",
@@ -795,9 +931,9 @@
       "provider": "ons",
       "ok": true,
       "series": 3,
-      "duration_ms": 2082,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 2067,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "rba",
@@ -805,9 +941,9 @@
       "provider": "rba",
       "ok": true,
       "series": 2,
-      "duration_ms": 1299,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 2017,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "riksbank",
@@ -815,9 +951,9 @@
       "provider": "riksbank",
       "ok": true,
       "series": 2,
-      "duration_ms": 7519,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 7187,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "sarb",
@@ -825,21 +961,19 @@
       "provider": "sarb",
       "ok": true,
       "series": 3,
-      "duration_ms": 1219,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 1846,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "scb",
       "kind": "indicators",
       "provider": "scb",
-      "ok": false,
-      "kept_previous": true,
-      "error": "ETIMEDOUT (https://api.scb.se/ov0104/v2beta/api/v2/tables/TAB6596/data?lang=en&outputFormat=json-stat2&valueCodes[ContentsCode]=00000804&valueCodes[Tid]=top(130))",
-      "note": "network",
-      "duration_ms": 6832,
-      "last_success_at": "2026-11-07T12:01:21Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "ok": true,
+      "series": 2,
+      "duration_ms": 1975,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "ssb",
@@ -847,9 +981,9 @@
       "provider": "ssb",
       "ok": true,
       "series": 1,
-      "duration_ms": 560,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 256,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "statcan",
@@ -857,9 +991,9 @@
       "provider": "statcan",
       "ok": true,
       "series": 3,
-      "duration_ms": 795,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 1065,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     },
     {
       "id": "wb_commodities",
@@ -877,9 +1011,9 @@
       "provider": "worldbank",
       "ok": true,
       "series": 77,
-      "duration_ms": 1186,
-      "last_success_at": "2026-11-07T12:54:42Z",
-      "last_attempt_at": "2026-11-07T12:54:42Z"
+      "duration_ms": 1089,
+      "last_success_at": "2026-11-07T13:50:02Z",
+      "last_attempt_at": "2026-11-07T13:50:02Z"
     }
   ]
 }

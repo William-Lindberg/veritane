@@ -4,6 +4,48 @@
   "criteria_url": "/about/outlet-policy/",
   "outlets": [
     {
+      "id": "ansa",
+      "name": "ANSA",
+      "hosts": [
+        "ansa.it"
+      ],
+      "country": "IT",
+      "languages": [
+        "it",
+        "en"
+      ],
+      "type": "wire",
+      "ownership": "cooperative",
+      "owner": "ANSA cooperative",
+      "owner_group": "ansa-cooperative",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 28,
+      "last_seen": "2026-11-07T13:45:00Z"
+    },
+    {
+      "id": "efe",
+      "name": "EFE",
+      "hosts": [
+        "efe.com"
+      ],
+      "country": "ES",
+      "languages": [
+        "es",
+        "en"
+      ],
+      "type": "wire",
+      "ownership": "public",
+      "owner": "SEPI (Spanish state holding)",
+      "owner_group": "sepi",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T13:30:00Z"
+    },
+    {
       "id": "xinhua",
       "name": "Xinhua",
       "hosts": [
@@ -23,8 +65,30 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 4,
-      "last_seen": "2026-11-07T10:30:00Z"
+      "seen_28d": 24,
+      "last_seen": "2026-11-07T13:30:00Z"
+    },
+    {
+      "id": "interfax",
+      "name": "Interfax",
+      "hosts": [
+        "interfax.com",
+        "interfax.ru"
+      ],
+      "country": "RU",
+      "languages": [
+        "ru",
+        "en"
+      ],
+      "type": "wire",
+      "ownership": "private",
+      "owner": "Interfax Group",
+      "owner_group": "interfax-group",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T12:15:00Z"
     },
     {
       "id": "anadolu",
@@ -44,8 +108,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 2,
-      "last_seen": "2026-11-07T08:15:00Z"
+      "seen_28d": 16,
+      "last_seen": "2026-11-07T13:45:00Z"
     },
     {
       "id": "cna_tw",
@@ -66,8 +130,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 3,
-      "last_seen": "2026-11-07T11:30:00Z"
+      "seen_28d": 25,
+      "last_seen": "2026-11-07T14:00:00Z"
     },
     {
       "id": "antara",
@@ -88,8 +152,50 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T12:45:00Z"
+      "seen_28d": 21,
+      "last_seen": "2026-11-07T13:45:00Z"
+    },
+    {
+      "id": "agenciabrasil",
+      "name": "Agência Brasil",
+      "hosts": [
+        "agenciabrasil.ebc.com.br"
+      ],
+      "country": "BR",
+      "languages": [
+        "pt"
+      ],
+      "type": "wire",
+      "ownership": "public",
+      "owner": "EBC (federal public company)",
+      "owner_group": "ebc",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T13:00:00Z"
+    },
+    {
+      "id": "ukrinform",
+      "name": "Ukrinform",
+      "hosts": [
+        "ukrinform.ua",
+        "ukrinform.net"
+      ],
+      "country": "UA",
+      "languages": [
+        "uk",
+        "en"
+      ],
+      "type": "wire",
+      "ownership": "public",
+      "owner": "Government of Ukraine",
+      "owner_group": "government-of-ukraine",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 6,
+      "last_seen": "2026-11-07T12:15:00Z"
     },
     {
       "id": "dw",
@@ -110,8 +216,30 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T09:00:00Z"
+      "seen_28d": 29,
+      "last_seen": "2026-11-07T13:45:00Z"
+    },
+    {
+      "id": "rfi",
+      "name": "RFI",
+      "hosts": [
+        "rfi.fr"
+      ],
+      "country": "FR",
+      "languages": [
+        "fr",
+        "en",
+        "es"
+      ],
+      "type": "international",
+      "ownership": "public",
+      "owner": "France Médias Monde",
+      "owner_group": "france-medias-monde",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T12:45:00Z"
     },
     {
       "id": "aljazeera",
@@ -132,8 +260,73 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 2,
-      "last_seen": "2026-11-07T06:45:00Z"
+      "seen_28d": 13,
+      "last_seen": "2026-11-07T13:30:00Z"
+    },
+    {
+      "id": "euronews",
+      "name": "Euronews",
+      "hosts": [
+        "euronews.com"
+      ],
+      "country": "INT",
+      "languages": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt"
+      ],
+      "type": "international",
+      "ownership": "private",
+      "owner": "Euronews (Alpac Capital)",
+      "owner_group": "euronews",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 21,
+      "last_seen": "2026-11-07T13:30:00Z"
+    },
+    {
+      "id": "cnbc",
+      "name": "CNBC",
+      "hosts": [
+        "cnbc.com"
+      ],
+      "country": "US",
+      "languages": [
+        "en"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Versant / NBCUniversal",
+      "owner_group": "comcast-nbcuniversal",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 12,
+      "last_seen": "2026-11-07T14:00:00Z"
+    },
+    {
+      "id": "foxnews",
+      "name": "Fox News",
+      "hosts": [
+        "foxnews.com"
+      ],
+      "country": "US",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Fox Corporation",
+      "owner_group": "fox-corp",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 8,
+      "last_seen": "2026-11-07T13:45:00Z"
     },
     {
       "id": "npr",
@@ -152,8 +345,28 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 2,
-      "last_seen": "2026-11-07T11:15:00Z"
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T13:45:00Z"
+    },
+    {
+      "id": "nbcnews",
+      "name": "NBC News",
+      "hosts": [
+        "nbcnews.com"
+      ],
+      "country": "US",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "NBCUniversal",
+      "owner_group": "comcast-nbcuniversal",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 5,
+      "last_seen": "2026-11-07T13:15:00Z"
     },
     {
       "id": "fortune",
@@ -194,8 +407,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T11:30:00Z"
+      "seen_28d": 5,
+      "last_seen": "2026-11-07T13:45:00Z"
     },
     {
       "id": "globeandmail",
@@ -218,6 +431,67 @@
       "last_seen": "2026-11-07T11:45:00Z"
     },
     {
+      "id": "bnn",
+      "name": "BNN Bloomberg",
+      "hosts": [
+        "bnnbloomberg.ca"
+      ],
+      "country": "CA",
+      "languages": [
+        "en"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Bell Media",
+      "owner_group": "bell-media",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T13:45:00Z"
+    },
+    {
+      "id": "jornada",
+      "name": "La Jornada",
+      "hosts": [
+        "jornada.com.mx"
+      ],
+      "country": "MX",
+      "languages": [
+        "es"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "DEMOS",
+      "owner_group": "demos",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 6,
+      "last_seen": "2026-11-07T13:30:00Z"
+    },
+    {
+      "id": "bbc",
+      "name": "BBC",
+      "hosts": [
+        "bbc.co.uk",
+        "bbc.com"
+      ],
+      "country": "GB",
+      "languages": [
+        "en"
+      ],
+      "type": "public_media",
+      "ownership": "public",
+      "owner": "BBC (Royal Charter)",
+      "owner_group": "bbc",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 32,
+      "last_seen": "2026-11-07T14:00:00Z"
+    },
+    {
       "id": "guardian",
       "name": "The Guardian",
       "hosts": [
@@ -234,8 +508,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 3,
-      "last_seen": "2026-11-07T13:00:00Z"
+      "seen_28d": 10,
+      "last_seen": "2026-11-07T13:45:00Z"
     },
     {
       "id": "mirror",
@@ -254,8 +528,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 4,
-      "last_seen": "2026-11-07T12:00:00Z"
+      "seen_28d": 9,
+      "last_seen": "2026-11-07T13:15:00Z"
     },
     {
       "id": "rte",
@@ -294,8 +568,170 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 3,
-      "last_seen": "2026-11-07T08:30:00Z"
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T13:30:00Z"
+    },
+    {
+      "id": "tagesschau",
+      "name": "tagesschau (ARD)",
+      "hosts": [
+        "tagesschau.de"
+      ],
+      "country": "DE",
+      "languages": [
+        "de"
+      ],
+      "type": "public_media",
+      "ownership": "public",
+      "owner": "ARD (statutory)",
+      "owner_group": "ard",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T12:45:00Z"
+    },
+    {
+      "id": "handelsblatt",
+      "name": "Handelsblatt",
+      "hosts": [
+        "handelsblatt.com"
+      ],
+      "country": "DE",
+      "languages": [
+        "de",
+        "en"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Handelsblatt Media Group",
+      "owner_group": "handelsblatt-media-group",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 11,
+      "last_seen": "2026-11-07T13:15:00Z"
+    },
+    {
+      "id": "faz",
+      "name": "Frankfurter Allgemeine",
+      "hosts": [
+        "faz.net"
+      ],
+      "country": "DE",
+      "languages": [
+        "de"
+      ],
+      "type": "general",
+      "ownership": "trust_or_nonprofit",
+      "owner": "FAZIT foundation",
+      "owner_group": "fazit-foundation",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T12:30:00Z"
+    },
+    {
+      "id": "spiegel",
+      "name": "Der Spiegel",
+      "hosts": [
+        "spiegel.de"
+      ],
+      "country": "DE",
+      "languages": [
+        "de",
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Spiegel group (partly staff-owned)",
+      "owner_group": "spiegel-group",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 11,
+      "last_seen": "2026-11-07T12:30:00Z"
+    },
+    {
+      "id": "welt",
+      "name": "Die Welt",
+      "hosts": [
+        "welt.de"
+      ],
+      "country": "DE",
+      "languages": [
+        "de"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Axel Springer",
+      "owner_group": "axel-springer",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 17,
+      "last_seen": "2026-11-07T13:45:00Z"
+    },
+    {
+      "id": "wiwo",
+      "name": "WirtschaftsWoche",
+      "hosts": [
+        "wiwo.de"
+      ],
+      "country": "DE",
+      "languages": [
+        "de"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Handelsblatt Media Group",
+      "owner_group": "handelsblatt-media-group",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T13:00:00Z"
+    },
+    {
+      "id": "bild",
+      "name": "Bild",
+      "hosts": [
+        "bild.de"
+      ],
+      "country": "DE",
+      "languages": [
+        "de"
+      ],
+      "type": "popular",
+      "ownership": "private",
+      "owner": "Axel Springer",
+      "owner_group": "axel-springer",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 9,
+      "last_seen": "2026-11-07T13:45:00Z"
+    },
+    {
+      "id": "latribune",
+      "name": "La Tribune",
+      "hosts": [
+        "latribune.fr"
+      ],
+      "country": "FR",
+      "languages": [
+        "fr"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "La Tribune",
+      "owner_group": "la-tribune",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T12:15:00Z"
     },
     {
       "id": "elpais",
@@ -316,8 +752,390 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
+      "seen_28d": 10,
+      "last_seen": "2026-11-07T13:30:00Z"
+    },
+    {
+      "id": "elmundo",
+      "name": "El Mundo",
+      "hosts": [
+        "elmundo.es"
+      ],
+      "country": "ES",
+      "languages": [
+        "es"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Unidad Editorial",
+      "owner_group": "unidad-editorial",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 7,
+      "last_seen": "2026-11-07T13:45:00Z"
+    },
+    {
+      "id": "expansion_es",
+      "name": "Expansión",
+      "hosts": [
+        "expansion.com"
+      ],
+      "country": "ES",
+      "languages": [
+        "es"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Unidad Editorial",
+      "owner_group": "unidad-editorial",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T12:15:00Z"
+    },
+    {
+      "id": "abc_es",
+      "name": "ABC (ES)",
+      "hosts": [
+        "abc.es"
+      ],
+      "country": "ES",
+      "languages": [
+        "es"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Vocento",
+      "owner_group": "vocento",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 10,
+      "last_seen": "2026-11-07T13:45:00Z"
+    },
+    {
+      "id": "eldiario",
+      "name": "elDiario.es",
+      "hosts": [
+        "eldiario.es"
+      ],
+      "country": "ES",
+      "languages": [
+        "es"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Diario de Prensa Digital",
+      "owner_group": "diario-de-prensa-digital",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 16,
+      "last_seen": "2026-11-07T13:15:00Z"
+    },
+    {
+      "id": "lavanguardia",
+      "name": "La Vanguardia",
+      "hosts": [
+        "lavanguardia.com"
+      ],
+      "country": "ES",
+      "languages": [
+        "es"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Grupo Godó",
+      "owner_group": "grupo-godo",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 5,
+      "last_seen": "2026-11-07T13:30:00Z"
+    },
+    {
+      "id": "sole24ore",
+      "name": "Il Sole 24 Ore",
+      "hosts": [
+        "ilsole24ore.com"
+      ],
+      "country": "IT",
+      "languages": [
+        "it"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Confindustria",
+      "owner_group": "confindustria",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 19,
+      "last_seen": "2026-11-07T12:15:00Z"
+    },
+    {
+      "id": "corriere",
+      "name": "Corriere della Sera",
+      "hosts": [
+        "corriere.it"
+      ],
+      "country": "IT",
+      "languages": [
+        "it"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "RCS MediaGroup",
+      "owner_group": "rcs-mediagroup",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T13:45:00Z"
+    },
+    {
+      "id": "repubblica",
+      "name": "la Repubblica",
+      "hosts": [
+        "repubblica.it"
+      ],
+      "country": "IT",
+      "languages": [
+        "it"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "GEDI",
+      "owner_group": "gedi",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 15,
+      "last_seen": "2026-11-07T13:45:00Z"
+    },
+    {
+      "id": "ilgiornale",
+      "name": "il Giornale",
+      "hosts": [
+        "ilgiornale.it"
+      ],
+      "country": "IT",
+      "languages": [
+        "it"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Angelucci group",
+      "owner_group": "angelucci-group",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 17,
+      "last_seen": "2026-11-07T13:45:00Z"
+    },
+    {
+      "id": "ilfatto",
+      "name": "Il Fatto Quotidiano",
+      "hosts": [
+        "ilfattoquotidiano.it"
+      ],
+      "country": "IT",
+      "languages": [
+        "it"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "SEIF",
+      "owner_group": "seif",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 6,
+      "last_seen": "2026-11-07T13:30:00Z"
+    },
+    {
+      "id": "vrt",
+      "name": "VRT NWS",
+      "hosts": [
+        "vrt.be"
+      ],
+      "country": "BE",
+      "languages": [
+        "nl"
+      ],
+      "type": "public_media",
+      "ownership": "public",
+      "owner": "VRT",
+      "owner_group": "vrt",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 9,
+      "last_seen": "2026-11-07T12:15:00Z"
+    },
+    {
+      "id": "rtbf",
+      "name": "RTBF",
+      "hosts": [
+        "rtbf.be"
+      ],
+      "country": "BE",
+      "languages": [
+        "fr"
+      ],
+      "type": "public_media",
+      "ownership": "public",
+      "owner": "RTBF",
+      "owner_group": "rtbf",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T13:45:00Z"
+    },
+    {
+      "id": "svd",
+      "name": "Svenska Dagbladet",
+      "hosts": [
+        "svd.se"
+      ],
+      "country": "SE",
+      "languages": [
+        "sv"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Schibsted",
+      "owner_group": "schibsted",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T12:30:00Z"
+    },
+    {
+      "id": "di",
+      "name": "Dagens industri",
+      "hosts": [
+        "di.se"
+      ],
+      "country": "SE",
+      "languages": [
+        "sv"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Bonnier",
+      "owner_group": "bonnier",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
       "seen_28d": 2,
-      "last_seen": "2026-11-07T07:15:00Z"
+      "last_seen": "2026-11-07T13:30:00Z"
+    },
+    {
+      "id": "yle",
+      "name": "Yle",
+      "hosts": [
+        "yle.fi"
+      ],
+      "country": "FI",
+      "languages": [
+        "fi",
+        "sv",
+        "en"
+      ],
+      "type": "public_media",
+      "ownership": "public",
+      "owner": "Yle (statutory)",
+      "owner_group": "yle",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 8,
+      "last_seen": "2026-11-07T13:15:00Z"
+    },
+    {
+      "id": "nrk",
+      "name": "NRK",
+      "hosts": [
+        "nrk.no"
+      ],
+      "country": "NO",
+      "languages": [
+        "no"
+      ],
+      "type": "public_media",
+      "ownership": "public",
+      "owner": "NRK (statutory)",
+      "owner_group": "nrk",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T12:15:00Z"
+    },
+    {
+      "id": "borsen",
+      "name": "Børsen",
+      "hosts": [
+        "borsen.dk"
+      ],
+      "country": "DK",
+      "languages": [
+        "da"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Børsen",
+      "owner_group": "b-rsen",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T12:15:00Z"
+    },
+    {
+      "id": "politiken",
+      "name": "Politiken",
+      "hosts": [
+        "politiken.dk"
+      ],
+      "country": "DK",
+      "languages": [
+        "da"
+      ],
+      "type": "general",
+      "ownership": "trust_or_nonprofit",
+      "owner": "JP/Politikens Hus (foundation-owned)",
+      "owner_group": "jp-politikens-hus",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 7,
+      "last_seen": "2026-11-07T13:45:00Z"
+    },
+    {
+      "id": "srf",
+      "name": "SRF",
+      "hosts": [
+        "srf.ch"
+      ],
+      "country": "CH",
+      "languages": [
+        "de"
+      ],
+      "type": "public_media",
+      "ownership": "public",
+      "owner": "SRG SSR",
+      "owner_group": "srg-ssr",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 7,
+      "last_seen": "2026-11-07T12:15:00Z"
     },
     {
       "id": "swissinfo",
@@ -339,8 +1157,208 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T12:15:00Z"
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T13:30:00Z"
+    },
+    {
+      "id": "orf",
+      "name": "ORF",
+      "hosts": [
+        "orf.at"
+      ],
+      "country": "AT",
+      "languages": [
+        "de"
+      ],
+      "type": "public_media",
+      "ownership": "public",
+      "owner": "ORF (statutory)",
+      "owner_group": "orf",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 16,
+      "last_seen": "2026-11-07T13:45:00Z"
+    },
+    {
+      "id": "derstandard",
+      "name": "Der Standard",
+      "hosts": [
+        "derstandard.at"
+      ],
+      "country": "AT",
+      "languages": [
+        "de"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Bronner Online",
+      "owner_group": "bronner-online",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T13:00:00Z"
+    },
+    {
+      "id": "diepresse",
+      "name": "Die Presse",
+      "hosts": [
+        "diepresse.com"
+      ],
+      "country": "AT",
+      "languages": [
+        "de"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Styria Media",
+      "owner_group": "styria-media",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 7,
+      "last_seen": "2026-11-07T13:15:00Z"
+    },
+    {
+      "id": "rp_pl",
+      "name": "Rzeczpospolita",
+      "hosts": [
+        "rp.pl"
+      ],
+      "country": "PL",
+      "languages": [
+        "pl"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Gremi Media",
+      "owner_group": "gremi-media",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 9,
+      "last_seen": "2026-11-07T13:15:00Z"
+    },
+    {
+      "id": "hvg",
+      "name": "HVG",
+      "hosts": [
+        "hvg.hu"
+      ],
+      "country": "HU",
+      "languages": [
+        "hu"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "HVG Kiadó",
+      "owner_group": "hvg-kiado",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 9,
+      "last_seen": "2026-11-07T13:15:00Z"
+    },
+    {
+      "id": "portfolio",
+      "name": "Portfolio.hu",
+      "hosts": [
+        "portfolio.hu"
+      ],
+      "country": "HU",
+      "languages": [
+        "hu"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Portfolio",
+      "owner_group": "portfolio",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 6,
+      "last_seen": "2026-11-07T12:30:00Z"
+    },
+    {
+      "id": "magyarnemzet",
+      "name": "Magyar Nemzet",
+      "hosts": [
+        "magyarnemzet.hu"
+      ],
+      "country": "HU",
+      "languages": [
+        "hu"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Mediaworks / KESMA",
+      "owner_group": "mediaworks-kesma",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 8,
+      "last_seen": "2026-11-07T12:45:00Z"
+    },
+    {
+      "id": "naftemporiki",
+      "name": "Naftemporiki",
+      "hosts": [
+        "naftemporiki.gr"
+      ],
+      "country": "GR",
+      "languages": [
+        "el"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Naftemporiki",
+      "owner_group": "naftemporiki",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 11,
+      "last_seen": "2026-11-07T13:45:00Z"
+    },
+    {
+      "id": "rtp",
+      "name": "RTP",
+      "hosts": [
+        "rtp.pt"
+      ],
+      "country": "PT",
+      "languages": [
+        "pt"
+      ],
+      "type": "public_media",
+      "ownership": "public",
+      "owner": "RTP",
+      "owner_group": "rtp",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T13:15:00Z"
+    },
+    {
+      "id": "kommersant",
+      "name": "Kommersant",
+      "hosts": [
+        "kommersant.ru"
+      ],
+      "country": "RU",
+      "languages": [
+        "ru"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Kommersant",
+      "owner_group": "kommersant",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T12:45:00Z"
     },
     {
       "id": "hurriyetdaily",
@@ -361,6 +1379,26 @@
       "reviewed": "2026-11-07",
       "seen_28d": 1,
       "last_seen": "2026-11-07T07:15:00Z"
+    },
+    {
+      "id": "dailysabah",
+      "name": "Daily Sabah",
+      "hosts": [
+        "dailysabah.com"
+      ],
+      "country": "TR",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Turkuvaz",
+      "owner_group": "turkuvaz",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 7,
+      "last_seen": "2026-11-07T13:45:00Z"
     },
     {
       "id": "arabnews",
@@ -404,6 +1442,130 @@
       "last_seen": "2026-11-07T09:45:00Z"
     },
     {
+      "id": "thenational",
+      "name": "The National",
+      "hosts": [
+        "thenationalnews.com"
+      ],
+      "country": "AE",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "International Media Investments (verify)",
+      "owner_group": "thenational",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T14:00:00Z"
+    },
+    {
+      "id": "gulfnews",
+      "name": "Gulf News",
+      "hosts": [
+        "gulfnews.com"
+      ],
+      "country": "AE",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Al Nisr Publishing",
+      "owner_group": "al-nisr-publishing",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 9,
+      "last_seen": "2026-11-07T14:00:00Z"
+    },
+    {
+      "id": "haaretz",
+      "name": "Haaretz",
+      "hosts": [
+        "haaretz.com",
+        "haaretz.co.il"
+      ],
+      "country": "IL",
+      "languages": [
+        "en",
+        "he"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Haaretz group",
+      "owner_group": "haaretz-group",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T13:45:00Z"
+    },
+    {
+      "id": "globes",
+      "name": "Globes",
+      "hosts": [
+        "globes.co.il",
+        "en.globes.co.il"
+      ],
+      "country": "IL",
+      "languages": [
+        "he",
+        "en"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Globes",
+      "owner_group": "globes",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T12:00:00Z"
+    },
+    {
+      "id": "dailymaverick",
+      "name": "Daily Maverick",
+      "hosts": [
+        "dailymaverick.co.za"
+      ],
+      "country": "ZA",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Daily Maverick",
+      "owner_group": "daily-maverick",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T14:00:00Z"
+    },
+    {
+      "id": "premiumtimes",
+      "name": "Premium Times",
+      "hosts": [
+        "premiumtimesng.com"
+      ],
+      "country": "NG",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Premium Times",
+      "owner_group": "premium-times",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 5,
+      "last_seen": "2026-11-07T13:15:00Z"
+    },
+    {
       "id": "punch",
       "name": "Punch",
       "hosts": [
@@ -424,6 +1586,26 @@
       "last_seen": "2026-11-07T06:45:00Z"
     },
     {
+      "id": "thisday",
+      "name": "THISDAY",
+      "hosts": [
+        "thisdaylive.com"
+      ],
+      "country": "NG",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Leaders & Company",
+      "owner_group": "leaders-and-company",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 5,
+      "last_seen": "2026-11-07T13:15:00Z"
+    },
+    {
       "id": "vanguard",
       "name": "Vanguard",
       "hosts": [
@@ -440,8 +1622,28 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T11:45:00Z"
+      "seen_28d": 8,
+      "last_seen": "2026-11-07T13:30:00Z"
+    },
+    {
+      "id": "standard_ke",
+      "name": "The Standard (KE)",
+      "hosts": [
+        "standardmedia.co.ke"
+      ],
+      "country": "KE",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Standard Group",
+      "owner_group": "standard-group",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T14:00:00Z"
     },
     {
       "id": "graphic",
@@ -464,6 +1666,91 @@
       "last_seen": "2026-11-07T12:30:00Z"
     },
     {
+      "id": "nikkei",
+      "name": "Nikkei",
+      "hosts": [
+        "nikkei.com",
+        "asia.nikkei.com"
+      ],
+      "country": "JP",
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Nikkei Inc.",
+      "owner_group": "nikkei",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T12:15:00Z"
+    },
+    {
+      "id": "asahi",
+      "name": "Asahi Shimbun",
+      "hosts": [
+        "asahi.com"
+      ],
+      "country": "JP",
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Asahi Shimbun",
+      "owner_group": "asahi-shimbun",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T12:30:00Z"
+    },
+    {
+      "id": "mainichi",
+      "name": "Mainichi",
+      "hosts": [
+        "mainichi.jp"
+      ],
+      "country": "JP",
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Mainichi Newspapers",
+      "owner_group": "mainichi-newspapers",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T13:30:00Z"
+    },
+    {
+      "id": "kbs",
+      "name": "KBS",
+      "hosts": [
+        "kbs.co.kr"
+      ],
+      "country": "KR",
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "type": "public_media",
+      "ownership": "public",
+      "owner": "KBS (statutory)",
+      "owner_group": "kbs",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T12:00:00Z"
+    },
+    {
       "id": "koreaherald",
       "name": "The Korea Herald",
       "hosts": [
@@ -480,8 +1767,30 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T14:00:00Z"
+    },
+    {
+      "id": "hani",
+      "name": "Hankyoreh",
+      "hosts": [
+        "hani.co.kr",
+        "english.hani.co.kr"
+      ],
+      "country": "KR",
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "type": "general",
+      "ownership": "trust_or_nonprofit",
+      "owner": "Hankyoreh (shareholder-owned)",
+      "owner_group": "hankyoreh",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
       "seen_28d": 1,
-      "last_seen": "2026-11-07T10:45:00Z"
+      "last_seen": "2026-11-07T13:15:00Z"
     },
     {
       "id": "globaltimes",
@@ -501,8 +1810,30 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T09:00:00Z"
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T14:00:00Z"
+    },
+    {
+      "id": "yicai",
+      "name": "Yicai",
+      "hosts": [
+        "yicai.com",
+        "yicaiglobal.com"
+      ],
+      "country": "CN",
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "type": "business",
+      "ownership": "public",
+      "owner": "Shanghai Media Group",
+      "owner_group": "shanghai-media-group",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 6,
+      "last_seen": "2026-11-07T13:00:00Z"
     },
     {
       "id": "thehindu",
@@ -524,8 +1855,8 @@
       ],
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T09:15:00Z"
+      "seen_28d": 29,
+      "last_seen": "2026-11-07T14:00:00Z"
     },
     {
       "id": "businessline",
@@ -544,8 +1875,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 11,
-      "last_seen": "2026-11-07T11:45:00Z"
+      "seen_28d": 15,
+      "last_seen": "2026-11-07T13:30:00Z"
     },
     {
       "id": "mint",
@@ -584,8 +1915,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 4,
-      "last_seen": "2026-11-07T13:00:00Z"
+      "seen_28d": 10,
+      "last_seen": "2026-11-07T13:30:00Z"
     },
     {
       "id": "et",
@@ -604,8 +1935,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 19,
-      "last_seen": "2026-11-07T12:15:00Z"
+      "seen_28d": 30,
+      "last_seen": "2026-11-07T13:45:00Z"
     },
     {
       "id": "toi",
@@ -624,8 +1955,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 7,
-      "last_seen": "2026-11-07T12:45:00Z"
+      "seen_28d": 26,
+      "last_seen": "2026-11-07T14:00:00Z"
     },
     {
       "id": "bs",
@@ -647,8 +1978,8 @@
       ],
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 5,
-      "last_seen": "2026-11-07T11:15:00Z"
+      "seen_28d": 9,
+      "last_seen": "2026-11-07T14:00:00Z"
     },
     {
       "id": "moneycontrol",
@@ -667,8 +1998,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 7,
-      "last_seen": "2026-11-07T12:15:00Z"
+      "seen_28d": 24,
+      "last_seen": "2026-11-07T13:15:00Z"
     },
     {
       "id": "tribune_pk",
@@ -687,8 +2018,28 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 6,
-      "last_seen": "2026-11-07T09:00:00Z"
+      "seen_28d": 8,
+      "last_seen": "2026-11-07T13:45:00Z"
+    },
+    {
+      "id": "thenews_pk",
+      "name": "The News",
+      "hosts": [
+        "thenews.com.pk"
+      ],
+      "country": "PK",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Jang Group",
+      "owner_group": "jang-group",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T14:00:00Z"
     },
     {
       "id": "dailystar_bd",
@@ -747,8 +2098,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 2,
-      "last_seen": "2026-11-07T11:15:00Z"
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T13:30:00Z"
     },
     {
       "id": "fmt",
@@ -768,8 +2119,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 2,
-      "last_seen": "2026-11-07T11:30:00Z"
+      "seen_28d": 9,
+      "last_seen": "2026-11-07T13:45:00Z"
     },
     {
       "id": "straitstimes",
@@ -788,8 +2139,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T09:00:00Z"
+      "seen_28d": 5,
+      "last_seen": "2026-11-07T13:30:00Z"
     },
     {
       "id": "bt_sg",
@@ -872,6 +2223,51 @@
       "last_seen": "2026-11-07T10:30:00Z"
     },
     {
+      "id": "manilatimes",
+      "name": "The Manila Times",
+      "hosts": [
+        "manilatimes.net"
+      ],
+      "country": "PH",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Manila Times Publishing",
+      "owner_group": "manila-times-publishing",
+      "status": "listed",
+      "exclude_paths": [
+        "^/\\d{4}/\\d{2}/\\d{2}/tmt-newswire/"
+      ],
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T13:30:00Z"
+    },
+    {
+      "id": "vnexpress",
+      "name": "VnExpress",
+      "hosts": [
+        "vnexpress.net",
+        "e.vnexpress.net"
+      ],
+      "country": "VN",
+      "languages": [
+        "vi",
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "FPT (licensed by the Ministry of Science and Technology)",
+      "owner_group": "fpt",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 17,
+      "last_seen": "2026-11-07T13:15:00Z"
+    },
+    {
       "id": "vietnamnews",
       "name": "Viet Nam News",
       "hosts": [
@@ -930,6 +2326,246 @@
       "reviewed": "2026-11-07",
       "seen_28d": 1,
       "last_seen": "2026-11-07T10:00:00Z"
+    },
+    {
+      "id": "g1",
+      "name": "g1",
+      "hosts": [
+        "g1.globo.com"
+      ],
+      "country": "BR",
+      "languages": [
+        "pt"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Grupo Globo",
+      "owner_group": "grupo-globo",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 25,
+      "last_seen": "2026-11-07T13:30:00Z"
+    },
+    {
+      "id": "oglobo",
+      "name": "O Globo",
+      "hosts": [
+        "oglobo.globo.com"
+      ],
+      "country": "BR",
+      "languages": [
+        "pt"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Grupo Globo",
+      "owner_group": "grupo-globo",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 6,
+      "last_seen": "2026-11-07T13:30:00Z"
+    },
+    {
+      "id": "folha",
+      "name": "Folha de S.Paulo",
+      "hosts": [
+        "folha.uol.com.br"
+      ],
+      "country": "BR",
+      "languages": [
+        "pt"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Grupo Folha",
+      "owner_group": "grupo-folha",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T13:30:00Z"
+    },
+    {
+      "id": "estadao",
+      "name": "O Estado de S. Paulo",
+      "hosts": [
+        "estadao.com.br"
+      ],
+      "country": "BR",
+      "languages": [
+        "pt"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Grupo Estado",
+      "owner_group": "grupo-estado",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 5,
+      "last_seen": "2026-11-07T13:30:00Z"
+    },
+    {
+      "id": "infomoney",
+      "name": "InfoMoney",
+      "hosts": [
+        "infomoney.com.br"
+      ],
+      "country": "BR",
+      "languages": [
+        "pt"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "XP Inc.",
+      "owner_group": "xp-inc",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 9,
+      "last_seen": "2026-11-07T12:30:00Z"
+    },
+    {
+      "id": "lanacion",
+      "name": "La Nación (AR)",
+      "hosts": [
+        "lanacion.com.ar"
+      ],
+      "country": "AR",
+      "languages": [
+        "es"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "S.A. La Nación",
+      "owner_group": "s-a-la-nacion",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 10,
+      "last_seen": "2026-11-07T13:45:00Z"
+    },
+    {
+      "id": "clarin",
+      "name": "Clarín",
+      "hosts": [
+        "clarin.com"
+      ],
+      "country": "AR",
+      "languages": [
+        "es"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Grupo Clarín",
+      "owner_group": "grupo-clarin",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 13,
+      "last_seen": "2026-11-07T13:45:00Z"
+    },
+    {
+      "id": "infobae",
+      "name": "Infobae",
+      "hosts": [
+        "infobae.com"
+      ],
+      "country": "AR",
+      "languages": [
+        "es"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Infobae",
+      "owner_group": "infobae",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 6,
+      "last_seen": "2026-11-07T13:30:00Z"
+    },
+    {
+      "id": "ambito",
+      "name": "Ámbito",
+      "hosts": [
+        "ambito.com"
+      ],
+      "country": "AR",
+      "languages": [
+        "es"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Ámbito",
+      "owner_group": "ambito",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 6,
+      "last_seen": "2026-11-07T12:45:00Z"
+    },
+    {
+      "id": "latercera",
+      "name": "La Tercera",
+      "hosts": [
+        "latercera.com"
+      ],
+      "country": "CL",
+      "languages": [
+        "es"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Copesa",
+      "owner_group": "copesa",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 26,
+      "last_seen": "2026-11-07T13:30:00Z"
+    },
+    {
+      "id": "biobio",
+      "name": "BioBioChile",
+      "hosts": [
+        "biobiochile.cl"
+      ],
+      "country": "CL",
+      "languages": [
+        "es"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Bío-Bío Comunicaciones",
+      "owner_group": "bio-bio-comunicaciones",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T12:00:00Z"
+    },
+    {
+      "id": "elespectador",
+      "name": "El Espectador",
+      "hosts": [
+        "elespectador.com"
+      ],
+      "country": "CO",
+      "languages": [
+        "es"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Comunican S.A.",
+      "owner_group": "comunican-s-a",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T13:45:00Z"
     }
   ],
   "blocked": [

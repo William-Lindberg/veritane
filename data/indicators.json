@@ -1,6 +1,6 @@
 {
   "schema": "veritane/indicators/2",
-  "generated_at": "2026-11-07T12:01:21Z",
+  "generated_at": "2026-11-07T13:50:02Z",
   "template_version": "indicator-templates/1",
   "series": [
     {
@@ -597,7 +597,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "Average Interest Rates on U.S. Treasury Securities",
@@ -680,7 +680,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "Debt to the Penny",
@@ -839,7 +839,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "Monthly Treasury Statement, table 1",
@@ -1072,7 +1072,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -1144,7 +1144,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -2066,7 +2066,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -2224,7 +2224,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "Interest Expense on the Public Debt Outstanding",
@@ -2464,7 +2464,7 @@
           "url": "https://www.newyorkfed.org/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "Effective Federal Funds Rate (EFFR)",
@@ -2547,7 +2547,7 @@
           "url": "https://www.newyorkfed.org/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "Secured Overnight Financing Rate (SOFR)",
@@ -2675,7 +2675,7 @@
           "url": "https://www.newyorkfed.org/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "decision_url": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm",
       "receipt": {
@@ -4060,7 +4060,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "Daily Treasury Par Yield Curve Rates",
@@ -4180,7 +4180,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "Daily Treasury Par Yield Curve Rates",
@@ -4720,7 +4720,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "EXR.D.USD.EUR.SP00.A",
@@ -5001,7 +5001,7 @@
           "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-05T23:00:00+0100",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "namq_10_gdp",
@@ -6143,7 +6143,7 @@
           "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "prc_hicp_minr",
@@ -6308,7 +6308,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "decision_url": "https://www.ecb.europa.eu/mopo/decisions/html/index.en.html",
       "peer_panel": "policy_rate.bis",
@@ -7054,7 +7054,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "LFSI.M.I9.S.UNEHRT.TOTAL0.15_74.T",
@@ -7177,7 +7177,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "YC.B.U2.EUR.4F.G_N_A.SV_C_YM.SR_10Y",
@@ -7750,7 +7750,7 @@
           "url": "https://www.bankofengland.co.uk/legal",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "XUDLUSS",
@@ -8034,7 +8034,7 @@
           "verified_on": "2026-11-06"
         },
         "publisher_updated": "2026-09-29T23:00:00.000Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "next_release": "2026-11-12",
       "peer_panel": "gdp.annual.wb",
@@ -8109,7 +8109,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -8945,7 +8945,7 @@
           "verified_on": "2026-11-06"
         },
         "publisher_updated": "2026-10-20T23:00:00.000Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "next_release": "2026-11-18",
       "peer_panel": "inflation.cpi_yoy.imf",
@@ -9021,7 +9021,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -9248,7 +9248,7 @@
           "url": "https://www.bankofengland.co.uk/legal",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "decision_url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate",
       "peer_panel": "policy_rate.bis",
@@ -9923,7 +9923,7 @@
           "verified_on": "2026-11-06"
         },
         "publisher_updated": "2026-10-19T23:00:00.000Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "next_release": "2026-11-17",
       "peer_panel": "unemployment.annual.wb",
@@ -10267,7 +10267,7 @@
           "url": "https://www.bankofengland.co.uk/legal",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "IUDMNPY",
@@ -10806,7 +10806,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "EXR.D.JPY.EUR.SP00.A",
@@ -11035,7 +11035,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -11107,7 +11107,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -11938,7 +11938,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -12014,7 +12014,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -12287,7 +12287,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -12945,14 +12945,15 @@
         "provider_id": "oecd",
         "dataset": "DF_IALFS_UNE_M (JPN)",
         "url": "https://data-explorer.oecd.org/",
-        "api_url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.TPS,DSD_LFS@DF_IALFS_UNE_M,1.0/JPN..._Z.Y._T.Y_GE15..M?startPeriod=2016-01&format=jsondata&dimensionAtObservation=AllDimensions",
+        "api_url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.TPS,DSD_LFS@DF_IALFS_UNE_M,1.0/JPN..._Z.Y._T.Y_GE15..M?lastNObservations=24&format=jsondata&dimensionAtObservation=AllDimensions",
         "license": {
-          "name": "CC BY 4.0",
-          "url": "https://data-explorer.oecd.org/",
+          "name": "Free reuse with attribution (OECD terms, Data)",
+          "url": "https://www.oecd.org/en/about/terms-conditions.html",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Except where additional restrictions apply as stated above, you can extract from, download, copy, adapt, print, distribute, share and embed Data for any purpose, even for commercial use. You must give appropriate credit to the OECD."
         },
-        "retrieved_at": "2026-11-07T09:18:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -12966,15 +12967,15 @@
         "derivation": null
       },
       "stale": false,
-      "revisions": {
-        "count_12m": 0,
-        "last_detected_at": null
-      },
       "history_file": "history/jp.unemployment.rate.json",
       "history_depth": {
         "from": "2024-10",
         "to": "2026-09",
         "n": 24
+      },
+      "revisions": {
+        "count_12m": 0,
+        "last_detected_at": null
       }
     },
     {
@@ -13698,7 +13699,7 @@
           "url": "https://www.bankofcanada.ca/terms/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "FXUSDCAD",
@@ -13927,7 +13928,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -14091,7 +14092,7 @@
           "verified": false
         },
         "publisher_updated": "2026-10-30T08:30",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "derived_from": {
         "series": "v65201210",
@@ -14180,7 +14181,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -15014,7 +15015,7 @@
           "verified": false
         },
         "publisher_updated": "2026-10-19T08:30",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "derived_from": {
         "series": "v41690973",
@@ -15107,7 +15108,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -15334,7 +15335,7 @@
           "url": "https://www.bankofcanada.ca/terms/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "decision_url": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/",
       "peer_panel": "policy_rate.bis",
@@ -16007,7 +16008,7 @@
           "verified": false
         },
         "publisher_updated": "2026-11-06T08:30",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -16852,7 +16853,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "F11.1 FXRUSD",
@@ -17082,7 +17083,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -17154,7 +17155,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -17969,7 +17970,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "derived_from": {
         "series": "CPI 1.10001.10.50.Q",
@@ -18062,7 +18063,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -18334,7 +18335,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "decision_url": "https://www.rba.gov.au/statistics/cash-rate/",
       "peer_panel": "policy_rate.bis",
@@ -18989,7 +18990,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -20360,7 +20361,7 @@
           "url": "https://www.riksbank.se/en-gb/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "SEKEURPMI",
@@ -20640,7 +20641,7 @@
           "verified_on": "2026-11-06"
         },
         "publisher_updated": "2026-10-29T07:00:00Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -20712,7 +20713,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -21948,7 +21949,7 @@
           "verified_on": "2026-11-06"
         },
         "publisher_updated": "2026-10-14T06:00:00Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -22021,7 +22022,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -22139,7 +22140,7 @@
           "url": "https://www.riksbank.se/en-gb/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -22993,7 +22994,7 @@
           "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-05T23:00:00+0100",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -23901,7 +23902,7 @@
           "url": "https://www.norges-bank.no/en/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "EXR.B.USD.NOK.SP",
@@ -24130,7 +24131,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -24202,7 +24203,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -25041,7 +25042,7 @@
           "verified_on": "2026-11-06"
         },
         "publisher_updated": "2026-10-09T06:00:00Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -25117,7 +25118,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -25235,7 +25236,7 @@
           "url": "https://www.norges-bank.no/en/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -25861,7 +25862,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -27398,7 +27399,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -27635,7 +27636,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -28867,7 +28868,7 @@
           "url": "https://www.dst.dk/en",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -28939,7 +28940,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -29085,7 +29086,7 @@
           "url": "https://www.dst.dk/en",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -29931,7 +29932,7 @@
           "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-05T23:00:00+0100",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -30700,7 +30701,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "EXR.D.BRL.EUR.SP00.A",
@@ -30929,7 +30930,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -31001,7 +31002,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -31826,7 +31827,7 @@
           "url": "https://dadosabertos.bcb.gov.br/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -31898,7 +31899,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -32171,7 +32172,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -32834,7 +32835,7 @@
           "url": "https://dadosabertos.bcb.gov.br/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -33489,7 +33490,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "EXR.D.INR.EUR.SP00.A",
@@ -33718,7 +33719,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -33790,7 +33791,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -34598,7 +34599,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -34674,7 +34675,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -34834,7 +34835,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -35433,7 +35434,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -36079,7 +36080,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "EXR.D.CNY.EUR.SP00.A",
@@ -36308,7 +36309,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -36380,7 +36381,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -37216,7 +37217,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -37291,7 +37292,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -37451,7 +37452,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -38073,7 +38074,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -38691,7 +38692,7 @@
           "url": "https://www.resbank.co.za/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "EXCX135D",
@@ -38921,7 +38922,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -38993,7 +38994,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -39686,7 +39687,7 @@
           "url": "https://www.resbank.co.za/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -39763,7 +39764,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -39819,7 +39820,7 @@
           "url": "https://www.resbank.co.za/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -40401,7 +40402,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -41153,7 +41154,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -41225,7 +41226,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -42049,7 +42050,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -42124,7 +42125,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -42397,7 +42398,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -43007,7 +43008,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -43919,7 +43920,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -43991,7 +43992,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -44839,7 +44840,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -44914,7 +44915,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -45074,7 +45075,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -45709,7 +45710,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -46166,7 +46167,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -46238,7 +46239,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -46716,7 +46717,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -46791,7 +46792,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -47099,7 +47100,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -47513,7 +47514,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -47585,7 +47586,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -48067,7 +48068,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -48142,7 +48143,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -48570,7 +48571,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -48984,7 +48985,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -49056,7 +49057,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -49558,7 +49559,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -49633,7 +49634,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -50081,7 +50082,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -51501,7 +51502,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -51738,7 +51739,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -52880,7 +52881,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -54467,7 +54468,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -54539,7 +54540,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -55013,7 +55014,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -55088,7 +55089,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -55508,7 +55509,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -56913,7 +56914,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -57152,7 +57153,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -58295,7 +58296,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -60348,7 +60349,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "EXR.D.CHF.EUR.SP00.A",
@@ -60577,7 +60578,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -60649,7 +60650,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -61489,7 +61490,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -61564,7 +61565,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -61724,7 +61725,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -62350,7 +62351,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -63261,7 +63262,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -63333,7 +63334,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -64159,7 +64160,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -64234,7 +64235,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -64507,7 +64508,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -65117,7 +65118,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -66002,7 +66003,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -66074,7 +66075,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -66918,7 +66919,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -66993,7 +66994,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -67266,7 +67267,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -67896,7 +67897,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -69426,7 +69427,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -69664,7 +69665,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -70899,7 +70900,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -70974,7 +70975,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -71407,7 +71408,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -72204,7 +72205,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -73910,7 +73911,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -74149,7 +74150,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -75286,7 +75287,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -77131,7 +77132,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -77203,7 +77204,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -77686,7 +77687,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -77761,7 +77762,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -78190,7 +78191,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -79611,7 +79612,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -79850,7 +79851,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -80993,7 +80994,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -84106,7 +84107,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -84344,7 +84345,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -85485,7 +85486,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -88034,7 +88035,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -88271,7 +88272,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -89412,7 +89413,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -92181,7 +92182,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -92420,7 +92421,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -93563,7 +93564,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -96366,7 +96367,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -96605,7 +96606,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -97817,7 +97818,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -97892,7 +97893,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -98325,7 +98326,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -99102,7 +99103,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -100808,7 +100809,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -101046,7 +101047,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -102188,7 +102189,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -104386,7 +104387,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -104458,7 +104459,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -105294,7 +105295,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -105369,7 +105370,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -105642,7 +105643,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -106264,7 +106265,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -107774,7 +107775,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -108011,7 +108012,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -109152,7 +109153,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -111055,7 +111056,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -111127,7 +111128,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -111956,7 +111957,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -112031,7 +112032,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -112304,7 +112305,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -112920,7 +112921,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -113482,7 +113483,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -113554,7 +113555,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -114371,7 +114372,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -114446,7 +114447,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -114606,7 +114607,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -115040,7 +115041,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -116445,7 +116446,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -116684,7 +116685,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -117820,7 +117821,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -120011,7 +120012,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -120083,7 +120084,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -120721,7 +120722,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -120994,7 +120995,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -121509,7 +121510,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -122067,7 +122068,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -122139,7 +122140,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -122985,7 +122986,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -123060,7 +123061,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -123333,7 +123334,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -123794,7 +123795,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -124230,7 +124231,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -124302,7 +124303,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -125122,7 +125123,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -125197,7 +125198,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -125625,7 +125626,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -126085,7 +126086,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -126157,7 +126158,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -126635,7 +126636,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -126710,7 +126711,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -127134,7 +127135,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -128506,7 +128507,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -128743,7 +128744,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -129978,7 +129979,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -130053,7 +130054,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -130486,7 +130487,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -131285,7 +131286,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -132991,7 +132992,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -133230,7 +133231,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -134371,7 +134372,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -137024,7 +137025,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -137263,7 +137264,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -138405,7 +138406,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -140490,7 +140491,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -140562,7 +140563,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -141402,7 +141403,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -141477,7 +141478,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -141637,7 +141638,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -142263,7 +142264,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -142700,7 +142701,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -142772,7 +142773,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -143166,7 +143167,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -143241,7 +143242,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -143401,7 +143402,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -143750,7 +143751,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -144195,7 +144196,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -144267,7 +144268,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -145111,7 +145112,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -145186,7 +145187,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -145346,7 +145347,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -145807,7 +145808,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -146605,7 +146606,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -146677,7 +146678,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -147517,7 +147518,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -147592,7 +147593,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -147865,7 +147866,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -148491,7 +148492,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -149061,7 +149062,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -149133,7 +149134,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -149615,7 +149616,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -149690,7 +149691,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -150118,7 +150119,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -152852,7 +152853,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T12:01:21Z"
+        "retrieved_at": "2026-11-07T13:50:02Z"
       },
       "receipt": {
         "dataset_id": "NY.GDP.MKTP.KD.ZG",

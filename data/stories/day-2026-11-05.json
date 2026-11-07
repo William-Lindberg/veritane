@@ -1,0 +1,873 @@
+{
+  "schema": "veritane/story-day/1",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-07T13:50:02Z",
+  "stories": [
+    {
+      "id": "s20261105-6464a6797f",
+      "label": "Australia: Economy",
+      "label_source": "template",
+      "headline": {
+        "t": "Australia's oldest department store David Jones folds after 188 years",
+        "o": "bbc",
+        "u": "https://www.bbc.co.uk/news/articles/cky93z5y0171o",
+        "l": "en"
+      },
+      "countries": [
+        "AU"
+      ],
+      "regions": [
+        "asia-pacific"
+      ],
+      "categories": [],
+      "country_basis": "title",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "bbc",
+          "t": "Australia's oldest department store David Jones folds after 188 years",
+          "u": "https://www.bbc.co.uk/news/articles/cky93z5y0171o",
+          "s": "2026-11-05T00:45:00Z",
+          "l": "en",
+          "join": "seed",
+          "copies": 1
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "AU",
+          "count": 7,
+          "names": [
+            "Australian Bureau of Statistics",
+            "Reserve Bank of Australia",
+            "Bank for International Settlements",
+            "International Labour Organization",
+            "International Monetary Fund",
+            "OECD",
+            "World Bank"
+          ]
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 7 official sources we follow for Australia published a matching release in the days around this story.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T13:50:02Z",
+        "frozen_after": "2026-11-08T00:45:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 8,
+        "computed_at": "2026-11-07T13:50:02Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [
+            "AU"
+          ],
+          "regions": [
+            "asia-pacific"
+          ],
+          "scope": "one_country",
+          "places": 1,
+          "categories": [],
+          "category": null,
+          "category_weight": 0,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 61.08,
+          "first_seen": "2026-11-05T00:45:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 0,
+          "M": 0,
+          "P": 0,
+          "T": 1.71
+        },
+        "base": 5.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261105004500"
+        ],
+        "events": [
+          [
+            "2026-11-07T13:50:02Z",
+            "created",
+            {
+              "outlet": "bbc",
+              "seen_at": "2026-11-05T00:45:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-05T00:45:00Z",
+      "last_seen": "2026-11-05T00:45:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261105-66e0f8f69d",
+      "label": "Place not identified: Economy",
+      "label_source": "template",
+      "headline": {
+        "t": "Pound rises to its highest level since the Brexit referendum",
+        "o": "bbc",
+        "u": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo",
+        "l": "en"
+      },
+      "countries": [],
+      "regions": [],
+      "categories": [],
+      "country_basis": "none",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "bbc",
+          "t": "Pound rises to its highest level since the Brexit referendum",
+          "u": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo",
+          "s": "2026-11-05T04:15:00Z",
+          "l": "en",
+          "join": "seed",
+          "copies": 1
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "WLD",
+          "count": 0,
+          "names": []
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T13:50:02Z",
+        "frozen_after": "2026-11-08T04:15:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 8,
+        "computed_at": "2026-11-07T13:50:02Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [],
+          "regions": [],
+          "scope": "unknown",
+          "places": 0,
+          "categories": [],
+          "category": null,
+          "category_weight": 0,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 57.58,
+          "first_seen": "2026-11-05T04:15:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 0,
+          "M": 0,
+          "P": 0,
+          "T": 1.9
+        },
+        "base": 5.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261105041500"
+        ],
+        "events": [
+          [
+            "2026-11-07T13:50:02Z",
+            "created",
+            {
+              "outlet": "bbc",
+              "seen_at": "2026-11-05T04:15:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-05T04:15:00Z",
+      "last_seen": "2026-11-05T04:15:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261105-f5c4a094c3",
+      "label": "Place not identified: Energy and commodities",
+      "label_source": "template",
+      "headline": {
+        "t": "Food, fuel and taxes – can the Democrats actually make life cheaper?",
+        "o": "bbc",
+        "u": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o",
+        "l": "en"
+      },
+      "countries": [],
+      "regions": [],
+      "categories": [
+        "energy",
+        "fiscal"
+      ],
+      "country_basis": "none",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "bbc",
+          "t": "Food, fuel and taxes – can the Democrats actually make life cheaper?",
+          "u": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o",
+          "s": "2026-11-05T06:00:00Z",
+          "l": "en",
+          "join": "seed",
+          "copies": 1
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "WLD",
+          "count": 0,
+          "names": []
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T13:50:02Z",
+        "frozen_after": "2026-11-08T06:00:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 17,
+        "computed_at": "2026-11-07T13:50:02Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [],
+          "regions": [],
+          "scope": "unknown",
+          "places": 0,
+          "categories": [
+            "energy",
+            "fiscal"
+          ],
+          "category": "fiscal",
+          "category_weight": 0.9,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 55.83,
+          "first_seen": "2026-11-05T06:00:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 9,
+          "M": 0,
+          "P": 0,
+          "T": 1.99
+        },
+        "base": 14.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261105060000"
+        ],
+        "events": [
+          [
+            "2026-11-07T13:50:02Z",
+            "created",
+            {
+              "outlet": "bbc",
+              "seen_at": "2026-11-05T06:00:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-05T06:00:00Z",
+      "last_seen": "2026-11-05T06:00:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261105-b7474144b1",
+      "label": "United States: Macroeconomics",
+      "label_source": "template",
+      "headline": {
+        "t": "Here's what the Democratic election rout could mean for the U.S. economy",
+        "o": "cnbc",
+        "u": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
+        "l": "en"
+      },
+      "countries": [
+        "US"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "categories": [
+        "macro"
+      ],
+      "country_basis": "title",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "cnbc",
+          "t": "Here's what the Democratic election rout could mean for the U.S. economy",
+          "u": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
+          "s": "2026-11-05T14:30:00Z",
+          "l": "en",
+          "join": "seed",
+          "copies": 1
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "US",
+          "count": 13,
+          "names": [
+            "Commodity Futures Trading Commission",
+            "Consumer Financial Protection Bureau",
+            "Federal Reserve",
+            "Federal Reserve Bank of New York",
+            "U.S. Bureau of Economic Analysis",
+            "U.S. Bureau of Labor Statistics",
+            "U.S. Securities and Exchange Commission",
+            "U.S. Treasury",
+            "Bank for International Settlements",
+            "International Labour Organization",
+            "International Monetary Fund",
+            "OECD",
+            "World Bank"
+          ]
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 13 official sources we follow for the United States published a matching release in the days around this story.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T13:50:02Z",
+        "frozen_after": "2026-11-08T14:30:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 19,
+        "computed_at": "2026-11-07T13:50:02Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [
+            "US"
+          ],
+          "regions": [
+            "north-america"
+          ],
+          "scope": "one_country",
+          "places": 1,
+          "categories": [
+            "macro"
+          ],
+          "category": "macro",
+          "category_weight": 1,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 47.33,
+          "first_seen": "2026-11-05T14:30:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 10,
+          "M": 0,
+          "P": 0,
+          "T": 2.55
+        },
+        "base": 15.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261105143000"
+        ],
+        "events": [
+          [
+            "2026-11-07T13:50:02Z",
+            "created",
+            {
+              "outlet": "cnbc",
+              "seen_at": "2026-11-05T14:30:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-05T14:30:00Z",
+      "last_seen": "2026-11-05T14:30:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261105-211874708b",
+      "label": "Place not identified: Macroeconomics",
+      "label_source": "template",
+      "headline": {
+        "t": "Voters say the economy drove them to the polls — and blame Trump for their troubles",
+        "o": "cnbc",
+        "u": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
+        "l": "en"
+      },
+      "countries": [],
+      "regions": [],
+      "categories": [
+        "macro"
+      ],
+      "country_basis": "none",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "cnbc",
+          "t": "Voters say the economy drove them to the polls — and blame Trump for their troubles",
+          "u": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
+          "s": "2026-11-05T16:00:00Z",
+          "l": "en",
+          "join": "seed",
+          "copies": 1
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "WLD",
+          "count": 0,
+          "names": []
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T13:50:02Z",
+        "frozen_after": "2026-11-08T16:00:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 19,
+        "computed_at": "2026-11-07T13:50:02Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [],
+          "regions": [],
+          "scope": "unknown",
+          "places": 0,
+          "categories": [
+            "macro"
+          ],
+          "category": "macro",
+          "category_weight": 1,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 45.83,
+          "first_seen": "2026-11-05T16:00:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 10,
+          "M": 0,
+          "P": 0,
+          "T": 2.66
+        },
+        "base": 15.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261105160000"
+        ],
+        "events": [
+          [
+            "2026-11-07T13:50:02Z",
+            "created",
+            {
+              "outlet": "cnbc",
+              "seen_at": "2026-11-05T16:00:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-05T16:00:00Z",
+      "last_seen": "2026-11-05T16:00:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261105-67923a3636",
+      "label": "United Kingdom: Inflation",
+      "label_source": "template",
+      "headline": {
+        "t": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+        "o": "cnbc",
+        "u": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+        "l": "en"
+      },
+      "countries": [
+        "GB",
+        "IR"
+      ],
+      "regions": [
+        "europe-other",
+        "middle-east"
+      ],
+      "categories": [
+        "inflation",
+        "rates"
+      ],
+      "country_basis": "title",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "cnbc",
+          "t": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+          "u": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+          "s": "2026-11-05T16:00:00Z",
+          "l": "en",
+          "join": "seed",
+          "copies": 1
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "linked",
+        "official": [
+          {
+            "evidence_id": "news:26d3012260db32ae",
+            "kind": "monetary_policy_decision",
+            "institution": "boe",
+            "institution_name": "Bank of England",
+            "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
+            "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+            "at": "2026-11-05T12:00:00Z",
+            "news_id": "26d3012260db32ae",
+            "method": "A",
+            "signals": [
+              "institution",
+              "topic",
+              "date"
+            ],
+            "window": "first_seen"
+          }
+        ],
+        "related": [],
+        "scheduled": [
+          {
+            "evidence_id": "cal:ons_cal:/releases/consumerpriceinflationukoctober2026",
+            "kind": "scheduled",
+            "institution": "ons",
+            "institution_name": "Office for National Statistics",
+            "title": "UK consumer price inflation",
+            "url": "https://www.ons.gov.uk/releasecalendar",
+            "at": "2026-11-18T07:00:00Z",
+            "signals": [
+              "topic",
+              "date"
+            ],
+            "window": "first_seen"
+          },
+          {
+            "evidence_id": "cal:ons_cal:/releases/producerpriceinflationukoctober2026",
+            "kind": "scheduled",
+            "institution": "ons",
+            "institution_name": "Office for National Statistics",
+            "title": "UK producer price inflation",
+            "url": "https://www.ons.gov.uk/releasecalendar",
+            "at": "2026-11-18T07:00:00Z",
+            "signals": [
+              "topic",
+              "date"
+            ],
+            "window": "first_seen"
+          }
+        ],
+        "followed_sources": {
+          "region": "GB",
+          "count": 9,
+          "names": [
+            "Bank of England",
+            "Financial Conduct Authority",
+            "Office for National Statistics",
+            "U.S. Treasury",
+            "Bank for International Settlements",
+            "International Labour Organization",
+            "International Monetary Fund",
+            "OECD",
+            "World Bank"
+          ]
+        },
+        "text": "Linked to an official release. Bank of England published “Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes” on 5 November 2026. The reports match it on institution, topic and date. Matching is automatic. It shows that an official release on this exists. It does not check each claim in the reports.",
+        "text_simple": "An official source published this: Bank of England, on 5 November 2026.",
+        "checked_at": "2026-11-07T13:50:02Z",
+        "frozen_after": "2026-11-08T16:00:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 41,
+        "computed_at": "2026-11-07T13:50:02Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [
+            "GB",
+            "IR"
+          ],
+          "regions": [
+            "europe-other",
+            "middle-east"
+          ],
+          "scope": "regions_2",
+          "places": 2,
+          "categories": [
+            "inflation",
+            "rates"
+          ],
+          "category": "inflation",
+          "category_weight": 1,
+          "match_kind": "monetary_policy_decision",
+          "p_hours": 1,
+          "age_h": 45.83,
+          "first_seen": "2026-11-05T16:00:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 7.5,
+          "K": 10,
+          "M": 15,
+          "P": 0,
+          "T": 2.66
+        },
+        "base": 38.45
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261105160000"
+        ],
+        "events": [
+          [
+            "2026-11-07T13:50:02Z",
+            "created",
+            {
+              "outlet": "cnbc",
+              "seen_at": "2026-11-05T16:00:00Z"
+            }
+          ],
+          [
+            "2026-11-07T13:50:02Z",
+            "match",
+            {
+              "evidence_id": "news:26d3012260db32ae",
+              "method": "A",
+              "signals": [
+                "institution",
+                "topic",
+                "date"
+              ]
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-05T16:00:00Z",
+      "last_seen": "2026-11-05T16:00:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    }
+  ]
+}
