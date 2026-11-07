@@ -1,13 +1,13 @@
 {
   "schema": "veritane/digest/1",
   "date": "2026-11-07",
-  "generated_at": "2026-11-07T18:25:43Z",
+  "generated_at": "2026-11-07T21:53:04Z",
   "final": false,
   "template_version": "digest-templates/1",
-  "headline": "No new official figures or decisions were collected on 7 November 2026.",
-  "headline_simple": "7 November 2026: no new figures or decisions.",
+  "headline": "1 new official figure on 7 November 2026.",
+  "headline_simple": "7 November 2026: 1 new figure.",
   "counts": {
-    "data": 0,
+    "data": 1,
     "decisions": 0,
     "revisions": 0,
     "alerts": 0,
@@ -17,7 +17,23 @@
   "sections": [
     {
       "key": "data",
-      "entries": []
+      "entries": [
+        {
+          "news_id": "1e9018df907d89d4",
+          "series_id": "au.policy_rate.cash_rate_target",
+          "region": "AU",
+          "topics": [
+            "policy_rate"
+          ],
+          "text": "In Australia, the Reserve Bank of Australia's cash rate target was 4.85% on 5 November 2026, up from 4.60% on 3 November 2026.",
+          "text_simple": "The main interest rate set by the Reserve Bank of Australia has been 4.85% since 4 November 2026. Before that it was 4.60%.",
+          "source": {
+            "name": "Reserve Bank of Australia",
+            "url": "https://www.rba.gov.au/statistics/cash-rate/",
+            "dataset": "F1 FIRMMCRTD"
+          }
+        }
+      ]
     },
     {
       "key": "decisions",
@@ -97,12 +113,11 @@
     }
   ],
   "sources": {
-    "ok": 63,
-    "failed": 2,
+    "ok": 67,
+    "failed": 1,
     "failed_names": [
-      "OECD",
-      "U.S. Department of the Treasury"
+      "OECD"
     ]
   },
-  "empty": true
+  "empty": false
 }

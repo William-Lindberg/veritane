@@ -1,6 +1,6 @@
 {
   "schema": "veritane/news/1",
-  "generated_at": "2026-11-07T17:27:38Z",
+  "generated_at": "2026-11-07T21:53:04Z",
   "template_version": "news-templates/1",
   "topics": {
     "policy_rate": "Interest rates",
@@ -16,11 +16,63 @@
     "other": "Other"
   },
   "counts": {
-    "items": 349,
-    "ui_visible": 331,
+    "items": 350,
+    "ui_visible": 332,
     "other_languages": 18
   },
   "items": [
+    {
+      "id": "1e9018df907d89d4",
+      "kind": "data_update",
+      "source_id": "rba",
+      "source_name": "Reserve Bank of Australia",
+      "region": "AU",
+      "topics": [
+        "policy_rate"
+      ],
+      "title": "Australia: Cash rate target, 5 November 2026",
+      "link": "https://www.rba.gov.au/statistics/cash-rate/",
+      "published_at": "2026-11-07T21:53:04Z",
+      "summary": "New data: In Australia, the Reserve Bank of Australia's cash rate target was 4.85% on 5 November 2026, up from 4.60% on 3 November 2026. Source: Reserve Bank of Australia.",
+      "summary_simple": "The main interest rate set by the Reserve Bank of Australia has been 4.85% since 4 November 2026. Before that it was 4.60%.",
+      "summary_source": "data_update",
+      "language": "en",
+      "ui_visible": true,
+      "related_series": [
+        "au.policy_rate.cash_rate_target"
+      ],
+      "related_lessons": [
+        "macroeconomics/interest-rates-and-central-banks"
+      ],
+      "facts": [
+        {
+          "series_id": "au.policy_rate.cash_rate_target",
+          "period": "2026-11-05",
+          "period_label": "5 November 2026",
+          "value": 4.85,
+          "previous_period": "2026-11-03",
+          "previous_period_label": "3 November 2026",
+          "previous_value": 4.6,
+          "change": {
+            "value": 0.25,
+            "unit": "pp",
+            "direction": "up"
+          },
+          "unit": "%",
+          "decimals": 2,
+          "dataset": "F1 FIRMMCRTD",
+          "retrieved_at": "2026-11-07T21:53:04Z"
+        }
+      ],
+      "template_version": "news-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
+      "retrieved_at": "2026-11-07T21:53:04Z"
+    },
     {
       "id": "71240352f25b849c",
       "kind": "press_release",

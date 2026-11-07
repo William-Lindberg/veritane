@@ -6,7 +6,16 @@
     <atom:link href="https://william-lindberg.github.io/veritane/sv/news/feed/policy_rate.xml" rel="self" type="application/rss+xml" />
     <description>Räntor: officiell statistik och officiella besked, skapade automatiskt från officiella källor. Utbildning, inte rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Sat, 07 Nov 2026 17:27:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 21:53:04 GMT</lastBuildDate>
+    <item>
+      <title>Australien: Cash rate target, 5 november 2026</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/1e9018df907d89d4/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/1e9018df907d89d4/</guid>
+      <pubDate>Sat, 07 Nov 2026 21:53:04 GMT</pubDate>
+      <description>Nya data: I Australien var styrräntan 4,85 % den 5 november 2026, upp från 4,60 % den 3 november 2026. Källa: Reserve Bank of Australia. Källa: Reserve Bank of Australia (https://www.rba.gov.au/statistics/cash-rate/). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://www.rba.gov.au/statistics/cash-rate/">Reserve Bank of Australia</source>
+      <category>Räntor</category>
+    </item>
     <item>
       <title>Storbritannien: Bank Rate (styrränta), 5 november 2026</title>
       <link>https://william-lindberg.github.io/veritane/sv/news/a55bcccf66adb186/</link>
@@ -17,11 +26,11 @@
       <category>Räntor</category>
     </item>
     <item>
-      <title>Australien: Mål för cash rate (månadsgenomsnitt), oktober 2026</title>
+      <title>Australien: Cash rate target, oktober 2026</title>
       <link>https://william-lindberg.github.io/veritane/sv/news/c44cd99e29f2d2fe/</link>
       <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/c44cd99e29f2d2fe/</guid>
       <pubDate>Fri, 06 Nov 2026 22:31:21 GMT</pubDate>
-      <description>Nya data: I Australien var målet för cash rate 4,60 % i oktober 2026, upp från 4,36 % i september 2026. Källa: Reserve Bank of Australia. Källa: Reserve Bank of Australia (https://www.rba.gov.au/statistics/cash-rate/). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <description>Nya data: I Australien var styrräntan 4,60 % i oktober 2026, upp från 4,36 % i september 2026. Källa: Reserve Bank of Australia. Källa: Reserve Bank of Australia (https://www.rba.gov.au/statistics/cash-rate/). Skapad automatiskt från källan; granskning: inte granskad än.</description>
       <source url="https://www.rba.gov.au/statistics/cash-rate/">Reserve Bank of Australia</source>
       <category>Räntor</category>
     </item>

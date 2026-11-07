@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://william-lindberg.github.io/veritane/news/1e9018df907d89d4/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Veritane News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T21:53:04Z</news:publication_date>
+      <news:title>Australia: Cash rate target, 5 November 2026</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://william-lindberg.github.io/veritane/news/71240352f25b849c/</loc>
     <news:news>
       <news:publication>
@@ -592,50 +603,6 @@
       </news:publication>
       <news:publication_date>2026-11-05T23:45:00Z</news:publication_date>
       <news:title>Designation of Prosegur Australia Pty Ltd under the Cash Distribution Framework Act 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://william-lindberg.github.io/veritane/news/70b09e083b84dff3/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Veritane News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T22:00:03Z</news:publication_date>
-      <news:title>CFTC Issues Impartial Access Requirements Interpretation</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://william-lindberg.github.io/veritane/news/721972f5303a28b6/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Veritane News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T22:00:00Z</news:publication_date>
-      <news:title>Euro area: GDP growth, quarter on quarter, Q3 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://william-lindberg.github.io/veritane/news/7e553e3b13fb1a0c/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Veritane News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T22:00:00Z</news:publication_date>
-      <news:title>Sweden: Unemployment rate, September 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://william-lindberg.github.io/veritane/news/f23a0f2c34f93d6e/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Veritane News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T22:00:00Z</news:publication_date>
-      <news:title>Denmark: Unemployment rate, September 2026</news:title>
     </news:news>
   </url>
 </urlset>

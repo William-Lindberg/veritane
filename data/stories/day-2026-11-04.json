@@ -1,7 +1,7 @@
 {
   "schema": "veritane/story-day/1",
   "date": "2026-11-04",
-  "generated_at": "2026-11-07T18:25:43Z",
+  "generated_at": "2026-11-07T21:53:04Z",
   "stories": [
     {
       "id": "s20261104-2fd15a75c4",
@@ -132,7 +132,7 @@
       "overrides": [],
       "first_seen": "2026-11-04T20:45:00Z",
       "last_seen": "2026-11-04T20:45:00Z",
-      "status": "new",
+      "status": "closed",
       "version": 1,
       "classified_by": "rules",
       "classification": {
@@ -252,7 +252,7 @@
       "overrides": [],
       "first_seen": "2026-11-04T21:30:00Z",
       "last_seen": "2026-11-04T21:30:00Z",
-      "status": "quiet",
+      "status": "closed",
       "version": 1,
       "classified_by": "rules",
       "classification": {
@@ -313,13 +313,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:25:43Z",
+        "checked_at": "2026-11-07T21:53:04Z",
         "frozen_after": "2026-11-07T22:45:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 14,
-        "computed_at": "2026-11-07T18:25:43Z",
+        "computed_at": "2026-11-07T21:53:04Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -334,7 +334,7 @@
           "category_weight": 0.7,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 67.68,
+          "age_h": 71.13,
           "first_seen": "2026-11-04T22:45:00Z"
         },
         "points": {
@@ -344,7 +344,7 @@
           "K": 7,
           "M": 0,
           "P": 0,
-          "T": 1.42
+          "T": 1.28
         },
         "base": 12.95
       },

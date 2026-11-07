@@ -1,15 +1,15 @@
 {
   "schema": "veritane/digest-index/1",
-  "generated_at": "2026-11-07T09:35:09Z",
+  "generated_at": "2026-11-07T21:53:04Z",
   "latest": "2026-11-07",
   "days": [
     {
       "date": "2026-11-07",
       "final": false,
-      "headline": "No new official figures or decisions were collected on 7 November 2026.",
-      "headline_simple": "7 November 2026: no new figures or decisions.",
+      "headline": "1 new official figure on 7 November 2026.",
+      "headline_simple": "7 November 2026: 1 new figure.",
       "counts": {
-        "data": 0,
+        "data": 1,
         "decisions": 0,
         "revisions": 0,
         "alerts": 0,

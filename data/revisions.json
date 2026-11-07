@@ -1,7 +1,28 @@
 {
   "schema": "veritane/revisions/1",
-  "generated_at": "2026-11-07T09:24:08Z",
+  "generated_at": "2026-11-07T21:53:04Z",
   "method": "Each run compares every period the source returned with the previous public/data/history file for that series. A change in the value at the number of decimals Veritane shows is recorded. Fixings such as exchange reference rates and projections are not compared.",
   "template_version": "revision-templates/1",
-  "entries": []
+  "entries": [
+    {
+      "id": "cbcbf9c500e41b04",
+      "series_id": "au.policy_rate.cash_rate_target",
+      "region": "AU",
+      "name": "Cash rate target",
+      "unit": "%",
+      "seen_before_at": "2026-11-07T09:24:08Z",
+      "detected_at": "2026-11-07T21:53:04Z",
+      "source": {
+        "name": "Reserve Bank of Australia",
+        "dataset": "F1 FIRMMCRTD",
+        "check_url": "https://www.rba.gov.au/statistics/tables/csv/f1-data.csv"
+      },
+      "kind": "source_changed",
+      "period": "2026-11-05",
+      "period_label": "5 November 2026",
+      "text": "Australia, Cash rate target: Veritane switched to a different source dataset (F1 FIRMMCRTD) on 7 November 2026. Figures before that date come from the earlier dataset.",
+      "text_simple": "Veritane now takes these figures from a different dataset (F1 FIRMMCRTD). The change was made on 7 November 2026.",
+      "template_version": "revision-templates/1"
+    }
+  ]
 }

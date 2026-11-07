@@ -6,7 +6,16 @@
     <atom:link href="https://william-lindberg.github.io/veritane/sv/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>Ekonomi- och finansnyheter som skapas automatiskt från officiella källor, med neutrala sammanfattningar efter fasta mallar. Utbildning, inte rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Sat, 07 Nov 2026 17:27:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 21:53:04 GMT</lastBuildDate>
+    <item>
+      <title>Australien: Cash rate target, 5 november 2026</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/1e9018df907d89d4/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/1e9018df907d89d4/</guid>
+      <pubDate>Sat, 07 Nov 2026 21:53:04 GMT</pubDate>
+      <description>Nya data: I Australien var styrräntan 4,85 % den 5 november 2026, upp från 4,60 % den 3 november 2026. Källa: Reserve Bank of Australia. Till exempel: Målet för Reserve Bank of Australias cash rate steg med 0,25 procentenheter mellan 3 november 2026 och 5 november 2026. För ett lån på 200 000 AUD över 25 år ändrar en höjning av samma storlek månadsbetalningen från 1 169,18 AUD till 1 198,50 AUD, en skillnad på +29,32 AUD per månad. Källa: Reserve Bank of Australia (https://www.rba.gov.au/statistics/cash-rate/). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://www.rba.gov.au/statistics/cash-rate/">Reserve Bank of Australia</source>
+      <category>Räntor</category>
+    </item>
     <item>
       <title>Christine Lagarde: Interview with Yomiuri Shimbun</title>
       <link>https://william-lindberg.github.io/veritane/sv/news/71240352f25b849c/</link>
@@ -34,11 +43,11 @@
       <category>Räntor</category>
     </item>
     <item>
-      <title>Australien: Mål för cash rate (månadsgenomsnitt), oktober 2026</title>
+      <title>Australien: Cash rate target, oktober 2026</title>
       <link>https://william-lindberg.github.io/veritane/sv/news/c44cd99e29f2d2fe/</link>
       <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/c44cd99e29f2d2fe/</guid>
       <pubDate>Fri, 06 Nov 2026 22:31:21 GMT</pubDate>
-      <description>Nya data: I Australien var målet för cash rate 4,60 % i oktober 2026, upp från 4,36 % i september 2026. Källa: Reserve Bank of Australia. Källa: Reserve Bank of Australia (https://www.rba.gov.au/statistics/cash-rate/). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <description>Nya data: I Australien var styrräntan 4,60 % i oktober 2026, upp från 4,36 % i september 2026. Källa: Reserve Bank of Australia. Källa: Reserve Bank of Australia (https://www.rba.gov.au/statistics/cash-rate/). Skapad automatiskt från källan; granskning: inte granskad än.</description>
       <source url="https://www.rba.gov.au/statistics/cash-rate/">Reserve Bank of Australia</source>
       <category>Räntor</category>
     </item>
@@ -430,14 +439,6 @@
       <pubDate>Fri, 06 Nov 2026 07:00:00 GMT</pubDate>
       <description>Den 6 november 2026 publicerade Statistics Norway ”Index of industrial production”. Källa: Statistics Norway (https://www.ssb.no/en/energi-og-industri/industri-og-bergverksdrift/statistikk/produksjonsindeks-for-olje-og-gass-industri-bergverk-og-kraftforsyning). Skapad automatiskt från källan; granskning: inte granskad än.</description>
       <source url="https://www.ssb.no/en/energi-og-industri/industri-og-bergverksdrift/statistikk/produksjonsindeks-for-olje-og-gass-industri-bergverk-og-kraftforsyning">Statistics Norway</source>
-    </item>
-    <item>
-      <title>Turnover in oil and gas, manufacturing, mining and electricity supply</title>
-      <link>https://william-lindberg.github.io/veritane/sv/news/604d059ddfbb66dd/</link>
-      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/604d059ddfbb66dd/</guid>
-      <pubDate>Fri, 06 Nov 2026 07:00:00 GMT</pubDate>
-      <description>Den 6 november 2026 publicerade Statistics Norway ”Turnover in oil and gas, manufacturing, mining and electricity supply”. Källa: Statistics Norway (https://www.ssb.no/en/energi-og-industri/industri-og-bergverksdrift/statistikk/omsetning-i-olje-og-gass-industri-bergverk-og-kraftforsyning). Skapad automatiskt från källan; granskning: inte granskad än.</description>
-      <source url="https://www.ssb.no/en/energi-og-industri/industri-og-bergverksdrift/statistikk/omsetning-i-olje-og-gass-industri-bergverk-og-kraftforsyning">Statistics Norway</source>
     </item>
   </channel>
 </rss>

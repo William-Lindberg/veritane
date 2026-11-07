@@ -1,11 +1,11 @@
 {
   "schema": "veritane/alerts/1",
-  "generated_at": "2026-11-07T02:31:14Z",
+  "generated_at": "2026-11-07T21:53:04Z",
   "template_version": "alert-templates/1",
   "counts": {
-    "items": 39,
+    "items": 60,
     "ui_visible": 25,
-    "other_languages": 14
+    "other_languages": 35
   },
   "items": [
     {
@@ -50,6 +50,27 @@
       "reviewed_by": null,
       "reviewed_at": null,
       "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "8c1fe3fee06eb18b",
+      "source_id": "polposta_news",
+      "source_name": "Polizia di Stato, Polizia Postale (Commissariato di P.S. Online)",
+      "jurisdiction": "IT",
+      "category": "scam_warning",
+      "title": "FALSI SMS A NOME NEXI: NON FARTI INGANNARE DALL'URGENZA",
+      "link": "https://www.commissariatodips.it/notizie/articolo/falsi-sms-a-nome-nexi-non-farti-ingannare-dallurgenza/index.html",
+      "published_at": "2026-11-06T15:09:33.000Z",
+      "date_source": "feed",
+      "summary": "On 6 November 2026 the Polizia Postale (Commissariato di P.S. Online) published “FALSI SMS A NOME NEXI: NON FARTI INGANNARE DALL'URGENZA”.",
+      "language": "it",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-07T21:53:04Z"
     },
     {
       "id": "b439b0566d8561ff",
@@ -112,6 +133,27 @@
       "reviewed_by": null,
       "reviewed_at": null,
       "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "a03a24f46ad1bd68",
+      "source_id": "polposta_news",
+      "source_name": "Polizia di Stato, Polizia Postale (Commissariato di P.S. Online)",
+      "jurisdiction": "IT",
+      "category": "scam_warning",
+      "title": "BIGLIETTI PER EVENTI: ATTENZIONE AI FALSI PROFILI SOCIAL DELLE PIATTAFORME DI PREVENDITA",
+      "link": "https://www.commissariatodips.it/notizie/articolo/biglietti-per-eventi-attenzione-ai-falsi-profili-social-delle-piattaforme-di-prevendita/index.html",
+      "published_at": "2026-10-30T07:59:01.000Z",
+      "date_source": "feed",
+      "summary": "On 30 October 2026 the Polizia Postale (Commissariato di P.S. Online) published “BIGLIETTI PER EVENTI: ATTENZIONE AI FALSI PROFILI SOCIAL DELLE PIATTAFORME DI PREVENDITA”.",
+      "language": "it",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-07T21:53:04Z"
     },
     {
       "id": "27c413a6ae5a0fbd",
@@ -343,6 +385,27 @@
       "retrieved_at": "2026-11-06T22:31:21Z"
     },
     {
+      "id": "9f726b3ed30b85b6",
+      "source_id": "polposta_news",
+      "source_name": "Polizia di Stato, Polizia Postale (Commissariato di P.S. Online)",
+      "jurisdiction": "IT",
+      "category": "scam_warning",
+      "title": "NUOVA ONDATA DI FURTI DI ACCOUNT WHATSAPP: ATTENZIONE AI FALSI CONCORSI ONLINE",
+      "link": "https://www.commissariatodips.it/notizie/articolo/nuova-ondata-di-furti-di-account-whatsapp-attenzione-ai-falsi-concorsi-online/index.html",
+      "published_at": "2026-10-10T07:00:00.000Z",
+      "date_source": "feed",
+      "summary": "On 10 October 2026 the Polizia Postale (Commissariato di P.S. Online) published “NUOVA ONDATA DI FURTI DI ACCOUNT WHATSAPP: ATTENZIONE AI FALSI CONCORSI ONLINE”.",
+      "language": "it",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-07T21:53:04Z"
+    },
+    {
       "id": "034e8664501e6d3e",
       "source_id": "ncsc_news",
       "source_name": "National Cyber Security Centre",
@@ -381,6 +444,237 @@
       "reviewed_by": null,
       "reviewed_at": null,
       "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "cfe7ded1e49900a3",
+      "source_id": "fi_news",
+      "source_name": "Finansinspektionen (Swedish Financial Supervisory Authority)",
+      "jurisdiction": "SE",
+      "category": "scam_warning",
+      "title": "FI varnar för 30 nya falska aktörer",
+      "link": "https://www.fi.se/sv/publicerat/nyheter/2026/fi-varnar-for-30-nya-falska-aktorer/",
+      "published_at": "2026-10-06T06:00:00.000Z",
+      "date_source": "feed",
+      "summary": "On 6 October 2026 Finansinspektionen published “FI varnar för 30 nya falska aktörer”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-07T21:53:04Z"
+    },
+    {
+      "id": "4793c3d6010cd564",
+      "source_id": "fi_warnings",
+      "source_name": "Finansinspektionen (Swedish Financial Supervisory Authority)",
+      "jurisdiction": "SE",
+      "category": "unauthorised_firm",
+      "title": "3cgNorden",
+      "link": "https://www.fi.se/sv/vara-register/fis-varningslista/varningslistan/2026/september/3cgnorden/",
+      "published_at": "2026-10-06T00:00:00Z",
+      "date_source": "feed",
+      "summary": "On 6 October 2026 Finansinspektionen published an entry on its warning list: “3cgNorden”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-07T21:53:04Z"
+    },
+    {
+      "id": "544ab90f6742d0ce",
+      "source_id": "fi_warnings",
+      "source_name": "Finansinspektionen (Swedish Financial Supervisory Authority)",
+      "jurisdiction": "SE",
+      "category": "unauthorised_firm",
+      "title": "Skandi Group",
+      "link": "https://www.fi.se/sv/vara-register/fis-varningslista/varningslistan/2026/september/skandi-group/",
+      "published_at": "2026-10-06T00:00:00Z",
+      "date_source": "feed",
+      "summary": "On 6 October 2026 Finansinspektionen published an entry on its warning list: “Skandi Group”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-07T21:53:04Z"
+    },
+    {
+      "id": "5ca274d94543bb81",
+      "source_id": "fi_warnings",
+      "source_name": "Finansinspektionen (Swedish Financial Supervisory Authority)",
+      "jurisdiction": "SE",
+      "category": "unauthorised_firm",
+      "title": "Aspen Bondmere",
+      "link": "https://www.fi.se/sv/vara-register/fis-varningslista/varningslistan/2026/september/aspen-bondmere/",
+      "published_at": "2026-10-06T00:00:00Z",
+      "date_source": "feed",
+      "summary": "On 6 October 2026 Finansinspektionen published an entry on its warning list: “Aspen Bondmere”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-07T21:53:04Z"
+    },
+    {
+      "id": "93d0bc9242956eea",
+      "source_id": "fi_warnings",
+      "source_name": "Finansinspektionen (Swedish Financial Supervisory Authority)",
+      "jurisdiction": "SE",
+      "category": "unauthorised_firm",
+      "title": "Gale Rendholm",
+      "link": "https://www.fi.se/sv/vara-register/fis-varningslista/varningslistan/2026/september/gale-rendholm/",
+      "published_at": "2026-10-06T00:00:00Z",
+      "date_source": "feed",
+      "summary": "On 6 October 2026 Finansinspektionen published an entry on its warning list: “Gale Rendholm”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-07T21:53:04Z"
+    },
+    {
+      "id": "9e18374aa5a9f521",
+      "source_id": "fi_warnings",
+      "source_name": "Finansinspektionen (Swedish Financial Supervisory Authority)",
+      "jurisdiction": "SE",
+      "category": "unauthorised_firm",
+      "title": "BKOM Nordisk Finans",
+      "link": "https://www.fi.se/sv/vara-register/fis-varningslista/varningslistan/2026/september/bkom-nordisk-finans/",
+      "published_at": "2026-10-06T00:00:00Z",
+      "date_source": "feed",
+      "summary": "On 6 October 2026 Finansinspektionen published an entry on its warning list: “BKOM Nordisk Finans”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-07T21:53:04Z"
+    },
+    {
+      "id": "a9d8ceb8a80f0d47",
+      "source_id": "fi_warnings",
+      "source_name": "Finansinspektionen (Swedish Financial Supervisory Authority)",
+      "jurisdiction": "SE",
+      "category": "unauthorised_firm",
+      "title": "Saxo Norden (clone)",
+      "link": "https://www.fi.se/sv/vara-register/fis-varningslista/varningslistan/2026/september/saxo-norden-clone/",
+      "published_at": "2026-10-06T00:00:00Z",
+      "date_source": "feed",
+      "summary": "On 6 October 2026 Finansinspektionen published an entry on its warning list: “Saxo Norden (clone)”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-07T21:53:04Z"
+    },
+    {
+      "id": "ba16e02f9f4b1f2e",
+      "source_id": "fi_warnings",
+      "source_name": "Finansinspektionen (Swedish Financial Supervisory Authority)",
+      "jurisdiction": "SE",
+      "category": "unauthorised_firm",
+      "title": "Bedrock Monvex",
+      "link": "https://www.fi.se/sv/vara-register/fis-varningslista/varningslistan/2026/september/bedrock-monvex/",
+      "published_at": "2026-10-06T00:00:00Z",
+      "date_source": "feed",
+      "summary": "On 6 October 2026 Finansinspektionen published an entry on its warning list: “Bedrock Monvex”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-07T21:53:04Z"
+    },
+    {
+      "id": "c61659a2060068a8",
+      "source_id": "fi_warnings",
+      "source_name": "Finansinspektionen (Swedish Financial Supervisory Authority)",
+      "jurisdiction": "SE",
+      "category": "unauthorised_firm",
+      "title": "Glenvarrick Alderhume",
+      "link": "https://www.fi.se/sv/vara-register/fis-varningslista/varningslistan/2026/september/glenvarrick-alderhume/",
+      "published_at": "2026-10-06T00:00:00Z",
+      "date_source": "feed",
+      "summary": "On 6 October 2026 Finansinspektionen published an entry on its warning list: “Glenvarrick Alderhume”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-07T21:53:04Z"
+    },
+    {
+      "id": "d73ef8174e069de3",
+      "source_id": "fi_warnings",
+      "source_name": "Finansinspektionen (Swedish Financial Supervisory Authority)",
+      "jurisdiction": "SE",
+      "category": "unauthorised_firm",
+      "title": "ABG Sundal Invest (clone)",
+      "link": "https://www.fi.se/sv/vara-register/fis-varningslista/varningslistan/2026/september/abg-sundal-invest-clone/",
+      "published_at": "2026-10-06T00:00:00Z",
+      "date_source": "feed",
+      "summary": "On 6 October 2026 Finansinspektionen published an entry on its warning list: “ABG Sundal Invest (clone)”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-07T21:53:04Z"
+    },
+    {
+      "id": "dc3279f6cddbf227",
+      "source_id": "fi_warnings",
+      "source_name": "Finansinspektionen (Swedish Financial Supervisory Authority)",
+      "jurisdiction": "SE",
+      "category": "unauthorised_firm",
+      "title": "altarawealthcore.com",
+      "link": "https://www.fi.se/sv/vara-register/fis-varningslista/varningslistan/2026/september/altarawealthcore.com",
+      "published_at": "2026-10-06T00:00:00Z",
+      "date_source": "feed",
+      "summary": "On 6 October 2026 Finansinspektionen published an entry on its warning list: “altarawealthcore.com”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-07T21:53:04Z"
     },
     {
       "id": "59861d1e36b10a36",
@@ -592,6 +886,48 @@
       "retrieved_at": "2026-11-06T22:31:21Z"
     },
     {
+      "id": "10a3957ca20a3fe3",
+      "source_id": "polposta_news",
+      "source_name": "Polizia di Stato, Polizia Postale (Commissariato di P.S. Online)",
+      "jurisdiction": "IT",
+      "category": "scam_warning",
+      "title": "BIGLIETTI PER CONCERTI. OCCHIO ALLE TRUFFE!",
+      "link": "https://www.commissariatodips.it/notizie/articolo/biglietti-per-concerti-occhio-alle-truffe/index.html",
+      "published_at": "2026-09-25T16:47:49.000Z",
+      "date_source": "feed",
+      "summary": "On 25 September 2026 the Polizia Postale (Commissariato di P.S. Online) published “BIGLIETTI PER CONCERTI. OCCHIO ALLE TRUFFE!”.",
+      "language": "it",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-07T21:53:04Z"
+    },
+    {
+      "id": "0bf838f2c67c2bf1",
+      "source_id": "polposta_news",
+      "source_name": "Polizia di Stato, Polizia Postale (Commissariato di P.S. Online)",
+      "jurisdiction": "IT",
+      "category": "scam_warning",
+      "title": "SITI CLONE E INTELLIGENZA ARTIFICIALE: ATTENZIONE ALLE TRUFFE",
+      "link": "https://www.commissariatodips.it/notizie/articolo/siti-clone-e-intelligenza-artificiale-attenzione-alle-truffe/index.html",
+      "published_at": "2026-09-25T10:53:16.000Z",
+      "date_source": "feed",
+      "summary": "On 25 September 2026 the Polizia Postale (Commissariato di P.S. Online) published “SITI CLONE E INTELLIGENZA ARTIFICIALE: ATTENZIONE ALLE TRUFFE”.",
+      "language": "it",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-07T21:53:04Z"
+    },
+    {
       "id": "40bb6b568f21a579",
       "source_id": "sec_press",
       "source_name": "U.S. Securities and Exchange Commission",
@@ -759,6 +1095,27 @@
       "retrieved_at": "2026-11-06T22:31:21Z"
     },
     {
+      "id": "adb012f8b8d936df",
+      "source_id": "polposta_news",
+      "source_name": "Polizia di Stato, Polizia Postale (Commissariato di P.S. Online)",
+      "jurisdiction": "IT",
+      "category": "scam_warning",
+      "title": "FALSO SITO DI TRADING ONLINE, DENUNCIATE OTTO PERSONE",
+      "link": "https://www.commissariatodips.it/notizie/articolo/falso-sito-di-trading-online-denunciate-otto-persone/index.html",
+      "published_at": "2026-09-07T09:07:18.000Z",
+      "date_source": "feed",
+      "summary": "On 7 September 2026 the Polizia Postale (Commissariato di P.S. Online) published “FALSO SITO DI TRADING ONLINE, DENUNCIATE OTTO PERSONE”.",
+      "language": "it",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-07T21:53:04Z"
+    },
+    {
       "id": "b8a68d19e786ab92",
       "source_id": "kov_nyheter",
       "source_name": "Konsumentverket (Swedish Consumer Agency)",
@@ -800,6 +1157,69 @@
       "retrieved_at": "2026-11-06T22:31:21Z"
     },
     {
+      "id": "0c2323bc46e14076",
+      "source_id": "polposta_news",
+      "source_name": "Polizia di Stato, Polizia Postale (Commissariato di P.S. Online)",
+      "jurisdiction": "IT",
+      "category": "scam_warning",
+      "title": "Richieste di denaro e furto dell’account WhatsApp",
+      "link": "https://www.commissariatodips.it/notizie/articolo/richieste-di-denaro-e-furto-dellaccount-whatsapp/index.html",
+      "published_at": "2026-08-25T11:38:12.000Z",
+      "date_source": "feed",
+      "summary": "On 25 August 2026 the Polizia Postale (Commissariato di P.S. Online) published “Richieste di denaro e furto dell’account WhatsApp”.",
+      "language": "it",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-07T21:53:04Z"
+    },
+    {
+      "id": "fa805cf4b559070b",
+      "source_id": "polposta_news",
+      "source_name": "Polizia di Stato, Polizia Postale (Commissariato di P.S. Online)",
+      "jurisdiction": "IT",
+      "category": "scam_warning",
+      "title": "RICHIESTE DI PAGAMENTO TRAMITE APP: OCCHIO ALLE TRUFFE!",
+      "link": "https://www.commissariatodips.it/notizie/articolo/richieste-di-pagamento-tramite-app-occhio-alle-truffe/index.html",
+      "published_at": "2026-08-17T15:22:42.000Z",
+      "date_source": "feed",
+      "summary": "On 17 August 2026 the Polizia Postale (Commissariato di P.S. Online) published “RICHIESTE DI PAGAMENTO TRAMITE APP: OCCHIO ALLE TRUFFE!”.",
+      "language": "it",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-07T21:53:04Z"
+    },
+    {
+      "id": "6d34bc0f1c571c88",
+      "source_id": "fi_news",
+      "source_name": "Finansinspektionen (Swedish Financial Supervisory Authority)",
+      "jurisdiction": "SE",
+      "category": "scam_warning",
+      "title": "FI varnar för 197 aktörer – bedragare lockar med AI och falska tradingplattformar",
+      "link": "https://www.fi.se/sv/publicerat/nyheter/2026/fi-varnar-for-197-aktorer--bedragare-lockar-med-ai-och-falska-tradingplattformar/",
+      "published_at": "2026-08-17T06:00:00.000Z",
+      "date_source": "feed",
+      "summary": "On 17 August 2026 Finansinspektionen published “FI varnar för 197 aktörer – bedragare lockar med AI och falska tradingplattformar”.",
+      "language": "sv",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-07T21:53:04Z"
+    },
+    {
       "id": "2e2c19d681bfabf9",
       "source_id": "cfpb_newsroom",
       "source_name": "Consumer Financial Protection Bureau",
@@ -818,6 +1238,27 @@
       "reviewed_by": null,
       "reviewed_at": null,
       "retrieved_at": "2026-11-06T22:31:21Z"
+    },
+    {
+      "id": "6fb4a0a5d8f14036",
+      "source_id": "polposta_news",
+      "source_name": "Polizia di Stato, Polizia Postale (Commissariato di P.S. Online)",
+      "jurisdiction": "IT",
+      "category": "scam_warning",
+      "title": "POLIZIA DI STATO: ATTENZIONE ALLE TRUFFE ONLINE A NOME DELLE FORZE DI POLIZIA.",
+      "link": "https://www.commissariatodips.it/notizie/articolo/polizia-di-stato-attenzione-alle-truffe-online-a-nome-delle-forze-di-polizia/index.html",
+      "published_at": "2026-08-10T11:04:15.000Z",
+      "date_source": "feed",
+      "summary": "On 10 August 2026 the Polizia Postale (Commissariato di P.S. Online) published “POLIZIA DI STATO: ATTENZIONE ALLE TRUFFE ONLINE A NOME DELLE FORZE DI POLIZIA.”.",
+      "language": "it",
+      "ui_visible": false,
+      "template_version": "alert-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "retrieved_at": "2026-11-07T21:53:04Z"
     }
   ]
 }

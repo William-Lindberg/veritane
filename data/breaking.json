@@ -1,6 +1,6 @@
 {
   "schema": "veritane/breaking/1",
-  "generated_at": "2026-11-07T18:25:43Z",
+  "generated_at": "2026-11-07T21:53:04Z",
   "rules": {
     "version": "breaking/1",
     "window_hours": 6,
@@ -25,6 +25,36 @@
   ],
   "entries": [
     {
+      "id": "e-election-il-2026-11-07",
+      "time": "2026-11-07T20:15:00Z",
+      "kind": "major_event",
+      "headline": "Israel: Election",
+      "path": "news/events/election-il-2026-11-07/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/election-il-2026-11-07/",
+      "event_type": "election",
+      "importance": 61
+    },
+    {
+      "id": "e-policy-il-2026-11-07",
+      "time": "2026-11-07T18:30:00Z",
+      "kind": "major_event",
+      "headline": "Israel: Political decision",
+      "path": "news/events/policy-il-2026-11-07/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/policy-il-2026-11-07/",
+      "event_type": "policy",
+      "importance": 66
+    },
+    {
+      "id": "e-conflict-sa-2026-11-07-3",
+      "time": "2026-11-07T17:30:00Z",
+      "kind": "major_event",
+      "headline": "Syria: Conflict",
+      "path": "news/events/conflict-sa-2026-11-07-3/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/conflict-sa-2026-11-07-3/",
+      "event_type": "conflict",
+      "importance": 52
+    },
+    {
       "id": "e-election-gr-2026-11-07",
       "time": "2026-11-07T17:30:00Z",
       "kind": "major_event",
@@ -35,6 +65,46 @@
       "importance": 46
     },
     {
+      "id": "e-policy-py-2026-11-07",
+      "time": "2026-11-07T17:30:00Z",
+      "kind": "major_event",
+      "headline": "Paraguay: Political decision",
+      "path": "news/events/policy-py-2026-11-07/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/policy-py-2026-11-07/",
+      "event_type": "policy",
+      "importance": 44
+    },
+    {
+      "id": "e-election-ng-2026-11-07",
+      "time": "2026-11-07T16:45:00Z",
+      "kind": "major_event",
+      "headline": "Nigeria: Election",
+      "path": "news/events/election-ng-2026-11-07/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/election-ng-2026-11-07/",
+      "event_type": "election",
+      "importance": 31
+    },
+    {
+      "id": "e-conflict-cn-2026-11-07",
+      "time": "2026-11-07T16:30:00Z",
+      "kind": "major_event",
+      "headline": "India: Conflict",
+      "path": "news/events/conflict-cn-2026-11-07/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/conflict-cn-2026-11-07/",
+      "event_type": "conflict",
+      "importance": 39
+    },
+    {
+      "id": "e-conflict-sa-2026-11-07-2",
+      "time": "2026-11-07T16:15:00Z",
+      "kind": "major_event",
+      "headline": "Yemen: Conflict",
+      "path": "news/events/conflict-sa-2026-11-07-2/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/conflict-sa-2026-11-07-2/",
+      "event_type": "conflict",
+      "importance": 36
+    },
+    {
       "id": "e-conflict-il-2026-11-07",
       "time": "2026-11-07T16:00:00Z",
       "kind": "major_event",
@@ -43,6 +113,16 @@
       "url": "https://william-lindberg.github.io/veritane/news/events/conflict-il-2026-11-07/",
       "event_type": "conflict",
       "importance": 42
+    },
+    {
+      "id": "e-conflict-us-2026-11-07",
+      "time": "2026-11-07T16:00:00Z",
+      "kind": "major_event",
+      "headline": "Uruguay: Conflict",
+      "path": "news/events/conflict-us-2026-11-07/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/conflict-us-2026-11-07/",
+      "event_type": "conflict",
+      "importance": 54
     },
     {
       "id": "e-conflict-in-2026-11-07",
@@ -62,13 +142,13 @@
       "path": "news/events/conflict-pl-2026-11-07/",
       "url": "https://william-lindberg.github.io/veritane/news/events/conflict-pl-2026-11-07/",
       "event_type": "conflict",
-      "importance": 48
+      "importance": 53
     },
     {
       "id": "e-conflict-ir-2026-11-07-4",
       "time": "2026-11-07T14:15:00Z",
       "kind": "major_event",
-      "headline": "United States: Conflict",
+      "headline": "Iran: Conflict",
       "path": "news/events/conflict-ir-2026-11-07-4/",
       "url": "https://william-lindberg.github.io/veritane/news/events/conflict-ir-2026-11-07-4/",
       "event_type": "conflict",
@@ -98,11 +178,11 @@
       "id": "e-election-us-2026-11-07-2",
       "time": "2026-11-07T13:45:00Z",
       "kind": "major_event",
-      "headline": "United States: Election",
+      "headline": "United States: Court ruling",
       "path": "news/events/election-us-2026-11-07-2/",
       "url": "https://william-lindberg.github.io/veritane/news/events/election-us-2026-11-07-2/",
       "event_type": "election",
-      "importance": 47
+      "importance": 53
     },
     {
       "id": "e-disaster-il-2026-11-07",
@@ -143,86 +223,6 @@
       "url": "https://william-lindberg.github.io/veritane/news/events/conflict-ar-2026-11-07/",
       "event_type": "conflict",
       "importance": 62
-    },
-    {
-      "id": "e-conflict-sa-2026-11-07",
-      "time": "2026-11-07T13:15:00Z",
-      "kind": "major_event",
-      "headline": "Syria: Conflict",
-      "path": "news/events/conflict-sa-2026-11-07/",
-      "url": "https://william-lindberg.github.io/veritane/news/events/conflict-sa-2026-11-07/",
-      "event_type": "conflict",
-      "importance": 62
-    },
-    {
-      "id": "e-election-us-2026-11-07-3",
-      "time": "2026-11-07T13:15:00Z",
-      "kind": "major_event",
-      "headline": "United States: Election",
-      "path": "news/events/election-us-2026-11-07-3/",
-      "url": "https://william-lindberg.github.io/veritane/news/events/election-us-2026-11-07-3/",
-      "event_type": "election",
-      "importance": 39
-    },
-    {
-      "id": "e-major-fr-2026-11-07",
-      "time": "2026-11-07T13:00:00Z",
-      "kind": "major_event",
-      "headline": "France: Employment and wages",
-      "path": "news/events/major-fr-2026-11-07/",
-      "url": "https://william-lindberg.github.io/veritane/news/events/major-fr-2026-11-07/",
-      "event_type": "other",
-      "importance": 42
-    },
-    {
-      "id": "e-conflict-ir-2026-11-07-3",
-      "time": "2026-11-07T12:45:00Z",
-      "kind": "major_event",
-      "headline": "Iran: Conflict",
-      "path": "news/events/conflict-ir-2026-11-07-3/",
-      "url": "https://william-lindberg.github.io/veritane/news/events/conflict-ir-2026-11-07-3/",
-      "event_type": "conflict",
-      "importance": 54
-    },
-    {
-      "id": "e-conflict-ir-2026-11-07-5",
-      "time": "2026-11-07T12:45:00Z",
-      "kind": "major_event",
-      "headline": "Iran: Conflict",
-      "path": "news/events/conflict-ir-2026-11-07-5/",
-      "url": "https://william-lindberg.github.io/veritane/news/events/conflict-ir-2026-11-07-5/",
-      "event_type": "conflict",
-      "importance": 54
-    },
-    {
-      "id": "e-conflict-ir-2026-11-07",
-      "time": "2026-11-07T12:15:00Z",
-      "kind": "major_event",
-      "headline": "Iran: Conflict",
-      "path": "news/events/conflict-ir-2026-11-07/",
-      "url": "https://william-lindberg.github.io/veritane/news/events/conflict-ir-2026-11-07/",
-      "event_type": "conflict",
-      "importance": 48
-    },
-    {
-      "id": "e-election-nz-2026-11-07",
-      "time": "2026-11-07T12:15:00Z",
-      "kind": "major_event",
-      "headline": "New Zealand: Election",
-      "path": "news/events/election-nz-2026-11-07/",
-      "url": "https://william-lindberg.github.io/veritane/news/events/election-nz-2026-11-07/",
-      "event_type": "election",
-      "importance": 65
-    },
-    {
-      "id": "e-major-it-2026-11-07",
-      "time": "2026-11-07T12:15:00Z",
-      "kind": "major_event",
-      "headline": "Italy: Trade",
-      "path": "news/events/major-it-2026-11-07/",
-      "url": "https://william-lindberg.github.io/veritane/news/events/major-it-2026-11-07/",
-      "event_type": "other",
-      "importance": 64
     }
   ]
 }

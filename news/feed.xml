@@ -6,7 +6,16 @@
     <atom:link href="https://william-lindberg.github.io/veritane/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>Economics and finance items generated automatically from official sources, with neutral template summaries. Education, not advice.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 17:27:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 21:53:04 GMT</lastBuildDate>
+    <item>
+      <title>Australia: Cash rate target, 5 November 2026</title>
+      <link>https://william-lindberg.github.io/veritane/news/1e9018df907d89d4/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/news/1e9018df907d89d4/</guid>
+      <pubDate>Sat, 07 Nov 2026 21:53:04 GMT</pubDate>
+      <description>New data: In Australia, the Reserve Bank of Australia&apos;s cash rate target was 4.85% on 5 November 2026, up from 4.60% on 3 November 2026. Source: Reserve Bank of Australia. For example: The Reserve Bank of Australia&apos;s cash rate target went up by 0.25 percentage points between 3 November 2026 and 5 November 2026. On a loan of A$200,000 over 25 years, a rise of that size changes the monthly payment from A$1,169.18 to A$1,198.50, a difference of +A$29.32 a month. Source: Reserve Bank of Australia (https://www.rba.gov.au/statistics/cash-rate/). Generated automatically from the source; review status: not yet reviewed.</description>
+      <source url="https://www.rba.gov.au/statistics/cash-rate/">Reserve Bank of Australia</source>
+      <category>Interest rates</category>
+    </item>
     <item>
       <title>Christine Lagarde: Interview with Yomiuri Shimbun</title>
       <link>https://william-lindberg.github.io/veritane/news/71240352f25b849c/</link>
@@ -430,14 +439,6 @@
       <pubDate>Fri, 06 Nov 2026 07:00:00 GMT</pubDate>
       <description>On 6 November 2026 Statistics Norway published “Index of industrial production”. Source: Statistics Norway (https://www.ssb.no/en/energi-og-industri/industri-og-bergverksdrift/statistikk/produksjonsindeks-for-olje-og-gass-industri-bergverk-og-kraftforsyning). Generated automatically from the source; review status: not yet reviewed.</description>
       <source url="https://www.ssb.no/en/energi-og-industri/industri-og-bergverksdrift/statistikk/produksjonsindeks-for-olje-og-gass-industri-bergverk-og-kraftforsyning">Statistics Norway</source>
-    </item>
-    <item>
-      <title>Turnover in oil and gas, manufacturing, mining and electricity supply</title>
-      <link>https://william-lindberg.github.io/veritane/news/604d059ddfbb66dd/</link>
-      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/news/604d059ddfbb66dd/</guid>
-      <pubDate>Fri, 06 Nov 2026 07:00:00 GMT</pubDate>
-      <description>On 6 November 2026 Statistics Norway published “Turnover in oil and gas, manufacturing, mining and electricity supply”. Source: Statistics Norway (https://www.ssb.no/en/energi-og-industri/industri-og-bergverksdrift/statistikk/omsetning-i-olje-og-gass-industri-bergverk-og-kraftforsyning). Generated automatically from the source; review status: not yet reviewed.</description>
-      <source url="https://www.ssb.no/en/energi-og-industri/industri-og-bergverksdrift/statistikk/omsetning-i-olje-og-gass-industri-bergverk-og-kraftforsyning">Statistics Norway</source>
     </item>
   </channel>
 </rss>

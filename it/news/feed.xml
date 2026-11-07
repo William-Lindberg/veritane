@@ -6,7 +6,16 @@
     <atom:link href="https://william-lindberg.github.io/veritane/it/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notizie di economia e finanza generate automaticamente da fonti ufficiali, con riassunti neutrali secondo modelli fissi. A scopo educativo, non è consulenza.</description>
     <language>it</language>
-    <lastBuildDate>Sat, 07 Nov 2026 17:27:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 21:53:04 GMT</lastBuildDate>
+    <item>
+      <title>Australia: Cash rate target, 5 novembre 2026</title>
+      <link>https://william-lindberg.github.io/veritane/it/news/1e9018df907d89d4/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/it/news/1e9018df907d89d4/</guid>
+      <pubDate>Sat, 07 Nov 2026 21:53:04 GMT</pubDate>
+      <description>Nuovi dati: In Australia il tasso ufficiale era del 4,85% il 5 novembre 2026, in aumento rispetto al 4,60% del 3 novembre 2026. Fonte: Reserve Bank of Australia. Per esempio: Tra il 3 novembre 2026 e il 5 novembre 2026, l’obiettivo della Reserve Bank of Australia per il «cash rate» ha registrato un aumento di 0,25 punti percentuali. Su un prestito di 200.000 A$ in 25 anni, un aumento della stessa entità porta la rata mensile da 1169,18 A$ a 1198,50 A$, con una differenza di +29,32 A$ al mese. Fonte: Reserve Bank of Australia (https://www.rba.gov.au/statistics/cash-rate/). Generato automaticamente dalla fonte; revisione: non ancora rivisto.</description>
+      <source url="https://www.rba.gov.au/statistics/cash-rate/">Reserve Bank of Australia</source>
+      <category>Tassi d&apos;interesse</category>
+    </item>
     <item>
       <title>Christine Lagarde: Interview with Yomiuri Shimbun</title>
       <link>https://william-lindberg.github.io/veritane/it/news/71240352f25b849c/</link>
@@ -34,11 +43,11 @@
       <category>Tassi d&apos;interesse</category>
     </item>
     <item>
-      <title>Australia: Obiettivo per il cash rate (media mensile), ottobre 2026</title>
+      <title>Australia: Cash rate target, ottobre 2026</title>
       <link>https://william-lindberg.github.io/veritane/it/news/c44cd99e29f2d2fe/</link>
       <guid isPermaLink="true">https://william-lindberg.github.io/veritane/it/news/c44cd99e29f2d2fe/</guid>
       <pubDate>Fri, 06 Nov 2026 22:31:21 GMT</pubDate>
-      <description>Nuovi dati: In Australia l&apos;obiettivo per il cash rate della Reserve Bank of Australia (media mensile) era del 4,60% a ottobre 2026, in aumento rispetto al 4,36% di settembre 2026. Fonte: Reserve Bank of Australia. Fonte: Reserve Bank of Australia (https://www.rba.gov.au/statistics/cash-rate/). Generato automaticamente dalla fonte; revisione: non ancora rivisto.</description>
+      <description>Nuovi dati: In Australia il tasso ufficiale era del 4,60% a ottobre 2026, in aumento rispetto al 4,36% di settembre 2026. Fonte: Reserve Bank of Australia. Fonte: Reserve Bank of Australia (https://www.rba.gov.au/statistics/cash-rate/). Generato automaticamente dalla fonte; revisione: non ancora rivisto.</description>
       <source url="https://www.rba.gov.au/statistics/cash-rate/">Reserve Bank of Australia</source>
       <category>Tassi d&apos;interesse</category>
     </item>
@@ -430,14 +439,6 @@
       <pubDate>Fri, 06 Nov 2026 07:00:00 GMT</pubDate>
       <description>Il 6 novembre 2026 Statistics Norway ha pubblicato «Index of industrial production». Fonte: Statistics Norway (https://www.ssb.no/en/energi-og-industri/industri-og-bergverksdrift/statistikk/produksjonsindeks-for-olje-og-gass-industri-bergverk-og-kraftforsyning). Generato automaticamente dalla fonte; revisione: non ancora rivisto.</description>
       <source url="https://www.ssb.no/en/energi-og-industri/industri-og-bergverksdrift/statistikk/produksjonsindeks-for-olje-og-gass-industri-bergverk-og-kraftforsyning">Statistics Norway</source>
-    </item>
-    <item>
-      <title>Turnover in oil and gas, manufacturing, mining and electricity supply</title>
-      <link>https://william-lindberg.github.io/veritane/it/news/604d059ddfbb66dd/</link>
-      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/it/news/604d059ddfbb66dd/</guid>
-      <pubDate>Fri, 06 Nov 2026 07:00:00 GMT</pubDate>
-      <description>Il 6 novembre 2026 Statistics Norway ha pubblicato «Turnover in oil and gas, manufacturing, mining and electricity supply». Fonte: Statistics Norway (https://www.ssb.no/en/energi-og-industri/industri-og-bergverksdrift/statistikk/omsetning-i-olje-og-gass-industri-bergverk-og-kraftforsyning). Generato automaticamente dalla fonte; revisione: non ancora rivisto.</description>
-      <source url="https://www.ssb.no/en/energi-og-industri/industri-og-bergverksdrift/statistikk/omsetning-i-olje-og-gass-industri-bergverk-og-kraftforsyning">Statistics Norway</source>
     </item>
   </channel>
 </rss>

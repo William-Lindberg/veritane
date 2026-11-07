@@ -1,6 +1,6 @@
 {
   "schema": "veritane/sources/1",
-  "generated_at": "2026-11-07T18:25:43Z",
+  "generated_at": "2026-11-07T21:53:04Z",
   "sources": [
     {
       "id": "abs",
@@ -22,7 +22,7 @@
       "adapters": [
         "abs"
       ],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -43,7 +43,7 @@
       "adapters": [
         "bcb"
       ],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -69,7 +69,7 @@
         "bis",
         "bis_rpp"
       ],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -97,7 +97,7 @@
       "adapters": [
         "boc"
       ],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -126,7 +126,7 @@
       "adapters": [
         "boe"
       ],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -149,7 +149,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -172,7 +172,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -196,7 +196,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -226,7 +226,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -288,7 +288,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -328,7 +328,7 @@
         "ecb",
         "ecb_fx"
       ],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -352,7 +352,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -375,7 +375,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -416,7 +416,7 @@
         "eurostat_minwage",
         "cpi_categories"
       ],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -440,7 +440,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -462,7 +462,7 @@
       "adapters": [
         "nyfed"
       ],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -491,7 +491,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -515,7 +515,40 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
+      "ok": true
+    },
+    {
+      "id": "fi",
+      "name": "Finansinspektionen (Swedish Financial Supervisory Authority)",
+      "short": "Finansinspektionen",
+      "homepage": "https://www.fi.se/",
+      "license": {
+        "name": "Free reuse with source acknowledgement (FI website terms)",
+        "url": "https://www.fi.se/sv/om-fi/om-webbplatsen/",
+        "verified": true,
+        "verified_on": "2026-11-07",
+        "quote": "Textmaterialet på webbplatsen får användas fritt, bara källan anges. FI är upphovsman, om inget annat anges."
+      },
+      "licence": "Free reuse with source acknowledgement (FI website terms)",
+      "license_note": "News RSS (/sv/publicerat/nyheter/rss/, warnings only) and the public warning list page (FI:s varningslista; no feed exists, the page is read once per run with the bot User-Agent). Veritane shows the title, date and link of each entry, credited to FI.",
+      "datasets": [],
+      "feeds": [
+        {
+          "id": "fi_news",
+          "url": "https://www.fi.se/sv/publicerat/nyheter/rss/",
+          "language": "sv",
+          "role": "alert"
+        },
+        {
+          "id": "fi_warnings",
+          "url": "https://www.fi.se/sv/vara-register/fis-varningslista/",
+          "language": "sv",
+          "role": "alert"
+        }
+      ],
+      "adapters": [],
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -594,7 +627,7 @@
         "imf_cpi",
         "imf_fiscal"
       ],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -658,7 +691,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -706,7 +739,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -734,7 +767,7 @@
       "adapters": [
         "norgesbank"
       ],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -799,7 +832,32 @@
         "ons",
         "cpi_categories"
       ],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
+      "ok": true
+    },
+    {
+      "id": "polposta",
+      "name": "Polizia di Stato, Polizia Postale (Commissariato di P.S. Online)",
+      "short": "Polizia Postale",
+      "homepage": "https://www.commissariatodips.it/",
+      "license": {
+        "name": "Terms: see provider",
+        "url": "https://www.commissariatodips.it/note-legali/",
+        "verified": false
+      },
+      "licence": "Terms: see provider (https://www.commissariatodips.it/note-legali/); not yet checked by Veritane",
+      "license_note": "Public RSS feed \"Tutte le notizie\" (the feed states \"© Commissariato di P.S. Online\"). The note-legali page did not show reuse terms to an automated reader on 2026-11-07, so no licence is named: Veritane shows only the title, date and link of scam notices, credited to the Polizia Postale, as it does for outlet headlines.",
+      "datasets": [],
+      "feeds": [
+        {
+          "id": "polposta_news",
+          "url": "https://www.commissariatodips.it/rss.xml",
+          "language": "it",
+          "role": "alert"
+        }
+      ],
+      "adapters": [],
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -815,7 +873,7 @@
       },
       "licence": "CC BY 4.0",
       "datasets": [
-        "F1.1 FIRMMCRT (cash rate target, monthly average)",
+        "F1 FIRMMCRTD (cash rate target on each date)",
         "F11.1 FXRUSD (A$1 in US dollars)",
         "RBA/G1 (via DBnomics)",
         "RBA/H1 (via DBnomics)",
@@ -842,7 +900,7 @@
         "rba",
         "dbnomics_rba"
       ],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -866,7 +924,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -889,7 +947,7 @@
       "adapters": [
         "sarb"
       ],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -936,7 +994,7 @@
       "adapters": [
         "statcan"
       ],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -957,7 +1015,7 @@
       "adapters": [
         "dst"
       ],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -986,7 +1044,7 @@
       "adapters": [
         "ssb"
       ],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -1016,7 +1074,7 @@
       "adapters": [
         "scb"
       ],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -1050,7 +1108,7 @@
       "adapters": [
         "riksbank"
       ],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -1074,7 +1132,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -1102,7 +1160,7 @@
         "bls",
         "cpi_categories"
       ],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -1123,8 +1181,8 @@
       "adapters": [
         "yield_curves"
       ],
-      "last_fetched": "2026-11-07T18:04:12Z",
-      "ok": false
+      "last_fetched": "2026-11-07T21:53:04Z",
+      "ok": true
     },
     {
       "id": "usgs",
@@ -1174,7 +1232,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -1198,7 +1256,7 @@
       "adapters": [
         "fiscaldata"
       ],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     },
     {
@@ -1230,7 +1288,7 @@
         "wb_commodities",
         "wb_living"
       ],
-      "last_fetched": "2026-11-07T18:25:43Z",
+      "last_fetched": "2026-11-07T21:53:04Z",
       "ok": true
     }
   ]

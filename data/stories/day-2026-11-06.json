@@ -1,7 +1,7 @@
 {
   "schema": "veritane/story-day/1",
   "date": "2026-11-06",
-  "generated_at": "2026-11-07T18:25:43Z",
+  "generated_at": "2026-11-07T21:53:04Z",
   "stories": [
     {
       "id": "s20261106-19cd7fb665",
@@ -53,13 +53,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:25:43Z",
+        "checked_at": "2026-11-07T21:53:04Z",
         "frozen_after": "2026-11-09T00:00:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 9,
-        "computed_at": "2026-11-07T18:25:43Z",
+        "computed_at": "2026-11-07T21:53:04Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -72,7 +72,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 42.43,
+          "age_h": 45.88,
           "first_seen": "2026-11-06T00:00:00Z"
         },
         "points": {
@@ -82,7 +82,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 2.94
+          "T": 2.66
         },
         "base": 5.95
       },
@@ -173,13 +173,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:25:43Z",
+        "checked_at": "2026-11-07T21:53:04Z",
         "frozen_after": "2026-11-09T04:45:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 9,
-        "computed_at": "2026-11-07T18:25:43Z",
+        "computed_at": "2026-11-07T21:53:04Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -192,7 +192,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 37.68,
+          "age_h": 41.13,
           "first_seen": "2026-11-06T04:45:00Z"
         },
         "points": {
@@ -202,7 +202,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 3.37
+          "T": 3.05
         },
         "base": 5.95
       },
@@ -235,7 +235,7 @@
       "overrides": [],
       "first_seen": "2026-11-06T04:45:00Z",
       "last_seen": "2026-11-06T04:45:00Z",
-      "status": "new",
+      "status": "quiet",
       "version": 1,
       "classified_by": "rules",
       "classification": {
@@ -293,13 +293,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:25:43Z",
+        "checked_at": "2026-11-07T21:53:04Z",
         "frozen_after": "2026-11-09T05:15:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 9,
-        "computed_at": "2026-11-07T18:25:43Z",
+        "computed_at": "2026-11-07T21:53:04Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -312,7 +312,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 37.18,
+          "age_h": 40.63,
           "first_seen": "2026-11-06T05:15:00Z"
         },
         "points": {
@@ -322,7 +322,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 3.42
+          "T": 3.09
         },
         "base": 5.95
       },
@@ -355,7 +355,7 @@
       "overrides": [],
       "first_seen": "2026-11-06T05:15:00Z",
       "last_seen": "2026-11-06T05:15:00Z",
-      "status": "new",
+      "status": "quiet",
       "version": 1,
       "classified_by": "rules",
       "classification": {
@@ -413,13 +413,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:25:43Z",
+        "checked_at": "2026-11-07T21:53:04Z",
         "frozen_after": "2026-11-09T05:30:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 9,
-        "computed_at": "2026-11-07T18:25:43Z",
+        "computed_at": "2026-11-07T21:53:04Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -432,7 +432,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 36.93,
+          "age_h": 40.38,
           "first_seen": "2026-11-06T05:30:00Z"
         },
         "points": {
@@ -442,7 +442,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 3.44
+          "T": 3.12
         },
         "base": 5.95
       },
@@ -475,7 +475,7 @@
       "overrides": [],
       "first_seen": "2026-11-06T05:30:00Z",
       "last_seen": "2026-11-06T05:30:00Z",
-      "status": "new",
+      "status": "quiet",
       "version": 1,
       "classified_by": "rules",
       "classification": {
@@ -533,13 +533,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:25:43Z",
+        "checked_at": "2026-11-07T21:53:04Z",
         "frozen_after": "2026-11-09T06:00:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 9,
-        "computed_at": "2026-11-07T18:25:43Z",
+        "computed_at": "2026-11-07T21:53:04Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -552,7 +552,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 36.43,
+          "age_h": 39.88,
           "first_seen": "2026-11-06T06:00:00Z"
         },
         "points": {
@@ -562,7 +562,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 3.49
+          "T": 3.16
         },
         "base": 5.95
       },
@@ -653,13 +653,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:25:43Z",
+        "checked_at": "2026-11-07T21:53:04Z",
         "frozen_after": "2026-11-09T06:30:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 9,
-        "computed_at": "2026-11-07T18:25:43Z",
+        "computed_at": "2026-11-07T21:53:04Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -672,7 +672,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 35.93,
+          "age_h": 39.38,
           "first_seen": "2026-11-06T06:30:00Z"
         },
         "points": {
@@ -682,7 +682,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 3.54
+          "T": 3.21
         },
         "base": 5.95
       },
@@ -784,13 +784,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 6 official sources we follow for Poland published a matching release in the days around this story.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:25:43Z",
+        "checked_at": "2026-11-07T21:53:04Z",
         "frozen_after": "2026-11-09T08:15:00Z"
       },
       "importance": {
         "version": "importance/1",
-        "score": 10,
-        "computed_at": "2026-11-07T18:25:43Z",
+        "score": 9,
+        "computed_at": "2026-11-07T21:53:04Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -807,7 +807,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 34.18,
+          "age_h": 37.63,
           "first_seen": "2026-11-06T08:15:00Z"
         },
         "points": {
@@ -817,7 +817,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 3.73
+          "T": 3.37
         },
         "base": 5.95
       },
@@ -850,7 +850,7 @@
       "overrides": [],
       "first_seen": "2026-11-06T08:15:00Z",
       "last_seen": "2026-11-06T08:15:00Z",
-      "status": "new",
+      "status": "quiet",
       "version": 1,
       "classified_by": "rules",
       "classification": {
@@ -914,13 +914,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 1 international source we follow for the world economy published a matching release in the days around this story.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:25:43Z",
+        "checked_at": "2026-11-07T21:53:04Z",
         "frozen_after": "2026-11-09T08:45:00Z"
       },
       "importance": {
         "version": "importance/1",
-        "score": 20,
-        "computed_at": "2026-11-07T18:25:43Z",
+        "score": 19,
+        "computed_at": "2026-11-07T21:53:04Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -937,7 +937,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 33.68,
+          "age_h": 37.13,
           "first_seen": "2026-11-06T08:45:00Z"
         },
         "points": {
@@ -947,7 +947,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 3.78
+          "T": 3.42
         },
         "base": 15.95
       },
@@ -1056,13 +1056,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 13 official sources we follow for the United States published a matching release in the days around this story.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:25:43Z",
+        "checked_at": "2026-11-07T21:53:04Z",
         "frozen_after": "2026-11-09T08:45:00Z"
       },
       "importance": {
         "version": "importance/1",
-        "score": 10,
-        "computed_at": "2026-11-07T18:25:43Z",
+        "score": 9,
+        "computed_at": "2026-11-07T21:53:04Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -1079,7 +1079,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 33.68,
+          "age_h": 37.13,
           "first_seen": "2026-11-06T08:45:00Z"
         },
         "points": {
@@ -1089,7 +1089,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 3.78
+          "T": 3.42
         },
         "base": 5.95
       },
@@ -1122,7 +1122,7 @@
       "overrides": [],
       "first_seen": "2026-11-06T08:45:00Z",
       "last_seen": "2026-11-06T08:45:00Z",
-      "status": "new",
+      "status": "quiet",
       "version": 1,
       "classified_by": "rules",
       "classification": {
@@ -1180,13 +1180,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:25:43Z",
+        "checked_at": "2026-11-07T21:53:04Z",
         "frozen_after": "2026-11-09T09:00:00Z"
       },
       "importance": {
         "version": "importance/1",
-        "score": 10,
-        "computed_at": "2026-11-07T18:25:43Z",
+        "score": 9,
+        "computed_at": "2026-11-07T21:53:04Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -1199,7 +1199,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 33.43,
+          "age_h": 36.88,
           "first_seen": "2026-11-06T09:00:00Z"
         },
         "points": {
@@ -1209,7 +1209,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 3.81
+          "T": 3.45
         },
         "base": 5.95
       },
@@ -1242,7 +1242,7 @@
       "overrides": [],
       "first_seen": "2026-11-06T09:00:00Z",
       "last_seen": "2026-11-06T09:00:00Z",
-      "status": "new",
+      "status": "quiet",
       "version": 1,
       "classified_by": "rules",
       "classification": {
@@ -1311,13 +1311,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 6 official sources we follow for Poland published a matching release in the days around this story.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:25:43Z",
+        "checked_at": "2026-11-07T21:53:04Z",
         "frozen_after": "2026-11-09T10:00:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 10,
-        "computed_at": "2026-11-07T18:25:43Z",
+        "computed_at": "2026-11-07T21:53:04Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -1334,7 +1334,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 32.43,
+          "age_h": 35.88,
           "first_seen": "2026-11-06T10:00:00Z"
         },
         "points": {
@@ -1344,7 +1344,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 3.92
+          "T": 3.55
         },
         "base": 5.95
       },
@@ -1377,7 +1377,7 @@
       "overrides": [],
       "first_seen": "2026-11-06T10:00:00Z",
       "last_seen": "2026-11-06T10:00:00Z",
-      "status": "new",
+      "status": "quiet",
       "version": 1,
       "classified_by": "rules",
       "classification": {
@@ -1443,13 +1443,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 3 official sources we follow for the European Union published a matching release in the days around this story.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:25:43Z",
+        "checked_at": "2026-11-07T21:53:04Z",
         "frozen_after": "2026-11-09T10:00:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 15,
-        "computed_at": "2026-11-07T18:25:43Z",
+        "computed_at": "2026-11-07T21:53:04Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -1466,7 +1466,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 32.43,
+          "age_h": 35.88,
           "first_seen": "2026-11-06T10:00:00Z"
         },
         "points": {
@@ -1476,7 +1476,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 3.92
+          "T": 3.55
         },
         "base": 10.95
       },
@@ -1509,7 +1509,7 @@
       "overrides": [],
       "first_seen": "2026-11-06T10:00:00Z",
       "last_seen": "2026-11-06T10:00:00Z",
-      "status": "new",
+      "status": "quiet",
       "version": 1,
       "classified_by": "rules",
       "classification": {
@@ -1579,13 +1579,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 7 official sources we follow for India published a matching release in the days around this story.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:25:43Z",
+        "checked_at": "2026-11-07T21:53:04Z",
         "frozen_after": "2026-11-09T11:45:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 10,
-        "computed_at": "2026-11-07T18:25:43Z",
+        "computed_at": "2026-11-07T21:53:04Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -1602,7 +1602,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 30.68,
+          "age_h": 34.13,
           "first_seen": "2026-11-06T11:45:00Z"
         },
         "points": {
@@ -1612,7 +1612,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 4.12
+          "T": 3.73
         },
         "base": 5.95
       },
@@ -1645,7 +1645,7 @@
       "overrides": [],
       "first_seen": "2026-11-06T11:45:00Z",
       "last_seen": "2026-11-06T11:45:00Z",
-      "status": "new",
+      "status": "quiet",
       "version": 1,
       "classified_by": "rules",
       "classification": {
@@ -1724,13 +1724,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 13 official sources we follow for the United States published a matching release in the days around this story.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:25:43Z",
+        "checked_at": "2026-11-07T21:53:04Z",
         "frozen_after": "2026-11-09T12:30:00Z"
       },
       "importance": {
         "version": "importance/1",
-        "score": 18,
-        "computed_at": "2026-11-07T18:25:43Z",
+        "score": 17,
+        "computed_at": "2026-11-07T21:53:04Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -1750,7 +1750,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 29.93,
+          "age_h": 33.38,
           "first_seen": "2026-11-06T12:30:00Z"
         },
         "points": {
@@ -1760,7 +1760,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 4.21
+          "T": 3.81
         },
         "base": 13.45
       },
@@ -1793,7 +1793,7 @@
       "overrides": [],
       "first_seen": "2026-11-06T12:30:00Z",
       "last_seen": "2026-11-06T12:30:00Z",
-      "status": "new",
+      "status": "quiet",
       "version": 1,
       "classified_by": "rules",
       "classification": {
@@ -1855,13 +1855,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 1 international source we follow for the world economy published a matching release in the days around this story.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:25:43Z",
+        "checked_at": "2026-11-07T21:53:04Z",
         "frozen_after": "2026-11-09T15:00:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 20,
-        "computed_at": "2026-11-07T18:25:43Z",
+        "computed_at": "2026-11-07T21:53:04Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -1876,7 +1876,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 27.43,
+          "age_h": 30.88,
           "first_seen": "2026-11-06T15:00:00Z"
         },
         "points": {
@@ -1886,7 +1886,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 4.53
+          "T": 4.1
         },
         "base": 15.95
       },
@@ -1919,7 +1919,7 @@
       "overrides": [],
       "first_seen": "2026-11-06T15:00:00Z",
       "last_seen": "2026-11-06T15:00:00Z",
-      "status": "new",
+      "status": "quiet",
       "version": 1,
       "classified_by": "rules",
       "classification": {
@@ -1929,10 +1929,10 @@
     },
     {
       "id": "s20261106-c89441cddd",
-      "label": "United States: Macroeconomics",
+      "label": "United States: Employment and wages",
       "label_source": "template",
       "headline": {
-        "t": "United States: Macroeconomics",
+        "t": "United States: Employment and wages",
         "o": "cnbc",
         "l": "en",
         "np": true
@@ -1944,8 +1944,8 @@
         "north-america"
       ],
       "categories": [
-        "macro",
-        "jobs"
+        "jobs",
+        "macro"
       ],
       "country_basis": "title",
       "opinion": false,
@@ -1960,16 +1960,16 @@
         }
       ],
       "other_sites": {
-        "n": 0,
+        "n": 1,
         "domains": []
       },
       "counts": {
-        "pages": 1,
+        "pages": 2,
         "listed": 1,
         "groups": 1,
         "outlet_countries": 1,
         "languages": 1,
-        "other_sites": 0,
+        "other_sites": 1,
         "copy_groups": 1
       },
       "verification": {
@@ -2037,13 +2037,13 @@
         },
         "text": "Linked to an official release. U.S. Bureau of Labor Statistics published “United States: Nonfarm payrolls, monthly change, October 2026” on 1 November 2026. The reports match it on topic, figure and date. Matching is automatic. It shows that an official release on this exists. It does not check each claim in the reports.",
         "text_simple": "An official source published this: U.S. Bureau of Labor Statistics, on 1 November 2026.",
-        "checked_at": "2026-11-07T18:25:43Z",
+        "checked_at": "2026-11-07T21:53:04Z",
         "frozen_after": "2026-11-09T16:00:00Z"
       },
       "importance": {
         "version": "importance/1",
-        "score": 36,
-        "computed_at": "2026-11-07T18:25:43Z",
+        "score": 35,
+        "computed_at": "2026-11-07T21:53:04Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -2056,14 +2056,14 @@
           "scope": "one_country",
           "places": 1,
           "categories": [
-            "macro",
-            "jobs"
+            "jobs",
+            "macro"
           ],
-          "category": "macro",
+          "category": "jobs",
           "category_weight": 1,
           "match_kind": "data_release",
           "p_hours": 1,
-          "age_h": 26.43,
+          "age_h": 29.88,
           "first_seen": "2026-11-06T16:00:00Z"
         },
         "points": {
@@ -2073,7 +2073,7 @@
           "K": 10,
           "M": 15,
           "P": 0,
-          "T": 4.66
+          "T": 4.22
         },
         "base": 30.95
       },
@@ -2090,7 +2090,8 @@
           "select": "select/2"
         },
         "gkg_files": [
-          "20261106160000"
+          "20261106160000",
+          "20261107201500"
         ],
         "events": [
           [
@@ -2114,14 +2115,21 @@
                 "date"
               ]
             }
+          ],
+          [
+            "2026-11-07T21:53:04Z",
+            "score",
+            {
+              "to": 35
+            }
           ]
         ]
       },
       "overrides": [],
       "first_seen": "2026-11-06T16:00:00Z",
-      "last_seen": "2026-11-06T16:00:00Z",
-      "status": "quiet",
-      "version": 2,
+      "last_seen": "2026-11-07T20:15:00Z",
+      "status": "active",
+      "version": 3,
       "classified_by": "rules",
       "classification": {
         "by": "rules",
@@ -2186,13 +2194,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 3 official sources we follow for the European Union published a matching release in the days around this story.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:25:43Z",
+        "checked_at": "2026-11-07T21:53:04Z",
         "frozen_after": "2026-11-09T17:15:00Z"
       },
       "importance": {
         "version": "importance/1",
-        "score": 16,
-        "computed_at": "2026-11-07T18:25:43Z",
+        "score": 15,
+        "computed_at": "2026-11-07T21:53:04Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -2209,7 +2217,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 25.18,
+          "age_h": 28.63,
           "first_seen": "2026-11-06T17:15:00Z"
         },
         "points": {
@@ -2219,7 +2227,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 4.83
+          "T": 4.37
         },
         "base": 10.95
       },
@@ -2330,13 +2338,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 13 official sources we follow for the United States published a matching release in the days around this story.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:25:43Z",
+        "checked_at": "2026-11-07T21:53:04Z",
         "frozen_after": "2026-11-09T18:30:00Z"
       },
       "importance": {
         "version": "importance/1",
-        "score": 18,
-        "computed_at": "2026-11-07T18:25:43Z",
+        "score": 17,
+        "computed_at": "2026-11-07T21:53:04Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -2355,7 +2363,7 @@
           "category_weight": 0.7,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 23.93,
+          "age_h": 27.38,
           "first_seen": "2026-11-06T18:30:00Z"
         },
         "points": {
@@ -2365,7 +2373,7 @@
           "K": 7,
           "M": 0,
           "P": 0,
-          "T": 5.01
+          "T": 4.53
         },
         "base": 12.95
       },
@@ -2398,7 +2406,7 @@
       "overrides": [],
       "first_seen": "2026-11-06T18:30:00Z",
       "last_seen": "2026-11-06T18:30:00Z",
-      "status": "active",
+      "status": "quiet",
       "version": 1,
       "classified_by": "rules",
       "classification": {
@@ -2458,13 +2466,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:25:43Z",
+        "checked_at": "2026-11-07T21:53:04Z",
         "frozen_after": "2026-11-09T20:00:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 21,
-        "computed_at": "2026-11-07T18:25:43Z",
+        "computed_at": "2026-11-07T21:53:04Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -2479,7 +2487,7 @@
           "category_weight": 1,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 22.43,
+          "age_h": 25.88,
           "first_seen": "2026-11-06T20:00:00Z"
         },
         "points": {
@@ -2489,7 +2497,7 @@
           "K": 10,
           "M": 0,
           "P": 0,
-          "T": 5.23
+          "T": 4.74
         },
         "base": 15.95
       },
@@ -2522,7 +2530,7 @@
       "overrides": [],
       "first_seen": "2026-11-06T20:00:00Z",
       "last_seen": "2026-11-06T20:00:00Z",
-      "status": "active",
+      "status": "quiet",
       "version": 1,
       "classified_by": "rules",
       "classification": {

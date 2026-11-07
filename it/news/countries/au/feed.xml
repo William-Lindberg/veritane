@@ -6,13 +6,22 @@
     <atom:link href="https://william-lindberg.github.io/veritane/it/news/countries/au/feed.xml" rel="self" type="application/rss+xml" />
     <description>Australia: dati economici e comunicati ufficiali, generati automaticamente da fonti ufficiali. A scopo educativo, non è consulenza.</description>
     <language>it</language>
-    <lastBuildDate>Sat, 07 Nov 2026 17:27:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 21:53:04 GMT</lastBuildDate>
     <item>
-      <title>Australia: Obiettivo per il cash rate (media mensile), ottobre 2026</title>
+      <title>Australia: Cash rate target, 5 novembre 2026</title>
+      <link>https://william-lindberg.github.io/veritane/it/news/1e9018df907d89d4/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/it/news/1e9018df907d89d4/</guid>
+      <pubDate>Sat, 07 Nov 2026 21:53:04 GMT</pubDate>
+      <description>Nuovi dati: In Australia il tasso ufficiale era del 4,85% il 5 novembre 2026, in aumento rispetto al 4,60% del 3 novembre 2026. Fonte: Reserve Bank of Australia. Fonte: Reserve Bank of Australia (https://www.rba.gov.au/statistics/cash-rate/). Generato automaticamente dalla fonte; revisione: non ancora rivisto.</description>
+      <source url="https://www.rba.gov.au/statistics/cash-rate/">Reserve Bank of Australia</source>
+      <category>Tassi d&apos;interesse</category>
+    </item>
+    <item>
+      <title>Australia: Cash rate target, ottobre 2026</title>
       <link>https://william-lindberg.github.io/veritane/it/news/c44cd99e29f2d2fe/</link>
       <guid isPermaLink="true">https://william-lindberg.github.io/veritane/it/news/c44cd99e29f2d2fe/</guid>
       <pubDate>Fri, 06 Nov 2026 22:31:21 GMT</pubDate>
-      <description>Nuovi dati: In Australia l&apos;obiettivo per il cash rate della Reserve Bank of Australia (media mensile) era del 4,60% a ottobre 2026, in aumento rispetto al 4,36% di settembre 2026. Fonte: Reserve Bank of Australia. Fonte: Reserve Bank of Australia (https://www.rba.gov.au/statistics/cash-rate/). Generato automaticamente dalla fonte; revisione: non ancora rivisto.</description>
+      <description>Nuovi dati: In Australia il tasso ufficiale era del 4,60% a ottobre 2026, in aumento rispetto al 4,36% di settembre 2026. Fonte: Reserve Bank of Australia. Fonte: Reserve Bank of Australia (https://www.rba.gov.au/statistics/cash-rate/). Generato automaticamente dalla fonte; revisione: non ancora rivisto.</description>
       <source url="https://www.rba.gov.au/statistics/cash-rate/">Reserve Bank of Australia</source>
       <category>Tassi d&apos;interesse</category>
     </item>

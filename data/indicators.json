@@ -1,6 +1,6 @@
 {
   "schema": "veritane/indicators/2",
-  "generated_at": "2026-11-07T18:00:59Z",
+  "generated_at": "2026-11-07T21:53:04Z",
   "template_version": "indicator-templates/1",
   "series": [
     {
@@ -597,7 +597,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "Average Interest Rates on U.S. Treasury Securities",
@@ -680,7 +680,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "Debt to the Penny",
@@ -839,7 +839,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "Monthly Treasury Statement, table 1",
@@ -1072,7 +1072,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -1144,7 +1144,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -1970,7 +1970,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "derived_from": {
         "series": "CUUR0000SA0",
@@ -2066,7 +2066,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -2224,7 +2224,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "Interest Expense on the Public Debt Outstanding",
@@ -2464,7 +2464,7 @@
           "url": "https://www.newyorkfed.org/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "Effective Federal Funds Rate (EFFR)",
@@ -2547,7 +2547,7 @@
           "url": "https://www.newyorkfed.org/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "Secured Overnight Financing Rate (SOFR)",
@@ -2594,6 +2594,10 @@
         "period": "2026-09-16",
         "period_label": "16 September 2026",
         "value": 3.75
+      },
+      "since": {
+        "period": "2026-09-17",
+        "period_label": "17 September 2026"
       },
       "change": {
         "value": 0.25,
@@ -2663,7 +2667,7 @@
         }
       ],
       "sentence": "In the United States, the upper limit of the Federal Reserve's federal funds target range was 4.00% on 5 November 2026, up from 3.75% on 16 September 2026.",
-      "sentence_simple": "The main interest rate set by the Federal Reserve was 4.00% on 5 November 2026. On 16 September 2026 it was 3.75%.",
+      "sentence_simple": "The main interest rate set by the Federal Reserve has been 4.00% since 17 September 2026. Before that it was 3.75%.",
       "source": {
         "name": "Federal Reserve Bank of New York",
         "provider_id": "nyfed",
@@ -2675,7 +2679,7 @@
           "url": "https://www.newyorkfed.org/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "decision_url": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm",
       "receipt": {
@@ -3353,7 +3357,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "derived_from": {
         "series": "CES0000000001",
@@ -3538,7 +3542,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -3695,7 +3699,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "derived_from": {
         "series": "CES0500000003",
@@ -4060,7 +4064,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "Daily Treasury Par Yield Curve Rates",
@@ -4180,7 +4184,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "Daily Treasury Par Yield Curve Rates",
@@ -4720,7 +4724,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "EXR.D.USD.EUR.SP00.A",
@@ -5001,7 +5005,7 @@
           "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-05T23:00:00+0100",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "namq_10_gdp",
@@ -6143,7 +6147,7 @@
           "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "prc_hicp_minr",
@@ -6193,6 +6197,10 @@
         "period": "2026-06-17",
         "period_label": "17 June 2026",
         "value": 2.25
+      },
+      "since": {
+        "period": "2026-09-16",
+        "period_label": "16 September 2026"
       },
       "change": {
         "value": 0.25,
@@ -6294,7 +6302,7 @@
         }
       ],
       "sentence": "In the euro area, the ECB's deposit facility rate was 2.50% on 7 November 2026, up from 2.25% on 17 June 2026.",
-      "sentence_simple": "The main interest rate set by the European Central Bank was 2.50% on 7 November 2026. On 17 June 2026 it was 2.25%.",
+      "sentence_simple": "The main interest rate set by the European Central Bank has been 2.50% since 16 September 2026. Before that it was 2.25%.",
       "source": {
         "name": "European Central Bank",
         "provider_id": "ecb",
@@ -6308,7 +6316,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "decision_url": "https://www.ecb.europa.eu/mopo/decisions/html/index.en.html",
       "peer_panel": "policy_rate.bis",
@@ -7054,7 +7062,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "LFSI.M.I9.S.UNEHRT.TOTAL0.15_74.T",
@@ -7177,7 +7185,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "YC.B.U2.EUR.4F.G_N_A.SV_C_YM.SR_10Y",
@@ -7750,7 +7758,7 @@
           "url": "https://www.bankofengland.co.uk/legal",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "XUDLUSS",
@@ -8034,7 +8042,7 @@
           "verified_on": "2026-11-06"
         },
         "publisher_updated": "2026-09-29T23:00:00.000Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "next_release": "2026-11-12",
       "peer_panel": "gdp.annual.wb",
@@ -8109,7 +8117,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -8945,7 +8953,7 @@
           "verified_on": "2026-11-06"
         },
         "publisher_updated": "2026-10-20T23:00:00.000Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "next_release": "2026-11-18",
       "peer_panel": "inflation.cpi_yoy.imf",
@@ -9021,7 +9029,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -9176,6 +9184,10 @@
         "period_label": "4 November 2026",
         "value": 3.75
       },
+      "since": {
+        "period": "2026-11-05",
+        "period_label": "5 November 2026"
+      },
       "change": {
         "value": 0.25,
         "unit": "pp",
@@ -9236,7 +9248,7 @@
         }
       ],
       "sentence": "In the United Kingdom, the Bank of England's Bank Rate was 4.00% on 5 November 2026, up from 3.75% on 4 November 2026.",
-      "sentence_simple": "The main interest rate set by the Bank of England was 4.00% on 5 November 2026. On 4 November 2026 it was 3.75%.",
+      "sentence_simple": "The main interest rate set by the Bank of England has been 4.00% since 5 November 2026. Before that it was 3.75%.",
       "source": {
         "name": "Bank of England",
         "provider_id": "boe",
@@ -9248,7 +9260,7 @@
           "url": "https://www.bankofengland.co.uk/legal",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "decision_url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate",
       "peer_panel": "policy_rate.bis",
@@ -9923,7 +9935,7 @@
           "verified_on": "2026-11-06"
         },
         "publisher_updated": "2026-10-19T23:00:00.000Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "next_release": "2026-11-17",
       "peer_panel": "unemployment.annual.wb",
@@ -10267,7 +10279,7 @@
           "url": "https://www.bankofengland.co.uk/legal",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "IUDMNPY",
@@ -10806,7 +10818,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "EXR.D.JPY.EUR.SP00.A",
@@ -11035,7 +11047,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -11107,7 +11119,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -11938,7 +11950,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -12014,7 +12026,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -12441,7 +12453,7 @@
           "value": 1.25
         }
       ],
-      "sentence": "In Japan, the central bank policy rate (Bank of Japan, as listed by the BIS) was 1.25% on 3 November 2026, unchanged from October 2026.",
+      "sentence": "In Japan, the central bank policy rate set by the central bank (Bank of Japan) was 1.25% on 3 November 2026, unchanged from October 2026.",
       "sentence_simple": "The central bank policy rate in Japan was 1.25% on 3 November 2026. In October 2026 it was 1.25%.",
       "source": {
         "name": "Bank of Japan via BIS",
@@ -12456,7 +12468,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -17030,7 +17042,7 @@
           "url": "https://www.bankofcanada.ca/terms/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "FXUSDCAD",
@@ -17259,7 +17271,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -17423,7 +17435,7 @@
           "verified": false
         },
         "publisher_updated": "2026-10-30T08:30",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "derived_from": {
         "series": "v65201210",
@@ -17512,7 +17524,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -18346,7 +18358,7 @@
           "verified": false
         },
         "publisher_updated": "2026-10-19T08:30",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "derived_from": {
         "series": "v41690973",
@@ -18439,7 +18451,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -18594,6 +18606,10 @@
         "period_label": "28 October 2026",
         "value": 2.25
       },
+      "since": {
+        "period": "2026-10-29",
+        "period_label": "29 October 2026"
+      },
       "change": {
         "value": 0.25,
         "unit": "pp",
@@ -18654,7 +18670,7 @@
         }
       ],
       "sentence": "In Canada, the Bank of Canada's target for the overnight rate was 2.50% on 5 November 2026, up from 2.25% on 28 October 2026.",
-      "sentence_simple": "The main interest rate set by the Bank of Canada was 2.50% on 5 November 2026. On 28 October 2026 it was 2.25%.",
+      "sentence_simple": "The main interest rate set by the Bank of Canada has been 2.50% since 29 October 2026. Before that it was 2.25%.",
       "source": {
         "name": "Bank of Canada",
         "provider_id": "boc",
@@ -18666,7 +18682,7 @@
           "url": "https://www.bankofcanada.ca/terms/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "decision_url": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/",
       "peer_panel": "policy_rate.bis",
@@ -19339,7 +19355,7 @@
           "verified": false
         },
         "publisher_updated": "2026-11-06T08:30",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -20184,7 +20200,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "F11.1 FXRUSD",
@@ -20414,7 +20430,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -20671,7 +20687,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -21653,7 +21669,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "derived_from": {
         "series": "CPI 1.10001.10.50.Q",
@@ -21746,7 +21762,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -22899,165 +22915,170 @@
       "region": "AU",
       "region_name": "Australia",
       "topic": "policy_rate",
-      "name": "Cash rate target (monthly average)",
+      "name": "Cash rate target",
       "unit": "%",
-      "frequency": "M",
+      "frequency": "D",
       "kind": "outturn",
       "measure": "rate",
       "decimals": 2,
       "latest": {
-        "period": "2026-10",
-        "period_label": "October 2026",
-        "value": 4.6
+        "period": "2026-11-05",
+        "period_label": "5 November 2026",
+        "value": 4.85,
+        "first_seen_at": "2026-11-07T21:53:04Z"
       },
       "rate_name": "cash rate target",
       "previous": {
-        "period": "2026-09",
-        "period_label": "September 2026",
-        "value": 4.36
+        "period": "2026-11-03",
+        "period_label": "3 November 2026",
+        "value": 4.6
+      },
+      "since": {
+        "period": "2026-11-04",
+        "period_label": "4 November 2026"
       },
       "change": {
-        "value": 0.24,
+        "value": 0.25,
         "unit": "pp",
         "direction": "up"
       },
       "history": [
         {
-          "period": "2024-11",
+          "period": "2024-12-31",
           "value": 4.35
         },
         {
-          "period": "2024-12",
+          "period": "2025-01-31",
           "value": 4.35
         },
         {
-          "period": "2025-01",
-          "value": 4.35
-        },
-        {
-          "period": "2025-02",
-          "value": 4.25
-        },
-        {
-          "period": "2025-03",
+          "period": "2025-02-28",
           "value": 4.1
         },
         {
-          "period": "2025-04",
+          "period": "2025-03-31",
           "value": 4.1
         },
         {
-          "period": "2025-05",
-          "value": 4.01
+          "period": "2025-04-30",
+          "value": 4.1
         },
         {
-          "period": "2025-06",
+          "period": "2025-05-30",
           "value": 3.85
         },
         {
-          "period": "2025-07",
+          "period": "2025-06-30",
           "value": 3.85
         },
         {
-          "period": "2025-08",
-          "value": 3.7
+          "period": "2025-07-31",
+          "value": 3.85
         },
         {
-          "period": "2025-09",
+          "period": "2025-08-29",
           "value": 3.6
         },
         {
-          "period": "2025-10",
+          "period": "2025-09-30",
           "value": 3.6
         },
         {
-          "period": "2025-11",
+          "period": "2025-10-31",
           "value": 3.6
         },
         {
-          "period": "2025-12",
+          "period": "2025-11-28",
           "value": 3.6
         },
         {
-          "period": "2026-01",
+          "period": "2025-12-31",
           "value": 3.6
         },
         {
-          "period": "2026-02",
-          "value": 3.83
+          "period": "2026-01-30",
+          "value": 3.6
         },
         {
-          "period": "2026-03",
-          "value": 3.96
+          "period": "2026-02-27",
+          "value": 3.85
         },
         {
-          "period": "2026-04",
+          "period": "2026-03-31",
           "value": 4.1
         },
         {
-          "period": "2026-05",
-          "value": 4.31
+          "period": "2026-04-30",
+          "value": 4.1
         },
         {
-          "period": "2026-06",
+          "period": "2026-05-29",
           "value": 4.35
         },
         {
-          "period": "2026-07",
+          "period": "2026-06-30",
           "value": 4.35
         },
         {
-          "period": "2026-08",
+          "period": "2026-07-31",
           "value": 4.35
         },
         {
-          "period": "2026-09",
-          "value": 4.36
+          "period": "2026-08-31",
+          "value": 4.35
         },
         {
-          "period": "2026-10",
+          "period": "2026-09-30",
           "value": 4.6
+        },
+        {
+          "period": "2026-10-30",
+          "value": 4.6
+        },
+        {
+          "period": "2026-11-05",
+          "value": 4.85
         }
       ],
-      "sentence": "In Australia, the Reserve Bank of Australia's cash rate target (monthly average) was 4.60% in October 2026, up from 4.36% in September 2026.",
-      "sentence_simple": "The main interest rate set by the Reserve Bank of Australia averaged 4.60% in October 2026. In September 2026 it averaged 4.36%.",
+      "sentence": "In Australia, the Reserve Bank of Australia's cash rate target was 4.85% on 5 November 2026, up from 4.60% on 3 November 2026.",
+      "sentence_simple": "The main interest rate set by the Reserve Bank of Australia has been 4.85% since 4 November 2026. Before that it was 4.60%.",
       "source": {
         "name": "Reserve Bank of Australia",
         "provider_id": "rba",
-        "dataset": "F1.1 FIRMMCRT",
+        "dataset": "F1 FIRMMCRTD",
         "url": "https://www.rba.gov.au/statistics/cash-rate/",
-        "api_url": "https://www.rba.gov.au/statistics/tables/csv/f1.1-data.csv",
+        "api_url": "https://www.rba.gov.au/statistics/tables/csv/f1-data.csv",
         "license": {
           "name": "CC BY 4.0",
           "url": "https://www.rba.gov.au/copyright/",
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "decision_url": "https://www.rba.gov.au/statistics/cash-rate/",
       "peer_panel": "policy_rate.bis",
       "receipt": {
-        "dataset_id": "F1.1 FIRMMCRT",
-        "check_url": "https://www.rba.gov.au/statistics/tables/csv/f1.1-data.csv",
-        "check_hint": "Find the row dated 31/10/2026 and read the \"FIRMMCRT\" column.",
+        "dataset_id": "F1 FIRMMCRTD",
+        "check_url": "https://www.rba.gov.au/statistics/tables/csv/f1-data.csv",
+        "check_hint": "Find the row dated 05-Nov-2026 and read the \"FIRMMCRTD\" column.",
         "human_url": "https://www.rba.gov.au/statistics/cash-rate/",
         "methodology_url": null,
         "seasonal_adjustment": "not_applicable",
         "adjustment_text": null,
-        "basis": "period_avg",
+        "basis": "level",
         "derivation": null
       },
       "stale": false,
       "history_file": "history/au.policy_rate.cash_rate_target.json",
       "history_depth": {
-        "from": "2016-10",
-        "to": "2026-10",
-        "n": 121
+        "from": "2016-11-07",
+        "to": "2026-11-05",
+        "n": 29
       },
       "revisions": {
         "count_12m": 0,
-        "last_detected_at": null
+        "last_detected_at": "2026-11-07T21:53:04Z"
       },
       "next_release": "2026-12-08",
       "next_release_source": "calendar",
@@ -24022,7 +24043,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -25727,7 +25748,7 @@
           "url": "https://www.riksbank.se/en-gb/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "SEKEURPMI",
@@ -26007,7 +26028,7 @@
           "verified_on": "2026-11-06"
         },
         "publisher_updated": "2026-10-29T07:00:00Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -26079,7 +26100,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -27315,7 +27336,7 @@
           "verified_on": "2026-11-06"
         },
         "publisher_updated": "2026-10-14T06:00:00Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -27388,7 +27409,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -27429,6 +27450,10 @@
         "period": "2025-10-03",
         "period_label": "3 October 2025",
         "value": 1.75
+      },
+      "since": {
+        "period": "2025-10-06",
+        "period_label": "6 October 2025"
       },
       "change": {
         "value": 0,
@@ -27494,7 +27519,7 @@
         }
       ],
       "sentence": "In Sweden, the Riksbank's policy rate was 1.75% on 6 November 2026, unchanged from 3 October 2025.",
-      "sentence_simple": "The main interest rate set by the Riksbank was 1.75% on 6 November 2026. On 3 October 2025 it was 1.75%.",
+      "sentence_simple": "The main interest rate set by the Riksbank has been 1.75% since 6 October 2025. Before that it was 1.75%.",
       "source": {
         "name": "Sveriges Riksbank",
         "provider_id": "riksbank",
@@ -27506,7 +27531,7 @@
           "url": "https://www.riksbank.se/en-gb/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -28360,7 +28385,7 @@
           "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-05T23:00:00+0100",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -29268,7 +29293,7 @@
           "url": "https://www.norges-bank.no/en/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "EXR.B.USD.NOK.SP",
@@ -29497,7 +29522,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -29569,7 +29594,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -30408,7 +30433,7 @@
           "verified_on": "2026-11-06"
         },
         "publisher_updated": "2026-10-09T06:00:00Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -30484,7 +30509,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -30525,6 +30550,10 @@
         "period": "2026-09-24",
         "period_label": "24 September 2026",
         "value": 4.25
+      },
+      "since": {
+        "period": "2026-09-25",
+        "period_label": "25 September 2026"
       },
       "change": {
         "value": 0.25,
@@ -30590,7 +30619,7 @@
         }
       ],
       "sentence": "In Norway, Norges Bank's policy rate was 4.50% on 5 November 2026, up from 4.25% on 24 September 2026.",
-      "sentence_simple": "The main interest rate set by Norges Bank was 4.50% on 5 November 2026. On 24 September 2026 it was 4.25%.",
+      "sentence_simple": "The main interest rate set by Norges Bank has been 4.50% since 25 September 2026. Before that it was 4.25%.",
       "source": {
         "name": "Norges Bank",
         "provider_id": "norgesbank",
@@ -30602,7 +30631,7 @@
           "url": "https://www.norges-bank.no/en/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -31228,7 +31257,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -32765,7 +32794,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -33002,7 +33031,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -34234,7 +34263,7 @@
           "url": "https://www.dst.dk/en",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -34306,7 +34335,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -34347,6 +34376,10 @@
         "period": "2026-09-10",
         "period_label": "10 September 2026",
         "value": 1.85
+      },
+      "since": {
+        "period": "2026-09-11",
+        "period_label": "11 September 2026"
       },
       "change": {
         "value": 0.25,
@@ -34440,7 +34473,7 @@
         }
       ],
       "sentence": "In Denmark, Danmarks Nationalbank's current-account rate was 2.10% on 5 November 2026, up from 1.85% on 10 September 2026.",
-      "sentence_simple": "The main interest rate set by Danmarks Nationalbank was 2.10% on 5 November 2026. On 10 September 2026 it was 1.85%.",
+      "sentence_simple": "The main interest rate set by Danmarks Nationalbank has been 2.10% since 11 September 2026. Before that it was 1.85%.",
       "source": {
         "name": "Statistics Denmark",
         "provider_id": "dst",
@@ -34452,7 +34485,7 @@
           "url": "https://www.dst.dk/en",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -35298,7 +35331,7 @@
           "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-05T23:00:00+0100",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -36067,7 +36100,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "EXR.D.BRL.EUR.SP00.A",
@@ -36296,7 +36329,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -36368,7 +36401,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -37193,7 +37226,7 @@
           "url": "https://dadosabertos.bcb.gov.br/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -37265,7 +37298,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -37523,7 +37556,7 @@
           "value": 13.75
         }
       ],
-      "sentence": "In Brazil, the Central Bank target, money market (SELIC) overnight rate (Central Bank of Brazil, as listed by the BIS) was 13.75% on 3 November 2026, unchanged from October 2026.",
+      "sentence": "In Brazil, the Central Bank target, money market (SELIC) overnight rate set by the central bank (Central Bank of Brazil) was 13.75% on 3 November 2026, unchanged from October 2026.",
       "sentence_simple": "The Central Bank target, money market (SELIC) overnight rate in Brazil was 13.75% on 3 November 2026. In October 2026 it was 13.75%.",
       "source": {
         "name": "Central Bank of Brazil via BIS",
@@ -37538,7 +37571,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -38201,7 +38234,7 @@
           "url": "https://dadosabertos.bcb.gov.br/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -38856,7 +38889,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "EXR.D.INR.EUR.SP00.A",
@@ -39085,7 +39118,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -39157,7 +39190,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -39965,7 +39998,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -40041,7 +40074,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -40186,7 +40219,7 @@
           "value": 5.5
         }
       ],
-      "sentence": "In India, the repo overnight rate (Reserve Bank of India, as listed by the BIS) was 5.50% on 19 October 2026, up from 5.25% in September 2026.",
+      "sentence": "In India, the repo overnight rate set by the central bank (Reserve Bank of India) was 5.50% on 19 October 2026, up from 5.25% in September 2026.",
       "sentence_simple": "The repo overnight rate in India was 5.50% on 19 October 2026. In September 2026 it was 5.25%.",
       "source": {
         "name": "Reserve Bank of India via BIS",
@@ -40201,7 +40234,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -40800,7 +40833,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -41446,7 +41479,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "EXR.D.CNY.EUR.SP00.A",
@@ -41675,7 +41708,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -41747,7 +41780,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -42583,7 +42616,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -42658,7 +42691,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -42803,7 +42836,7 @@
           "value": 3
         }
       ],
-      "sentence": "In China, the Loan Prime Rate (1 year) (People's Bank of China, as listed by the BIS) was 3.00% on 3 November 2026, unchanged from October 2026.",
+      "sentence": "In China, the Loan Prime Rate (1 year) set by the central bank (People's Bank of China) was 3.00% on 3 November 2026, unchanged from October 2026.",
       "sentence_simple": "The Loan Prime Rate (1 year) in China was 3.00% on 3 November 2026. In October 2026 it was 3.00%.",
       "source": {
         "name": "People's Bank of China via BIS",
@@ -42818,7 +42851,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -43440,7 +43473,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -44058,7 +44091,7 @@
           "url": "https://www.resbank.co.za/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "EXCX135D",
@@ -44288,7 +44321,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -44360,7 +44393,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -45053,7 +45086,7 @@
           "url": "https://www.resbank.co.za/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -45130,7 +45163,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -45186,7 +45219,7 @@
           "url": "https://www.resbank.co.za/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -45768,7 +45801,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -46520,7 +46553,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -46592,7 +46625,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -47416,7 +47449,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -47491,7 +47524,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -47749,7 +47782,7 @@
           "value": 6.5
         }
       ],
-      "sentence": "In Mexico, the Central Bank target, money-market overnight rate (Bank of Mexico, as listed by the BIS) was 6.50% on 3 November 2026, unchanged from October 2026.",
+      "sentence": "In Mexico, the Central Bank target, money-market overnight rate set by the central bank (Bank of Mexico) was 6.50% on 3 November 2026, unchanged from October 2026.",
       "sentence_simple": "The Central Bank target, money-market overnight rate in Mexico was 6.50% on 3 November 2026. In October 2026 it was 6.50%.",
       "source": {
         "name": "Bank of Mexico via BIS",
@@ -47764,7 +47797,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -48374,7 +48407,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -49286,7 +49319,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -49358,7 +49391,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -50206,7 +50239,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -50281,7 +50314,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -50426,7 +50459,7 @@
           "value": 5.75
         }
       ],
-      "sentence": "In Indonesia, the 7 day reverse repo rate (Bank Indonesia, as listed by the BIS) was 5.75% on 19 October 2026, unchanged from September 2026.",
+      "sentence": "In Indonesia, the 7 day reverse repo rate set by the central bank (Bank Indonesia) was 5.75% on 19 October 2026, unchanged from September 2026.",
       "sentence_simple": "The 7 day reverse repo rate in Indonesia was 5.75% on 19 October 2026. In September 2026 it was 5.75%.",
       "source": {
         "name": "Bank Indonesia via BIS",
@@ -50441,7 +50474,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -51076,7 +51109,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -51533,7 +51566,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -51605,7 +51638,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -52083,7 +52116,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -52158,7 +52191,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -52466,7 +52499,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -52880,7 +52913,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -52952,7 +52985,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -53434,7 +53467,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -53509,7 +53542,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -53937,7 +53970,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -54351,7 +54384,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -54423,7 +54456,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -54925,7 +54958,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -55000,7 +55033,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -55448,7 +55481,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -56868,7 +56901,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -57105,7 +57138,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -58247,7 +58280,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -59834,7 +59867,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -59906,7 +59939,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -60380,7 +60413,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -60455,7 +60488,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -60875,7 +60908,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -62280,7 +62313,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -62519,7 +62552,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -63662,7 +63695,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -65715,7 +65748,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "EXR.D.CHF.EUR.SP00.A",
@@ -65944,7 +65977,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -66016,7 +66049,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -66856,7 +66889,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -66931,7 +66964,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -67076,7 +67109,7 @@
           "value": 0
         }
       ],
-      "sentence": "In Switzerland, the SNB Policy rate (Swiss National Bank, as listed by the BIS) was 0.00% on 3 November 2026, unchanged from October 2026.",
+      "sentence": "In Switzerland, the SNB Policy rate set by the central bank (Swiss National Bank) was 0.00% on 3 November 2026, unchanged from October 2026.",
       "sentence_simple": "The SNB Policy rate in Switzerland was 0.00% on 3 November 2026. In October 2026 it was 0.00%.",
       "source": {
         "name": "Swiss National Bank via BIS",
@@ -67091,7 +67124,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -67717,7 +67750,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -68628,7 +68661,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -68700,7 +68733,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -69526,7 +69559,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -69601,7 +69634,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -69859,7 +69892,7 @@
           "value": 4.5
         }
       ],
-      "sentence": "In Chile, the monetary policy rate (Central Bank of Chile, as listed by the BIS) was 4.50% on 3 November 2026, unchanged from October 2026.",
+      "sentence": "In Chile, the monetary policy rate set by the central bank (Central Bank of Chile) was 4.50% on 3 November 2026, unchanged from October 2026.",
       "sentence_simple": "The monetary policy rate in Chile was 4.50% on 3 November 2026. In October 2026 it was 4.50%.",
       "source": {
         "name": "Central Bank of Chile via BIS",
@@ -69874,7 +69907,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -70484,7 +70517,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -71369,7 +71402,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -71441,7 +71474,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -72285,7 +72318,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -72360,7 +72393,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -72618,7 +72651,7 @@
           "value": 12.25
         }
       ],
-      "sentence": "In Colombia, the 1 day repo rate (Central Bank of Colombia, as listed by the BIS) was 12.25% on 3 November 2026, unchanged from October 2026.",
+      "sentence": "In Colombia, the 1 day repo rate set by the central bank (Central Bank of Colombia) was 12.25% on 3 November 2026, unchanged from October 2026.",
       "sentence_simple": "The 1 day repo rate in Colombia was 12.25% on 3 November 2026. In October 2026 it was 12.25%.",
       "source": {
         "name": "Central Bank of Colombia via BIS",
@@ -72633,7 +72666,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -73263,7 +73296,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -74793,7 +74826,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -75031,7 +75064,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -76266,7 +76299,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -76341,7 +76374,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -76759,7 +76792,7 @@
           "value": 3.75
         }
       ],
-      "sentence": "In Czechia, the 2 week repo rate (Czech National Bank, as listed by the BIS) was 3.75% on 2 November 2026, unchanged from October 2026.",
+      "sentence": "In Czechia, the 2 week repo rate set by the central bank (Czech National Bank) was 3.75% on 2 November 2026, unchanged from October 2026.",
       "sentence_simple": "The 2 week repo rate in Czechia was 3.75% on 2 November 2026. In October 2026 it was 3.75%.",
       "source": {
         "name": "Czech National Bank via BIS",
@@ -76774,7 +76807,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -77571,7 +77604,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -79277,7 +79310,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -79516,7 +79549,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -80653,7 +80686,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -82498,7 +82531,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -82570,7 +82603,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -83053,7 +83086,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -83128,7 +83161,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -83557,7 +83590,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -84978,7 +85011,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -85217,7 +85250,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -86360,7 +86393,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -89473,7 +89506,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -89711,7 +89744,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -90852,7 +90885,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -93401,7 +93434,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -93638,7 +93671,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -94779,7 +94812,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -97548,7 +97581,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -97787,7 +97820,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -98930,7 +98963,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -101733,7 +101766,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -101972,7 +102005,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -103184,7 +103217,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -103259,7 +103292,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -103677,7 +103710,7 @@
           "value": 5.5
         }
       ],
-      "sentence": "In Hungary, the base rate (Hungarian National Bank, as listed by the BIS) was 5.50% on 28 October 2026, unchanged from September 2026.",
+      "sentence": "In Hungary, the base rate set by the central bank (Hungarian National Bank) was 5.50% on 28 October 2026, unchanged from September 2026.",
       "sentence_simple": "The base rate in Hungary was 5.50% on 28 October 2026. In September 2026 it was 5.50%.",
       "source": {
         "name": "Hungarian National Bank via BIS",
@@ -103692,7 +103725,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -104469,7 +104502,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -106175,7 +106208,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -106413,7 +106446,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -107555,7 +107588,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -109753,7 +109786,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -109825,7 +109858,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -110661,7 +110694,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -110736,7 +110769,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -110994,7 +111027,7 @@
           "value": 3.25
         }
       ],
-      "sentence": "In Israel, the central bank rate (Bank of Israel, as listed by the BIS) was 3.25% on 31 October 2026, unchanged from October 2026.",
+      "sentence": "In Israel, the central bank rate set by the central bank (Bank of Israel) was 3.25% on 31 October 2026, unchanged from October 2026.",
       "sentence_simple": "The central bank rate in Israel was 3.25% on 31 October 2026. In October 2026 it was 3.25%.",
       "source": {
         "name": "Bank of Israel via BIS",
@@ -111009,7 +111042,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -111631,7 +111664,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -113309,7 +113342,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -113546,7 +113579,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -114855,7 +114888,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -124262,7 +124295,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -124334,7 +124367,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -125163,7 +125196,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -125238,7 +125271,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -125496,7 +125529,7 @@
           "value": 3
         }
       ],
-      "sentence": "In Korea, the Bank of Korea base rate (Bank of Korea, as listed by the BIS) was 3.00% on 8 October 2026, unchanged from September 2026.",
+      "sentence": "In Korea, the Bank of Korea base rate set by the central bank (Bank of Korea) was 3.00% on 8 October 2026, unchanged from September 2026.",
       "sentence_simple": "The Bank of Korea base rate in Korea was 3.00% on 8 October 2026. In September 2026 it was 3.00%.",
       "source": {
         "name": "Bank of Korea via BIS",
@@ -125511,7 +125544,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -126127,7 +126160,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -126689,7 +126722,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -126761,7 +126794,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -127578,7 +127611,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -127653,7 +127686,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -127798,7 +127831,7 @@
           "value": 2.75
         }
       ],
-      "sentence": "In Malaysia, the overnight policy rate (Bank Negara Malaysia, as listed by the BIS) was 2.75% on 3 November 2026, unchanged from October 2026.",
+      "sentence": "In Malaysia, the overnight policy rate set by the central bank (Bank Negara Malaysia) was 2.75% on 3 November 2026, unchanged from October 2026.",
       "sentence_simple": "The overnight policy rate in Malaysia was 2.75% on 3 November 2026. In October 2026 it was 2.75%.",
       "source": {
         "name": "Bank Negara Malaysia via BIS",
@@ -127813,7 +127846,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -128247,7 +128280,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -129652,7 +129685,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -129891,7 +129924,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -131027,7 +131060,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -133218,7 +133251,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -133290,7 +133323,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -133928,7 +133961,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -134186,7 +134219,7 @@
           "value": 2.75
         }
       ],
-      "sentence": "In New Zealand, the market intervention representative rate, official cash rate (Reserve Bank of New Zealand, as listed by the BIS) was 2.75% on 30 October 2026, unchanged from October 2026.",
+      "sentence": "In New Zealand, the market intervention representative rate, official cash rate set by the central bank (Reserve Bank of New Zealand) was 2.75% on 30 October 2026, unchanged from October 2026.",
       "sentence_simple": "The market intervention representative rate, official cash rate in New Zealand was 2.75% on 30 October 2026. In October 2026 it was 2.75%.",
       "source": {
         "name": "Reserve Bank of New Zealand via BIS",
@@ -134201,7 +134234,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -134716,7 +134749,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -135274,7 +135307,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -135346,7 +135379,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -136192,7 +136225,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -136267,7 +136300,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -136525,7 +136558,7 @@
           "value": 4.25
         }
       ],
-      "sentence": "In Peru, the monetary policy rate (Central Reserve Bank of Peru, as listed by the BIS) was 4.25% on 3 November 2026, unchanged from October 2026.",
+      "sentence": "In Peru, the monetary policy rate set by the central bank (Central Reserve Bank of Peru) was 4.25% on 3 November 2026, unchanged from October 2026.",
       "sentence_simple": "The monetary policy rate in Peru was 4.25% on 3 November 2026. In October 2026 it was 4.25%.",
       "source": {
         "name": "Central Reserve Bank of Peru via BIS",
@@ -136540,7 +136573,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -137001,7 +137034,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -137437,7 +137470,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -137509,7 +137542,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -138329,7 +138362,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -138404,7 +138437,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -138832,7 +138865,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -139292,7 +139325,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -139364,7 +139397,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -139842,7 +139875,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -139917,7 +139950,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -140341,7 +140374,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -141713,7 +141746,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -141950,7 +141983,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -143185,7 +143218,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -143260,7 +143293,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -143678,7 +143711,7 @@
           "value": 3.75
         }
       ],
-      "sentence": "In Poland, the 7 day central bank bill yield (National Bank of Poland, as listed by the BIS) was 3.75% on 3 November 2026, unchanged from October 2026.",
+      "sentence": "In Poland, the 7 day central bank bill yield set by the central bank (National Bank of Poland) was 3.75% on 3 November 2026, unchanged from October 2026.",
       "sentence_simple": "The 7 day central bank bill yield in Poland was 3.75% on 3 November 2026. In October 2026 it was 3.75%.",
       "source": {
         "name": "National Bank of Poland via BIS",
@@ -143693,7 +143726,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -144492,7 +144525,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -146198,7 +146231,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -146437,7 +146470,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -147578,7 +147611,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -150231,7 +150264,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -150470,7 +150503,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -151612,7 +151645,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -153697,7 +153730,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -153769,7 +153802,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -154609,7 +154642,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -154684,7 +154717,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -154829,7 +154862,7 @@
           "value": 14
         }
       ],
-      "sentence": "In Russia, the key rate (Bank of Russia, as listed by the BIS) was 14.00% on 3 November 2026, unchanged from October 2026.",
+      "sentence": "In Russia, the key rate set by the central bank (Bank of Russia) was 14.00% on 3 November 2026, unchanged from October 2026.",
       "sentence_simple": "The key rate in Russia was 14.00% on 3 November 2026. In October 2026 it was 14.00%.",
       "source": {
         "name": "Bank of Russia via BIS",
@@ -154844,7 +154877,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -155470,7 +155503,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -155907,7 +155940,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -155979,7 +156012,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -156373,7 +156406,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -156448,7 +156481,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -156593,7 +156626,7 @@
           "value": 4.5
         }
       ],
-      "sentence": "In Saudi Arabia, the market repo rate (Saudi Arabian Monetary Authority, as listed by the BIS) was 4.50% on 29 October 2026, unchanged from September 2026.",
+      "sentence": "In Saudi Arabia, the market repo rate set by the central bank (Saudi Arabian Monetary Authority) was 4.50% on 29 October 2026, unchanged from September 2026.",
       "sentence_simple": "The market repo rate in Saudi Arabia was 4.50% on 29 October 2026. In September 2026 it was 4.50%.",
       "source": {
         "name": "Saudi Arabian Monetary Authority via BIS",
@@ -156608,7 +156641,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -156957,7 +156990,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -157402,7 +157435,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -157474,7 +157507,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -158318,7 +158351,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -158393,7 +158426,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -158538,7 +158571,7 @@
           "value": 1
         }
       ],
-      "sentence": "In Thailand, the central bank policy rate (Bank of Thailand, as listed by the BIS) was 1.00% on 29 October 2026, unchanged from September 2026.",
+      "sentence": "In Thailand, the central bank policy rate set by the central bank (Bank of Thailand) was 1.00% on 29 October 2026, unchanged from September 2026.",
       "sentence_simple": "The central bank policy rate in Thailand was 1.00% on 29 October 2026. In September 2026 it was 1.00%.",
       "source": {
         "name": "Bank of Thailand via BIS",
@@ -158553,7 +158586,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -159014,7 +159047,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -159812,7 +159845,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -159884,7 +159917,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -160724,7 +160757,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -160799,7 +160832,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -161057,7 +161090,7 @@
           "value": 36
         }
       ],
-      "sentence": "In Türkiye, the 1 week official repo rate (Central Bank of the Republic of Turkey, as listed by the BIS) was 36.00% on 3 November 2026, unchanged from October 2026.",
+      "sentence": "In Türkiye, the 1 week official repo rate set by the central bank (Central Bank of the Republic of Turkey) was 36.00% on 3 November 2026, unchanged from October 2026.",
       "sentence_simple": "The 1 week official repo rate in Türkiye was 36.00% on 3 November 2026. In October 2026 it was 36.00%.",
       "source": {
         "name": "Central Bank of the Republic of Turkey via BIS",
@@ -161072,7 +161105,7 @@
           "verified_on": "2026-11-07",
           "quote": "The use of the statistics is unrestricted, provided that: if the statistics are reproduced, the BIS must be cited in your publication or product as the source of the statistics."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "policy_rate.bis",
       "receipt": {
@@ -161698,7 +161731,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -162268,7 +162301,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "gdp.annual.wb",
       "receipt": {
@@ -162340,7 +162373,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NGDP_RPCH",
@@ -162822,7 +162855,7 @@
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
         "publisher_updated": "2026-11-07T07:43:35.138086800Z",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "inflation.cpi_yoy.imf",
       "receipt": {
@@ -162897,7 +162930,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users may download, extract, copy, create derivative works, publish, distribute, and use Data obtained from IMF Sites subject to these conditions: Distributed or reproduced Data must appear accurately with attribution to the IMF as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "PCPIPCH",
@@ -163325,7 +163358,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "peer_panel": "unemployment.annual.wb",
       "receipt": {
@@ -166059,7 +166092,7 @@
           "quote": "Unless indicated otherwise in the data or indicator metadata, you are free to copy, distribute, adapt, display or include the data in other products for commercial or noncommercial purposes at no cost under a Creative Commons Attribution 4.0 International License."
         },
         "publisher_updated": "2026-10-08",
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T21:53:04Z"
       },
       "receipt": {
         "dataset_id": "NY.GDP.MKTP.KD.ZG",
