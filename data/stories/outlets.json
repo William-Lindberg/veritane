@@ -6,9 +6,7 @@
     {
       "id": "ansa",
       "name": "ANSA",
-      "hosts": [
-        "ansa.it"
-      ],
+      "hosts": [],
       "country": "IT",
       "languages": [
         "it",
@@ -245,10 +243,7 @@
     {
       "id": "aljazeera",
       "name": "Al Jazeera",
-      "hosts": [
-        "aljazeera.com",
-        "aljazeera.net"
-      ],
+      "hosts": [],
       "country": "QA",
       "languages": [
         "en",
@@ -268,9 +263,7 @@
     {
       "id": "euronews",
       "name": "Euronews",
-      "hosts": [
-        "euronews.com"
-      ],
+      "hosts": [],
       "country": "INT",
       "languages": [
         "en",
@@ -334,9 +327,7 @@
     {
       "id": "npr",
       "name": "NPR",
-      "hosts": [
-        "npr.org"
-      ],
+      "hosts": [],
       "country": "US",
       "languages": [
         "en"
@@ -417,9 +408,7 @@
     {
       "id": "globeandmail",
       "name": "The Globe and Mail",
-      "hosts": [
-        "theglobeandmail.com"
-      ],
+      "hosts": [],
       "country": "CA",
       "languages": [
         "en"
@@ -499,9 +488,7 @@
     {
       "id": "guardian",
       "name": "The Guardian",
-      "hosts": [
-        "theguardian.com"
-      ],
+      "hosts": [],
       "country": "GB",
       "languages": [
         "en"
@@ -600,9 +587,7 @@
     {
       "id": "handelsblatt",
       "name": "Handelsblatt",
-      "hosts": [
-        "handelsblatt.com"
-      ],
+      "hosts": [],
       "country": "DE",
       "languages": [
         "de",
@@ -683,9 +668,7 @@
     {
       "id": "wiwo",
       "name": "WirtschaftsWoche",
-      "hosts": [
-        "wiwo.de"
-      ],
+      "hosts": [],
       "country": "DE",
       "languages": [
         "de"
@@ -698,7 +681,8 @@
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
       "seen_28d": 4,
-      "last_seen": "2026-11-07T13:00:00Z"
+      "last_seen": "2026-11-07T13:00:00Z",
+      "public_display": false
     },
     {
       "id": "bild",
@@ -743,9 +727,7 @@
     {
       "id": "elpais",
       "name": "El País",
-      "hosts": [
-        "elpais.com"
-      ],
+      "hosts": [],
       "country": "ES",
       "languages": [
         "es",
@@ -2133,9 +2115,7 @@
     {
       "id": "straitstimes",
       "name": "The Straits Times",
-      "hosts": [
-        "straitstimes.com"
-      ],
+      "hosts": [],
       "country": "SG",
       "languages": [
         "en"
@@ -2154,9 +2134,7 @@
     {
       "id": "bt_sg",
       "name": "The Business Times",
-      "hosts": [
-        "businesstimes.com.sg"
-      ],
+      "hosts": [],
       "country": "SG",
       "languages": [
         "en"
@@ -2169,7 +2147,8 @@
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
       "seen_28d": 1,
-      "last_seen": "2026-11-07T09:30:00Z"
+      "last_seen": "2026-11-07T09:30:00Z",
+      "public_display": false
     },
     {
       "id": "cna_sg",

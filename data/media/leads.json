@@ -108,10 +108,9 @@
         {
           "o": "bt_sg",
           "on": "The Business Times",
-          "t": "IMF chief says any slowdown in AI-driven growth would be factor for central banks",
-          "u": "https://www.businesstimes.com.sg/international/imf-chief-says-any-slowdown-ai-driven-growth-would-be-factor-central-banks",
           "s": "2026-11-07T09:30:00Z",
-          "l": "en"
+          "l": "en",
+          "np": true
         },
         {
           "o": "aawsat",
@@ -588,7 +587,7 @@
       "id": "l-s20261107-a18f8d15e0",
       "kind": "cluster",
       "story_id": "s20261107-a18f8d15e0",
-      "t": "Ukraine: Selenskyj nennt Trumps Friedensplan gefährlich",
+      "t": "Selenskyj nennt Trumps Friedensplan gefährlich",
       "tl": "de",
       "label": "Ukraine: Economy",
       "countries": [
@@ -606,8 +605,6 @@
         {
           "o": "handelsblatt",
           "on": "Handelsblatt",
-          "t": "Ukraine: Selenskyj nennt Trumps Friedensplan gefährlich",
-          "u": "https://www.handelsblatt.com/politik/international/ukraine-selenskyj-nennt-trumps-friedensplan-gefaehrlich/27982126.html",
           "s": "2026-11-07T13:00:00Z",
           "l": "de",
           "np": true
@@ -615,16 +612,13 @@
         {
           "o": "wiwo",
           "on": "WirtschaftsWoche",
-          "t": "Ukraine-Krieg: Selenskyj nennt Trumps Friedensplan gefährlich",
-          "u": "https://www.wiwo.de/politik/ausland/ukraine-krieg-selenskyj-nennt-trumps-friedensplan-gefaehrlich/100268093.html",
           "s": "2026-11-07T13:00:00Z",
-          "l": "de"
+          "l": "de",
+          "np": true
         },
         {
           "o": "handelsblatt",
           "on": "Handelsblatt",
-          "t": "Ukraine-Krieg: Selenskyj nennt Trumps Friedensplan gefährlich",
-          "u": "https://www.handelsblatt.com/politik/international/ukraine-krieg-selenskyj-nennt-trumps-friedensplan-gefaehrlich/100268092.html",
           "s": "2026-11-07T13:15:00Z",
           "l": "de",
           "np": true
@@ -642,8 +636,7 @@
       "first_seen": "2026-11-07T13:00:00Z",
       "last_seen": "2026-11-07T13:45:00Z",
       "major_event": true,
-      "event_type": "conflict",
-      "np": true
+      "event_type": "conflict"
     },
     {
       "id": "l-s20261107-befa2fcadb",
@@ -763,8 +756,6 @@
         {
           "o": "straitstimes",
           "on": "The Straits Times",
-          "t": "Workers rally for Prabowo, while women march against him",
-          "u": "https://www.straitstimes.com/asia/se-asia/indonesian-workers-rally-for-prabowo-as-women-march-against-president",
           "s": "2026-11-07T13:30:00Z",
           "l": "en",
           "np": true
@@ -962,7 +953,7 @@
       "id": "l-s20261107-6fd20a8ed1",
       "kind": "cluster",
       "story_id": "s20261107-6fd20a8ed1",
-      "t": "What can Democrats do about the economy in the majority?",
+      "t": "United States: Macroeconomics",
       "tl": "en",
       "label": "United States: Macroeconomics",
       "countries": [
@@ -983,8 +974,6 @@
         {
           "o": "npr",
           "on": "NPR",
-          "t": "What can Democrats do about the economy in the majority?",
-          "u": "https://www.npr.org/transcripts/nx-s1-6026662",
           "s": "2026-11-07T11:15:00Z",
           "l": "en",
           "np": true
@@ -1030,7 +1019,7 @@
       "id": "l-s20261107-d89d1e787f",
       "kind": "cluster",
       "story_id": "s20261107-d89d1e787f",
-      "t": "The economy propelled Democrats to victory. What can they actually do about it?",
+      "t": "United States: Macroeconomics",
       "tl": "en",
       "label": "United States: Macroeconomics",
       "countries": [
@@ -1051,8 +1040,6 @@
         {
           "o": "npr",
           "on": "NPR",
-          "t": "The economy propelled Democrats to victory. What can they actually do about it?",
-          "u": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
           "s": "2026-11-07T06:30:00Z",
           "l": "en",
           "np": true
@@ -1593,7 +1580,7 @@
       "id": "l-s20261107-d001987358",
       "kind": "cluster",
       "story_id": "s20261107-d001987358",
-      "t": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
+      "t": "United States: Banking",
       "tl": "en",
       "label": "United States: Banking",
       "countries": [
@@ -1615,8 +1602,6 @@
         {
           "o": "aljazeera",
           "on": "Al Jazeera",
-          "t": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
-          "u": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties",
           "s": "2026-11-07T06:45:00Z",
           "l": "en",
           "np": true
@@ -3156,8 +3141,8 @@
       "id": "l-s20261107-c76f670153",
       "kind": "cluster",
       "story_id": "s20261107-c76f670153",
-      "t": "Lavoratori teatri e scritturati lunedì a Roma per la manifestazione nazionale - Notizie",
-      "tl": "it",
+      "t": "Italy: Inflation",
+      "tl": "en",
       "label": "Italy: Inflation",
       "countries": [
         "IT"
@@ -3175,8 +3160,6 @@
         {
           "o": "ansa",
           "on": "ANSA",
-          "t": "Lavoratori teatri e scritturati lunedì a Roma per la manifestazione nazionale - Notizie",
-          "u": "https://www.ansa.it/lazio/notizie/2026/11/07/lavoratori-teatri-e-scritturati-lunedi-a-roma-per-la-manifestazione-nazionale_a86806f9-96cc-4368-ba53-fd549bb642a9.html",
           "s": "2026-11-07T13:45:00Z",
           "l": "it",
           "np": true
@@ -3257,7 +3240,7 @@
       "id": "l-s20261107-70a46a0dc0",
       "kind": "cluster",
       "story_id": "s20261107-70a46a0dc0",
-      "t": "French presidential hopeful Melenchon pledges minimum wage rise, retirement at 60",
+      "t": "France: Employment and wages",
       "tl": "en",
       "label": "France: Employment and wages",
       "countries": [
@@ -3276,8 +3259,6 @@
         {
           "o": "straitstimes",
           "on": "The Straits Times",
-          "t": "French presidential hopeful Melenchon pledges minimum wage rise, retirement at 60",
-          "u": "https://www.straitstimes.com/world/europe/french-presidential-hopeful-melenchon-pledges-minimum-wage-rise-retirement-at-60",
           "s": "2026-11-07T13:30:00Z",
           "l": "en",
           "np": true
@@ -3392,8 +3373,8 @@
       "id": "l-s20261107-88e2871342",
       "kind": "cluster",
       "story_id": "s20261107-88e2871342",
-      "t": "الصين تواصل رفع مشترياتها من الذهب للعام الثاني رغم تراجعه",
-      "tl": "ar",
+      "t": "China: Monetary policy",
+      "tl": "en",
       "label": "China: Monetary policy",
       "countries": [
         "CN"
@@ -3411,8 +3392,6 @@
         {
           "o": "aljazeera",
           "on": "Al Jazeera",
-          "t": "الصين تواصل رفع مشترياتها من الذهب للعام الثاني رغم تراجعه",
-          "u": "https://www.aljazeera.net/ebusiness/2026/11/7/%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%B1%D9%81%D8%B9-%D9%85%D8%B4%D8%AA%D8%B1%D9%8A%D8%A7%D8%AA%D9%87%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%B0%D9%87%D8%A8",
           "s": "2026-11-07T13:30:00Z",
           "l": "ar",
           "np": true
@@ -3460,8 +3439,8 @@
       "id": "l-s20261107-844f61d5cf",
       "kind": "cluster",
       "story_id": "s20261107-844f61d5cf",
-      "t": "Große Parteien fast gleichauf: Wahlkrimi in Neuseeland: Kleine Partei als Königsmacherin?",
-      "tl": "de",
+      "t": "New Zealand: Employment and wages",
+      "tl": "en",
       "label": "New Zealand: Employment and wages",
       "countries": [
         "NZ"
@@ -3479,8 +3458,6 @@
         {
           "o": "handelsblatt",
           "on": "Handelsblatt",
-          "t": "Große Parteien fast gleichauf: Wahlkrimi in Neuseeland: Kleine Partei als Königsmacherin?",
-          "u": "https://www.handelsblatt.com/politik/international/grosse-parteien-fast-gleichauf-wahlkrimi-in-neuseeland-kleine-partei-als-koenigsmacherin/100268081.html",
           "s": "2026-11-07T13:15:00Z",
           "l": "de",
           "np": true
@@ -3495,8 +3472,8 @@
       "id": "l-s20261107-2524fa95bc",
       "kind": "cluster",
       "story_id": "s20261107-2524fa95bc",
-      "t": "Jugendproteste: Generation Geht so",
-      "tl": "de",
+      "t": "Germany: Employment and wages",
+      "tl": "en",
       "label": "Germany: Employment and wages",
       "countries": [
         "DE"
@@ -3514,15 +3491,15 @@
         {
           "o": "wiwo",
           "on": "WirtschaftsWoche",
-          "t": "Jugendproteste: Generation Geht so",
-          "u": "https://www.wiwo.de/politik/deutschland/jugendproteste-generation-geht-so/100267597.html",
           "s": "2026-11-07T13:00:00Z",
-          "l": "de"
+          "l": "de",
+          "np": true
         }
       ],
       "other_sites": 0,
       "first_seen": "2026-11-07T13:00:00Z",
-      "last_seen": "2026-11-07T13:00:00Z"
+      "last_seen": "2026-11-07T13:00:00Z",
+      "np": true
     },
     {
       "id": "l-s20261107-dfeb21fa6d",
@@ -3690,8 +3667,8 @@
       "id": "l-s20261107-79f0bec731",
       "kind": "cluster",
       "story_id": "s20261107-79f0bec731",
-      "t": "Εκλογές στη Νέα Ζηλανδία: Οριακή μάχη δεξιάς - Εργατικών",
-      "tl": "el",
+      "t": "New Zealand: Employment and wages",
+      "tl": "en",
       "label": "New Zealand: Employment and wages",
       "countries": [
         "NZ"
@@ -3709,8 +3686,6 @@
         {
           "o": "euronews",
           "on": "Euronews",
-          "t": "Εκλογές στη Νέα Ζηλανδία: Οριακή μάχη δεξιάς - Εργατικών",
-          "u": "https://gr.euronews.com/2026/11/07/ekloges-nea-zhlandia-oriakh-maxh-dexias-ergatikon",
           "s": "2026-11-07T12:30:00Z",
           "l": "el",
           "np": true
@@ -3754,7 +3729,7 @@
       "id": "l-s20261107-be6ec0ca3c",
       "kind": "cluster",
       "story_id": "s20261107-be6ec0ca3c",
-      "t": "Trump may have lost but don't bet Democrats can fix the economy | US economy",
+      "t": "United States: Macroeconomics",
       "tl": "en",
       "label": "United States: Macroeconomics",
       "countries": [
@@ -3773,8 +3748,6 @@
         {
           "o": "guardian",
           "on": "The Guardian",
-          "t": "Trump may have lost but don't bet Democrats can fix the economy | US economy",
-          "u": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
           "s": "2026-11-07T12:15:00Z",
           "l": "en",
           "np": true
@@ -4005,7 +3978,7 @@
       "id": "l-s20261107-6dbd326044",
       "kind": "cluster",
       "story_id": "s20261107-6dbd326044",
-      "t": "'Wait, what?': the underdog Democrats who won their midterm races against all odds | US midterm elections 2026",
+      "t": "United States: Cost of living",
       "tl": "en",
       "label": "United States: Cost of living",
       "countries": [
@@ -4024,8 +3997,6 @@
         {
           "o": "guardian",
           "on": "The Guardian",
-          "t": "'Wait, what?': the underdog Democrats who won their midterm races against all odds | US midterm elections 2026",
-          "u": "https://www.theguardian.com/us-news/2026/nov/07/surprising-wins-democrats-midterm-elections",
           "s": "2026-11-07T13:00:00Z",
           "l": "en",
           "np": true
@@ -4233,8 +4204,8 @@
       "id": "l-s20261107-847aac0173",
       "kind": "cluster",
       "story_id": "s20261107-847aac0173",
-      "t": "De Pascale: sulla sanità il Governo genera rabbia sociale - Notizie",
-      "tl": "it",
+      "t": "Italy: Inflation",
+      "tl": "en",
       "label": "Italy: Inflation",
       "countries": [
         "IT"
@@ -4252,8 +4223,6 @@
         {
           "o": "ansa",
           "on": "ANSA",
-          "t": "De Pascale: sulla sanità il Governo genera rabbia sociale - Notizie",
-          "u": "https://www.ansa.it/emiliaromagna/notizie/2026/11/07/de-pascale-sulla-sanita-il-governo-genera-rabbia-sociale_be762e05-3b1b-41b7-a20e-c16e66a146e8.html",
           "s": "2026-11-07T12:00:00Z",
           "l": "it",
           "np": true
@@ -4799,8 +4768,8 @@
       "id": "l-s20261107-7284a70c67",
       "kind": "cluster",
       "story_id": "s20261107-7284a70c67",
-      "t": "Immobilien: Wo um Hamburg herum für Pendler noch Schnäppchen locken",
-      "tl": "de",
+      "t": "Place not identified: Housing",
+      "tl": "en",
       "label": "Place not identified: Housing",
       "countries": [],
       "regions": [],
@@ -4814,8 +4783,6 @@
         {
           "o": "handelsblatt",
           "on": "Handelsblatt",
-          "t": "Immobilien: Wo um Hamburg herum für Pendler noch Schnäppchen locken",
-          "u": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-um-hamburg-herum-fuer-pendler-noch-schnaeppchen-locken/100262282.html",
           "s": "2026-11-07T12:15:00Z",
           "l": "de",
           "np": true
@@ -4958,7 +4925,7 @@
       "id": "l-s20261107-93fd05cb57",
       "kind": "cluster",
       "story_id": "s20261107-93fd05cb57",
-      "t": "Democrats weigh Trump probes and affordability agenda",
+      "t": "United States: Cost of living",
       "tl": "en",
       "label": "United States: Cost of living",
       "countries": [
@@ -4977,8 +4944,6 @@
         {
           "o": "straitstimes",
           "on": "The Straits Times",
-          "t": "Democrats weigh Trump probes and affordability agenda",
-          "u": "https://www.straitstimes.com/world/united-states/victorious-democrats-weigh-bread-and-butter-priorities-against-trump-probe",
           "s": "2026-11-07T09:00:00Z",
           "l": "en",
           "np": true
@@ -5060,7 +5025,7 @@
       "id": "l-s20261107-40f5ac5138",
       "kind": "cluster",
       "story_id": "s20261107-40f5ac5138",
-      "t": "Nationwide launches savings account with 'market leading' 5.3% interest",
+      "t": "Place not identified: Interest rates",
       "tl": "en",
       "label": "Place not identified: Interest rates",
       "countries": [],
@@ -5075,8 +5040,6 @@
         {
           "o": "guardian",
           "on": "The Guardian",
-          "t": "Nationwide launches savings account with 'market leading' 5.3% interest",
-          "u": "https://www.theguardian.com/money/2026/nov/07/nationwide-savings-account-market-leading-interest-rate",
           "s": "2026-11-07T07:30:00Z",
           "l": "en",
           "np": true
@@ -5217,8 +5180,8 @@
       "id": "l-s20261107-bb40fb7141",
       "kind": "cluster",
       "story_id": "s20261107-bb40fb7141",
-      "t": "Codacons, 'a prezzi attuali bolletta del gas invernale a 1.381 euro in Valle d'Aosta' - Notizie",
-      "tl": "it",
+      "t": "Italy: Energy and commodities",
+      "tl": "en",
       "label": "Italy: Energy and commodities",
       "countries": [
         "IT"
@@ -5237,8 +5200,6 @@
         {
           "o": "ansa",
           "on": "ANSA",
-          "t": "Codacons, 'a prezzi attuali bolletta del gas invernale a 1.381 euro in Valle d'Aosta' - Notizie",
-          "u": "https://www.ansa.it/valledaosta/notizie/2026/11/07/codacons-a-prezzi-attuali-bolletta-del-gas-invernale-a-1.381-euro-in-valle_65b64ff1-390a-41aa-bd4d-fb99a8b934db.html",
           "s": "2026-11-07T13:30:00Z",
           "l": "it",
           "np": true
@@ -5544,7 +5505,7 @@
       "id": "l-s20261107-eeb03e2bff",
       "kind": "cluster",
       "story_id": "s20261107-eeb03e2bff",
-      "t": "Faces from the front lines of Spain's housing crisis",
+      "t": "Spain: Housing",
       "tl": "en",
       "label": "Spain: Housing",
       "countries": [
@@ -5563,8 +5524,6 @@
         {
           "o": "globeandmail",
           "on": "The Globe and Mail",
-          "t": "Faces from the front lines of Spain's housing crisis",
-          "u": "https://www.theglobeandmail.com/world/article-faces-front-lines-spain-housing-crisis-madrid-economy/",
           "s": "2026-11-07T11:45:00Z",
           "l": "en",
           "np": true
@@ -6742,7 +6701,7 @@
       "id": "l-s20261107-0648e0fbaa",
       "kind": "cluster",
       "story_id": "s20261107-0648e0fbaa",
-      "t": "Why Puerto Rico can't stop talking about electricity",
+      "t": "Puerto Rico: Energy and commodities",
       "tl": "en",
       "label": "Puerto Rico: Energy and commodities",
       "countries": [
@@ -6761,8 +6720,6 @@
         {
           "o": "elpais",
           "on": "El País",
-          "t": "Why Puerto Rico can't stop talking about electricity",
-          "u": "https://english.elpais.com/usa/2026-11-07/why-puerto-rico-cant-stop-talking-about-electricity.html",
           "s": "2026-11-07T07:15:00Z",
           "l": "en",
           "np": true
@@ -7163,7 +7120,7 @@
       "id": "l-s20261107-b96cf42c3b",
       "kind": "cluster",
       "story_id": "s20261107-b96cf42c3b",
-      "t": "A small town in Spain battles again construction of a macro data center: 'It's a way of kicking us out' | Spain",
+      "t": "Spain: Technology and productivity",
       "tl": "en",
       "label": "Spain: Technology and productivity",
       "countries": [
@@ -7182,8 +7139,6 @@
         {
           "o": "elpais",
           "on": "El País",
-          "t": "A small town in Spain battles again construction of a macro data center: 'It's a way of kicking us out' | Spain",
-          "u": "https://english.elpais.com/spain/2026-11-07/a-small-town-in-spain-battles-again-construction-of-a-macro-data-center-its-a-way-of-kicking-us-out.html",
           "s": "2026-11-07T07:15:00Z",
           "l": "en",
           "np": true
@@ -8060,7 +8015,7 @@
       "id": "l-s20261107-e0a0c6f8a9",
       "kind": "cluster",
       "story_id": "s20261107-e0a0c6f8a9",
-      "t": "How the US midterm elections reflected resistance to data centres",
+      "t": "United States: Economy",
       "tl": "en",
       "label": "United States: Economy",
       "countries": [
@@ -8077,8 +8032,6 @@
         {
           "o": "aljazeera",
           "on": "Al Jazeera",
-          "t": "How the US midterm elections reflected resistance to data centres",
-          "u": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres",
           "s": "2026-11-07T06:45:00Z",
           "l": "en",
           "np": true
