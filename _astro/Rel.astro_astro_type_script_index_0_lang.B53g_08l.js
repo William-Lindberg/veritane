@@ -1,0 +1,1 @@
+import{f as e}from"./format.BZY2sLU9.js";function t(){let t=(document.documentElement.lang||`en`).split(`-`)[0],n=new Date;document.querySelectorAll(`time[data-rel]`).forEach(r=>{let i=Date.parse(r.dateTime);Number.isNaN(i)||i>n.getTime()+6e4||(r.textContent=e(r.dateTime,n,t))})}t(),setInterval(t,6e4);
