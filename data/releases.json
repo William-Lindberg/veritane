@@ -1,0 +1,26 @@
+{
+  "releases": [
+    {
+      "version": "0.1.0",
+      "date": "2026-11-07",
+      "url": "https://github.com/William-Lindberg/veritane/releases/tag/v0.1.0",
+      "assets": [
+        {
+          "name": "veritane-0.1.0-android-debug.apk",
+          "url": "https://github.com/William-Lindberg/veritane/releases/download/v0.1.0/veritane-0.1.0-android-debug.apk",
+          "sha256": "cf56f3886359c4a235ae77f50eca63b4f1a8442c066f372d1d202aea8465dcc8"
+        },
+        {
+          "name": "veritane-0.1.0-x64-setup.exe",
+          "url": "https://github.com/William-Lindberg/veritane/releases/download/v0.1.0/veritane-0.1.0-x64-setup.exe",
+          "sha256": "bfe9ace4ddfbecaaa021026605458a634f4e51a72f11a39696808e2b6b5ea66f"
+        },
+        {
+          "name": "veritane-0.1.0-x64.msi",
+          "url": "https://github.com/William-Lindberg/veritane/releases/download/v0.1.0/veritane-0.1.0-x64.msi",
+          "sha256": "c4bf4941de47e73324f63c24b767a42cc5fd734481dbd4607d6094eddce1d979"
+        }
+      ]
+    }
+  ]
+}
