@@ -638,37 +638,4 @@
       <news:title>CFTC Staff Addresses Use of Trust Companies for Daily Settlements</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://william-lindberg.github.io/veritane/news/539e907647ee304d/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Veritane News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T16:00:19Z</news:publication_date>
-      <news:title>Joint Statement of the Government of Canada and the Bank of Canada on the Renewal of the Monetary Policy Framework</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://william-lindberg.github.io/veritane/news/43270cbe9a560519/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Veritane News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T16:00:02Z</news:publication_date>
-      <news:title>EBA E-mail alert 5 November, 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://william-lindberg.github.io/veritane/news/0224349908e0b1c1/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Veritane News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T16:00:00Z</news:publication_date>
-      <news:title>Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc</news:title>
-    </news:news>
-  </url>
 </urlset>
