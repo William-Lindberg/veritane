@@ -1,7 +1,7 @@
 {
   "schema": "veritane/story-day/1",
   "date": "2026-11-06",
-  "generated_at": "2026-11-07T17:27:38Z",
+  "generated_at": "2026-11-07T18:00:59Z",
   "stories": [
     {
       "id": "s20261106-19cd7fb665",
@@ -54,13 +54,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T17:27:38Z",
+        "checked_at": "2026-11-07T18:00:59Z",
         "frozen_after": "2026-11-09T00:00:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 9,
-        "computed_at": "2026-11-07T17:27:38Z",
+        "computed_at": "2026-11-07T18:00:59Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -73,7 +73,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 41.46,
+          "age_h": 42.02,
           "first_seen": "2026-11-06T00:00:00Z"
         },
         "points": {
@@ -83,7 +83,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 3.02
+          "T": 2.97
         },
         "base": 5.95
       },
@@ -175,13 +175,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T17:27:38Z",
+        "checked_at": "2026-11-07T18:00:59Z",
         "frozen_after": "2026-11-09T06:00:00Z"
       },
       "importance": {
         "version": "importance/1",
-        "score": 10,
-        "computed_at": "2026-11-07T17:27:38Z",
+        "score": 9,
+        "computed_at": "2026-11-07T18:00:59Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -194,7 +194,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 35.46,
+          "age_h": 36.02,
           "first_seen": "2026-11-06T06:00:00Z"
         },
         "points": {
@@ -204,7 +204,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 3.59
+          "T": 3.53
         },
         "base": 5.95
       },
@@ -242,7 +242,9 @@
       "classified_by": "rules",
       "classification": {
         "by": "rules",
-        "version": "events/1"
+        "version": "events/1",
+        "headline_en": "50 statues of the,Hotel of the poor of Genoa return to the ancient high",
+        "translated_by": "local:romance-en@f60feaa"
       }
     },
     {
@@ -296,13 +298,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T17:27:38Z",
+        "checked_at": "2026-11-07T18:00:59Z",
         "frozen_after": "2026-11-09T06:30:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 10,
-        "computed_at": "2026-11-07T17:27:38Z",
+        "computed_at": "2026-11-07T18:00:59Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -315,7 +317,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 34.96,
+          "age_h": 35.52,
           "first_seen": "2026-11-06T06:30:00Z"
         },
         "points": {
@@ -325,7 +327,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 3.64
+          "T": 3.59
         },
         "base": 5.95
       },
@@ -363,7 +365,9 @@
       "classified_by": "rules",
       "classification": {
         "by": "rules",
-        "version": "events/1"
+        "version": "events/1",
+        "headline_en": "TV and platforms to the challenge of visibility: the Tar confirms the Agcom safeguards",
+        "translated_by": "local:romance-en@f60feaa"
       }
     },
     {
@@ -423,13 +427,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 1 international source we follow for the world economy published a matching release in the days around this story.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T17:27:38Z",
+        "checked_at": "2026-11-07T18:00:59Z",
         "frozen_after": "2026-11-09T08:45:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 20,
-        "computed_at": "2026-11-07T17:27:38Z",
+        "computed_at": "2026-11-07T18:00:59Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -446,7 +450,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 32.71,
+          "age_h": 33.27,
           "first_seen": "2026-11-06T08:45:00Z"
         },
         "points": {
@@ -456,7 +460,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 3.89
+          "T": 3.83
         },
         "base": 15.95
       },
@@ -494,7 +498,9 @@
       "classified_by": "rules",
       "classification": {
         "by": "rules",
-        "version": "events/1"
+        "version": "events/1",
+        "headline_en": "Young Factor Europe, six Finance-Lesson Countries",
+        "translated_by": "local:romance-en@f60feaa"
       }
     },
     {
@@ -608,13 +614,13 @@
         },
         "text": "Linked to an official release. U.S. Bureau of Labor Statistics published “United States: Nonfarm payrolls, monthly change, October 2026” on 1 November 2026. The reports match it on topic, figure and date. Matching is automatic. It shows that an official release on this exists. It does not check each claim in the reports.",
         "text_simple": "An official source published this: U.S. Bureau of Labor Statistics, on 1 November 2026.",
-        "checked_at": "2026-11-07T17:27:38Z",
+        "checked_at": "2026-11-07T18:00:59Z",
         "frozen_after": "2026-11-09T16:00:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 36,
-        "computed_at": "2026-11-07T17:27:38Z",
+        "computed_at": "2026-11-07T18:00:59Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -634,7 +640,7 @@
           "category_weight": 1,
           "match_kind": "data_release",
           "p_hours": 1,
-          "age_h": 25.46,
+          "age_h": 26.02,
           "first_seen": "2026-11-06T16:00:00Z"
         },
         "points": {
@@ -644,7 +650,7 @@
           "K": 10,
           "M": 15,
           "P": 0,
-          "T": 4.79
+          "T": 4.72
         },
         "base": 30.95
       },
@@ -758,13 +764,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 3 official sources we follow for the European Union published a matching release in the days around this story.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T17:27:38Z",
+        "checked_at": "2026-11-07T18:00:59Z",
         "frozen_after": "2026-11-09T17:15:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 16,
-        "computed_at": "2026-11-07T17:27:38Z",
+        "computed_at": "2026-11-07T18:00:59Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -781,7 +787,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 24.21,
+          "age_h": 24.77,
           "first_seen": "2026-11-06T17:15:00Z"
         },
         "points": {
@@ -791,7 +797,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 4.97
+          "T": 4.89
         },
         "base": 10.95
       },
@@ -903,13 +909,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 13 official sources we follow for the United States published a matching release in the days around this story.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T17:27:38Z",
+        "checked_at": "2026-11-07T18:00:59Z",
         "frozen_after": "2026-11-09T18:30:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 18,
-        "computed_at": "2026-11-07T17:27:38Z",
+        "computed_at": "2026-11-07T18:00:59Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -928,7 +934,7 @@
           "category_weight": 0.7,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 22.96,
+          "age_h": 23.52,
           "first_seen": "2026-11-06T18:30:00Z"
         },
         "points": {
@@ -938,7 +944,7 @@
           "K": 7,
           "M": 0,
           "P": 0,
-          "T": 5.15
+          "T": 5.07
         },
         "base": 12.95
       },
@@ -1032,13 +1038,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T17:27:38Z",
+        "checked_at": "2026-11-07T18:00:59Z",
         "frozen_after": "2026-11-09T20:00:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 21,
-        "computed_at": "2026-11-07T17:27:38Z",
+        "computed_at": "2026-11-07T18:00:59Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -1053,7 +1059,7 @@
           "category_weight": 1,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 21.46,
+          "age_h": 22.02,
           "first_seen": "2026-11-06T20:00:00Z"
         },
         "points": {
@@ -1063,7 +1069,7 @@
           "K": 10,
           "M": 0,
           "P": 0,
-          "T": 5.38
+          "T": 5.29
         },
         "base": 15.95
       },

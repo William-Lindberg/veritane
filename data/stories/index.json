@@ -1,7 +1,7 @@
 {
   "schema": "veritane/story-index/1",
-  "generated_at": "2026-11-07T17:27:38Z",
-  "data_clock": "20261107173000",
+  "generated_at": "2026-11-07T18:00:59Z",
+  "data_clock": "20261107180000",
   "windows": {
     "story_hours": 72,
     "official_days": 14,
@@ -95,8 +95,8 @@
     "provider": "The GDELT Project",
     "url": "https://www.gdeltproject.org/",
     "status": "ok",
-    "last_file": "20261107173000",
-    "files_ok": 14,
+    "last_file": "20261107180000",
+    "files_ok": 0,
     "files_failed": 0,
     "gaps": []
   },
@@ -114,11 +114,15 @@
     }
   },
   "aliases": {
+    "s20261107-3ab377695c": "s20261107-f4fecc840f",
     "s20261107-46042db4ce": "s20261107-3f6d4c0501",
+    "s20261107-591ce5bdca": "s20261107-6e762a7db9",
     "s20261107-5a0565771a": "s20261107-056cacf4c2",
+    "s20261107-5b273c4ae7": "s20261107-87324cba13",
     "s20261107-63b2de9865": "s20261107-ce83e26400",
     "s20261107-6fd20a8ed1": "s20261107-d89d1e787f",
     "s20261107-77d89c4ba0": "s20261107-5b3241a454",
+    "s20261107-8b1a26e717": "s20261107-09296f7de0",
     "s20261107-935797a1a2": "s20261107-71d1829ccd",
     "s20261107-b5718018ba": "s20261107-885dc44298",
     "s20261107-b62abb00ea": "s20261107-3c5d4d20ed",
@@ -138,43 +142,865 @@
   },
   "rows": [
     {
+      "id": "s20261107-09296f7de0",
+      "ty": "story",
+      "t": "Paraguay bank collapse sees president impeached, arrested",
+      "tl": "en",
+      "u": "https://www.rte.ie/news/world/2026/1107/1598335-paraguay-bank-collapse-sees-president-impeached-arrested/",
+      "o": "rte",
+      "on": "RTÉ",
+      "label": "Paraguay: Banking",
+      "c": [
+        "PY"
+      ],
+      "g": [
+        "latin-america"
+      ],
+      "k": [
+        "banking"
+      ],
+      "i": 45,
+      "rl": "multi",
+      "me": 1,
+      "et": "legal",
+      "n": 4,
+      "ni": 4,
+      "ns": 56,
+      "f": "2026-11-07T06:30:00Z",
+      "l": "2026-11-07T18:00:00Z",
+      "st": "active",
+      "v": 7
+    },
+    {
+      "id": "s20261107-58f252a4e4",
+      "ty": "story",
+      "t": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
+      "tl": "en",
+      "u": "https://abcnews.com/Business/wireStory/high-flying-ai-stocks-tariff-hit-alcohol-companies-137938660",
+      "o": "abcnews_us",
+      "on": "ABC News (US)",
+      "label": "United States: Trade",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "trade",
+        "markets",
+        "tech"
+      ],
+      "i": 24,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 3,
+      "f": "2026-11-07T17:45:00Z",
+      "l": "2026-11-07T18:00:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-65c08eb2a9",
+      "ty": "story",
+      "t": "A strong economy secures the West Philippine Sea",
+      "tl": "en",
+      "u": "https://www.philstar.com/opinion/2026/11/08/2568571/strong-economy-secures-west-philippine-sea",
+      "o": "philstar",
+      "on": "The Philippine Star",
+      "label": "Philippines: Macroeconomics",
+      "c": [
+        "PH"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "macro"
+      ],
+      "i": 26,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T18:00:00Z",
+      "l": "2026-11-07T18:00:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-6dca176899",
+      "ty": "story",
+      "t": "New Zealand elections show no clear winner, new gov't depends on special votes",
+      "tl": "en",
+      "u": "https://aa.com.tr/en/asia-pacific/-new-zealand-elections-show-no-clear-winner-new-gov-t-depends-on-special-votes/4115289",
+      "o": "anadolu",
+      "on": "Anadolu Agency",
+      "label": "New Zealand: Economy",
+      "c": [
+        "NZ"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 34,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "me": 1,
+      "et": "election",
+      "n": 2,
+      "ni": 2,
+      "ns": 0,
+      "f": "2026-11-07T16:30:00Z",
+      "l": "2026-11-07T18:00:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-70a46a0dc0",
+      "ty": "story",
+      "t": "French presidential hopeful Melenchon pledges minimum wage rise, retirement at 60",
+      "tl": "en",
+      "u": "https://www.thestar.com.my/news/world/2026/11/07/french-presidential-hopeful-melenchon-pledges-minimum-wage-rise-retirement-at-60",
+      "o": "thestar_my",
+      "on": "The Star (MY)",
+      "label": "France: Employment and wages",
+      "c": [
+        "FR"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "jobs"
+      ],
+      "i": 40,
+      "rl": "multi",
+      "fl": [
+        "syndicated"
+      ],
+      "n": 3,
+      "ni": 3,
+      "ns": 1,
+      "f": "2026-11-07T13:30:00Z",
+      "l": "2026-11-07T18:00:00Z",
+      "st": "active",
+      "v": 3
+    },
+    {
+      "id": "s20261107-7a5c4a1224",
+      "ty": "story",
+      "t": "Zelenskyy claims North Korean missiles used in overnight Russian strikes targeting Kyiv",
+      "tl": "en",
+      "u": "https://aa.com.tr/en/asia-pacific/zelenskyy-claims-north-korean-missiles-used-in-overnight-russian-strikes-targeting-kyiv/4115300",
+      "o": "anadolu",
+      "on": "Anadolu Agency",
+      "label": "South Korea: Energy and commodities",
+      "c": [
+        "KR",
+        "RU",
+        "UA"
+      ],
+      "g": [
+        "europe-other",
+        "asia-pacific"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 37,
+      "rl": "multi",
+      "me": 1,
+      "et": "conflict",
+      "n": 2,
+      "ni": 2,
+      "ns": 0,
+      "f": "2026-11-07T16:30:00Z",
+      "l": "2026-11-07T18:00:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-7f317e8901",
+      "ty": "story",
+      "t": "Tata Steel Q2 net profit up 18.2 per cent Y-o-Y, led by India operations",
+      "tl": "en",
+      "u": "https://www.business-standard.com/companies/quarterly-results/tata-steel-q2-fy27-results-net-profit-india-operations-uk-netherlands-126110700767_1.html",
+      "o": "bs",
+      "on": "Business Standard",
+      "label": "India: Corporate finance",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "corporate"
+      ],
+      "i": 18,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 33,
+      "f": "2026-11-07T11:15:00Z",
+      "l": "2026-11-07T18:00:00Z",
+      "st": "active",
+      "v": 4
+    },
+    {
+      "id": "s20261107-83ba7b5b7a",
+      "ty": "story",
+      "t": "Middle East war will reshape regional economic, security landscape: Turkish finance minister",
+      "tl": "en",
+      "u": "https://aa.com.tr/en/middle-east/middle-east-war-will-reshape-regional-economic-security-landscape-turkish-finance-minister/4115351",
+      "o": "anadolu",
+      "on": "Anadolu Agency",
+      "label": "Türkiye: Macroeconomics",
+      "c": [
+        "TR"
+      ],
+      "g": [
+        "europe-other",
+        "middle-east"
+      ],
+      "k": [
+        "macro"
+      ],
+      "i": 26,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T18:00:00Z",
+      "l": "2026-11-07T18:00:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-8c0c633902",
+      "ty": "story",
+      "t": "Inflation, housing, jobs and corporate earnings will dominate the business calendar this week",
+      "tl": "en",
+      "u": "https://abcnews.com/Business/wireStory/inflation-housing-jobs-corporate-earnings-dominate-business-calendar-137941014",
+      "o": "abcnews_us",
+      "on": "ABC News (US)",
+      "label": "Iran: Inflation",
+      "c": [
+        "IR",
+        "US"
+      ],
+      "g": [
+        "north-america",
+        "middle-east"
+      ],
+      "k": [
+        "inflation",
+        "jobs",
+        "housing"
+      ],
+      "i": 33,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 3,
+      "f": "2026-11-07T17:45:00Z",
+      "l": "2026-11-07T18:00:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-95b11f394c",
+      "ty": "story",
+      "t": "Philippines Q2 GDP revised to 2.4%",
+      "tl": "en",
+      "u": "https://www.philstar.com/business/2026/11/08/2568563/philippines-q2-gdp-revised-24",
+      "o": "philstar",
+      "on": "The Philippine Star",
+      "label": "Philippines: Macroeconomics",
+      "c": [
+        "PH"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "macro"
+      ],
+      "i": 26,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T18:00:00Z",
+      "l": "2026-11-07T18:00:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-e0d398a8fe",
+      "ty": "story",
+      "t": "Berkshire Hathaway buys back $9.6B of its own stock but profits decline",
+      "tl": "en",
+      "u": "https://abcnews.com/Business/wireStory/berkshire-hathaway-buys-back-96-billion-stock-profits-137939982",
+      "o": "abcnews_us",
+      "on": "ABC News (US)",
+      "label": "United States: Financial markets",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "markets",
+        "corporate"
+      ],
+      "i": 30,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 2,
+      "ni": 2,
+      "ns": 23,
+      "f": "2026-11-07T15:00:00Z",
+      "l": "2026-11-07T18:00:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-f4fecc840f",
+      "ty": "story",
+      "t": "US army announces new task force to disrupt Iran's supply routes",
+      "tl": "en",
+      "u": "https://aa.com.tr/en/us-israel-iran-war/us-army-announces-new-task-force-to-disrupt-iran-s-supply-routes/4115245",
+      "o": "anadolu",
+      "on": "Anadolu Agency",
+      "label": "United States: Trade",
+      "c": [
+        "US",
+        "IR"
+      ],
+      "g": [
+        "north-america",
+        "middle-east"
+      ],
+      "k": [
+        "trade"
+      ],
+      "i": 51,
+      "rl": "multi",
+      "me": 1,
+      "et": "conflict",
+      "n": 5,
+      "ni": 4,
+      "ns": 0,
+      "f": "2026-11-07T14:15:00Z",
+      "l": "2026-11-07T18:00:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-0c4eed28bf",
+      "ty": "story",
+      "t": "IRS updates 2027 tax brackets and raises standard deduction to $16,600",
+      "tl": "en",
+      "u": "https://www.foxbusiness.com/economy/irs-announces-2027-tax-changes-what-taxpayers-need-know",
+      "o": "foxbusiness",
+      "on": "Fox Business",
+      "label": "United States: Fiscal policy",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "fiscal"
+      ],
+      "i": 25,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T17:45:00Z",
+      "l": "2026-11-07T17:45:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-102b0e1472",
+      "ty": "story",
+      "t": "Dívar (PP) responde a Alegría (PSOE) que la ley de vivienda de Sánchez \"ha sido contraproducente\"",
+      "tl": "es",
+      "u": "https://www.eldiario.es/aragon/politica/divar-pp-responde-alegria-psoe-ley-vivienda-sanchez-sido-contraproducente_1_13646998.html",
+      "o": "eldiario",
+      "on": "elDiario.es",
+      "label": "Spain: Housing",
+      "c": [
+        "ES",
+        "MX"
+      ],
+      "g": [
+        "eu",
+        "north-america",
+        "latin-america"
+      ],
+      "k": [
+        "housing"
+      ],
+      "i": 31,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T17:45:00Z",
+      "l": "2026-11-07T17:45:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-127d3cd17f",
+      "ty": "story",
+      "t": "After the US midterm rout of Trumpism, the world struggles to trust America again",
+      "tl": "en",
+      "u": "https://economictimes.indiatimes.com/news/international/world-news/after-the-us-midterm-rout-of-trumpism-the-world-struggles-to-trust-america-again/articleshow/135639269.cms",
+      "o": "et",
+      "on": "The Economic Times",
+      "label": "United States: Trade",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "trade"
+      ],
+      "i": 47,
+      "rl": "multi",
+      "me": 1,
+      "et": "election",
+      "n": 4,
+      "ni": 4,
+      "ns": 0,
+      "f": "2026-11-07T13:45:00Z",
+      "l": "2026-11-07T17:45:00Z",
+      "st": "active",
+      "v": 3
+    },
+    {
+      "id": "s20261107-3b65c71167",
+      "ty": "story",
+      "t": "US strikes Iran's Qeshm Island, Tehran threatens wider missile response amid Qatar peace push",
+      "tl": "en",
+      "o": "moneycontrol",
+      "on": "Moneycontrol",
+      "label": "Iran: Cost of living",
+      "c": [
+        "IR",
+        "US",
+        "QA"
+      ],
+      "g": [
+        "north-america",
+        "middle-east"
+      ],
+      "k": [
+        "cost-of-living"
+      ],
+      "i": 37,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "me": 1,
+      "et": "conflict",
+      "n": 2,
+      "ni": 2,
+      "ns": 6,
+      "f": "2026-11-07T13:30:00Z",
+      "l": "2026-11-07T17:45:00Z",
+      "st": "active",
+      "v": 2,
+      "u": "https://www.moneycontrol.com/world/us-strikes-iran-s-qeshm-island-tehran-threatens-wider-missile-response-amid-qatar-peace-push-article-14074599.html"
+    },
+    {
+      "id": "s20261107-3ff7ed7a7b",
+      "ty": "story",
+      "t": "Heavy rains leave tens of thousands without shelter in Gaza",
+      "tl": "en",
+      "u": "https://www.channelnewsasia.com/world/gaza-heavy-rain-without-shelter-humanitarian-aid-6533131",
+      "o": "cna_sg",
+      "on": "CNA",
+      "label": "Israel: Economy",
+      "c": [
+        "IL"
+      ],
+      "g": [
+        "middle-east"
+      ],
+      "k": [],
+      "i": 42,
+      "rl": "multi",
+      "fl": [
+        "country_auto",
+        "syndicated"
+      ],
+      "me": 1,
+      "et": "conflict",
+      "n": 4,
+      "ni": 4,
+      "ns": 0,
+      "f": "2026-11-07T16:00:00Z",
+      "l": "2026-11-07T17:45:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-5628bce7ce",
+      "ty": "story",
+      "t": "Navy Sustains Zero Piracy Incidents in One Year, Secures Nine Convictions of Crude Oil Thieves",
+      "tl": "en",
+      "u": "https://www.thisdaylive.com/2026/11/07/navy-sustains-zero-piracy-incidents-in-one-year-secures-nine-convictions-of-crude-oil-thieves-2/",
+      "o": "thisday",
+      "on": "THISDAY",
+      "label": "Nigeria: Energy and commodities",
+      "c": [
+        "NG"
+      ],
+      "g": [
+        "africa"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 23,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T17:45:00Z",
+      "l": "2026-11-07T17:45:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-6e762a7db9",
+      "ty": "story",
+      "t": "У США поблизу Білого дому заарештували чоловіка, якому «голоси» в голові наказали вбити Трампа",
+      "tl": "uk",
+      "u": "https://www.ukrinform.ua/rubric-world/4182401-u-ssa-poblizu-bilogo-domu-zaarestuvali-colovika-akomu-golosi-v-golovi-nakazali-vbiti-trampa.html",
+      "o": "ukrinform",
+      "on": "Ukrinform",
+      "label": "United States: Economy",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [],
+      "i": 42,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "me": 1,
+      "et": "disaster",
+      "n": 5,
+      "ni": 4,
+      "ns": 0,
+      "f": "2026-11-07T12:15:00Z",
+      "l": "2026-11-07T17:45:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-726f1771b9",
+      "ty": "story",
+      "t": "Accise gasolio scadute l'8 novembre: prezzi in rialzo senza proroga",
+      "tl": "it",
+      "u": "https://www.ilfattoquotidiano.it/2026/11/07/accise-gasolio-scadenza-prezzi-notizie/8564288/",
+      "o": "ilfatto",
+      "on": "Il Fatto Quotidiano",
+      "label": "Italy: Energy and commodities",
+      "c": [
+        "IT"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 23,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "te": "Excise duty on diesel expired on 8 November: prices up and running without extension",
+      "tb": "mt",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T17:45:00Z",
+      "l": "2026-11-07T17:45:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-7f2a0ef9c0",
+      "ty": "story",
+      "t": "Tanken und Heizen – so beugen Sie einem harten Winter vor - Kolumne",
+      "tl": "de",
+      "u": "https://www.spiegel.de/wirtschaft/service/tanken-und-heizen-so-beugen-sie-einem-harten-winter-vor-kolumne-a-4886f845-c56e-488c-a3aa-59de643adcd5",
+      "o": "spiegel",
+      "on": "Der Spiegel",
+      "label": "Global: Inflation",
+      "c": [],
+      "g": [
+        "global"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 36,
+      "rl": "single",
+      "fl": [
+        "country_auto",
+        "global"
+      ],
+      "te": "Refueling and heating – so bend a hard winter ahead - Column",
+      "tb": "mt",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T17:45:00Z",
+      "l": "2026-11-07T17:45:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-afc6117dbc",
+      "ty": "story",
+      "t": "Thousands pour into a park in Uruguay for Pope Leo's first Mass in South America",
+      "tl": "en",
+      "u": "https://www.manilatimes.net/2026/11/07/world/thousands-pour-into-a-park-in-uruguay-for-pope-leos-first-mass-in-south-america/2464545",
+      "o": "manilatimes",
+      "on": "The Manila Times",
+      "label": "Uruguay: Globalisation",
+      "c": [
+        "UY",
+        "US",
+        "AR"
+      ],
+      "g": [
+        "north-america",
+        "latin-america"
+      ],
+      "k": [
+        "globalisation"
+      ],
+      "i": 59,
+      "rl": "multi",
+      "me": 1,
+      "et": "conflict",
+      "cb": "local",
+      "n": 5,
+      "ni": 5,
+      "ns": 0,
+      "f": "2026-11-07T13:15:00Z",
+      "l": "2026-11-07T17:45:00Z",
+      "st": "active",
+      "v": 3
+    },
+    {
+      "id": "s20261107-cacf47796c",
+      "ty": "story",
+      "t": "How many Nigerians have been lifted out of poverty? Obi asks Tinubu",
+      "tl": "en",
+      "u": "https://punchng.com/how-many-nigerians-have-been-lifted-out-of-poverty-obi-asks-tinubu/",
+      "o": "punch",
+      "on": "Punch",
+      "label": "Nigeria: Inequality",
+      "c": [
+        "NG"
+      ],
+      "g": [
+        "africa"
+      ],
+      "k": [
+        "inequality"
+      ],
+      "i": 21,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 2,
+      "f": "2026-11-07T14:45:00Z",
+      "l": "2026-11-07T17:45:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-f4373cb988",
+      "ty": "story",
+      "t": "25 consejos para optimizar la Renta antes de que termine el año",
+      "tl": "es",
+      "u": "https://www.expansion.com/economia/declaracion-renta/2026/11/07/25-consejos-optimizar-renta-termine-ano.html",
+      "o": "expansion_es",
+      "on": "Expansión",
+      "label": "Place not identified: Fiscal policy",
+      "c": [],
+      "g": [],
+      "k": [
+        "fiscal"
+      ],
+      "i": 25,
+      "rl": "single",
+      "fl": [
+        "country_unknown"
+      ],
+      "te": "25 tips to optimize your rent before the end of the year",
+      "tb": "mt",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T17:45:00Z",
+      "l": "2026-11-07T17:45:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-f8453ab6dc",
+      "ty": "story",
+      "t": "Tras ser destituido y detenido, Santiago Peña irá a declarar ante la Justicia por la quiebra de Ueno Bank",
+      "tl": "es",
+      "u": "https://www.clarin.com/mundo/destituido-detenido-santiago-pena-ira-declarar-justicia-quiebra-ueno-bank_0_8eyom8PLaD.html",
+      "o": "clarin",
+      "on": "Clarín",
+      "label": "Paraguay: Corporate finance",
+      "c": [
+        "PY",
+        "SE"
+      ],
+      "g": [
+        "eu",
+        "latin-america"
+      ],
+      "k": [
+        "corporate",
+        "banking"
+      ],
+      "i": 30,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "te": "After being dismissed and arrested, Santiago Peña will testify before the Court for the bankruptcy of Ueno Bank",
+      "tb": "mt",
+      "n": 1,
+      "ni": 1,
+      "ns": 3,
+      "f": "2026-11-07T13:30:00Z",
+      "l": "2026-11-07T17:45:00Z",
+      "st": "active",
+      "v": 4
+    },
+    {
+      "id": "s20261107-5680fdde44",
+      "ty": "story",
+      "t": "Polen: Schütze feuert in Krakau aus Auto",
+      "tl": "de",
+      "u": "https://www.dw.com/de/polen-sch%C3%BCtze-feuert-in-krakau-aus-auto-mehrere-tote/a-79887202",
+      "o": "dw",
+      "on": "Deutsche Welle",
+      "label": "Poland: Economy",
+      "c": [
+        "PL"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 47,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "me": 1,
+      "et": "conflict",
+      "n": 5,
+      "ni": 5,
+      "ns": 0,
+      "f": "2026-11-07T16:00:00Z",
+      "l": "2026-11-07T17:30:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
       "id": "s20261107-56875e34f4",
       "ty": "story",
       "t": "Italy's Giorgia Meloni blames pro-Russian hackers for leak of foreign minister's data on the dark web",
       "tl": "en",
       "o": "nbcnews",
       "on": "NBC News",
-      "label": "Italy: Economy",
+      "label": "Italy: Trade",
       "c": [
         "IT",
-        "RU"
+        "RU",
+        "UA"
       ],
       "g": [
         "eu",
         "europe-other"
       ],
-      "k": [],
+      "k": [
+        "trade"
+      ],
       "i": 64,
       "rl": "multi",
       "me": 1,
       "et": "other",
+      "cb": "local",
       "n": 8,
       "ni": 8,
       "ns": 0,
       "f": "2026-11-07T13:15:00Z",
       "l": "2026-11-07T17:30:00Z",
-      "st": "new",
-      "v": 1,
+      "st": "active",
+      "v": 3,
       "u": "https://www.nbcnews.com/world/italy/italys-giorgia-meloni-blames-russian-hackers-leak-foreign-ministers-da-rcna607974"
     },
     {
       "id": "s20261107-62b31524fc",
       "ty": "story",
-      "t": "Peltola campaign sues for access to blocked Alaska absentee ballots",
+      "t": "Mary Peltola campaign sues Alaska to get records on rejected absentee ballots",
       "tl": "en",
-      "u": "https://www.washingtonexaminer.com/news/campaigns/congressional/4796455/peltola-sue-access-block-alaska-absentee-ballot/",
-      "o": "washexaminer",
-      "on": "Washington Examiner",
+      "u": "https://www.hindustantimes.com/world-news/mary-peltola-campaign-sues-alaska-to-get-records-on-rejected-absentee-ballots-101794055078036.html",
+      "o": "hindustantimes",
+      "on": "Hindustan Times",
       "label": "United States: Economy",
       "c": [
         "US"
@@ -195,8 +1021,41 @@
       "ns": 0,
       "f": "2026-11-07T13:30:00Z",
       "l": "2026-11-07T17:30:00Z",
-      "st": "new",
-      "v": 1
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-71d1829ccd",
+      "ty": "story",
+      "t": "紐西蘭大選初步開票結果 國家黨、工黨得票率難分軒輊 | 國際",
+      "tl": "zh",
+      "u": "https://www.cna.com.tw/news/aopl/202611070201.aspx",
+      "o": "cna_tw",
+      "on": "Focus Taiwan (CNA)",
+      "label": "New Zealand: Economy",
+      "c": [
+        "NZ",
+        "CA"
+      ],
+      "g": [
+        "north-america",
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 65,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "me": 1,
+      "et": "election",
+      "n": 11,
+      "ni": 9,
+      "ns": 0,
+      "f": "2026-11-07T12:15:00Z",
+      "l": "2026-11-07T17:30:00Z",
+      "st": "active",
+      "v": 2
     },
     {
       "id": "s20261107-7254fc0e9b",
@@ -206,90 +1065,160 @@
       "u": "https://www.washingtonexaminer.com/news/world/4796525/gunman-poland-krakow-mass-shooting/",
       "o": "washexaminer",
       "on": "Washington Examiner",
-      "label": "Poland: Economy",
+      "label": "Poland: Microeconomics",
       "c": [
-        "PL",
-        "IN"
+        "PL"
       ],
       "g": [
-        "eu",
-        "asia-pacific"
+        "eu"
       ],
-      "k": [],
-      "i": 55,
+      "k": [
+        "micro"
+      ],
+      "i": 48,
       "rl": "multi",
       "me": 1,
       "et": "conflict",
+      "cb": "local",
       "n": 5,
       "ni": 5,
       "ns": 0,
       "f": "2026-11-07T15:45:00Z",
       "l": "2026-11-07T17:30:00Z",
-      "st": "new",
-      "v": 1
-    },
-    {
-      "id": "s20261107-7f317e8901",
-      "ty": "story",
-      "t": "Tata Steel Q2 net profit up 18.2 per cent Y-o-Y, led by India operations",
-      "tl": "en",
-      "u": "https://www.business-standard.com/companies/quarterly-results/tata-steel-q2-fy27-results-net-profit-india-operations-uk-netherlands-126110700767_1.html",
-      "o": "bs",
-      "on": "Business Standard",
-      "label": "India: Corporate finance",
-      "c": [
-        "IN",
-        "NL"
-      ],
-      "g": [
-        "eu",
-        "asia-pacific"
-      ],
-      "k": [
-        "corporate"
-      ],
-      "i": 26,
-      "rl": "single",
-      "fl": [
-        "syndicated"
-      ],
-      "n": 1,
-      "ni": 1,
-      "ns": 30,
-      "f": "2026-11-07T11:15:00Z",
-      "l": "2026-11-07T17:30:00Z",
       "st": "active",
       "v": 3
     },
     {
-      "id": "s20261107-8b1a26e717",
+      "id": "s20261107-87324cba13",
       "ty": "story",
-      "t": "Paraguay's former president faces prosecutors after his removal over bank collapse",
-      "tl": "en",
-      "u": "https://abcnews.com/International/wireStory/paraguays-former-president-faces-prosecutors-after-removal-bank-137941605",
-      "o": "abcnews_us",
-      "on": "ABC News (US)",
+      "t": "El Banco Central del Paraguay confirmó el pago a 1,2 millones de ahorristas tras la intervención de Ueno Bank",
+      "tl": "es",
+      "u": "https://www.ambito.com/mundo/el-banco-central-del-paraguay-confirmo-el-pago-12-millones-ahorristas-la-intervencion-ueno-bank-n6342744",
+      "o": "ambito",
+      "on": "Ámbito",
       "label": "Paraguay: Banking",
       "c": [
-        "PY"
+        "PY",
+        "BR"
       ],
       "g": [
         "latin-america"
       ],
       "k": [
-        "banking"
+        "banking",
+        "monetary"
       ],
-      "i": 24,
+      "i": 47,
+      "rl": "multi",
+      "me": 1,
+      "et": "policy",
+      "te": "Central Bank of Paraguay confirmed payment to 1.2 million savers after Ueno Bank intervention",
+      "tb": "mt",
+      "n": 5,
+      "ni": 4,
+      "ns": 3,
+      "f": "2026-11-07T13:30:00Z",
+      "l": "2026-11-07T17:30:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-897ab4b142",
+      "ty": "story",
+      "t": "Dólar hoy: a cuánto cotiza este sábado 7 de noviembre",
+      "tl": "es",
+      "u": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-sabado-7-noviembre-n6342693",
+      "o": "ambito",
+      "on": "Ámbito",
+      "label": "Chile: Financial markets",
+      "c": [
+        "CL",
+        "SE",
+        "US"
+      ],
+      "g": [
+        "eu",
+        "north-america",
+        "latin-america"
+      ],
+      "k": [
+        "markets"
+      ],
+      "i": 43,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "te": "Dollar today: how much you're paying this Saturday, November 7th",
+      "tb": "mt",
+      "n": 3,
+      "ni": 3,
+      "ns": 0,
+      "f": "2026-11-07T12:00:00Z",
+      "l": "2026-11-07T17:30:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-8c38e3791c",
+      "ty": "story",
+      "t": "Experter manar till is i magen när börsen skakar",
+      "tl": "sv",
+      "u": "https://www.dn.se/ekonomi/efter-veckans-tvara-borskast-nya-rekord-innan-aret-ar-slut/",
+      "o": "dn_se",
+      "on": "Dagens Nyheter",
+      "label": "Sweden: Inflation",
+      "c": [
+        "SE"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 26,
       "rl": "single",
       "fl": [
-        "syndicated"
+        "country_auto"
       ],
       "n": 1,
       "ni": 1,
-      "ns": 9,
-      "f": "2026-11-07T16:15:00Z",
+      "ns": 0,
+      "f": "2026-11-07T17:30:00Z",
       "l": "2026-11-07T17:30:00Z",
-      "st": "new",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-8c7e3593e7",
+      "ty": "story",
+      "t": "Defesa Civil confirma tornado em cidade do RS",
+      "tl": "pt",
+      "u": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/07/defesa-civil-confirma-tornado-em-cidade-do-rs.ghtml",
+      "o": "g1",
+      "on": "g1",
+      "label": "Brazil: Economy",
+      "c": [
+        "BR"
+      ],
+      "g": [
+        "latin-america"
+      ],
+      "k": [],
+      "i": 15,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "te": "Def Essa Civil confirms turned into RS city",
+      "tb": "mt",
+      "n": 2,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T15:45:00Z",
+      "l": "2026-11-07T17:30:00Z",
+      "st": "active",
       "v": 1
     },
     {
@@ -302,8 +1231,7 @@
       "on": "The Manila Times",
       "label": "Taiwan: Energy and commodities",
       "c": [
-        "TW",
-        "PG"
+        "TW"
       ],
       "g": [
         "asia-pacific"
@@ -311,60 +1239,219 @@
       "k": [
         "energy"
       ],
-      "i": 28,
+      "i": 23,
       "rl": "single",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T17:30:00Z",
       "l": "2026-11-07T17:30:00Z",
-      "st": "new",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-ba1014f35a",
+      "ty": "story",
+      "t": "To er dræbt i skyderi på centralt torv i Krakow",
+      "tl": "da",
+      "o": "politiken",
+      "on": "Politiken",
+      "label": "Poland: Economy",
+      "c": [
+        "PL"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 48,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "me": 1,
+      "et": "conflict",
+      "n": 8,
+      "ni": 6,
+      "ns": 0,
+      "f": "2026-11-07T15:30:00Z",
+      "l": "2026-11-07T17:30:00Z",
+      "st": "active",
+      "v": 2,
+      "u": "https://politiken.dk/internationalt/art11052068/To-er-dr%C3%A6bt-i-skyderi-p%C3%A5-centralt-torv-i-Krakow"
+    },
+    {
+      "id": "s20261107-bc777bdb0b",
+      "ty": "story",
+      "t": "EUA oferecem US$ 15 milhões por chefe de facção da Venezuela que fugiu",
+      "tl": "pt",
+      "u": "https://g1.globo.com/rr/roraima/noticia/2026/11/07/eua-oferecem-us-15-milhoes-por-chefe-de-faccao-da-venezuela-que-fugiu-de-roraima-apos-colocar-tornozeleira-em-sosia.ghtml",
+      "o": "g1",
+      "on": "g1",
+      "label": "United States: Monetary policy",
+      "c": [
+        "US",
+        "VE"
+      ],
+      "g": [
+        "north-america",
+        "latin-america"
+      ],
+      "k": [
+        "monetary"
+      ],
+      "i": 33,
+      "rl": "single",
+      "te": "US offer $15 million per Venezuelan faction chief who fled",
+      "tb": "mt",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T17:30:00Z",
+      "l": "2026-11-07T17:30:00Z",
+      "st": "active",
+      "v": 2
+    },
+    {
+      "id": "s20261107-d8cbc0c53e",
+      "ty": "story",
+      "t": "Las amistades peligrosas del presidente y el banquero que llevaron a Paraguay a la ruina",
+      "tl": "es",
+      "u": "https://www.abc.es/internacional/amistades-peligrosas-presidente-banquero-llevaron-paraguay-ruina-20261106180241-nt.html",
+      "o": "abc_es",
+      "on": "ABC (ES)",
+      "label": "Paraguay: Monetary policy",
+      "c": [
+        "PY"
+      ],
+      "g": [
+        "latin-america"
+      ],
+      "k": [
+        "monetary"
+      ],
+      "i": 26,
+      "rl": "single",
+      "te": "The dangerous friendships of the president and banker that led Paraguay to the tourism",
+      "tb": "mt",
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T17:30:00Z",
+      "l": "2026-11-07T17:30:00Z",
+      "st": "active",
       "v": 1
     },
     {
-      "id": "s20261107-e0d398a8fe",
+      "id": "s20261107-e41f4c27b0",
       "ty": "story",
-      "t": "United States: Financial markets",
+      "t": "New mass protests in France as police seek to thwart banned rally",
       "tl": "en",
-      "o": "globeandmail",
-      "on": "The Globe and Mail",
-      "label": "United States: Financial markets",
+      "o": "fmt",
+      "on": "Free Malaysia Today",
+      "label": "France: Interest rates",
       "c": [
-        "US"
+        "FR"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "rates"
+      ],
+      "i": 42,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "me": 1,
+      "et": "other",
+      "cb": "local",
+      "n": 4,
+      "ni": 4,
+      "ns": 0,
+      "f": "2026-11-07T13:00:00Z",
+      "l": "2026-11-07T17:30:00Z",
+      "st": "active",
+      "v": 3,
+      "u": "https://www.freemalaysiatoday.com/category/world/2026/11/07/new-mass-protests-in-france-as-police-seek-to-thwart-banned-rally"
+    },
+    {
+      "id": "s20261107-f18671d0e5",
+      "ty": "story",
+      "t": "Hampir 30 persen penduduk Kanada alami kesulitan keuangan rumah tangga",
+      "tl": "id",
+      "u": "https://www.antaranews.com/berita/5839087/hampir-30-persen-penduduk-kanada-alami-kesulitan-keuangan-rumah-tangga",
+      "o": "antara",
+      "on": "ANTARA",
+      "label": "Canada: Employment and wages",
+      "c": [
+        "CA"
       ],
       "g": [
         "north-america"
       ],
       "k": [
-        "markets",
-        "corporate"
+        "jobs"
+      ],
+      "i": 26,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T17:30:00Z",
+      "l": "2026-11-07T17:30:00Z",
+      "st": "active",
+      "v": 1
+    },
+    {
+      "id": "s20261107-f9d3e9665e",
+      "ty": "story",
+      "t": "Cartórios fazem mutirão para prevenir golpes na compra de imóveis",
+      "tl": "pt",
+      "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/cartorios-fazem-mutirao-para-prevenir-golpes-na-compra-de-imoveis",
+      "o": "agenciabrasil",
+      "on": "Agência Brasil",
+      "label": "Brazil: Housing",
+      "c": [
+        "BR"
+      ],
+      "g": [
+        "latin-america"
+      ],
+      "k": [
+        "housing"
       ],
       "i": 22,
       "rl": "single",
       "fl": [
-        "syndicated"
+        "country_auto"
       ],
+      "te": "The offices make a lot of effort to prevent the buying of real estate",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
-      "ns": 20,
-      "f": "2026-11-07T15:00:00Z",
+      "ns": 3,
+      "f": "2026-11-07T12:15:00Z",
       "l": "2026-11-07T17:30:00Z",
-      "st": "new",
-      "v": 1,
-      "np": 1
+      "st": "active",
+      "v": 2
     },
     {
       "id": "s20261107-54da9f02ee",
       "ty": "story",
-      "t": "Zelensky says Russia ramping up strikes to 'pressure' Ukraine at talks",
+      "t": "Ukraine says Russia ramps up strikes to pressure Kyiv at talks",
       "tl": "en",
-      "u": "https://www.arabnews.com/world/zelensky-says-russia-ramping-up-strikes-to-pressure-ukraine-at-talks-3010331",
-      "o": "arabnews",
-      "on": "Arab News",
-      "label": "Ukraine: Economy",
+      "u": "https://www.thehindu.com/news/international/ukraine-says-russia-ramps-up-strikes-to-pressure-kyiv-at-talks/article71679254.ece",
+      "o": "thehindu",
+      "on": "The Hindu",
+      "label": "Russia: Economy",
       "c": [
-        "UA",
         "RU",
+        "UA",
         "US"
       ],
       "g": [
@@ -381,8 +1468,8 @@
       "ns": 0,
       "f": "2026-11-07T14:45:00Z",
       "l": "2026-11-07T17:15:00Z",
-      "st": "new",
-      "v": 1
+      "st": "active",
+      "v": 2
     },
     {
       "id": "s20261107-9b19337415",
@@ -412,7 +1499,7 @@
       "ns": 0,
       "f": "2026-11-07T16:00:00Z",
       "l": "2026-11-07T17:15:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -442,7 +1529,7 @@
       "ns": 0,
       "f": "2026-11-07T17:15:00Z",
       "l": "2026-11-07T17:15:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -455,17 +1542,15 @@
       "on": "Xinhua",
       "label": "United States: Employment and wages",
       "c": [
-        "US",
-        "IR"
+        "US"
       ],
       "g": [
-        "north-america",
-        "middle-east"
+        "north-america"
       ],
       "k": [
         "jobs"
       ],
-      "i": 39,
+      "i": 32,
       "rl": "multi",
       "n": 3,
       "ni": 2,
@@ -473,40 +1558,7 @@
       "f": "2026-11-07T09:00:00Z",
       "l": "2026-11-07T17:00:00Z",
       "st": "active",
-      "v": 3
-    },
-    {
-      "id": "s20261107-09296f7de0",
-      "ty": "story",
-      "t": "Paraguay bank collapse sees president impeached, arrested",
-      "tl": "en",
-      "u": "https://www.rte.ie/news/world/2026/1107/1598335-paraguay-bank-collapse-sees-president-impeached-arrested/",
-      "o": "rte",
-      "on": "RTÉ",
-      "label": "Paraguay: Banking",
-      "c": [
-        "PY"
-      ],
-      "g": [
-        "latin-america"
-      ],
-      "k": [
-        "banking"
-      ],
-      "i": 39,
-      "rl": "multi",
-      "fl": [
-        "syndicated"
-      ],
-      "me": 1,
-      "et": "legal",
-      "n": 3,
-      "ni": 3,
-      "ns": 42,
-      "f": "2026-11-07T06:30:00Z",
-      "l": "2026-11-07T17:00:00Z",
-      "st": "updated",
-      "v": 5
+      "v": 4
     },
     {
       "id": "s20261107-2d8dd1d7f4",
@@ -519,16 +1571,14 @@
       "label": "United Kingdom: Economy",
       "c": [
         "GB",
-        "US",
-        "IR"
+        "US"
       ],
       "g": [
         "europe-other",
-        "north-america",
-        "middle-east"
+        "north-america"
       ],
       "k": [],
-      "i": 40,
+      "i": 37,
       "rl": "multi",
       "me": 1,
       "et": "election",
@@ -537,8 +1587,8 @@
       "ns": 0,
       "f": "2026-11-07T14:30:00Z",
       "l": "2026-11-07T17:00:00Z",
-      "st": "new",
-      "v": 1
+      "st": "active",
+      "v": 2
     },
     {
       "id": "s20261107-6ca2ca9ede",
@@ -590,7 +1640,7 @@
       "ns": 0,
       "f": "2026-11-07T17:00:00Z",
       "l": "2026-11-07T17:00:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1,
       "np": 1
     },
@@ -602,7 +1652,7 @@
       "u": "https://www.vanguardngr.com/2026/11/oyoll-no-longer-depend-on-oil-raw-materials-for-economic-prosperity-makinde/",
       "o": "vanguard",
       "on": "Vanguard",
-      "label": "Nigeria: Energy and commodities",
+      "label": "Nigeria: Macroeconomics",
       "c": [
         "NG"
       ],
@@ -610,8 +1660,8 @@
         "africa"
       ],
       "k": [
-        "energy",
-        "macro"
+        "macro",
+        "energy"
       ],
       "i": 26,
       "rl": "single",
@@ -623,8 +1673,8 @@
       "ns": 0,
       "f": "2026-11-07T17:00:00Z",
       "l": "2026-11-07T17:00:00Z",
-      "st": "new",
-      "v": 1
+      "st": "active",
+      "v": 2
     },
     {
       "id": "s20261107-0aff5032c8",
@@ -645,6 +1695,9 @@
       "k": [],
       "i": 60,
       "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
       "me": 1,
       "et": "conflict",
       "n": 10,
@@ -652,7 +1705,7 @@
       "ns": 0,
       "f": "2026-11-07T13:15:00Z",
       "l": "2026-11-07T16:45:00Z",
-      "st": "updated",
+      "st": "active",
       "v": 2
     },
     {
@@ -682,7 +1735,7 @@
       "ns": 0,
       "f": "2026-11-07T13:15:00Z",
       "l": "2026-11-07T16:45:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -713,7 +1766,7 @@
       "ns": 2,
       "f": "2026-11-07T12:15:00Z",
       "l": "2026-11-07T16:45:00Z",
-      "st": "updated",
+      "st": "active",
       "v": 3
     },
     {
@@ -724,10 +1777,10 @@
       "u": "https://www.arabnews.com/middle-east/expanding-on-naval-blockade-us-military-looks-to-restrict-iranian-land-commerce-3010330",
       "o": "arabnews",
       "on": "Arab News",
-      "label": "Iran: Economy",
+      "label": "United States: Economy",
       "c": [
-        "IR",
-        "US"
+        "US",
+        "IR"
       ],
       "g": [
         "north-america",
@@ -743,8 +1796,8 @@
       "ns": 0,
       "f": "2026-11-07T14:45:00Z",
       "l": "2026-11-07T16:45:00Z",
-      "st": "new",
-      "v": 1
+      "st": "active",
+      "v": 2
     },
     {
       "id": "s20261107-314f3afc2c",
@@ -780,49 +1833,13 @@
       "v": 3
     },
     {
-      "id": "s20261107-3b65c71167",
-      "ty": "story",
-      "t": "US strikes Iran's Qeshm Island, Tehran threatens wider missile response amid Qatar peace push",
-      "tl": "en",
-      "o": "moneycontrol",
-      "on": "Moneycontrol",
-      "label": "Iran: Cost of living",
-      "c": [
-        "IR",
-        "US",
-        "QA"
-      ],
-      "g": [
-        "north-america",
-        "middle-east"
-      ],
-      "k": [
-        "cost-of-living"
-      ],
-      "i": 37,
-      "rl": "multi",
-      "fl": [
-        "syndicated"
-      ],
-      "me": 1,
-      "et": "conflict",
-      "n": 2,
-      "ni": 2,
-      "ns": 5,
-      "f": "2026-11-07T13:30:00Z",
-      "l": "2026-11-07T16:45:00Z",
-      "st": "new",
-      "v": 1,
-      "u": "https://www.moneycontrol.com/world/us-strikes-iran-s-qeshm-island-tehran-threatens-wider-missile-response-amid-qatar-peace-push-article-14074599.html"
-    },
-    {
       "id": "s20261107-3c5d4d20ed",
       "ty": "story",
-      "t": "Hindustan Coca-Cola Holdings files draft papers with Sebi for IPO",
+      "t": "Coca-Cola's Indian bottling business files for IPO; 99.75 crore shares up for sale",
       "tl": "en",
-      "u": "https://www.business-standard.com/markets/ipo/hindustan-coca-cola-holdings-files-draft-papers-with-sebi-for-ipo-126110700650_1.html",
-      "o": "bs",
-      "on": "Business Standard",
+      "u": "https://timesofindia.indiatimes.com/business/india-business/coca-colas-indian-bottling-business-files-for-ipo-99-75-crore-shares-up-for-sale/articleshow/135633740.cms",
+      "o": "toi",
+      "on": "The Times of India",
       "label": "India: Corporate finance",
       "c": [
         "IN"
@@ -841,7 +1858,7 @@
       "f": "2026-11-07T11:00:00Z",
       "l": "2026-11-07T16:45:00Z",
       "st": "active",
-      "v": 4
+      "v": 5
     },
     {
       "id": "s20261107-52cf18ad3a",
@@ -871,7 +1888,7 @@
       "ns": 0,
       "f": "2026-11-07T16:45:00Z",
       "l": "2026-11-07T16:45:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -882,10 +1899,10 @@
       "u": "https://www.cbc.ca/news/world/russia-kyiv-power-winter-9.7413490",
       "o": "cbc",
       "on": "CBC / Radio-Canada",
-      "label": "Ukraine: Economy",
+      "label": "Russia: Economy",
       "c": [
-        "UA",
-        "RU"
+        "RU",
+        "UA"
       ],
       "g": [
         "europe-other"
@@ -900,8 +1917,8 @@
       "ns": 0,
       "f": "2026-11-07T14:15:00Z",
       "l": "2026-11-07T16:45:00Z",
-      "st": "new",
-      "v": 1
+      "st": "active",
+      "v": 2
     },
     {
       "id": "s20261107-2fb2b2fa5f",
@@ -916,7 +1933,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 25,
+      "i": 24,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -926,7 +1943,7 @@
       "ns": 1,
       "f": "2026-11-07T16:15:00Z",
       "l": "2026-11-07T16:30:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1,
       "np": 1
     },
@@ -940,14 +1957,13 @@
       "on": "Arab News",
       "label": "India: Economy",
       "c": [
-        "IN",
-        "CN"
+        "IN"
       ],
       "g": [
         "asia-pacific"
       ],
       "k": [],
-      "i": 38,
+      "i": 33,
       "rl": "multi",
       "me": 1,
       "et": "conflict",
@@ -956,8 +1972,8 @@
       "ns": 0,
       "f": "2026-11-07T16:30:00Z",
       "l": "2026-11-07T16:30:00Z",
-      "st": "new",
-      "v": 1
+      "st": "active",
+      "v": 2
     },
     {
       "id": "s20261107-3f6d4c0501",
@@ -967,7 +1983,7 @@
       "u": "https://www.bbc.com/urdu/articles/c670pp9lr498o",
       "o": "bbc",
       "on": "BBC",
-      "label": "Iran: Economy",
+      "label": "Iran: Trade",
       "c": [
         "IR",
         "US"
@@ -976,7 +1992,9 @@
         "north-america",
         "middle-east"
       ],
-      "k": [],
+      "k": [
+        "trade"
+      ],
       "i": 54,
       "rl": "multi",
       "fl": [
@@ -984,13 +2002,14 @@
       ],
       "me": 1,
       "et": "conflict",
+      "cb": "local",
       "n": 4,
       "ni": 4,
       "ns": 0,
       "f": "2026-11-07T12:45:00Z",
       "l": "2026-11-07T16:30:00Z",
-      "st": "new",
-      "v": 1
+      "st": "active",
+      "v": 2
     },
     {
       "id": "s20261107-494a40c927",
@@ -1021,7 +2040,7 @@
       "ns": 0,
       "f": "2026-11-07T16:30:00Z",
       "l": "2026-11-07T16:30:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -1050,7 +2069,7 @@
       "ns": 0,
       "f": "2026-11-07T16:30:00Z",
       "l": "2026-11-07T16:30:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -1081,7 +2100,7 @@
       "ns": 2,
       "f": "2026-11-07T14:30:00Z",
       "l": "2026-11-07T16:30:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -1110,39 +2129,8 @@
       "ns": 0,
       "f": "2026-11-07T16:30:00Z",
       "l": "2026-11-07T16:30:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
-    },
-    {
-      "id": "s20261107-70a46a0dc0",
-      "ty": "story",
-      "t": "French presidential hopeful Melenchon pledges minimum wage rise, retirement at 60",
-      "tl": "en",
-      "u": "https://www.thestar.com.my/news/world/2026/11/07/french-presidential-hopeful-melenchon-pledges-minimum-wage-rise-retirement-at-60",
-      "o": "thestar_my",
-      "on": "The Star (MY)",
-      "label": "France: Employment and wages",
-      "c": [
-        "FR"
-      ],
-      "g": [
-        "eu"
-      ],
-      "k": [
-        "jobs"
-      ],
-      "i": 40,
-      "rl": "multi",
-      "fl": [
-        "syndicated"
-      ],
-      "n": 3,
-      "ni": 3,
-      "ns": 0,
-      "f": "2026-11-07T13:30:00Z",
-      "l": "2026-11-07T16:30:00Z",
-      "st": "updated",
-      "v": 2
     },
     {
       "id": "s20261107-9075a7da93",
@@ -1169,43 +2157,14 @@
       ],
       "me": 1,
       "et": "election",
+      "te": "The blue wave also swirls over the Texas oil field",
+      "tb": "mt",
       "n": 2,
       "ni": 2,
       "ns": 0,
       "f": "2026-11-07T14:45:00Z",
       "l": "2026-11-07T16:30:00Z",
-      "st": "new",
-      "v": 1
-    },
-    {
-      "id": "s20261107-afc6117dbc",
-      "ty": "story",
-      "t": "Thousands pour into a park in Uruguay for Pope Leo's first Mass in South America",
-      "tl": "en",
-      "u": "https://www.manilatimes.net/2026/11/07/world/thousands-pour-into-a-park-in-uruguay-for-pope-leos-first-mass-in-south-america/2464545",
-      "o": "manilatimes",
-      "on": "The Manila Times",
-      "label": "Uruguay: Economy",
-      "c": [
-        "UY",
-        "US",
-        "AR"
-      ],
-      "g": [
-        "north-america",
-        "latin-america"
-      ],
-      "k": [],
-      "i": 53,
-      "rl": "multi",
-      "me": 1,
-      "et": "conflict",
-      "n": 4,
-      "ni": 4,
-      "ns": 0,
-      "f": "2026-11-07T13:15:00Z",
-      "l": "2026-11-07T16:30:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -1234,7 +2193,7 @@
       "ns": 0,
       "f": "2026-11-07T12:30:00Z",
       "l": "2026-11-07T16:30:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -1263,36 +2222,8 @@
       "ns": 0,
       "f": "2026-11-07T16:30:00Z",
       "l": "2026-11-07T16:30:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
-    },
-    {
-      "id": "s20261107-e41f4c27b0",
-      "ty": "story",
-      "t": "New mass protests in France as police seek to thwart banned rally",
-      "tl": "en",
-      "o": "fmt",
-      "on": "Free Malaysia Today",
-      "label": "France: Economy",
-      "c": [
-        "FR"
-      ],
-      "g": [
-        "eu"
-      ],
-      "k": [],
-      "i": 35,
-      "rl": "multi",
-      "me": 1,
-      "et": "other",
-      "n": 3,
-      "ni": 3,
-      "ns": 0,
-      "f": "2026-11-07T13:00:00Z",
-      "l": "2026-11-07T16:30:00Z",
-      "st": "new",
-      "v": 1,
-      "u": "https://www.freemalaysiatoday.com/category/world/2026/11/07/new-mass-protests-in-france-as-police-seek-to-thwart-banned-rally"
     },
     {
       "id": "s20261107-f7a67e32db",
@@ -1317,12 +2248,14 @@
       "fl": [
         "country_auto"
       ],
+      "te": "From Stock to Oil: How and Why China Prepares for Prolonged War · Global Voices",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T16:30:00Z",
       "l": "2026-11-07T16:30:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -1333,7 +2266,7 @@
       "u": "https://www.antaranews.com/berita/5838747/as-tawarkan-20-juta-dolar-bagi-yang-beri-informasi-program-nuklir-iran",
       "o": "antara",
       "on": "ANTARA",
-      "label": "Iran: Economy",
+      "label": "Iran: Energy and commodities",
       "c": [
         "IR",
         "US"
@@ -1342,18 +2275,24 @@
         "north-america",
         "middle-east"
       ],
-      "k": [],
+      "k": [
+        "energy"
+      ],
       "i": 48,
       "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
       "me": 1,
       "et": "conflict",
+      "cb": "local",
       "n": 4,
       "ni": 4,
       "ns": 0,
       "f": "2026-11-07T12:15:00Z",
       "l": "2026-11-07T16:15:00Z",
-      "st": "new",
-      "v": 1
+      "st": "active",
+      "v": 2
     },
     {
       "id": "s20261107-22171900e9",
@@ -1373,12 +2312,14 @@
       "k": [],
       "i": 25,
       "rl": "multi",
+      "te": "Who is Pedro Alliana, new president of Paraguay",
+      "tb": "mt",
       "n": 3,
       "ni": 3,
       "ns": 0,
       "f": "2026-11-07T13:00:00Z",
       "l": "2026-11-07T16:15:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -1397,18 +2338,20 @@
       "k": [
         "inflation"
       ],
-      "i": 36,
+      "i": 35,
       "rl": "single",
       "fl": [
         "country_auto",
         "global"
       ],
+      "te": "EU, tight on cigarettes: towards higher excise duty and lowering of cross-border purchases",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T16:15:00Z",
       "l": "2026-11-07T16:15:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -1425,7 +2368,7 @@
       "k": [
         "inflation"
       ],
-      "i": 26,
+      "i": 25,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -1435,7 +2378,7 @@
       "ns": 0,
       "f": "2026-11-07T16:15:00Z",
       "l": "2026-11-07T16:15:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -1452,47 +2395,19 @@
       "k": [
         "jobs"
       ],
-      "i": 26,
+      "i": 25,
       "rl": "single",
       "fl": [
         "country_unknown"
       ],
+      "te": "Social Security in 2027: these are the 5 changes that will change your phiches and how much money you will receive",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T16:15:00Z",
       "l": "2026-11-07T16:15:00Z",
-      "st": "new",
-      "v": 1
-    },
-    {
-      "id": "s20261107-71d1829ccd",
-      "ty": "story",
-      "t": "紐西蘭大選初步開票結果 國家黨、工黨得票率難分軒輊 | 國際",
-      "tl": "zh",
-      "u": "https://www.cna.com.tw/news/aopl/202611070201.aspx",
-      "o": "cna_tw",
-      "on": "Focus Taiwan (CNA)",
-      "label": "New Zealand: Economy",
-      "c": [
-        "NZ",
-        "CA"
-      ],
-      "g": [
-        "north-america",
-        "asia-pacific"
-      ],
-      "k": [],
-      "i": 64,
-      "rl": "multi",
-      "me": 1,
-      "et": "election",
-      "n": 10,
-      "ni": 8,
-      "ns": 0,
-      "f": "2026-11-07T12:15:00Z",
-      "l": "2026-11-07T16:15:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -1518,12 +2433,14 @@
       ],
       "me": 1,
       "et": "election",
+      "te": "Stephen Miller, Trump's most faithful and radical squire who already seizes all power",
+      "tb": "mt",
       "n": 3,
       "ni": 3,
       "ns": 0,
       "f": "2026-11-07T13:15:00Z",
       "l": "2026-11-07T16:15:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -1542,7 +2459,7 @@
         "north-america"
       ],
       "k": [],
-      "i": 16,
+      "i": 15,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -1552,39 +2469,8 @@
       "ns": 0,
       "f": "2026-11-07T16:15:00Z",
       "l": "2026-11-07T16:15:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
-    },
-    {
-      "id": "s20261107-ba1014f35a",
-      "ty": "story",
-      "t": "To er dræbt i skyderi på centralt torv i Krakow",
-      "tl": "da",
-      "o": "politiken",
-      "on": "Politiken",
-      "label": "Poland: Economy",
-      "c": [
-        "PL"
-      ],
-      "g": [
-        "eu"
-      ],
-      "k": [],
-      "i": 48,
-      "rl": "multi",
-      "fl": [
-        "country_auto"
-      ],
-      "me": 1,
-      "et": "conflict",
-      "n": 7,
-      "ni": 6,
-      "ns": 0,
-      "f": "2026-11-07T15:30:00Z",
-      "l": "2026-11-07T16:15:00Z",
-      "st": "new",
-      "v": 1,
-      "u": "https://politiken.dk/internationalt/art11052068/To-er-dr%C3%A6bt-i-skyderi-p%C3%A5-centralt-torv-i-Krakow"
     },
     {
       "id": "s20261107-bfbef3d1db",
@@ -1604,14 +2490,14 @@
       "k": [
         "cost-of-living"
       ],
-      "i": 25,
+      "i": 24,
       "rl": "single",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T16:15:00Z",
       "l": "2026-11-07T16:15:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -1630,14 +2516,14 @@
         "africa"
       ],
       "k": [],
-      "i": 16,
+      "i": 15,
       "rl": "single",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T16:15:00Z",
       "l": "2026-11-07T16:15:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -1691,14 +2577,14 @@
         "banking",
         "markets"
       ],
-      "i": 24,
+      "i": 23,
       "rl": "single",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T16:15:00Z",
       "l": "2026-11-07T16:15:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -1728,7 +2614,7 @@
       "ns": 0,
       "f": "2026-11-07T13:45:00Z",
       "l": "2026-11-07T16:15:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -1749,14 +2635,16 @@
       "k": [
         "corporate"
       ],
-      "i": 20,
+      "i": 19,
       "rl": "single",
+      "te": "Hinojosa's G.I. would earn more than $150,000 a year as governor of Texas: how much she'll get a month and what benefits she'll get",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T16:15:00Z",
       "l": "2026-11-07T16:15:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -1773,49 +2661,21 @@
         "global"
       ],
       "k": [],
-      "i": 26,
+      "i": 25,
       "rl": "single",
       "fl": [
         "country_auto",
         "global"
       ],
+      "te": "Middle East - key role in the White House corruption",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T16:15:00Z",
       "l": "2026-11-07T16:15:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
-    },
-    {
-      "id": "s20261107-127d3cd17f",
-      "ty": "story",
-      "t": "After the US midterm rout of Trumpism, the world struggles to trust America again",
-      "tl": "en",
-      "u": "https://economictimes.indiatimes.com/news/international/world-news/after-the-us-midterm-rout-of-trumpism-the-world-struggles-to-trust-america-again/articleshow/135639269.cms",
-      "o": "et",
-      "on": "The Economic Times",
-      "label": "United States: Trade",
-      "c": [
-        "US"
-      ],
-      "g": [
-        "north-america"
-      ],
-      "k": [
-        "trade"
-      ],
-      "i": 40,
-      "rl": "multi",
-      "me": 1,
-      "et": "election",
-      "n": 3,
-      "ni": 3,
-      "ns": 0,
-      "f": "2026-11-07T13:45:00Z",
-      "l": "2026-11-07T16:00:00Z",
-      "st": "updated",
-      "v": 2
     },
     {
       "id": "s20261107-1ada0040d7",
@@ -1827,18 +2687,16 @@
       "on": "BusinessLine",
       "label": "India: Economy",
       "c": [
-        "IN",
-        "JP"
+        "IN"
       ],
       "g": [
         "asia-pacific"
       ],
       "k": [],
-      "i": 19,
+      "i": 14,
       "rl": "single",
       "fl": [
-        "forecast_language",
-        "syndicated"
+        "forecast_language"
       ],
       "n": 1,
       "ni": 1,
@@ -1846,7 +2704,7 @@
       "f": "2026-11-07T11:00:00Z",
       "l": "2026-11-07T16:00:00Z",
       "st": "active",
-      "v": 5
+      "v": 6
     },
     {
       "id": "s20261107-239b8fddd9",
@@ -1871,7 +2729,7 @@
       "ns": 2,
       "f": "2026-11-07T15:30:00Z",
       "l": "2026-11-07T16:00:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1,
       "np": 1
     },
@@ -1883,19 +2741,17 @@
       "u": "https://www.manilatimes.net/2026/11/07/business/moderna-lifts-annual-revenue-forecast/2464591",
       "o": "manilatimes",
       "on": "The Manila Times",
-      "label": "Philippines: Corporate finance",
+      "label": "United States: Corporate finance",
       "c": [
-        "PH",
         "US"
       ],
       "g": [
-        "north-america",
-        "asia-pacific"
+        "north-america"
       ],
       "k": [
         "corporate"
       ],
-      "i": 27,
+      "i": 19,
       "rl": "single",
       "fl": [
         "country_auto",
@@ -1906,8 +2762,8 @@
       "ns": 0,
       "f": "2026-11-07T16:00:00Z",
       "l": "2026-11-07T16:00:00Z",
-      "st": "new",
-      "v": 1
+      "st": "active",
+      "v": 2
     },
     {
       "id": "s20261107-52fd6b74ec",
@@ -1927,42 +2783,16 @@
       "k": [
         "banking"
       ],
-      "i": 24,
+      "i": 23,
       "rl": "single",
+      "te": "The new vice president of Paraguay revealed that he had received an envelope that alerted the crisis of the Ueno Bank: \"We are very frightened\"",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T16:00:00Z",
       "l": "2026-11-07T16:00:00Z",
-      "st": "new",
-      "v": 1
-    },
-    {
-      "id": "s20261107-5b273c4ae7",
-      "ty": "story",
-      "t": "Casi 1,2 millones de clientes recuperan sus fondos tras cierre de Ueno Bank en Paraguay",
-      "tl": "es",
-      "u": "https://www.latercera.com/mundo/noticia/casi-12-millones-de-clientes-recuperan-sus-fondos-tras-cierre-de-ueno-bank-en-paraguay/",
-      "o": "latercera",
-      "on": "La Tercera",
-      "label": "Paraguay: Banking",
-      "c": [
-        "PY"
-      ],
-      "g": [
-        "latin-america"
-      ],
-      "k": [
-        "banking"
-      ],
-      "i": 23,
-      "rl": "single",
-      "n": 1,
-      "ni": 1,
-      "ns": 3,
-      "f": "2026-11-07T15:45:00Z",
-      "l": "2026-11-07T16:00:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -1989,6 +2819,8 @@
       "fl": [
         "country_auto"
       ],
+      "te": "The two candidates for the succession of the ECB's head of the ECB's Lagarde are known",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 1,
@@ -2027,7 +2859,7 @@
       "ns": 0,
       "f": "2026-11-07T16:00:00Z",
       "l": "2026-11-07T16:00:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -2046,7 +2878,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 30,
+      "i": 29,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -2058,7 +2890,7 @@
       "ns": 0,
       "f": "2026-11-07T14:30:00Z",
       "l": "2026-11-07T16:00:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -2069,28 +2901,30 @@
       "u": "https://www.abc.es/espana/cataluna/jose-elias-empresario-catalan-acabo-entender-cogido-20261107160000-nt.html",
       "o": "abc_es",
       "on": "ABC (ES)",
-      "label": "Spain: Employment and wages",
+      "label": "Japan: Employment and wages",
       "c": [
-        "ES"
+        "JP"
       ],
       "g": [
-        "eu"
+        "asia-pacific"
       ],
       "k": [
         "jobs"
       ],
-      "i": 26,
+      "i": 25,
       "rl": "single",
       "fl": [
         "country_auto"
       ],
+      "te": "José Elias, Catalan businessman: \"I have not just understood why, if I have never taken unemployment, I have to be paying it all my life. I want to be able to decide whether I want that service or not.\"",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T16:00:00Z",
       "l": "2026-11-07T16:00:00Z",
-      "st": "new",
-      "v": 1
+      "st": "active",
+      "v": 2
     },
     {
       "id": "s20261107-802b18fa27",
@@ -2122,7 +2956,7 @@
       "ns": 0,
       "f": "2026-11-07T13:30:00Z",
       "l": "2026-11-07T16:00:00Z",
-      "st": "updated",
+      "st": "active",
       "v": 2
     },
     {
@@ -2133,7 +2967,7 @@
       "u": "https://orf.at/stories/3447498/",
       "o": "orf",
       "on": "ORF",
-      "label": "Italy: Economy",
+      "label": "Italy: Trade",
       "c": [
         "IT",
         "UA",
@@ -2143,18 +2977,21 @@
         "eu",
         "europe-other"
       ],
-      "k": [],
+      "k": [
+        "trade"
+      ],
       "i": 55,
       "rl": "multi",
       "me": 1,
       "et": "other",
+      "cb": "local",
       "n": 6,
       "ni": 5,
       "ns": 0,
       "f": "2026-11-07T12:15:00Z",
       "l": "2026-11-07T16:00:00Z",
-      "st": "new",
-      "v": 1
+      "st": "active",
+      "v": 2
     },
     {
       "id": "s20261107-d89d816d3a",
@@ -2174,17 +3011,19 @@
       "k": [
         "monetary"
       ],
-      "i": 26,
+      "i": 25,
       "rl": "single",
       "fl": [
         "country_auto"
       ],
+      "te": "Paraguay: Santiago Peña gives testimony after prison - 07/11/2026 - World",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T16:00:00Z",
       "l": "2026-11-07T16:00:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -2197,8 +3036,7 @@
       "on": "Xinhua",
       "label": "United States: Trade",
       "c": [
-        "US",
-        "CA"
+        "US"
       ],
       "g": [
         "north-america"
@@ -2206,7 +3044,7 @@
       "k": [
         "trade"
       ],
-      "i": 27,
+      "i": 22,
       "rl": "single",
       "n": 2,
       "ni": 1,
@@ -2214,7 +3052,7 @@
       "f": "2026-11-07T08:30:00Z",
       "l": "2026-11-07T16:00:00Z",
       "st": "active",
-      "v": 3
+      "v": 4
     },
     {
       "id": "s20261107-ecf6f86c07",
@@ -2234,7 +3072,7 @@
       "k": [
         "energy"
       ],
-      "i": 23,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -2244,7 +3082,7 @@
       "ns": 0,
       "f": "2026-11-07T16:00:00Z",
       "l": "2026-11-07T16:00:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -2261,7 +3099,7 @@
         "global"
       ],
       "k": [],
-      "i": 26,
+      "i": 25,
       "rl": "single",
       "fl": [
         "country_auto",
@@ -2272,7 +3110,7 @@
       "ns": 0,
       "f": "2026-11-07T16:00:00Z",
       "l": "2026-11-07T16:00:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -2300,12 +3138,14 @@
       "fl": [
         "country_auto"
       ],
+      "te": "He died after being hit by a patrolman and handcuffed: now two police officers go to trial and could receive life",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T15:45:00Z",
       "l": "2026-11-07T15:45:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -2331,12 +3171,14 @@
       "fl": [
         "country_auto"
       ],
+      "te": "Votorantim extends the deadline for renegotiation of taxes until 11 December",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T15:45:00Z",
       "l": "2026-11-07T15:45:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -2347,7 +3189,7 @@
       "u": "https://www.clarin.com/economia/dolares-orejas-billetes-entraron-exportaciones-record_0_0sTHacRisk.html",
       "o": "clarin",
       "on": "Clarín",
-      "label": "Argentina: Financial markets",
+      "label": "Argentina: Trade",
       "c": [
         "AR"
       ],
@@ -2355,21 +3197,23 @@
         "latin-america"
       ],
       "k": [
-        "markets",
-        "trade"
+        "trade",
+        "markets"
       ],
       "i": 23,
       "rl": "single",
       "fl": [
         "country_auto"
       ],
+      "te": "\"Dollars to the ears\": where all the tickets that entered by the record exports went",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T15:45:00Z",
       "l": "2026-11-07T15:45:00Z",
-      "st": "new",
-      "v": 1
+      "st": "active",
+      "v": 2
     },
     {
       "id": "s20261107-91951f60f7",
@@ -2394,12 +3238,14 @@
       "fl": [
         "country_auto"
       ],
+      "te": "Sin tax: Al's and tobacco taxed in 38 rich countries",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T15:45:00Z",
       "l": "2026-11-07T15:45:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -2425,12 +3271,14 @@
         "country_auto",
         "global"
       ],
+      "te": "Merger in the world of finance: Bank velO buys the investment platform PPI",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T15:45:00Z",
       "l": "2026-11-07T15:45:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -2458,12 +3306,14 @@
       "fl": [
         "country_auto"
       ],
+      "te": "A media journalist linked to Ueno Bank resigned live after the scandal",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T15:45:00Z",
       "l": "2026-11-07T15:45:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -2485,12 +3335,14 @@
       "fl": [
         "country_unknown"
       ],
+      "te": "Ex-Mandela Party ANC suffers from electoral slump in South Africa",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T15:45:00Z",
       "l": "2026-11-07T15:45:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -2517,7 +3369,7 @@
       "ns": 0,
       "f": "2026-11-07T15:45:00Z",
       "l": "2026-11-07T15:45:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1,
       "np": 1
     },
@@ -2547,12 +3399,14 @@
       "fl": [
         "country_auto"
       ],
+      "te": "Quebec seeks Mexican teachers and psychologists with salaries of up to 127,000 driver per month",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T15:30:00Z",
       "l": "2026-11-07T15:30:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -2578,12 +3432,14 @@
       "fl": [
         "country_auto"
       ],
+      "te": "UNO crisis: second group of currentists starts receiving payments of retained money",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T15:30:00Z",
       "l": "2026-11-07T15:30:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -2609,7 +3465,7 @@
       "ns": 0,
       "f": "2026-11-07T15:30:00Z",
       "l": "2026-11-07T15:30:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -2640,7 +3496,7 @@
       "ns": 0,
       "f": "2026-11-07T15:30:00Z",
       "l": "2026-11-07T15:30:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -2653,28 +3509,26 @@
       "on": "Folha de S.Paulo",
       "label": "United States: Macroeconomics",
       "c": [
-        "US",
-        "IR",
-        "SG"
+        "US"
       ],
       "g": [
-        "north-america",
-        "asia-pacific",
-        "middle-east"
+        "north-america"
       ],
       "k": [
         "macro",
         "markets"
       ],
-      "i": 35,
+      "i": 25,
       "rl": "single",
+      "te": "How the heavy Wall Street bet on AI collapsed - 07/11/2026 -minimum",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T15:30:00Z",
       "l": "2026-11-07T15:30:00Z",
-      "st": "new",
-      "v": 1
+      "st": "active",
+      "v": 2
     },
     {
       "id": "s20261107-87e4e83c7e",
@@ -2704,7 +3558,7 @@
       "ns": 0,
       "f": "2026-11-07T15:30:00Z",
       "l": "2026-11-07T15:30:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -2735,7 +3589,7 @@
       "ns": 0,
       "f": "2026-11-07T15:30:00Z",
       "l": "2026-11-07T15:30:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -2748,22 +3602,23 @@
       "on": "O Estado de S. Paulo",
       "label": "Argentina: Economy",
       "c": [
-        "AR",
-        "BR"
+        "AR"
       ],
       "g": [
         "latin-america"
       ],
       "k": [],
-      "i": 20,
+      "i": 15,
       "rl": "single",
+      "te": "The US and Argentina alone did not protest about Lula's re-election, says TSE",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T15:30:00Z",
       "l": "2026-11-07T15:30:00Z",
-      "st": "new",
-      "v": 1
+      "st": "active",
+      "v": 2
     },
     {
       "id": "s20261107-cd32556c1d",
@@ -2788,12 +3643,14 @@
       "fl": [
         "country_auto"
       ],
+      "te": "End of scale 6x1: Aeroviaries resist the 6 day week - 07/11/2026 -minimum",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T15:30:00Z",
       "l": "2026-11-07T15:30:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -2814,7 +3671,7 @@
       "k": [
         "jobs"
       ],
-      "i": 29,
+      "i": 28,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -2824,7 +3681,7 @@
       "ns": 0,
       "f": "2026-11-07T10:45:00Z",
       "l": "2026-11-07T15:30:00Z",
-      "st": "updated",
+      "st": "active",
       "v": 2
     },
     {
@@ -2854,38 +3711,7 @@
       "ns": 0,
       "f": "2026-11-07T13:45:00Z",
       "l": "2026-11-07T15:15:00Z",
-      "st": "new",
-      "v": 1
-    },
-    {
-      "id": "s20261107-cacf47796c",
-      "ty": "story",
-      "t": "How many Nigerians have been lifted out of poverty? Obi asks Tinubu",
-      "tl": "en",
-      "u": "https://punchng.com/how-many-nigerians-have-been-lifted-out-of-poverty-obi-asks-tinubu/",
-      "o": "punch",
-      "on": "Punch",
-      "label": "Nigeria: Inequality",
-      "c": [
-        "NG"
-      ],
-      "g": [
-        "africa"
-      ],
-      "k": [
-        "inequality"
-      ],
-      "i": 21,
-      "rl": "single",
-      "fl": [
-        "country_auto"
-      ],
-      "n": 1,
-      "ni": 1,
-      "ns": 1,
-      "f": "2026-11-07T14:45:00Z",
-      "l": "2026-11-07T15:15:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -2916,7 +3742,7 @@
       "ns": 1,
       "f": "2026-11-07T14:30:00Z",
       "l": "2026-11-07T15:00:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -2939,6 +3765,9 @@
       ],
       "i": 32,
       "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
       "me": 1,
       "et": "policy",
       "n": 2,
@@ -2971,8 +3800,7 @@
       "i": 31,
       "rl": "single",
       "fl": [
-        "country_auto",
-        "syndicated"
+        "country_auto"
       ],
       "n": 2,
       "ni": 1,
@@ -3012,7 +3840,7 @@
       "ns": 0,
       "f": "2026-11-07T14:30:00Z",
       "l": "2026-11-07T14:30:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -3046,7 +3874,7 @@
       "ns": 0,
       "f": "2026-11-07T13:30:00Z",
       "l": "2026-11-07T14:30:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -3078,37 +3906,7 @@
       "ns": 0,
       "f": "2026-11-07T14:30:00Z",
       "l": "2026-11-07T14:30:00Z",
-      "st": "new",
-      "v": 1
-    },
-    {
-      "id": "s20261107-f4fecc840f",
-      "ty": "story",
-      "t": "US CENTCOM to announce task force to combat Iranian trade",
-      "tl": "en",
-      "u": "https://www.jpost.com/middle-east/iran-news/article-914130",
-      "o": "jpost",
-      "on": "The Jerusalem Post",
-      "label": "Iran: Trade",
-      "c": [
-        "IR",
-        "US"
-      ],
-      "g": [
-        "north-america",
-        "middle-east"
-      ],
-      "k": [
-        "trade"
-      ],
-      "i": 31,
-      "rl": "single",
-      "n": 1,
-      "ni": 1,
-      "ns": 0,
-      "f": "2026-11-07T14:15:00Z",
-      "l": "2026-11-07T14:15:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1
     },
     {
@@ -3145,19 +3943,17 @@
       "u": "https://www.cnbc.com/2026/11/07/forget-tech-and-hide-out-in-these-stocks-instead-goldman-sachs-says.html",
       "o": "cnbc",
       "on": "CNBC",
-      "label": "Jamaica: Financial markets",
+      "label": "United States: Financial markets",
       "c": [
-        "JM",
-        "MX"
+        "US"
       ],
       "g": [
-        "north-america",
-        "latin-america"
+        "north-america"
       ],
       "k": [
         "markets"
       ],
-      "i": 27,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -3168,7 +3964,7 @@
       "f": "2026-11-07T14:00:00Z",
       "l": "2026-11-07T14:00:00Z",
       "st": "active",
-      "v": 1
+      "v": 2
     },
     {
       "id": "s20261107-681dfa3674",
@@ -3306,6 +4102,8 @@
       ],
       "i": 22,
       "rl": "single",
+      "te": "Government restricts Chinese technology in the telecommunications sector and could impact the cellular phone market",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -3337,6 +4135,8 @@
       "fl": [
         "country_auto"
       ],
+      "te": "Police wake drunk drivers behind the wheel",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 1,
@@ -3369,45 +4169,12 @@
       "fl": [
         "country_auto"
       ],
+      "te": "The flat of up to 1,000 euros to pay rent, bail or community in a village of Seville: requirements and how to ask",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T13:45:00Z",
-      "l": "2026-11-07T13:45:00Z",
-      "st": "active",
-      "v": 1
-    },
-    {
-      "id": "s20261107-897ab4b142",
-      "ty": "story",
-      "t": "Temblor hoy, sábado 7 de noviembre en Chile: consulta epicentro y magnitud",
-      "tl": "es",
-      "u": "https://www.latercera.com/servicios/noticia/temblor-hoy-sabado-7-de-noviembre-en-chile-consulta-epicentro-y-magnitud/",
-      "o": "latercera",
-      "on": "La Tercera",
-      "label": "Chile: Financial markets",
-      "c": [
-        "CL",
-        "SE",
-        "US"
-      ],
-      "g": [
-        "eu",
-        "north-america",
-        "latin-america"
-      ],
-      "k": [
-        "markets"
-      ],
-      "i": 40,
-      "rl": "multi",
-      "fl": [
-        "country_auto"
-      ],
-      "n": 2,
-      "ni": 2,
-      "ns": 0,
-      "f": "2026-11-07T12:00:00Z",
       "l": "2026-11-07T13:45:00Z",
       "st": "active",
       "v": 1
@@ -3433,6 +4200,8 @@
       "rl": "multi",
       "me": 1,
       "et": "conflict",
+      "te": "Selenskyy calls Trump's peace plan dangerous",
+      "tb": "mt",
       "n": 4,
       "ni": 2,
       "ns": 0,
@@ -3551,6 +4320,8 @@
       "fl": [
         "country_auto"
       ],
+      "te": "A new survey gave everything wrong to Milei, minus a key data on the opposition",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -3567,57 +4338,30 @@
       "u": "https://www.clarin.com/politica/visita-papa-leon-xiv-congreso-paralizado-toda-semana-oficialismo-gana-tiempo-negociar_0_Qp0BmgUWPr.html",
       "o": "clarin",
       "on": "Clarín",
-      "label": "Argentina: Monetary policy",
+      "label": "Japan: Corporate finance",
       "c": [
-        "AR"
+        "JP"
       ],
       "g": [
-        "latin-america"
+        "asia-pacific"
       ],
       "k": [
-        "monetary"
+        "corporate"
       ],
-      "i": 25,
+      "i": 19,
       "rl": "single",
       "fl": [
         "country_auto"
       ],
+      "te": "By the visit of Pope Vietnam XIV, Congress will be paralyzed all week and officialism buys time to negotiate",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T13:30:00Z",
       "l": "2026-11-07T13:30:00Z",
       "st": "active",
-      "v": 1
-    },
-    {
-      "id": "s20261107-87324cba13",
-      "ty": "story",
-      "t": "El Banco Central de Paraguay aseguró que casi 1,2 millones de ahorristas recibieron sus pagos",
-      "tl": "es",
-      "u": "https://www.infobae.com/america/america-latina/2026/11/07/el-banco-central-de-paraguay-aseguro-que-casi-12-millones-de-ahorristas-recibieron-sus-pagos/",
-      "o": "infobae",
-      "on": "Infobae",
-      "label": "Paraguay: Monetary policy",
-      "c": [
-        "PY"
-      ],
-      "g": [
-        "latin-america"
-      ],
-      "k": [
-        "monetary",
-        "banking"
-      ],
-      "i": 25,
-      "rl": "single",
-      "n": 1,
-      "ni": 1,
-      "ns": 0,
-      "f": "2026-11-07T13:30:00Z",
-      "l": "2026-11-07T13:30:00Z",
-      "st": "active",
-      "v": 1
+      "v": 2
     },
     {
       "id": "s20261107-88e2871342",
@@ -3673,6 +4417,8 @@
       "fl": [
         "country_auto"
       ],
+      "te": "After protests, former President of Paraguay leaves home prison and is taken to military barracks",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -3699,8 +4445,10 @@
       "k": [
         "inequality"
       ],
-      "i": 21,
+      "i": 20,
       "rl": "single",
+      "te": "Javier Milei and his measures, IN VIVO: the government pauses its interns waiting to receive Pope Vietnam XIV in Argentina",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 1,
@@ -3765,6 +4513,8 @@
       "fl": [
         "country_auto"
       ],
+      "te": "The Day: They will quote leaders of residential development fighting the girl",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -3772,38 +4522,6 @@
       "l": "2026-11-07T13:30:00Z",
       "st": "active",
       "v": 1
-    },
-    {
-      "id": "s20261107-f8453ab6dc",
-      "ty": "story",
-      "t": "Tras ser destituido y detenido, Santiago Peña irá a declarar ante la Justicia por la quiebra de Ueno Bank",
-      "tl": "es",
-      "u": "https://www.clarin.com/mundo/destituido-detenido-santiago-pena-ira-declarar-justicia-quiebra-ueno-bank_0_8eyom8PLaD.html",
-      "o": "clarin",
-      "on": "Clarín",
-      "label": "Paraguay: Corporate finance",
-      "c": [
-        "PY"
-      ],
-      "g": [
-        "latin-america"
-      ],
-      "k": [
-        "corporate",
-        "banking"
-      ],
-      "i": 23,
-      "rl": "single",
-      "fl": [
-        "country_auto"
-      ],
-      "n": 1,
-      "ni": 1,
-      "ns": 0,
-      "f": "2026-11-07T13:30:00Z",
-      "l": "2026-11-07T13:30:00Z",
-      "st": "active",
-      "v": 2
     },
     {
       "id": "s20261107-01d567f11e",
@@ -3852,6 +4570,8 @@
       "fl": [
         "country_unknown"
       ],
+      "te": "Recalling Nordhaus: natural resources and productivity",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -3885,6 +4605,8 @@
       "fl": [
         "country_auto"
       ],
+      "te": "When inflation is throbbing",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -3914,6 +4636,8 @@
       ],
       "i": 30,
       "rl": "single",
+      "te": "Government of Chile wishes Pedro Alliana success after assuming the presidency of Paraguay and reaffirms bilateral ties",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -3986,15 +4710,17 @@
       "u": "https://www.rp.pl/konflikty-zbrojne/art45458791-przelom-w-rozmowach-usa-z-iranem-katar-informuje-o-postepie-negocjacji",
       "o": "rp_pl",
       "on": "Rzeczpospolita",
-      "label": "United States: Economy",
+      "label": "United States: Corporate finance",
       "c": [
         "US"
       ],
       "g": [
         "north-america"
       ],
-      "k": [],
-      "i": 15,
+      "k": [
+        "corporate"
+      ],
+      "i": 19,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -4002,7 +4728,7 @@
       "f": "2026-11-07T13:15:00Z",
       "l": "2026-11-07T13:15:00Z",
       "st": "active",
-      "v": 2
+      "v": 3
     },
     {
       "id": "s20261107-1f309248a8",
@@ -4184,37 +4910,6 @@
       "v": 1
     },
     {
-      "id": "s20261107-f9d3e9665e",
-      "ty": "story",
-      "t": "Cartórios fazem mutirão para prevenir golpes na compra de imóveis",
-      "tl": "pt",
-      "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/cartorios-fazem-mutirao-para-prevenir-golpes-na-compra-de-imoveis",
-      "o": "agenciabrasil",
-      "on": "Agência Brasil",
-      "label": "Brazil: Housing",
-      "c": [
-        "BR"
-      ],
-      "g": [
-        "latin-america"
-      ],
-      "k": [
-        "housing"
-      ],
-      "i": 23,
-      "rl": "single",
-      "fl": [
-        "country_auto"
-      ],
-      "n": 1,
-      "ni": 1,
-      "ns": 2,
-      "f": "2026-11-07T12:15:00Z",
-      "l": "2026-11-07T13:00:00Z",
-      "st": "active",
-      "v": 1
-    },
-    {
       "id": "s20261107-558a139332",
       "ty": "story",
       "t": "Assam oil facility fire: Sonowal speaks to Oil India CMD, urges medical care for injured",
@@ -4317,6 +5012,8 @@
       ],
       "i": 22,
       "rl": "single",
+      "te": "Wall Street in free fall: why the market fears a spiral of forced sales and how far it can go down",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -4345,6 +5042,8 @@
       ],
       "i": 23,
       "rl": "single",
+      "te": "Santiago Peña's Disposition: the financial impact according to Modys of the political cymbronazo in Paraguay",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -4405,6 +5104,8 @@
       "fl": [
         "country_auto"
       ],
+      "te": "Super Patagonian Sunday: Governors Explore Synchronizing Elections in Three Provinces",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -4431,7 +5132,7 @@
       "k": [
         "inflation"
       ],
-      "i": 25,
+      "i": 24,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -4463,11 +5164,13 @@
         "monetary",
         "markets"
       ],
-      "i": 25,
+      "i": 24,
       "rl": "single",
       "fl": [
         "country_auto"
       ],
+      "te": "Selic's net worth, dollar, 3Q26 balances; see week's highlights",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -4501,6 +5204,8 @@
       "fl": [
         "country_auto"
       ],
+      "te": "Pedro Alliana opens in the position with health on the agenda",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -4523,11 +5228,13 @@
       "k": [
         "jobs"
       ],
-      "i": 25,
+      "i": 24,
       "rl": "single",
       "fl": [
         "country_unknown"
       ],
+      "te": "New location for second hand shop Carla",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -4554,7 +5261,7 @@
       "k": [
         "banking"
       ],
-      "i": 23,
+      "i": 22,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -4583,11 +5290,13 @@
         "fiscal",
         "energy"
       ],
-      "i": 24,
+      "i": 23,
       "rl": "single",
       "fl": [
         "country_auto"
       ],
+      "te": "From diesel to electric: who will pay more Selective Tax in 2027",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -4612,11 +5321,13 @@
         "eu"
       ],
       "k": [],
-      "i": 15,
+      "i": 14,
       "rl": "single",
       "fl": [
         "country_auto"
       ],
+      "te": "Town Hall Arch: Not yet a buyer in sight",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -4643,11 +5354,13 @@
       "k": [
         "cost-of-living"
       ],
-      "i": 24,
+      "i": 23,
       "rl": "single",
       "fl": [
         "country_auto"
       ],
+      "te": "Winning to defeat. The dem already at the electoral system's top",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -4702,7 +5415,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 15,
+      "i": 14,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -4733,11 +5446,13 @@
       "k": [
         "trade"
       ],
-      "i": 23,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_auto"
       ],
+      "te": "Economiesuisse President: «Woe if very well trained boy can't find a job»",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -4760,11 +5475,13 @@
       "k": [
         "energy"
       ],
-      "i": 22,
+      "i": 21,
       "rl": "single",
       "fl": [
         "country_unknown"
       ],
+      "te": "Dear Energy, Confcommerce: increasingly heavy bills, urgent reduce costs",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -4792,7 +5509,7 @@
         "cost-of-living",
         "energy"
       ],
-      "i": 24,
+      "i": 23,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -4846,7 +5563,7 @@
       "k": [
         "housing"
       ],
-      "i": 23,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -4868,16 +5585,20 @@
       "u": "https://www.vrt.be/vrtnws/nl/liveblog/politicoloog-dave-sinardet-over-crisis-veel-deining-veel-dram~1793247532380/",
       "o": "vrt",
       "on": "VRT NWS",
-      "label": "Place not identified: Inflation",
-      "c": [],
-      "g": [],
-      "k": [
-        "inflation"
+      "label": "United States: Corporate finance",
+      "c": [
+        "US"
       ],
-      "i": 25,
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "corporate"
+      ],
+      "i": 18,
       "rl": "single",
       "fl": [
-        "country_unknown"
+        "country_auto"
       ],
       "n": 1,
       "ni": 1,
@@ -4885,7 +5606,7 @@
       "f": "2026-11-07T12:15:00Z",
       "l": "2026-11-07T12:15:00Z",
       "st": "active",
-      "v": 1
+      "v": 2
     },
     {
       "id": "s20261107-bb79c137bf",
@@ -4903,7 +5624,7 @@
         "eu"
       ],
       "k": [],
-      "i": 20,
+      "i": 19,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -4930,7 +5651,7 @@
       "k": [
         "macro"
       ],
-      "i": 25,
+      "i": 24,
       "rl": "single",
       "fl": [
         "forecast_language"
@@ -4962,8 +5683,10 @@
       "k": [
         "jobs"
       ],
-      "i": 25,
+      "i": 24,
       "rl": "single",
+      "te": "Election Crime in New Zealand: Small Party as a King Maker?",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -4990,7 +5713,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 24,
+      "i": 23,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -5021,7 +5744,7 @@
       "k": [
         "banking"
       ],
-      "i": 22,
+      "i": 21,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -5052,6 +5775,8 @@
       "k": [],
       "i": 22,
       "rl": "single",
+      "te": "Mediation efforts between the United States and Iran continue according to Qatar",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -5078,7 +5803,7 @@
       "k": [
         "jobs"
       ],
-      "i": 25,
+      "i": 24,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -5104,7 +5829,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 15,
+      "i": 14,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -5137,6 +5862,8 @@
       "fl": [
         "country_unknown"
       ],
+      "te": "Government launches \"Employment 360\" and keeps promise to lower unemployment to 6.5%, Economy",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -5198,6 +5925,8 @@
       "fl": [
         "country_auto"
       ],
+      "te": "The tax aliquots and tax reform taken seriously - 07/11/2026 - Opinion",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -5229,6 +5958,8 @@
       "fl": [
         "country_auto"
       ],
+      "te": "President of BancoEtado defends Fonavi's design and admits that they evaluate making an offer by Transbank",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -5314,6 +6045,8 @@
       ],
       "i": 22,
       "rl": "single",
+      "te": "Crac Ueno Bank Paraguay, crowd assaults Peña's house",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -5341,6 +6074,8 @@
       "fl": [
         "country_unknown"
       ],
+      "te": "The social and economic cost of ignoring evidence by ideology",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -5403,6 +6138,8 @@
       "fl": [
         "country_auto"
       ],
+      "te": "After October's IPC of 0.5% experts see inflation around 5% at year's end",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -5431,6 +6168,8 @@
       ],
       "i": 24,
       "rl": "single",
+      "te": "Chile will cease to be the fourth largest economy in South America and will be surpassed by Peru",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -5486,6 +6225,8 @@
       "k": [],
       "i": 14,
       "rl": "single",
+      "te": "Head of Mission or President of Chile?",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -5541,6 +6282,8 @@
       "fl": [
         "country_unknown"
       ],
+      "te": "Dizziness and injury in RS; tornado passage is investigated",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -5570,7 +6313,7 @@
       "k": [
         "development"
       ],
-      "i": 38,
+      "i": 37,
       "rl": "multi",
       "fl": [
         "global"
@@ -5918,18 +6661,16 @@
       "on": "BusinessLine",
       "label": "United States: Financial markets",
       "c": [
-        "US",
-        "IN"
+        "US"
       ],
       "g": [
-        "north-america",
-        "asia-pacific"
+        "north-america"
       ],
       "k": [
         "markets",
         "tech"
       ],
-      "i": 33,
+      "i": 25,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -5940,7 +6681,7 @@
       "f": "2026-11-07T09:30:00Z",
       "l": "2026-11-07T11:00:00Z",
       "st": "active",
-      "v": 2
+      "v": 3
     },
     {
       "id": "s20261107-25fac3cae2",
@@ -6706,7 +7447,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 30,
+      "i": 29,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -6880,7 +7621,7 @@
       "k": [
         "energy"
       ],
-      "i": 21,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -6912,7 +7653,7 @@
         "jobs",
         "markets"
       ],
-      "i": 24,
+      "i": 23,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -6934,11 +7675,13 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_unknown"
       ],
+      "te": "Sirti, 430 e.B.I. floor and the unions bring the file to Mimit",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -6966,7 +7709,7 @@
       "k": [
         "trade"
       ],
-      "i": 27,
+      "i": 26,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -6995,7 +7738,7 @@
         "markets",
         "energy"
       ],
-      "i": 21,
+      "i": 20,
       "rl": "single",
       "fl": [
         "forecast_language"
@@ -7589,6 +8332,8 @@
       "fl": [
         "country_unknown"
       ],
+      "te": "Culture and creativity as they fly for the economy: the budget of Eureka",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -7616,6 +8361,8 @@
       "fl": [
         "country_unknown"
       ],
+      "te": "Naples, new Darsena from 277 million blocked: the gas terminal must be transferred",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -8107,7 +8854,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 14,
+      "i": 13,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -8324,6 +9071,8 @@
         "country_auto",
         "global"
       ],
+      "te": "Young Factor Europe, six Finance-Lesson Countries",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -9238,6 +9987,8 @@
       "fl": [
         "country_unknown"
       ],
+      "te": "TV and platforms to the challenge of visibility: the Tar confirms the Agcom safeguards",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -9258,11 +10009,13 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 10,
+      "i": 9,
       "rl": "single",
       "fl": [
         "country_unknown"
       ],
+      "te": "50 statues of the,Hotel of the poor of Genoa return to the ancient high",
+      "tb": "mt",
       "n": 1,
       "ni": 1,
       "ns": 0,
@@ -10174,7 +10927,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 14,
+      "i": 13,
       "rl": "official",
       "n": 0,
       "ni": 0,

@@ -1,6 +1,6 @@
 {
   "schema": "veritane/breaking/1",
-  "generated_at": "2026-11-07T17:27:38Z",
+  "generated_at": "2026-11-07T18:00:59Z",
   "rules": {
     "version": "breaking/1",
     "window_hours": 6,
@@ -25,6 +25,16 @@
   ],
   "entries": [
     {
+      "id": "e-conflict-il-2026-11-07",
+      "time": "2026-11-07T16:00:00Z",
+      "kind": "major_event",
+      "headline": "Israel: Conflict",
+      "path": "news/events/conflict-il-2026-11-07/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/conflict-il-2026-11-07/",
+      "event_type": "conflict",
+      "importance": 42
+    },
+    {
       "id": "e-conflict-in-2026-11-07",
       "time": "2026-11-07T15:45:00Z",
       "kind": "major_event",
@@ -45,10 +55,20 @@
       "importance": 48
     },
     {
+      "id": "e-conflict-ir-2026-11-07-4",
+      "time": "2026-11-07T14:15:00Z",
+      "kind": "major_event",
+      "headline": "United States: Conflict",
+      "path": "news/events/conflict-ir-2026-11-07-4/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/conflict-ir-2026-11-07-4/",
+      "event_type": "conflict",
+      "importance": 51
+    },
+    {
       "id": "e-conflict-ru-2026-11-07-2",
       "time": "2026-11-07T14:15:00Z",
       "kind": "major_event",
-      "headline": "Ukraine: Conflict",
+      "headline": "Russia: Conflict",
       "path": "news/events/conflict-ru-2026-11-07-2/",
       "url": "https://william-lindberg.github.io/veritane/news/events/conflict-ru-2026-11-07-2/",
       "event_type": "conflict",
@@ -62,7 +82,7 @@
       "path": "news/events/election-us-2026-11-07-2/",
       "url": "https://william-lindberg.github.io/veritane/news/events/election-us-2026-11-07-2/",
       "event_type": "election",
-      "importance": 40
+      "importance": 47
     },
     {
       "id": "e-election-us-2026-11-07",
@@ -75,6 +95,16 @@
       "importance": 46
     },
     {
+      "id": "e-legal-py-2026-11-07",
+      "time": "2026-11-07T13:30:00Z",
+      "kind": "major_event",
+      "headline": "Paraguay: Political decision",
+      "path": "news/events/legal-py-2026-11-07/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/legal-py-2026-11-07/",
+      "event_type": "policy",
+      "importance": 47
+    },
+    {
       "id": "e-conflict-ar-2026-11-07",
       "time": "2026-11-07T13:15:00Z",
       "kind": "major_event",
@@ -82,7 +112,7 @@
       "path": "news/events/conflict-ar-2026-11-07/",
       "url": "https://william-lindberg.github.io/veritane/news/events/conflict-ar-2026-11-07/",
       "event_type": "conflict",
-      "importance": 53
+      "importance": 59
     },
     {
       "id": "e-conflict-sa-2026-11-07",
@@ -108,11 +138,11 @@
       "id": "e-major-fr-2026-11-07",
       "time": "2026-11-07T13:00:00Z",
       "kind": "major_event",
-      "headline": "France: Economy",
+      "headline": "France: Interest rates",
       "path": "news/events/major-fr-2026-11-07/",
       "url": "https://william-lindberg.github.io/veritane/news/events/major-fr-2026-11-07/",
       "event_type": "other",
-      "importance": 35
+      "importance": 42
     },
     {
       "id": "e-conflict-ir-2026-11-07-3",
@@ -142,13 +172,13 @@
       "path": "news/events/election-nz-2026-11-07/",
       "url": "https://william-lindberg.github.io/veritane/news/events/election-nz-2026-11-07/",
       "event_type": "election",
-      "importance": 64
+      "importance": 65
     },
     {
       "id": "e-major-it-2026-11-07",
       "time": "2026-11-07T12:15:00Z",
       "kind": "major_event",
-      "headline": "Italy: Economy",
+      "headline": "Italy: Trade",
       "path": "news/events/major-it-2026-11-07/",
       "url": "https://william-lindberg.github.io/veritane/news/events/major-it-2026-11-07/",
       "event_type": "other",

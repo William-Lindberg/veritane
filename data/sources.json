@@ -1,6 +1,6 @@
 {
   "schema": "veritane/sources/1",
-  "generated_at": "2026-11-07T17:27:38Z",
+  "generated_at": "2026-11-07T18:00:59Z",
   "sources": [
     {
       "id": "abs",
@@ -22,7 +22,7 @@
       "adapters": [
         "abs"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -43,7 +43,7 @@
       "adapters": [
         "bcb"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -69,7 +69,7 @@
         "bis",
         "bis_rpp"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -97,7 +97,7 @@
       "adapters": [
         "boc"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -126,7 +126,7 @@
       "adapters": [
         "boe"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -149,7 +149,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -172,7 +172,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -196,7 +196,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -226,7 +226,45 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
+      "ok": true
+    },
+    {
+      "id": "dbnomics",
+      "name": "DBnomics (Cepremap)",
+      "short": "DBnomics",
+      "homepage": "https://db.nomics.world/",
+      "license": {
+        "name": "Upstream provider licence; DBnomics aggregated datasets under ODbL",
+        "url": "https://docs.db.nomics.world/legal-terms/",
+        "verified": true,
+        "verified_on": "2026-11-07",
+        "quote": "Data distributed by DBnomics is subject to the same license and terms of use as its original source provider. The DBnomics aggregated datasets are distributed under the Open Database License (ODbL)."
+      },
+      "licence": "Upstream provider licence; DBnomics aggregated datasets under ODbL",
+      "license_note": "DBnomics is run by Cepremap (copyright 2015 to present). Veritane reads single series from the keyless Web API v22 and credits each figure as \"<publisher> via DBnomics\", linked to the publisher. The series that Veritane extracts through DBnomics stay available under the publisher licence (and, as far as the DBnomics compilation applies, under ODbL 1.0) in the public data files.",
+      "datasets": [
+        "ISTAT/167_745_DF_DCSP_NIC1B2025_1 (via DBnomics)",
+        "ISTAT/167_745_DF_DCSP_NIC1B2025_4 (via DBnomics)",
+        "ISTAT/167_745_DF_DCSP_NIC1B2025_2 (via DBnomics)",
+        "ISTAT/163_156_DF_DCCN_SQCQ_3 (via DBnomics)",
+        "ISTAT/111_263_DF_DCSC_FIDIMPRMAN_17 (via DBnomics)",
+        "STATJP/CPIm (via DBnomics)",
+        "STATJP/MIm (via DBnomics)",
+        "RBA/G1 (via DBnomics)",
+        "RBA/H1 (via DBnomics)",
+        "RBA/H5 (via DBnomics)",
+        "RBA/F6 (via DBnomics)",
+        "RBA/F5 (via DBnomics)",
+        "RBA/F2 (via DBnomics)"
+      ],
+      "feeds": [],
+      "adapters": [
+        "dbnomics_istat",
+        "dbnomics_statjp",
+        "dbnomics_rba"
+      ],
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -250,7 +288,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -290,7 +328,7 @@
         "ecb",
         "ecb_fx"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -314,7 +352,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -337,7 +375,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -378,7 +416,7 @@
         "eurostat_minwage",
         "cpi_categories"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -402,7 +440,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -424,7 +462,7 @@
       "adapters": [
         "nyfed"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -453,7 +491,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -477,8 +515,32 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
+    },
+    {
+      "id": "gdacs",
+      "name": "Global Disaster Alert and Coordination System",
+      "short": "GDACS",
+      "homepage": "https://www.gdacs.org/",
+      "license": {
+        "name": "CC BY 4.0 (European Union)",
+        "url": "https://www.gdacs.org/About/termofuse.aspx",
+        "verified": true,
+        "verified_on": "2026-11-07",
+        "quote": "Copyright notice: European Union (CC BY 4.0), reuse is allowed, provided appropriate credit to GDACS is given."
+      },
+      "licence": "CC BY 4.0 (European Union)",
+      "license_note": "The quote is the acknowledgement GDACS publishes with every event in its RSS feed (gdacs:acknowledgements). GDACS is run by the UN (OCHA, UNOSAT) and the European Commission (JRC, ECHO). Its terms of use say alerts for earthquakes, tsunamis and tropical cyclones are automatic estimates that may contain errors and do not replace alerts from national authorities; Veritane shows that note next to every GDACS alert. Veritane uses the event type, alert level, place, dates and link only, with its own wording.",
+      "datasets": [
+        "GDACS alerts RSS (orange and red alert levels)"
+      ],
+      "feeds": [],
+      "adapters": [
+        "signals"
+      ],
+      "last_fetched": null,
+      "ok": null
     },
     {
       "id": "ilo",
@@ -532,7 +594,35 @@
         "imf_cpi",
         "imf_fiscal"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
+      "ok": true
+    },
+    {
+      "id": "istat",
+      "name": "Istat (Italian National Institute of Statistics)",
+      "short": "ISTAT",
+      "homepage": "https://www.istat.it/en/",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://www.istat.it/en/legal-notice/",
+        "verified": true,
+        "verified_on": "2026-11-07",
+        "quote": "Unless otherwise stated, content on this website is licensed under a Creative Commons License – Attribution – 4.0."
+      },
+      "licence": "CC BY 4.0",
+      "license_note": "Read through DBnomics (provider ISTAT). Logos and third-party content are excluded from the licence. Consumer prices (NIC, base 2025, linked to base 2016 for 12-month rates), quarterly GDP and the manufacturing confidence climate.",
+      "datasets": [
+        "ISTAT/167_745_DF_DCSP_NIC1B2025_1 (via DBnomics)",
+        "ISTAT/167_745_DF_DCSP_NIC1B2025_4 (via DBnomics)",
+        "ISTAT/167_745_DF_DCSP_NIC1B2025_2 (via DBnomics)",
+        "ISTAT/163_156_DF_DCCN_SQCQ_3 (via DBnomics)",
+        "ISTAT/111_263_DF_DCSC_FIDIMPRMAN_17 (via DBnomics)"
+      ],
+      "feeds": [],
+      "adapters": [
+        "dbnomics_istat"
+      ],
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -568,8 +658,32 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
+    },
+    {
+      "id": "eonet",
+      "name": "NASA Earth Observatory Natural Event Tracker",
+      "short": "NASA EONET",
+      "homepage": "https://eonet.gsfc.nasa.gov/",
+      "license": {
+        "name": "Not subject to copyright in the United States (NASA work)",
+        "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "verified": true,
+        "verified_on": "2026-11-07",
+        "quote": "NASA content – images, audio, video, and media files used in the rendition of 3-dimensional models, such as texture maps and polygon data in any format – generally are not subject to copyright in the United States."
+      },
+      "licence": "Not subject to copyright in the United States (NASA work)",
+      "license_note": "The NASA guideline quoted speaks about media; EONET event records are NASA-produced data, a work of the U.S. Government (17 U.S.C. 105). EONET (keyless API v3) is NASA metadata that points to the agencies that observed each event (for example the Joint Typhoon Warning Center or a volcano observatory); each event links to that agency. Veritane uses the category, position, dates, the storm or volcano name and the link only. NASA asks not to imply endorsement and not to use its logo.",
+      "datasets": [
+        "EONET v3 open events (volcanoes, severe storms)"
+      ],
+      "feeds": [],
+      "adapters": [
+        "signals"
+      ],
+      "last_fetched": null,
+      "ok": null
     },
     {
       "id": "ncsc",
@@ -592,7 +706,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -620,7 +734,7 @@
       "adapters": [
         "norgesbank"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -685,7 +799,7 @@
         "ons",
         "cpi_categories"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -702,7 +816,13 @@
       "licence": "CC BY 4.0",
       "datasets": [
         "F1.1 FIRMMCRT (cash rate target, monthly average)",
-        "F11.1 FXRUSD (A$1 in US dollars)"
+        "F11.1 FXRUSD (A$1 in US dollars)",
+        "RBA/G1 (via DBnomics)",
+        "RBA/H1 (via DBnomics)",
+        "RBA/H5 (via DBnomics)",
+        "RBA/F6 (via DBnomics)",
+        "RBA/F5 (via DBnomics)",
+        "RBA/F2 (via DBnomics)"
       ],
       "feeds": [
         {
@@ -719,9 +839,10 @@
         }
       ],
       "adapters": [
-        "rba"
+        "rba",
+        "dbnomics_rba"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -745,7 +866,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -768,7 +889,32 @@
       "adapters": [
         "sarb"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
+      "ok": true
+    },
+    {
+      "id": "statjp",
+      "name": "Statistics Bureau of Japan",
+      "short": "Statistics Japan",
+      "homepage": "https://www.stat.go.jp/english/",
+      "license": {
+        "name": "Public Data License 1.0 (compatible with CC BY 4.0)",
+        "url": "https://www.stat.go.jp/english/info/riyou.html",
+        "verified": true,
+        "verified_on": "2026-11-07",
+        "quote": "The user must cite the source when using the Content."
+      },
+      "licence": "Public Data License 1.0 (compatible with CC BY 4.0)",
+      "license_note": "The terms state the Public Data License (Version 1.0) is compatible with CC BY 4.0 and that \"Numerical data and data in Simple tables, graphs, and so forth are not subject to copyright.\" Edited content must say it was edited: Veritane computes 12-month changes from the published CPI index and says so on each series. Read through DBnomics (provider STATJP).",
+      "datasets": [
+        "STATJP/CPIm (via DBnomics)",
+        "STATJP/MIm (via DBnomics)"
+      ],
+      "feeds": [],
+      "adapters": [
+        "dbnomics_statjp"
+      ],
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -790,7 +936,7 @@
       "adapters": [
         "statcan"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -811,7 +957,7 @@
       "adapters": [
         "dst"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -840,7 +986,7 @@
       "adapters": [
         "ssb"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -870,7 +1016,7 @@
       "adapters": [
         "scb"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -904,7 +1050,7 @@
       "adapters": [
         "riksbank"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -928,7 +1074,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -956,7 +1102,7 @@
         "bls",
         "cpi_categories"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -977,8 +1123,32 @@
       "adapters": [
         "yield_curves"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
+    },
+    {
+      "id": "usgs",
+      "name": "U.S. Geological Survey, Earthquake Hazards Program",
+      "short": "USGS",
+      "homepage": "https://earthquake.usgs.gov/",
+      "license": {
+        "name": "Public domain (U.S. government work)",
+        "url": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits",
+        "verified": true,
+        "verified_on": "2026-11-07",
+        "quote": "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+      },
+      "licence": "Public domain (U.S. government work)",
+      "license_note": "Read from the keyless GeoJSON summary feed of significant earthquakes (past month); Veritane keeps magnitude 6 or more, or any PAGER alert. USGS asks for credit (\"U.S. Geological Survey\").",
+      "datasets": [
+        "Significant earthquakes, past month (GeoJSON summary feed)"
+      ],
+      "feeds": [],
+      "adapters": [
+        "signals"
+      ],
+      "last_fetched": null,
+      "ok": null
     },
     {
       "id": "sec",
@@ -1004,7 +1174,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -1028,7 +1198,7 @@
       "adapters": [
         "fiscaldata"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     },
     {
@@ -1060,7 +1230,7 @@
         "wb_commodities",
         "wb_living"
       ],
-      "last_fetched": "2026-11-07T17:27:38Z",
+      "last_fetched": "2026-11-07T18:00:59Z",
       "ok": true
     }
   ]

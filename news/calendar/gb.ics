@@ -7,7 +7,7 @@ X-WR-CALNAME:Veritane economic calendar: United Kingdom
 BEGIN:VEVENT
 UID:ons_cal:/releases/gdpfirstquarterlyestimateukjulytoseptember2026@verita
  ne
-DTSTAMP:20261107T172738Z
+DTSTAMP:20261107T180059Z
 DTSTART:20261112T070000Z
 SUMMARY:UK quarterly GDP
 DESCRIPTION:The total value of goods and services an economy produced in a 
@@ -21,7 +21,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ons_cal:/releases/gdpmonthlyestimateukseptember2026@veritane
-DTSTAMP:20261107T172738Z
+DTSTAMP:20261107T180059Z
 DTSTART:20261112T070000Z
 SUMMARY:UK monthly GDP
 DESCRIPTION:The total value of goods and services an economy produced in a 
@@ -33,7 +33,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ons_cal:/releases/uktradeseptember2026@veritane
-DTSTAMP:20261107T172738Z
+DTSTAMP:20261107T180059Z
 DTSTART:20261112T070000Z
 SUMMARY:UK trade
 DESCRIPTION:The value of goods and services a country sold to and bought fr
@@ -45,7 +45,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ons_cal:/releases/uklabourmarketnovember2026@veritane
-DTSTAMP:20261107T172738Z
+DTSTAMP:20261107T180059Z
 DTSTART:20261117T070000Z
 SUMMARY:UK labour market
 DESCRIPTION:How many people have a job\, how many are looking for one\, and
@@ -57,7 +57,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ons_cal:/releases/consumerpriceinflationukoctober2026@veritane
-DTSTAMP:20261107T172738Z
+DTSTAMP:20261107T180059Z
 DTSTART:20261118T070000Z
 SUMMARY:UK consumer price inflation
 DESCRIPTION:How much the prices of everyday goods and services changed comp
@@ -69,7 +69,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ons_cal:/releases/producerpriceinflationukoctober2026@veritane
-DTSTAMP:20261107T172738Z
+DTSTAMP:20261107T180059Z
 DTSTART:20261118T070000Z
 SUMMARY:UK producer price inflation
 DESCRIPTION:How prices changed for goods leaving factories and for material
@@ -81,7 +81,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ons_cal:/releases/publicsectorfinancesukoctober2026@veritane
-DTSTAMP:20261107T172738Z
+DTSTAMP:20261107T180059Z
 DTSTART:20261120T070000Z
 SUMMARY:UK public sector finances
 DESCRIPTION:How much the UK government received and spent\, and how much it
@@ -93,7 +93,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ons_cal:/releases/retailsalesgreatbritainoctober2026@veritane
-DTSTAMP:20261107T172738Z
+DTSTAMP:20261107T180059Z
 DTSTART:20261120T070000Z
 SUMMARY:Great Britain retail sales
 DESCRIPTION:How much shops sold\, by value and by volume\, compared with ea
@@ -105,7 +105,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ons_cal:/releases/gdpmonthlyestimateukoctober2026@veritane
-DTSTAMP:20261107T172738Z
+DTSTAMP:20261107T180059Z
 DTSTART:20261211T070000Z
 SUMMARY:UK monthly GDP
 DESCRIPTION:The total value of goods and services an economy produced in a 
@@ -117,7 +117,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ons_cal:/releases/uktradeoctober2026@veritane
-DTSTAMP:20261107T172738Z
+DTSTAMP:20261107T180059Z
 DTSTART:20261211T070000Z
 SUMMARY:UK trade
 DESCRIPTION:The value of goods and services a country sold to and bought fr
@@ -129,7 +129,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ons_cal:/releases/uklabourmarketdecember2026@veritane
-DTSTAMP:20261107T172738Z
+DTSTAMP:20261107T180059Z
 DTSTART:20261215T070000Z
 SUMMARY:UK labour market
 DESCRIPTION:How many people have a job\, how many are looking for one\, and
@@ -141,7 +141,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ons_cal:/releases/consumerpriceinflationuknovember2026@veritane
-DTSTAMP:20261107T172738Z
+DTSTAMP:20261107T180059Z
 DTSTART:20261216T070000Z
 SUMMARY:UK consumer price inflation
 DESCRIPTION:How much the prices of everyday goods and services changed comp
@@ -153,7 +153,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ons_cal:/releases/producerpriceinflationuknovember2026@veritane
-DTSTAMP:20261107T172738Z
+DTSTAMP:20261107T180059Z
 DTSTART:20261216T070000Z
 SUMMARY:UK producer price inflation
 DESCRIPTION:How prices changed for goods leaving factories and for material
@@ -165,7 +165,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:curated:boe:2026-12-17@veritane
-DTSTAMP:20261107T172738Z
+DTSTAMP:20261107T180059Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Bank of England interest-rate decision (MPC)
@@ -179,7 +179,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ons_cal:/releases/retailsalesgreatbritainnovember2026@veritane
-DTSTAMP:20261107T172738Z
+DTSTAMP:20261107T180059Z
 DTSTART:20261218T070000Z
 SUMMARY:Great Britain retail sales
 DESCRIPTION:How much shops sold\, by value and by volume\, compared with ea
@@ -192,7 +192,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ons_cal:/releases/gdpquarterlynationalaccountsukjulytoseptember2026@ver
  itane
-DTSTAMP:20261107T172738Z
+DTSTAMP:20261107T180059Z
 DTSTART:20261222T070000Z
 SUMMARY:UK quarterly GDP
 DESCRIPTION:The total value of goods and services an economy produced in a 
@@ -206,7 +206,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ons_cal:/releases/publicsectorfinancesuknovember2026@veritane
-DTSTAMP:20261107T172738Z
+DTSTAMP:20261107T180059Z
 DTSTART:20261222T070000Z
 SUMMARY:UK public sector finances
 DESCRIPTION:How much the UK government received and spent\, and how much it

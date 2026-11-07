@@ -19,8 +19,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 57,
-      "last_seen": "2026-11-07T16:30:00Z",
+      "seen_28d": 61,
+      "last_seen": "2026-11-07T17:30:00Z",
       "public_display": false
     },
     {
@@ -107,8 +107,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 23,
-      "last_seen": "2026-11-07T15:30:00Z"
+      "seen_28d": 38,
+      "last_seen": "2026-11-07T18:00:00Z"
     },
     {
       "id": "cna_tw",
@@ -129,8 +129,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 31,
-      "last_seen": "2026-11-07T16:30:00Z"
+      "seen_28d": 32,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "antara",
@@ -151,8 +151,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 29,
-      "last_seen": "2026-11-07T16:30:00Z"
+      "seen_28d": 33,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "agenciabrasil",
@@ -171,8 +171,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 3,
-      "last_seen": "2026-11-07T13:00:00Z"
+      "seen_28d": 6,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "ukrinform",
@@ -215,8 +215,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 47,
-      "last_seen": "2026-11-07T17:15:00Z"
+      "seen_28d": 53,
+      "last_seen": "2026-11-07T17:45:00Z"
     },
     {
       "id": "rfi",
@@ -256,8 +256,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 32,
-      "last_seen": "2026-11-07T16:00:00Z",
+      "seen_28d": 37,
+      "last_seen": "2026-11-07T17:45:00Z",
       "public_display": false
     },
     {
@@ -301,8 +301,28 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 27,
+      "seen_28d": 41,
       "last_seen": "2026-11-07T17:15:00Z"
+    },
+    {
+      "id": "foxbusiness",
+      "name": "Fox Business",
+      "hosts": [
+        "foxbusiness.com"
+      ],
+      "country": "US",
+      "languages": [
+        "en"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Fox Corporation",
+      "owner_group": "fox-corp",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T17:45:00Z"
     },
     {
       "id": "foxnews",
@@ -380,8 +400,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 2,
-      "last_seen": "2026-11-07T14:45:00Z"
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T18:00:00Z"
     },
     {
       "id": "abcnews_us",
@@ -404,8 +424,8 @@
       },
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 4,
-      "last_seen": "2026-11-07T17:00:00Z"
+      "seen_28d": 7,
+      "last_seen": "2026-11-07T18:00:00Z"
     },
     {
       "id": "nbcnews",
@@ -626,8 +646,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 72,
-      "last_seen": "2026-11-07T17:30:00Z"
+      "seen_28d": 123,
+      "last_seen": "2026-11-07T17:45:00Z"
     },
     {
       "id": "guardian",
@@ -644,8 +664,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 23,
-      "last_seen": "2026-11-07T16:45:00Z",
+      "seen_28d": 26,
+      "last_seen": "2026-11-07T18:00:00Z",
       "public_display": false
     },
     {
@@ -725,8 +745,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 6,
-      "last_seen": "2026-11-07T15:45:00Z"
+      "seen_28d": 7,
+      "last_seen": "2026-11-07T17:45:00Z"
     },
     {
       "id": "politico_eu",
@@ -765,8 +785,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T12:45:00Z"
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "handelsblatt",
@@ -784,8 +804,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 19,
-      "last_seen": "2026-11-07T16:30:00Z",
+      "seen_28d": 20,
+      "last_seen": "2026-11-07T17:45:00Z",
       "public_display": false
     },
     {
@@ -826,8 +846,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 14,
-      "last_seen": "2026-11-07T16:00:00Z"
+      "seen_28d": 17,
+      "last_seen": "2026-11-07T17:45:00Z"
     },
     {
       "id": "welt",
@@ -846,8 +866,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 26,
-      "last_seen": "2026-11-07T16:15:00Z"
+      "seen_28d": 29,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "wiwo",
@@ -946,8 +966,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 7,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 11,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "expansion_es",
@@ -966,8 +986,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T12:15:00Z"
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T17:45:00Z"
     },
     {
       "id": "abc_es",
@@ -986,8 +1006,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 18,
-      "last_seen": "2026-11-07T16:30:00Z"
+      "seen_28d": 22,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "eldiario",
@@ -1006,8 +1026,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 16,
-      "last_seen": "2026-11-07T13:15:00Z"
+      "seen_28d": 20,
+      "last_seen": "2026-11-07T17:45:00Z"
     },
     {
       "id": "lavanguardia",
@@ -1066,8 +1086,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 9,
-      "last_seen": "2026-11-07T16:30:00Z"
+      "seen_28d": 15,
+      "last_seen": "2026-11-07T17:45:00Z"
     },
     {
       "id": "repubblica",
@@ -1086,8 +1106,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 19,
-      "last_seen": "2026-11-07T16:15:00Z"
+      "seen_28d": 20,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "ilgiornale",
@@ -1126,8 +1146,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 10,
-      "last_seen": "2026-11-07T15:45:00Z"
+      "seen_28d": 14,
+      "last_seen": "2026-11-07T17:45:00Z"
     },
     {
       "id": "nos",
@@ -1186,8 +1206,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 4,
-      "last_seen": "2026-11-07T16:00:00Z"
+      "seen_28d": 5,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "svt",
@@ -1226,8 +1246,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T16:15:00Z"
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "svd",
@@ -1266,8 +1286,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 3,
-      "last_seen": "2026-11-07T16:00:00Z"
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T17:45:00Z"
     },
     {
       "id": "yle",
@@ -1388,8 +1408,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 10,
-      "last_seen": "2026-11-07T15:45:00Z"
+      "seen_28d": 11,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "srf",
@@ -1571,8 +1591,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 10,
-      "last_seen": "2026-11-07T16:30:00Z"
+      "seen_28d": 11,
+      "last_seen": "2026-11-07T17:45:00Z"
     },
     {
       "id": "portfolio",
@@ -1693,8 +1713,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 3,
-      "last_seen": "2026-11-07T12:45:00Z"
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "hurriyetdaily",
@@ -1753,8 +1773,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 16,
-      "last_seen": "2026-11-07T17:30:00Z"
+      "seen_28d": 21,
+      "last_seen": "2026-11-07T18:00:00Z"
     },
     {
       "id": "aawsat",
@@ -1918,8 +1938,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 11,
-      "last_seen": "2026-11-07T16:15:00Z"
+      "seen_28d": 12,
+      "last_seen": "2026-11-07T17:45:00Z"
     },
     {
       "id": "punch",
@@ -1958,8 +1978,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 5,
-      "last_seen": "2026-11-07T13:15:00Z"
+      "seen_28d": 12,
+      "last_seen": "2026-11-07T17:45:00Z"
     },
     {
       "id": "vanguard",
@@ -2231,6 +2251,28 @@
       "last_seen": "2026-11-07T14:00:00Z"
     },
     {
+      "id": "peoplesdaily",
+      "name": "People's Daily",
+      "hosts": [
+        "people.com.cn",
+        "en.people.cn"
+      ],
+      "country": "CN",
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "type": "general",
+      "ownership": "public",
+      "owner": "Central Committee of the CPC",
+      "owner_group": "cpc",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T17:45:00Z"
+    },
+    {
       "id": "yicai",
       "name": "Yicai",
       "hosts": [
@@ -2272,8 +2314,8 @@
       ],
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 108,
-      "last_seen": "2026-11-07T17:15:00Z"
+      "seen_28d": 116,
+      "last_seen": "2026-11-07T18:00:00Z"
     },
     {
       "id": "businessline",
@@ -2332,8 +2374,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 25,
-      "last_seen": "2026-11-07T16:45:00Z"
+      "seen_28d": 33,
+      "last_seen": "2026-11-07T18:00:00Z"
     },
     {
       "id": "et",
@@ -2372,8 +2414,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 85,
-      "last_seen": "2026-11-07T17:30:00Z"
+      "seen_28d": 94,
+      "last_seen": "2026-11-07T18:00:00Z"
     },
     {
       "id": "bs",
@@ -2415,8 +2457,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 35,
-      "last_seen": "2026-11-07T16:00:00Z"
+      "seen_28d": 40,
+      "last_seen": "2026-11-07T17:45:00Z"
     },
     {
       "id": "tribune_pk",
@@ -2435,8 +2477,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 11,
-      "last_seen": "2026-11-07T16:45:00Z"
+      "seen_28d": 14,
+      "last_seen": "2026-11-07T17:45:00Z"
     },
     {
       "id": "thenews_pk",
@@ -2635,8 +2677,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 6,
-      "last_seen": "2026-11-07T17:00:00Z"
+      "seen_28d": 24,
+      "last_seen": "2026-11-07T18:00:00Z"
     },
     {
       "id": "rappler",
@@ -2780,8 +2822,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 4,
-      "last_seen": "2026-11-07T17:15:00Z"
+      "seen_28d": 6,
+      "last_seen": "2026-11-07T18:00:00Z"
     },
     {
       "id": "nzherald",
@@ -2800,8 +2842,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 11,
-      "last_seen": "2026-11-07T16:45:00Z"
+      "seen_28d": 17,
+      "last_seen": "2026-11-07T18:00:00Z"
     },
     {
       "id": "g1",
@@ -2820,8 +2862,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 48,
-      "last_seen": "2026-11-07T16:30:00Z"
+      "seen_28d": 51,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "oglobo",
@@ -2840,8 +2882,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 9,
-      "last_seen": "2026-11-07T16:00:00Z"
+      "seen_28d": 11,
+      "last_seen": "2026-11-07T17:45:00Z"
     },
     {
       "id": "folha",
@@ -2860,8 +2902,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 14,
-      "last_seen": "2026-11-07T16:30:00Z"
+      "seen_28d": 16,
+      "last_seen": "2026-11-07T17:45:00Z"
     },
     {
       "id": "estadao",
@@ -2880,8 +2922,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 10,
-      "last_seen": "2026-11-07T16:00:00Z"
+      "seen_28d": 15,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "infomoney",
@@ -2980,8 +3022,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 7,
-      "last_seen": "2026-11-07T15:30:00Z"
+      "seen_28d": 12,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "latercera",
@@ -3000,8 +3042,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 31,
-      "last_seen": "2026-11-07T16:15:00Z"
+      "seen_28d": 32,
+      "last_seen": "2026-11-07T17:45:00Z"
     },
     {
       "id": "df_cl",
@@ -3060,8 +3102,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 2,
-      "last_seen": "2026-11-07T16:00:00Z"
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T17:45:00Z"
     },
     {
       "id": "elespectador",

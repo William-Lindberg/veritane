@@ -1,0 +1,184 @@
+{
+  "schema": "veritane/history/1",
+  "id": "au.gdp.qoq",
+  "unit": "% q/q",
+  "frequency": "Q",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "RBA/H1/GGDPCVGDP|api.db.nomics.world/v22/series/RBA/H1/GGDPCVGDP?metadata=false&observations=1",
+  "source": {
+    "name": "Reserve Bank of Australia via DBnomics",
+    "provider_id": "rba",
+    "dataset": "RBA/H1/GGDPCVGDP",
+    "url": "https://www.rba.gov.au/statistics/tables/",
+    "api_url": "https://api.db.nomics.world/v22/series/RBA/H1/GGDPCVGDP?observations=1&metadata=false",
+    "retrieved_at": "2026-11-07T18:00:59Z"
+  },
+  "points": [
+    [
+      "2016-Q2",
+      0.6
+    ],
+    [
+      "2016-Q3",
+      0
+    ],
+    [
+      "2016-Q4",
+      1.2
+    ],
+    [
+      "2017-Q1",
+      0.3
+    ],
+    [
+      "2017-Q2",
+      0.6
+    ],
+    [
+      "2017-Q3",
+      1
+    ],
+    [
+      "2017-Q4",
+      0.4
+    ],
+    [
+      "2018-Q1",
+      1.1
+    ],
+    [
+      "2018-Q2",
+      0.7
+    ],
+    [
+      "2018-Q3",
+      0.4
+    ],
+    [
+      "2018-Q4",
+      0.2
+    ],
+    [
+      "2019-Q1",
+      0.8
+    ],
+    [
+      "2019-Q2",
+      0.3
+    ],
+    [
+      "2019-Q3",
+      0.6
+    ],
+    [
+      "2019-Q4",
+      0.6
+    ],
+    [
+      "2020-Q1",
+      -0.2
+    ],
+    [
+      "2020-Q2",
+      -6.8
+    ],
+    [
+      "2020-Q3",
+      3.4
+    ],
+    [
+      "2020-Q4",
+      3.4
+    ],
+    [
+      "2021-Q1",
+      2.2
+    ],
+    [
+      "2021-Q2",
+      0.7
+    ],
+    [
+      "2021-Q3",
+      -1.8
+    ],
+    [
+      "2021-Q4",
+      3.7
+    ],
+    [
+      "2022-Q1",
+      1
+    ],
+    [
+      "2022-Q2",
+      0.9
+    ],
+    [
+      "2022-Q3",
+      0.5
+    ],
+    [
+      "2022-Q4",
+      0.9
+    ],
+    [
+      "2023-Q1",
+      0.6
+    ],
+    [
+      "2023-Q2",
+      0.3
+    ],
+    [
+      "2023-Q3",
+      0.4
+    ],
+    [
+      "2023-Q4",
+      0
+    ],
+    [
+      "2024-Q1",
+      0.3
+    ],
+    [
+      "2024-Q2",
+      0.2
+    ],
+    [
+      "2024-Q3",
+      0.3
+    ],
+    [
+      "2024-Q4",
+      0.4
+    ],
+    [
+      "2025-Q1",
+      0.4
+    ],
+    [
+      "2025-Q2",
+      0.8
+    ],
+    [
+      "2025-Q3",
+      0.5
+    ],
+    [
+      "2025-Q4",
+      0.9
+    ],
+    [
+      "2026-Q1",
+      0.3
+    ],
+    [
+      "2026-Q2",
+      0.4
+    ]
+  ],
+  "accumulated_since": null
+}

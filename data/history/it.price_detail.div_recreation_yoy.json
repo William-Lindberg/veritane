@@ -1,0 +1,60 @@
+{
+  "schema": "veritane/history/1",
+  "id": "it.price_detail.div_recreation_yoy",
+  "unit": "% y/y",
+  "frequency": "M",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "ISTAT/167_745_DF_DCSP_NIC1B2025_1/M.IT.85.7.09|api.db.nomics.world/v22/series/ISTAT/167_745_DF_DCSP_NIC1B2025_1/M.IT.85.7.09?metadata=false&observations=1",
+  "source": {
+    "name": "ISTAT via DBnomics",
+    "provider_id": "istat",
+    "dataset": "ISTAT/167_745_DF_DCSP_NIC1B2025_1/M.IT.85.7.09",
+    "url": "https://esploradati.istat.it/databrowser/",
+    "api_url": "https://api.db.nomics.world/v22/series/ISTAT/167_745_DF_DCSP_NIC1B2025_1/M.IT.85.7.09?observations=1&metadata=false",
+    "retrieved_at": "2026-11-07T18:00:59Z"
+  },
+  "points": [
+    [
+      "2026-01",
+      1.1
+    ],
+    [
+      "2026-02",
+      1.2
+    ],
+    [
+      "2026-03",
+      1.1
+    ],
+    [
+      "2026-04",
+      1.1
+    ],
+    [
+      "2026-05",
+      1.3
+    ],
+    [
+      "2026-06",
+      1.2
+    ],
+    [
+      "2026-07",
+      0.8
+    ],
+    [
+      "2026-08",
+      0.6
+    ],
+    [
+      "2026-09",
+      1.4
+    ],
+    [
+      "2026-10",
+      1.4
+    ]
+  ],
+  "accumulated_since": null
+}

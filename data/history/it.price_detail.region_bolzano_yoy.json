@@ -1,0 +1,112 @@
+{
+  "schema": "veritane/history/1",
+  "id": "it.price_detail.region_bolzano_yoy",
+  "unit": "% y/y",
+  "frequency": "M",
+  "decimals": 1,
+  "storage": "observations",
+  "fingerprint": "ISTAT/167_745_DF_DCSP_NIC1B2025_1/M.ITD1.85.7.00|api.db.nomics.world/v22/series/ISTAT/167_745_DF_DCSP_NIC1B2025_1/M.ITD1.85.7.00?metadata=false&observations=1",
+  "source": {
+    "name": "ISTAT via DBnomics",
+    "provider_id": "istat",
+    "dataset": "ISTAT/167_745_DF_DCSP_NIC1B2025_1/M.ITD1.85.7.00",
+    "url": "https://esploradati.istat.it/databrowser/",
+    "api_url": "https://api.db.nomics.world/v22/series/ISTAT/167_745_DF_DCSP_NIC1B2025_1/M.ITD1.85.7.00?observations=1&metadata=false",
+    "retrieved_at": "2026-11-07T18:00:59Z"
+  },
+  "points": [
+    [
+      "2016-09",
+      0.5
+    ],
+    [
+      "2016-10",
+      0.5
+    ],
+    [
+      "2016-11",
+      0.5
+    ],
+    [
+      "2016-12",
+      1.4
+    ],
+    [
+      "2023-03",
+      8.5
+    ],
+    [
+      "2023-04",
+      8.4
+    ],
+    [
+      "2023-05",
+      7.7
+    ],
+    [
+      "2023-06",
+      6.4
+    ],
+    [
+      "2023-07",
+      5.5
+    ],
+    [
+      "2023-08",
+      4.7
+    ],
+    [
+      "2023-09",
+      4.7
+    ],
+    [
+      "2023-10",
+      2.4
+    ],
+    [
+      "2023-11",
+      1.6
+    ],
+    [
+      "2023-12",
+      1.6
+    ],
+    [
+      "2026-01",
+      1.4
+    ],
+    [
+      "2026-02",
+      1.8
+    ],
+    [
+      "2026-03",
+      1.9
+    ],
+    [
+      "2026-04",
+      3.4
+    ],
+    [
+      "2026-05",
+      3.4
+    ],
+    [
+      "2026-06",
+      3.4
+    ],
+    [
+      "2026-07",
+      2.8
+    ],
+    [
+      "2026-08",
+      3.6
+    ],
+    [
+      "2026-09",
+      4.1
+    ]
+  ],
+  "accumulated_since": null
+}
