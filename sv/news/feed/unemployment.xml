@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veritane News: Jobb</title>
+    <link>https://william-lindberg.github.io/veritane/sv/news/</link>
+    <atom:link href="https://william-lindberg.github.io/veritane/sv/news/feed/unemployment.xml" rel="self" type="application/rss+xml" />
+    <description>Jobb: officiell statistik och officiella besked, skapade automatiskt från officiella källor. Utbildning, inte rådgivning.</description>
+    <language>sv</language>
+    <lastBuildDate>Sat, 07 Nov 2026 17:27:38 GMT</lastBuildDate>
+    <item>
+      <title>Storbritannien: Arbetslöshet, de tre månaderna fram till augusti 2026</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/02d699b669603b1f/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/02d699b669603b1f/</guid>
+      <pubDate>Fri, 06 Nov 2026 22:40:33 GMT</pubDate>
+      <description>Nya data: I Storbritannien var arbetslösheten 4,7 % under de tre månaderna fram till augusti 2026, ned från 4,9 % under de tre månaderna fram till juli 2026. Källa: Office for National Statistics. Källa: Office for National Statistics (https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms">Office for National Statistics</source>
+      <category>Jobb</category>
+    </item>
+    <item>
+      <title>Kanada: Arbetslöshet, oktober 2026</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/d59283152a52e669/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/d59283152a52e669/</guid>
+      <pubDate>Fri, 06 Nov 2026 07:30:00 GMT</pubDate>
+      <description>Nya data: I Kanada var arbetslösheten 6,7 % i oktober 2026, upp från 6,5 % i september 2026. Källa: Statistics Canada. Källa: Statistics Canada (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028701). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028701">Statistics Canada</source>
+      <category>Jobb</category>
+    </item>
+    <item>
+      <title>Sverige: Arbetslöshet, september 2026</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/7e553e3b13fb1a0c/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/7e553e3b13fb1a0c/</guid>
+      <pubDate>Thu, 05 Nov 2026 22:00:00 GMT</pubDate>
+      <description>Nya data: I Sverige var arbetslösheten 8,6 % i september 2026, ned från 8,9 % i augusti 2026. Källa: Eurostat. Källa: Eurostat (https://ec.europa.eu/eurostat/databrowser/view/une_rt_m/default/table). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://ec.europa.eu/eurostat/databrowser/view/une_rt_m/default/table">Eurostat</source>
+      <category>Jobb</category>
+    </item>
+    <item>
+      <title>Danmark: Arbetslöshet, september 2026</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/f23a0f2c34f93d6e/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/f23a0f2c34f93d6e/</guid>
+      <pubDate>Thu, 05 Nov 2026 22:00:00 GMT</pubDate>
+      <description>Nya data: I Danmark var arbetslösheten 6,8 % i september 2026, upp från 5,8 % i augusti 2026. Källa: Eurostat. Källa: Eurostat (https://ec.europa.eu/eurostat/databrowser/view/une_rt_m/default/table). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://ec.europa.eu/eurostat/databrowser/view/une_rt_m/default/table">Eurostat</source>
+      <category>Jobb</category>
+    </item>
+    <item>
+      <title>Number of employments and earnings</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/d662b14decba4840/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/d662b14decba4840/</guid>
+      <pubDate>Thu, 05 Nov 2026 07:00:00 GMT</pubDate>
+      <description>Den 5 november 2026 publicerade Statistics Norway ”Number of employments and earnings”. Källa: Statistics Norway (https://www.ssb.no/en/arbeid-og-lonn/sysselsetting/statistikk/antall-arbeidsforhold-og-lonn). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://www.ssb.no/en/arbeid-og-lonn/sysselsetting/statistikk/antall-arbeidsforhold-og-lonn">Statistics Norway</source>
+      <category>Jobb</category>
+    </item>
+  </channel>
+</rss>

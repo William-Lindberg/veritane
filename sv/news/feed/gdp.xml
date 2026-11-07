@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veritane News: Tillväxt (BNP)</title>
+    <link>https://william-lindberg.github.io/veritane/sv/news/</link>
+    <atom:link href="https://william-lindberg.github.io/veritane/sv/news/feed/gdp.xml" rel="self" type="application/rss+xml" />
+    <description>Tillväxt (BNP): officiell statistik och officiella besked, skapade automatiskt från officiella källor. Utbildning, inte rådgivning.</description>
+    <language>sv</language>
+    <lastBuildDate>Sat, 07 Nov 2026 17:27:38 GMT</lastBuildDate>
+    <item>
+      <title>Euroområdet: BNP-tillväxt, jämfört med föregående kvartal, tredje kvartalet 2026</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/721972f5303a28b6/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/721972f5303a28b6/</guid>
+      <pubDate>Thu, 05 Nov 2026 22:00:00 GMT</pubDate>
+      <description>Nya data: I euroområdet ökade BNP med 0,4 % under tredje kvartalet 2026 jämfört med föregående kvartal. Under andra kvartalet 2026 ökade den med 0,6 %. Källa: Eurostat. Källa: Eurostat (https://ec.europa.eu/eurostat/databrowser/view/namq_10_gdp/default/table). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://ec.europa.eu/eurostat/databrowser/view/namq_10_gdp/default/table">Eurostat</source>
+      <category>Tillväxt (BNP)</category>
+    </item>
+    <item>
+      <title>ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/c244f5f62d65c4a8/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/c244f5f62d65c4a8/</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Den 4 november 2026 publicerade European Central Bank ”ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026”. Källa: European Central Bank (https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html">European Central Bank</source>
+      <category>Tillväxt (BNP)</category>
+    </item>
+    <item>
+      <title>Regulators explore credit union reforms to support growth, innovation and better outcomes for members</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/b12ce0cca21be2fb/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/b12ce0cca21be2fb/</guid>
+      <pubDate>Tue, 03 Nov 2026 10:00:00 GMT</pubDate>
+      <description>Den 3 november 2026 publicerade Bank of England ”Regulators explore credit union reforms to support growth, innovation and better outcomes for members”. Källa: Bank of England (https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members">Bank of England</source>
+      <category>Tillväxt (BNP)</category>
+    </item>
+    <item>
+      <title>GDP revisions in Blue Book: 2026</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/0d863bd39f008ec1/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/0d863bd39f008ec1/</guid>
+      <pubDate>Fri, 30 Oct 2026 09:30:00 GMT</pubDate>
+      <description>Den 30 oktober 2026 publicerade Office for National Statistics ”GDP revisions in Blue Book: 2026”. Källa: Office for National Statistics (https://www.ons.gov.uk/releases/gdprevisionsinbluebook2026). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://www.ons.gov.uk/releases/gdprevisionsinbluebook2026">Office for National Statistics</source>
+      <category>Tillväxt (BNP)</category>
+    </item>
+    <item>
+      <title>UK National Accounts, The Blue Book: 2026</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/8a95a49e1fdda932/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/8a95a49e1fdda932/</guid>
+      <pubDate>Fri, 30 Oct 2026 09:30:00 GMT</pubDate>
+      <description>Den 30 oktober 2026 publicerade Office for National Statistics ”UK National Accounts, The Blue Book: 2026”. Källa: Office for National Statistics (https://www.ons.gov.uk/releases/uknationalaccountsthebluebook2026). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://www.ons.gov.uk/releases/uknationalaccountsthebluebook2026">Office for National Statistics</source>
+      <category>Tillväxt (BNP)</category>
+    </item>
+    <item>
+      <title>Kanada: Real BNP-tillväxt, jämfört med föregående månad, augusti 2026</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/7bbaebee960707cd/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/7bbaebee960707cd/</guid>
+      <pubDate>Fri, 30 Oct 2026 07:30:00 GMT</pubDate>
+      <description>Nya data: I Kanada var real BNP oförändrad i augusti 2026 jämfört med föregående månad. I juli 2026 var den oförändrad. Källa: Statistics Canada. Källa: Statistics Canada (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610043401). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610043401">Statistics Canada</source>
+      <category>Tillväxt (BNP)</category>
+    </item>
+    <item>
+      <title>GDP (Advance Estimate), 3rd Quarter 2026</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/48c980494664a72e/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/48c980494664a72e/</guid>
+      <pubDate>Thu, 29 Oct 2026 12:30:00 GMT</pubDate>
+      <description>Den 29 oktober 2026 publicerade U.S. Bureau of Economic Analysis ”GDP (Advance Estimate), 3rd Quarter 2026”. Källa: U.S. Bureau of Economic Analysis (https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026">U.S. Bureau of Economic Analysis</source>
+      <category>Tillväxt (BNP)</category>
+    </item>
+    <item>
+      <title>Sverige: BNP-tillväxt, jämfört med föregående kvartal, tredje kvartalet 2026</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/560c31c142da75e7/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/560c31c142da75e7/</guid>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 GMT</pubDate>
+      <description>Nya data: I Sverige ökade BNP med 0,4 % under tredje kvartalet 2026 jämfört med föregående kvartal. Under andra kvartalet 2026 ökade den med 1,4 %. Källa: Statistics Sweden. Källa: Statistics Sweden (https://www.scb.se/en/finding-statistics/). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://www.scb.se/en/finding-statistics/">Statistics Sweden</source>
+      <category>Tillväxt (BNP)</category>
+    </item>
+    <item>
+      <title>FCA calls on private market firms to manage conflicts of interest in line with rapid growth</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/6ef38ef57805a54a/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/6ef38ef57805a54a/</guid>
+      <pubDate>Fri, 23 Oct 2026 10:31:00 GMT</pubDate>
+      <description>Den 23 oktober 2026 publicerade Financial Conduct Authority ”FCA calls on private market firms to manage conflicts of interest in line with rapid growth”. Källa: Financial Conduct Authority (https://www.fca.org.uk/news/press-releases/fca-calls-private-market-firms-manage-conflicts-interest-line-rapid-growth). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://www.fca.org.uk/news/press-releases/fca-calls-private-market-firms-manage-conflicts-interest-line-rapid-growth">Financial Conduct Authority</source>
+      <category>Tillväxt (BNP)</category>
+    </item>
+    <item>
+      <title>ESMA analysis shows continued growth in cross-border investment services</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/8c19b963273a81ec/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/8c19b963273a81ec/</guid>
+      <pubDate>Wed, 14 Oct 2026 09:17:02 GMT</pubDate>
+      <description>Den 14 oktober 2026 publicerade European Securities and Markets Authority ”ESMA analysis shows continued growth in cross-border investment services”. Källa: European Securities and Markets Authority (https://www.esma.europa.eu/press-news/esma-news/esma-analysis-shows-continued-growth-cross-border-investment-services). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://www.esma.europa.eu/press-news/esma-news/esma-analysis-shows-continued-growth-cross-border-investment-services">European Securities and Markets Authority</source>
+      <category>Tillväxt (BNP)</category>
+    </item>
+    <item>
+      <title>Storbritannien: BNP-tillväxt, jämfört med föregående kvartal, andra kvartalet 2026</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/ae0fdc2e89bfd4a2/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/ae0fdc2e89bfd4a2/</guid>
+      <pubDate>Tue, 29 Sep 2026 23:00:00 GMT</pubDate>
+      <description>Nya data: I Storbritannien ökade BNP med 0,5 % under andra kvartalet 2026 jämfört med föregående kvartal. Under första kvartalet 2026 ökade den med 0,6 %. Källa: Office for National Statistics. Källa: Office for National Statistics (https://www.ons.gov.uk/economy/grossdomesticproductgdp/timeseries/ihyq/qna). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://www.ons.gov.uk/economy/grossdomesticproductgdp/timeseries/ihyq/qna">Office for National Statistics</source>
+      <category>Tillväxt (BNP)</category>
+    </item>
+  </channel>
+</rss>

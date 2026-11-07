@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veritane News: Venezuela</title>
+    <link>https://william-lindberg.github.io/veritane/it/news/countries/ve/</link>
+    <atom:link href="https://william-lindberg.github.io/veritane/it/news/countries/ve/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Venezuela: dati economici e comunicati ufficiali, generati automaticamente da fonti ufficiali. A scopo educativo, non è consulenza.</description>
+    <language>it</language>
+    <lastBuildDate>Sat, 07 Nov 2026 17:27:38 GMT</lastBuildDate>
+  </channel>
+</rss>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veritane News: Storbritannien</title>
+    <link>https://william-lindberg.github.io/veritane/sv/news/</link>
+    <atom:link href="https://william-lindberg.github.io/veritane/sv/news/feed/stories/country/gb.xml" rel="self" type="application/rss+xml" />
+    <description>Veritanes nyheter om Storbritannien. Utbildning, inte rådgivning.</description>
+    <language>sv</language>
+    <lastBuildDate>Thu, 01 Jan 1970 00:00:00 GMT</lastBuildDate>
+  </channel>
+</rss>

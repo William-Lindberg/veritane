@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veritane News: Materie prime</title>
+    <link>https://william-lindberg.github.io/veritane/it/news/</link>
+    <atom:link href="https://william-lindberg.github.io/veritane/it/news/feed/commodities.xml" rel="self" type="application/rss+xml" />
+    <description>Materie prime: dati e comunicati ufficiali, generati automaticamente da fonti ufficiali. A scopo educativo, non è consulenza.</description>
+    <language>it</language>
+    <lastBuildDate>Sat, 07 Nov 2026 17:27:38 GMT</lastBuildDate>
+    <item>
+      <title>Mondo: Petrolio (Brent), ottobre 2026</title>
+      <link>https://william-lindberg.github.io/veritane/it/news/0688a38e7a1bc4aa/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/it/news/0688a38e7a1bc4aa/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Nuovi dati: Il prezzo medio del petrolio Brent era di 125,00 dollari al barile a ottobre 2026, in aumento rispetto a 116,80 dollari al barile di settembre 2026. Fonte: World Bank Commodity Price Data (Pink Sheet). Fonte: World Bank Commodity Price Data (Pink Sheet) (https://www.worldbank.org/en/research/commodity-markets). Generato automaticamente dalla fonte; revisione: non ancora rivisto.</description>
+      <source url="https://www.worldbank.org/en/research/commodity-markets">World Bank Commodity Price Data (Pink Sheet)</source>
+      <category>Materie prime</category>
+    </item>
+    <item>
+      <title>Mondo: Gas naturale (Europa), ottobre 2026</title>
+      <link>https://william-lindberg.github.io/veritane/it/news/0cf9fd9b5cadd3fb/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/it/news/0cf9fd9b5cadd3fb/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Nuovi dati: Il prezzo medio del gas naturale in Europa era di 28,50 dollari per milione di BTU (unità termiche britanniche) a ottobre 2026, in aumento rispetto a 25,42 dollari per milione di BTU (unità termiche britanniche) di settembre 2026. Fonte: World Bank Commodity Price Data (Pink Sheet). Fonte: World Bank Commodity Price Data (Pink Sheet) (https://www.worldbank.org/en/research/commodity-markets). Generato automaticamente dalla fonte; revisione: non ancora rivisto.</description>
+      <source url="https://www.worldbank.org/en/research/commodity-markets">World Bank Commodity Price Data (Pink Sheet)</source>
+      <category>Materie prime</category>
+    </item>
+    <item>
+      <title>Mondo: Frumento (Stati Uniti, hard red winter), ottobre 2026</title>
+      <link>https://william-lindberg.github.io/veritane/it/news/20b05dbe88ead999/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/it/news/20b05dbe88ead999/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Nuovi dati: Il prezzo medio del frumento statunitense hard red winter era di 317,0 dollari alla tonnellata a ottobre 2026, in calo rispetto a 347,0 dollari alla tonnellata di settembre 2026. Fonte: World Bank Commodity Price Data (Pink Sheet). Fonte: World Bank Commodity Price Data (Pink Sheet) (https://www.worldbank.org/en/research/commodity-markets). Generato automaticamente dalla fonte; revisione: non ancora rivisto.</description>
+      <source url="https://www.worldbank.org/en/research/commodity-markets">World Bank Commodity Price Data (Pink Sheet)</source>
+      <category>Materie prime</category>
+    </item>
+    <item>
+      <title>Mondo: Oro, ottobre 2026</title>
+      <link>https://william-lindberg.github.io/veritane/it/news/270d7a9e171a38e9/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/it/news/270d7a9e171a38e9/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Nuovi dati: Il prezzo medio dell&apos;oro era di 4105 dollari all&apos;oncia troy a ottobre 2026, in calo rispetto a 4319 dollari all&apos;oncia troy di settembre 2026. Fonte: World Bank Commodity Price Data (Pink Sheet). Fonte: World Bank Commodity Price Data (Pink Sheet) (https://www.worldbank.org/en/research/commodity-markets). Generato automaticamente dalla fonte; revisione: non ancora rivisto.</description>
+      <source url="https://www.worldbank.org/en/research/commodity-markets">World Bank Commodity Price Data (Pink Sheet)</source>
+      <category>Materie prime</category>
+    </item>
+  </channel>
+</rss>

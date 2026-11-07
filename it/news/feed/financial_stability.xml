@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veritane News: Stabilità finanziaria</title>
+    <link>https://william-lindberg.github.io/veritane/it/news/</link>
+    <atom:link href="https://william-lindberg.github.io/veritane/it/news/feed/financial_stability.xml" rel="self" type="application/rss+xml" />
+    <description>Stabilità finanziaria: dati e comunicati ufficiali, generati automaticamente da fonti ufficiali. A scopo educativo, non è consulenza.</description>
+    <language>it</language>
+    <lastBuildDate>Sat, 07 Nov 2026 17:27:38 GMT</lastBuildDate>
+    <item>
+      <title>Federal Reserve Board announces approval of application by Fleur Capital Corporation</title>
+      <link>https://william-lindberg.github.io/veritane/it/news/cadde35138dce92c/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/it/news/cadde35138dce92c/</guid>
+      <pubDate>Fri, 02 Oct 2026 20:45:00 GMT</pubDate>
+      <description>Il 2 ottobre 2026 il Federal Reserve Board ha pubblicato «Federal Reserve Board announces approval of application by Fleur Capital Corporation». Fonte: Federal Reserve Board (https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm). Generato automaticamente dalla fonte; revisione: non ancora rivisto.</description>
+      <source url="https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm">Federal Reserve Board</source>
+      <category>Stabilità finanziaria</category>
+    </item>
+    <item>
+      <title>Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements</title>
+      <link>https://william-lindberg.github.io/veritane/it/news/975ec4f2519a9848/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/it/news/975ec4f2519a9848/</guid>
+      <pubDate>Wed, 30 Sep 2026 13:00:00 GMT</pubDate>
+      <description>Il 30 settembre 2026 il Federal Reserve Board ha pubblicato «Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements». Fonte: Federal Reserve Board (https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm). Generato automaticamente dalla fonte; revisione: non ancora rivisto.</description>
+      <source url="https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm">Federal Reserve Board</source>
+      <category>Stabilità finanziaria</category>
+    </item>
+    <item>
+      <title>Bowman, The Final Chapter on Modernizing Bank Regulatory Stress Testing</title>
+      <link>https://william-lindberg.github.io/veritane/it/news/6ec3b472a80df2b6/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/it/news/6ec3b472a80df2b6/</guid>
+      <pubDate>Fri, 18 Sep 2026 13:30:00 GMT</pubDate>
+      <description>Il 18 settembre 2026 il Federal Reserve Board ha pubblicato un discorso: «Bowman, The Final Chapter on Modernizing Bank Regulatory Stress Testing». Fonte: Federal Reserve Board (https://www.federalreserve.gov/newsevents/speech/bowman20260918a.htm). Generato automaticamente dalla fonte; revisione: non ancora rivisto.</description>
+      <source url="https://www.federalreserve.gov/newsevents/speech/bowman20260918a.htm">Federal Reserve Board</source>
+      <category>Stabilità finanziaria</category>
+    </item>
+  </channel>
+</rss>

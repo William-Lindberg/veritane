@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veritane News: allerte ufficiali per catastrofi</title>
+    <link>https://william-lindberg.github.io/veritane/it/news/</link>
+    <atom:link href="https://william-lindberg.github.io/veritane/it/news/feed/alerts.xml" rel="self" type="application/rss+xml" />
+    <description>Allerte ufficiali ai due livelli più alti di GDACS e dello U.S. Geological Survey, come sulla mappa delle notizie nel mondo di Veritane. Ogni voce rimanda al monitor dell&apos;evento o alla pagina dell&apos;ente che la pubblica.</description>
+    <language>it</language>
+    <lastBuildDate>Sat, 07 Nov 2026 17:17:41 GMT</lastBuildDate>
+    <item>
+      <title>India: Ciclone tropicale Murasu · Livello di allerta GDACS: Rosso</title>
+      <link>https://william-lindberg.github.io/veritane/it/news/events/disaster-in-2026-11-01/</link>
+      <guid isPermaLink="false">veritane-signal-gdacs-tc-1001346</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Livello di allerta GDACS: Rosso. 157 km/h. Dal: 2026-11-01. Pagina della fonte: https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001346. Le allerte GDACS per terremoti, tsunami e cicloni tropicali sono stime automatiche basate su modelli e possono contenere errori. Non sostituiscono gli avvisi delle autorità nazionali.</description>
+    </item>
+    <item>
+      <title>East Africa, Central Sahel: Siccità · Livello di allerta GDACS: Arancione</title>
+      <link>https://www.gdacs.org/report.aspx?eventtype=DR&amp;eventid=1027450</link>
+      <guid isPermaLink="false">veritane-signal-gdacs-dr-1027450</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+      <description>Livello di allerta GDACS: Arancione. Dal: 2026-05-21. Pagina della fonte: https://www.gdacs.org/report.aspx?eventtype=DR&amp;eventid=1027450. Le allerte GDACS per terremoti, tsunami e cicloni tropicali sono stime automatiche basate su modelli e possono contenere errori. Non sostituiscono gli avvisi delle autorità nazionali.</description>
+    </item>
+    <item>
+      <title>Central America: Siccità · Livello di allerta GDACS: Arancione</title>
+      <link>https://www.gdacs.org/report.aspx?eventtype=DR&amp;eventid=1027449</link>
+      <guid isPermaLink="false">veritane-signal-gdacs-dr-1027449</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Livello di allerta GDACS: Arancione. Dal: 2026-04-21. Pagina della fonte: https://www.gdacs.org/report.aspx?eventtype=DR&amp;eventid=1027449. Le allerte GDACS per terremoti, tsunami e cicloni tropicali sono stime automatiche basate su modelli e possono contenere errori. Non sostituiscono gli avvisi delle autorità nazionali.</description>
+    </item>
+    <item>
+      <title>Europe: Siccità · Livello di allerta GDACS: Arancione</title>
+      <link>https://www.gdacs.org/report.aspx?eventtype=DR&amp;eventid=1018332</link>
+      <guid isPermaLink="false">veritane-signal-gdacs-dr-1018332</guid>
+      <pubDate>Sun, 21 Dec 2025 00:00:00 GMT</pubDate>
+      <description>Livello di allerta GDACS: Arancione. Dal: 2025-12-21. Pagina della fonte: https://www.gdacs.org/report.aspx?eventtype=DR&amp;eventid=1018332. Le allerte GDACS per terremoti, tsunami e cicloni tropicali sono stime automatiche basate su modelli e possono contenere errori. Non sostituiscono gli avvisi delle autorità nazionali.</description>
+    </item>
+  </channel>
+</rss>

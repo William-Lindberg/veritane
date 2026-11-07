@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veritane News: Danimarca</title>
+    <link>https://william-lindberg.github.io/veritane/it/news/countries/dk/</link>
+    <atom:link href="https://william-lindberg.github.io/veritane/it/news/countries/dk/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Danimarca: dati economici e comunicati ufficiali, generati automaticamente da fonti ufficiali. A scopo educativo, non è consulenza.</description>
+    <language>it</language>
+    <lastBuildDate>Sat, 07 Nov 2026 17:27:38 GMT</lastBuildDate>
+    <item>
+      <title>Danimarca: Tasso di disoccupazione, settembre 2026</title>
+      <link>https://william-lindberg.github.io/veritane/it/news/f23a0f2c34f93d6e/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/it/news/f23a0f2c34f93d6e/</guid>
+      <pubDate>Thu, 05 Nov 2026 22:00:00 GMT</pubDate>
+      <description>Nuovi dati: In Danimarca il tasso di disoccupazione era del 6,8% a settembre 2026, in aumento rispetto al 5,8% di agosto 2026. Fonte: Eurostat. Fonte: Eurostat (https://ec.europa.eu/eurostat/databrowser/view/une_rt_m/default/table). Generato automaticamente dalla fonte; revisione: non ancora rivisto.</description>
+      <source url="https://ec.europa.eu/eurostat/databrowser/view/une_rt_m/default/table">Eurostat</source>
+      <category>Lavoro</category>
+    </item>
+  </channel>
+</rss>

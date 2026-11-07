@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veritane News: Israel</title>
+    <link>https://william-lindberg.github.io/veritane/sv/news/countries/il/</link>
+    <atom:link href="https://william-lindberg.github.io/veritane/sv/news/countries/il/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Officiell ekonomisk statistik och officiella besked för Israel, skapade automatiskt från officiella källor. Utbildning, inte rådgivning.</description>
+    <language>sv</language>
+    <lastBuildDate>Sat, 07 Nov 2026 17:27:38 GMT</lastBuildDate>
+    <item>
+      <title>Israel: KPI-inflation, september 2026</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/80e06324de1932ae/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/80e06324de1932ae/</guid>
+      <pubDate>Fri, 06 Nov 2026 07:46:58 GMT</pubDate>
+      <description>Nya data: I Israel var KPI-inflationen 1,6 % i september 2026, upp från 1,5 % i augusti 2026. Källa: International Monetary Fund (CPI dataset). Källa: International Monetary Fund (CPI dataset) (https://data.imf.org/). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://data.imf.org/">International Monetary Fund (CPI dataset)</source>
+      <category>Inflation</category>
+    </item>
+  </channel>
+</rss>

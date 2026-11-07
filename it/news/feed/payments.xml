@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veritane News: Pagamenti</title>
+    <link>https://william-lindberg.github.io/veritane/it/news/</link>
+    <atom:link href="https://william-lindberg.github.io/veritane/it/news/feed/payments.xml" rel="self" type="application/rss+xml" />
+    <description>Pagamenti: dati e comunicati ufficiali, generati automaticamente da fonti ufficiali. A scopo educativo, non è consulenza.</description>
+    <language>it</language>
+    <lastBuildDate>Sat, 07 Nov 2026 17:27:38 GMT</lastBuildDate>
+    <item>
+      <title>Waller, Payments in the Age of AI Agents</title>
+      <link>https://william-lindberg.github.io/veritane/it/news/aa1ac57f54e7cd23/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/it/news/aa1ac57f54e7cd23/</guid>
+      <pubDate>Tue, 29 Sep 2026 19:00:00 GMT</pubDate>
+      <description>Il 29 settembre 2026 il Federal Reserve Board ha pubblicato un discorso: «Waller, Payments in the Age of AI Agents». Fonte: Federal Reserve Board (https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm). Generato automaticamente dalla fonte; revisione: non ancora rivisto.</description>
+      <source url="https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm">Federal Reserve Board</source>
+      <category>Pagamenti</category>
+    </item>
+    <item>
+      <title>Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act</title>
+      <link>https://william-lindberg.github.io/veritane/it/news/a09909ffdb688fe7/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/it/news/a09909ffdb688fe7/</guid>
+      <pubDate>Thu, 24 Sep 2026 18:30:00 GMT</pubDate>
+      <description>Il 24 settembre 2026 il Federal Reserve Board ha pubblicato «Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act». Fonte: Federal Reserve Board (https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm). Generato automaticamente dalla fonte; revisione: non ancora rivisto.</description>
+      <source url="https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm">Federal Reserve Board</source>
+      <category>Pagamenti</category>
+    </item>
+    <item>
+      <title>Draft National Payment System Policy and National Payment System Bill, 2026</title>
+      <link>https://william-lindberg.github.io/veritane/it/news/8c7b12a898263124/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/it/news/8c7b12a898263124/</guid>
+      <pubDate>Mon, 21 Sep 2026 12:51:42 GMT</pubDate>
+      <description>Il 21 settembre 2026 la Central Bank of Kenya ha pubblicato «Draft National Payment System Policy and National Payment System Bill, 2026». Fonte: Central Bank of Kenya (https://www.centralbank.go.ke/2026/09/21/draft-national-payment-system-policy-and-national-payment-system-bill-2026/). Generato automaticamente dalla fonte; revisione: non ancora rivisto.</description>
+      <source url="https://www.centralbank.go.ke/2026/09/21/draft-national-payment-system-policy-and-national-payment-system-bill-2026/">Central Bank of Kenya</source>
+      <category>Pagamenti</category>
+    </item>
+  </channel>
+</rss>

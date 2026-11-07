@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veritane News: Australien</title>
+    <link>https://william-lindberg.github.io/veritane/sv/news/countries/au/</link>
+    <atom:link href="https://william-lindberg.github.io/veritane/sv/news/countries/au/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Officiell ekonomisk statistik och officiella besked för Australien, skapade automatiskt från officiella källor. Utbildning, inte rådgivning.</description>
+    <language>sv</language>
+    <lastBuildDate>Sat, 07 Nov 2026 17:27:38 GMT</lastBuildDate>
+    <item>
+      <title>Australien: Mål för cash rate (månadsgenomsnitt), oktober 2026</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/c44cd99e29f2d2fe/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/c44cd99e29f2d2fe/</guid>
+      <pubDate>Fri, 06 Nov 2026 22:31:21 GMT</pubDate>
+      <description>Nya data: I Australien var målet för cash rate 4,60 % i oktober 2026, upp från 4,36 % i september 2026. Källa: Reserve Bank of Australia. Källa: Reserve Bank of Australia (https://www.rba.gov.au/statistics/cash-rate/). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://www.rba.gov.au/statistics/cash-rate/">Reserve Bank of Australia</source>
+      <category>Räntor</category>
+    </item>
+    <item>
+      <title>Designation of Prosegur Australia Pty Ltd under the Cash Distribution Framework Act 2026</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/eb04520f63a68812/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/eb04520f63a68812/</guid>
+      <pubDate>Thu, 05 Nov 2026 23:45:00 GMT</pubDate>
+      <description>Den 5 november 2026 publicerade Reserve Bank of Australia ”Designation of Prosegur Australia Pty Ltd under the Cash Distribution Framework Act 2026”. Källa: Reserve Bank of Australia (https://www.rba.gov.au/media-releases/2026/mr-26-31.html). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://www.rba.gov.au/media-releases/2026/mr-26-31.html">Reserve Bank of Australia</source>
+    </item>
+    <item>
+      <title>Trust, Expectations and Monetary Policy</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/8a2010a77940ad2a/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/8a2010a77940ad2a/</guid>
+      <pubDate>Thu, 05 Nov 2026 06:45:00 GMT</pubDate>
+      <description>Den 5 november 2026 publicerade Reserve Bank of Australia ett tal: ”Trust, Expectations and Monetary Policy”. Källa: Reserve Bank of Australia (https://www.rba.gov.au/speeches/2026/sp-dg-2026-11-05.html). Skapad automatiskt från källan; granskning: inte granskad än.</description>
+      <source url="https://www.rba.gov.au/speeches/2026/sp-dg-2026-11-05.html">Reserve Bank of Australia</source>
+    </item>
+  </channel>
+</rss>

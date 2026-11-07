@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="sv">
+  <title>Veritanes revideringslogg</title>
+  <subtitle>Ändringar som utgivare har gjort i siffror som Veritane redan hade hämtat. Utbildning, inte rådgivning.</subtitle>
+  <id>https://william-lindberg.github.io/veritane/sv/news/revisions/</id>
+  <link rel="alternate" href="https://william-lindberg.github.io/veritane/sv/news/revisions/"/>
+  <link rel="self" href="https://william-lindberg.github.io/veritane/sv/news/revisions/feed.xml"/>
+  <updated>2026-11-07T09:24:08.000Z</updated>
+  <author><name>Veritane</name></author>
+</feed>
