@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veritane News: Singapore</title>
+    <link>https://william-lindberg.github.io/veritane/news/countries/sg/</link>
+    <atom:link href="https://william-lindberg.github.io/veritane/news/countries/sg/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Official economic figures and announcements for Singapore, generated automatically from official sources. Education, not advice.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Nov 2026 17:27:38 GMT</lastBuildDate>
+  </channel>
+</rss>

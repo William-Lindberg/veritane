@@ -301,8 +301,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 50,
-      "last_seen": "2026-11-07T18:15:00Z"
+      "seen_28d": 59,
+      "last_seen": "2026-11-07T18:30:00Z"
     },
     {
       "id": "foxbusiness",
@@ -486,8 +486,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 18,
-      "last_seen": "2026-11-07T18:15:00Z"
+      "seen_28d": 19,
+      "last_seen": "2026-11-07T18:30:00Z"
     },
     {
       "id": "globeandmail",
@@ -646,8 +646,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 148,
-      "last_seen": "2026-11-07T17:45:00Z"
+      "seen_28d": 176,
+      "last_seen": "2026-11-07T18:30:00Z"
     },
     {
       "id": "guardian",
@@ -1814,8 +1814,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 2,
-      "last_seen": "2026-11-07T14:00:00Z"
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T18:30:00Z"
     },
     {
       "id": "gulfnews",
@@ -2334,8 +2334,8 @@
       ],
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 116,
-      "last_seen": "2026-11-07T18:00:00Z"
+      "seen_28d": 118,
+      "last_seen": "2026-11-07T18:30:00Z"
     },
     {
       "id": "businessline",
@@ -2434,8 +2434,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 96,
-      "last_seen": "2026-11-07T18:15:00Z"
+      "seen_28d": 99,
+      "last_seen": "2026-11-07T18:30:00Z"
     },
     {
       "id": "bs",
@@ -2457,8 +2457,8 @@
       ],
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 16,
-      "last_seen": "2026-11-07T18:15:00Z"
+      "seen_28d": 18,
+      "last_seen": "2026-11-07T18:30:00Z"
     },
     {
       "id": "moneycontrol",
@@ -2497,8 +2497,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 15,
-      "last_seen": "2026-11-07T18:15:00Z"
+      "seen_28d": 22,
+      "last_seen": "2026-11-07T18:30:00Z"
     },
     {
       "id": "thenews_pk",
@@ -3184,6 +3184,329 @@
       "reviewed": "2026-11-07",
       "seen_28d": 3,
       "last_seen": "2026-11-07T15:30:00Z"
+    },
+    {
+      "id": "tv2_dk",
+      "name": "TV 2 (Denmark)",
+      "hosts": [
+        "tv2.dk"
+      ],
+      "country": "DK",
+      "languages": [
+        "da"
+      ],
+      "type": "public_media",
+      "ownership": "public",
+      "owner": "TV 2 Danmark A/S (Danish state)",
+      "owner_group": "tv2-danmark",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 42,
+      "last_seen": "2026-11-07T15:30:00Z"
+    },
+    {
+      "id": "ruv",
+      "name": "RÚV",
+      "hosts": [
+        "ruv.is"
+      ],
+      "country": "IS",
+      "languages": [
+        "is",
+        "en"
+      ],
+      "type": "public_media",
+      "ownership": "public",
+      "owner": "Ríkisútvarpið (Icelandic public broadcaster)",
+      "owner_group": "ruv",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 19,
+      "last_seen": "2026-11-06T16:15:00Z"
+    },
+    {
+      "id": "icelandreview",
+      "name": "Iceland Review",
+      "hosts": [
+        "icelandreview.com"
+      ],
+      "country": "IS",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Iceland Review publisher (verify)",
+      "owner_group": "iceland-review",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 9,
+      "last_seen": "2026-11-07T15:00:00Z"
+    },
+    {
+      "id": "mg_za",
+      "name": "Mail & Guardian",
+      "hosts": [
+        "mg.co.za"
+      ],
+      "country": "ZA",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "M&G Media",
+      "owner_group": "mg-media",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 47,
+      "last_seen": "2026-11-07T15:45:00Z"
+    },
+    {
+      "id": "enca",
+      "name": "eNCA",
+      "hosts": [
+        "enca.com"
+      ],
+      "country": "ZA",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "eMedia Holdings",
+      "owner_group": "emedia",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 10,
+      "last_seen": "2026-11-07T16:30:00Z"
+    },
+    {
+      "id": "dailytrust",
+      "name": "Daily Trust",
+      "hosts": [
+        "dailytrust.com"
+      ],
+      "country": "NG",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Media Trust",
+      "owner_group": "media-trust",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 14,
+      "last_seen": "2026-11-07T17:00:00Z"
+    },
+    {
+      "id": "seneweb",
+      "name": "Seneweb",
+      "hosts": [
+        "seneweb.com"
+      ],
+      "country": "SN",
+      "languages": [
+        "fr"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Seneweb",
+      "owner_group": "seneweb",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 50,
+      "last_seen": "2026-11-07T18:15:00Z"
+    },
+    {
+      "id": "notesfrompoland",
+      "name": "Notes from Poland",
+      "hosts": [
+        "notesfrompoland.com"
+      ],
+      "country": "PL",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Notes from Poland",
+      "owner_group": "notes-from-poland",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 6,
+      "last_seen": "2026-11-07T12:15:00Z"
+    },
+    {
+      "id": "hotnews",
+      "name": "HotNews",
+      "hosts": [
+        "hotnews.ro"
+      ],
+      "country": "RO",
+      "languages": [
+        "ro"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "HotNews",
+      "owner_group": "hotnews",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 20,
+      "last_seen": "2026-11-07T18:15:00Z"
+    },
+    {
+      "id": "bellingcat",
+      "name": "Bellingcat",
+      "hosts": [
+        "bellingcat.com"
+      ],
+      "country": "NL",
+      "languages": [
+        "en"
+      ],
+      "type": "investigative",
+      "ownership": "trust_or_nonprofit",
+      "owner": "Stichting Bellingcat",
+      "owner_group": "bellingcat",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-05T09:45:00Z"
+    },
+    {
+      "id": "correctiv",
+      "name": "CORRECTIV",
+      "hosts": [
+        "correctiv.org"
+      ],
+      "country": "DE",
+      "languages": [
+        "de",
+        "en"
+      ],
+      "type": "investigative",
+      "ownership": "trust_or_nonprofit",
+      "owner": "CORRECTIV gGmbH",
+      "owner_group": "correctiv",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 7,
+      "last_seen": "2026-11-06T10:45:00Z"
+    },
+    {
+      "id": "ciper",
+      "name": "CIPER Chile",
+      "hosts": [
+        "ciperchile.cl"
+      ],
+      "country": "CL",
+      "languages": [
+        "es"
+      ],
+      "type": "investigative",
+      "ownership": "trust_or_nonprofit",
+      "owner": "Fundación CIPER",
+      "owner_group": "ciper",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 8,
+      "last_seen": "2026-11-07T00:15:00Z"
+    },
+    {
+      "id": "fullfact",
+      "name": "Full Fact",
+      "hosts": [
+        "fullfact.org"
+      ],
+      "country": "GB",
+      "languages": [
+        "en"
+      ],
+      "type": "fact_check",
+      "ownership": "trust_or_nonprofit",
+      "owner": "Full Fact (charity)",
+      "owner_group": "full-fact",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 2,
+      "last_seen": "2026-11-05T16:45:00Z"
+    },
+    {
+      "id": "factcheckorg",
+      "name": "FactCheck.org",
+      "hosts": [
+        "factcheck.org"
+      ],
+      "country": "US",
+      "languages": [
+        "en"
+      ],
+      "type": "fact_check",
+      "ownership": "trust_or_nonprofit",
+      "owner": "Annenberg Public Policy Center (University of Pennsylvania)",
+      "owner_group": "annenberg-ppc",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-06T21:15:00Z"
+    },
+    {
+      "id": "leadstories",
+      "name": "Lead Stories",
+      "hosts": [
+        "leadstories.com"
+      ],
+      "country": "US",
+      "languages": [
+        "en"
+      ],
+      "type": "fact_check",
+      "ownership": "private",
+      "owner": "Lead Stories LLC",
+      "owner_group": "lead-stories",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 15,
+      "last_seen": "2026-11-06T22:15:00Z"
+    },
+    {
+      "id": "altnews",
+      "name": "Alt News",
+      "hosts": [
+        "altnews.in"
+      ],
+      "country": "IN",
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "type": "fact_check",
+      "ownership": "trust_or_nonprofit",
+      "owner": "Pravda Media Foundation",
+      "owner_group": "pravda-media-foundation",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 6,
+      "last_seen": "2026-11-07T04:00:00Z"
     }
   ],
   "blocked": [
@@ -3343,6 +3666,11 @@
       "date": "2026-11-07",
       "change": "initial list of 321 outlets approved (D-1)",
       "by": "founder"
+    },
+    {
+      "date": "2026-11-07",
+      "change": "89 outlets added from the founder's list, including investigative outlets and fact-checkers (counted as signals)",
+      "by": "lead"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema": "veritane/digest/1",
   "date": "2026-11-07",
-  "generated_at": "2026-11-07T18:00:59Z",
+  "generated_at": "2026-11-07T18:25:43Z",
   "final": false,
   "template_version": "digest-templates/1",
   "headline": "No new official figures or decisions were collected on 7 November 2026.",
@@ -97,10 +97,11 @@
     }
   ],
   "sources": {
-    "ok": 64,
-    "failed": 1,
+    "ok": 63,
+    "failed": 2,
     "failed_names": [
-      "OECD"
+      "OECD",
+      "U.S. Department of the Treasury"
     ]
   },
   "empty": true

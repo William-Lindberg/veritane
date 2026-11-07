@@ -1,17 +1,17 @@
 {
   "schema": "veritane/story-day/1",
   "date": "2026-11-06",
-  "generated_at": "2026-11-07T18:04:12Z",
+  "generated_at": "2026-11-07T18:25:43Z",
   "stories": [
     {
       "id": "s20261106-19cd7fb665",
       "label": "Place not identified: Economy",
       "label_source": "template",
       "headline": {
-        "t": "The engine parts that 'fight the laws of the universe'",
+        "t": "Place not identified: Economy",
         "o": "bbc",
-        "u": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo",
-        "l": "en"
+        "l": "en",
+        "np": true
       },
       "countries": [],
       "regions": [],
@@ -21,12 +21,11 @@
       "coverage": [
         {
           "o": "bbc",
-          "t": "The engine parts that 'fight the laws of the universe'",
-          "u": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo",
           "s": "2026-11-06T00:00:00Z",
           "l": "en",
           "join": "seed",
-          "copies": 1
+          "copies": 1,
+          "np": true
         }
       ],
       "other_sites": {
@@ -54,13 +53,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:04:12Z",
+        "checked_at": "2026-11-07T18:25:43Z",
         "frozen_after": "2026-11-09T00:00:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 9,
-        "computed_at": "2026-11-07T18:04:12Z",
+        "computed_at": "2026-11-07T18:25:43Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -73,7 +72,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 42.07,
+          "age_h": 42.43,
           "first_seen": "2026-11-06T00:00:00Z"
         },
         "points": {
@@ -83,7 +82,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 2.97
+          "T": 2.94
         },
         "base": 5.95
       },
@@ -125,14 +124,14 @@
       }
     },
     {
-      "id": "s20261106-3178d1b07c",
+      "id": "s20261106-d086826f6f",
       "label": "Place not identified: Economy",
       "label_source": "template",
       "headline": {
-        "t": "Tornano agli antichi fasti 50 statue dell’Albergo dei poveri di Genova",
-        "o": "sole24ore",
-        "u": "https://www.ilsole24ore.com/art/tornano-antichi-fasti-50-statue-dell-albergo-poveri-genova-AJllr35B",
-        "l": "it"
+        "t": "Place not identified: Economy",
+        "o": "tv2_dk",
+        "l": "en",
+        "np": true
       },
       "countries": [],
       "regions": [],
@@ -141,13 +140,12 @@
       "opinion": false,
       "coverage": [
         {
-          "o": "sole24ore",
-          "t": "Tornano agli antichi fasti 50 statue dell’Albergo dei poveri di Genova",
-          "u": "https://www.ilsole24ore.com/art/tornano-antichi-fasti-50-statue-dell-albergo-poveri-genova-AJllr35B",
-          "s": "2026-11-06T06:00:00Z",
-          "l": "it",
+          "o": "tv2_dk",
+          "s": "2026-11-06T04:45:00Z",
+          "l": "da",
           "join": "seed",
-          "copies": 1
+          "copies": 1,
+          "np": true
         }
       ],
       "other_sites": {
@@ -175,13 +173,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:04:12Z",
-        "frozen_after": "2026-11-09T06:00:00Z"
+        "checked_at": "2026-11-07T18:25:43Z",
+        "frozen_after": "2026-11-09T04:45:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 9,
-        "computed_at": "2026-11-07T18:04:12Z",
+        "computed_at": "2026-11-07T18:25:43Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -194,7 +192,367 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 36.07,
+          "age_h": 37.68,
+          "first_seen": "2026-11-06T04:45:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 0,
+          "M": 0,
+          "P": 0,
+          "T": 3.37
+        },
+        "base": 5.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1+embed/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261106044500"
+        ],
+        "events": [
+          [
+            "2026-11-07T18:25:43Z",
+            "created",
+            {
+              "outlet": "tv2_dk",
+              "seen_at": "2026-11-06T04:45:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-06T04:45:00Z",
+      "last_seen": "2026-11-06T04:45:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261106-a18ea211b5",
+      "label": "Place not identified: Economy",
+      "label_source": "template",
+      "headline": {
+        "t": "Place not identified: Economy",
+        "o": "ruv",
+        "l": "en",
+        "np": true
+      },
+      "countries": [],
+      "regions": [],
+      "categories": [],
+      "country_basis": "none",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "ruv",
+          "s": "2026-11-06T05:15:00Z",
+          "l": "en",
+          "join": "seed",
+          "copies": 1,
+          "np": true
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "WLD",
+          "count": 0,
+          "names": []
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T18:25:43Z",
+        "frozen_after": "2026-11-09T05:15:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 9,
+        "computed_at": "2026-11-07T18:25:43Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [],
+          "regions": [],
+          "scope": "unknown",
+          "places": 0,
+          "categories": [],
+          "category": null,
+          "category_weight": 0,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 37.18,
+          "first_seen": "2026-11-06T05:15:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 0,
+          "M": 0,
+          "P": 0,
+          "T": 3.42
+        },
+        "base": 5.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1+embed/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261106051500"
+        ],
+        "events": [
+          [
+            "2026-11-07T18:25:43Z",
+            "created",
+            {
+              "outlet": "ruv",
+              "seen_at": "2026-11-06T05:15:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-06T05:15:00Z",
+      "last_seen": "2026-11-06T05:15:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261106-ffa934e399",
+      "label": "Place not identified: Economy",
+      "label_source": "template",
+      "headline": {
+        "t": "Place not identified: Economy",
+        "o": "ruv",
+        "l": "en",
+        "np": true
+      },
+      "countries": [],
+      "regions": [],
+      "categories": [],
+      "country_basis": "none",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "ruv",
+          "s": "2026-11-06T05:30:00Z",
+          "l": "en",
+          "join": "seed",
+          "copies": 1,
+          "np": true
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "WLD",
+          "count": 0,
+          "names": []
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T18:25:43Z",
+        "frozen_after": "2026-11-09T05:30:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 9,
+        "computed_at": "2026-11-07T18:25:43Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [],
+          "regions": [],
+          "scope": "unknown",
+          "places": 0,
+          "categories": [],
+          "category": null,
+          "category_weight": 0,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 36.93,
+          "first_seen": "2026-11-06T05:30:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 0,
+          "M": 0,
+          "P": 0,
+          "T": 3.44
+        },
+        "base": 5.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1+embed/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261106053000"
+        ],
+        "events": [
+          [
+            "2026-11-07T18:25:43Z",
+            "created",
+            {
+              "outlet": "ruv",
+              "seen_at": "2026-11-06T05:30:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-06T05:30:00Z",
+      "last_seen": "2026-11-06T05:30:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261106-3178d1b07c",
+      "label": "Place not identified: Economy",
+      "label_source": "template",
+      "headline": {
+        "t": "Place not identified: Economy",
+        "o": "sole24ore",
+        "l": "en",
+        "np": true
+      },
+      "countries": [],
+      "regions": [],
+      "categories": [],
+      "country_basis": "none",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "sole24ore",
+          "s": "2026-11-06T06:00:00Z",
+          "l": "it",
+          "join": "seed",
+          "copies": 1,
+          "np": true
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "WLD",
+          "count": 0,
+          "names": []
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T18:25:43Z",
+        "frozen_after": "2026-11-09T06:00:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 9,
+        "computed_at": "2026-11-07T18:25:43Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [],
+          "regions": [],
+          "scope": "unknown",
+          "places": 0,
+          "categories": [],
+          "category": null,
+          "category_weight": 0,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 36.43,
           "first_seen": "2026-11-06T06:00:00Z"
         },
         "points": {
@@ -204,7 +562,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 3.53
+          "T": 3.49
         },
         "base": 5.95
       },
@@ -242,9 +600,7 @@
       "classified_by": "rules",
       "classification": {
         "by": "rules",
-        "version": "events/1",
-        "headline_en": "50 statues of the,Hotel of the poor of Genoa return to the ancient high",
-        "translated_by": "local:romance-en@f60feaa"
+        "version": "events/1"
       }
     },
     {
@@ -252,10 +608,10 @@
       "label": "Place not identified: Economy",
       "label_source": "template",
       "headline": {
-        "t": "Tv e piattaforme alla sfida della visibilità: il Tar conferma le tutele Agcom",
+        "t": "Place not identified: Economy",
         "o": "sole24ore",
-        "u": "https://www.ilsole24ore.com/art/tv-e-piattaforme-sfida-visibilita-tar-conferma-tutele-agcom-AJLbdc5B",
-        "l": "it"
+        "l": "en",
+        "np": true
       },
       "countries": [],
       "regions": [],
@@ -265,12 +621,11 @@
       "coverage": [
         {
           "o": "sole24ore",
-          "t": "Tv e piattaforme alla sfida della visibilità: il Tar conferma le tutele Agcom",
-          "u": "https://www.ilsole24ore.com/art/tv-e-piattaforme-sfida-visibilita-tar-conferma-tutele-agcom-AJLbdc5B",
           "s": "2026-11-06T06:30:00Z",
           "l": "it",
           "join": "seed",
-          "copies": 1
+          "copies": 1,
+          "np": true
         }
       ],
       "other_sites": {
@@ -298,13 +653,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:04:12Z",
+        "checked_at": "2026-11-07T18:25:43Z",
         "frozen_after": "2026-11-09T06:30:00Z"
       },
       "importance": {
         "version": "importance/1",
-        "score": 10,
-        "computed_at": "2026-11-07T18:04:12Z",
+        "score": 9,
+        "computed_at": "2026-11-07T18:25:43Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -317,7 +672,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 35.57,
+          "age_h": 35.93,
           "first_seen": "2026-11-06T06:30:00Z"
         },
         "points": {
@@ -327,7 +682,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 3.58
+          "T": 3.54
         },
         "base": 5.95
       },
@@ -365,9 +720,142 @@
       "classified_by": "rules",
       "classification": {
         "by": "rules",
-        "version": "events/1",
-        "headline_en": "TV and platforms to the challenge of visibility: the Tar confirms the Agcom safeguards",
-        "translated_by": "local:romance-en@f60feaa"
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261106-f1e35da71d",
+      "label": "Poland: Economy",
+      "label_source": "template",
+      "headline": {
+        "t": "Poland: Economy",
+        "o": "notesfrompoland",
+        "l": "en",
+        "np": true
+      },
+      "countries": [
+        "PL"
+      ],
+      "regions": [
+        "eu"
+      ],
+      "categories": [],
+      "country_basis": "title",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "notesfrompoland",
+          "s": "2026-11-06T08:15:00Z",
+          "l": "en",
+          "join": "seed",
+          "copies": 1,
+          "np": true
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "PL",
+          "count": 6,
+          "names": [
+            "Eurostat",
+            "Bank for International Settlements",
+            "International Labour Organization",
+            "International Monetary Fund",
+            "OECD",
+            "World Bank"
+          ]
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 6 official sources we follow for Poland published a matching release in the days around this story.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T18:25:43Z",
+        "frozen_after": "2026-11-09T08:15:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 10,
+        "computed_at": "2026-11-07T18:25:43Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [
+            "PL"
+          ],
+          "regions": [
+            "eu"
+          ],
+          "scope": "one_country",
+          "places": 1,
+          "categories": [],
+          "category": null,
+          "category_weight": 0,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 34.18,
+          "first_seen": "2026-11-06T08:15:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 0,
+          "M": 0,
+          "P": 0,
+          "T": 3.73
+        },
+        "base": 5.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1+embed/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261106081500"
+        ],
+        "events": [
+          [
+            "2026-11-07T18:25:43Z",
+            "created",
+            {
+              "outlet": "notesfrompoland",
+              "seen_at": "2026-11-06T08:15:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-06T08:15:00Z",
+      "last_seen": "2026-11-06T08:15:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
       }
     },
     {
@@ -375,10 +863,10 @@
       "label": "Global: Economy",
       "label_source": "template",
       "headline": {
-        "t": "Young Factor Europe, sei Paesi a lezione di finanza",
+        "t": "Global: Economy",
         "o": "sole24ore",
-        "u": "https://www.ilsole24ore.com/art/young-factor-europe-sei-paesi-lezione-finanza-AJKazx6B",
-        "l": "it"
+        "l": "en",
+        "np": true
       },
       "countries": [],
       "regions": [
@@ -392,12 +880,11 @@
       "coverage": [
         {
           "o": "sole24ore",
-          "t": "Young Factor Europe, sei Paesi a lezione di finanza",
-          "u": "https://www.ilsole24ore.com/art/young-factor-europe-sei-paesi-lezione-finanza-AJKazx6B",
           "s": "2026-11-06T08:45:00Z",
           "l": "it",
           "join": "seed",
-          "copies": 1
+          "copies": 1,
+          "np": true
         }
       ],
       "other_sites": {
@@ -427,13 +914,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 1 international source we follow for the world economy published a matching release in the days around this story.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:04:12Z",
+        "checked_at": "2026-11-07T18:25:43Z",
         "frozen_after": "2026-11-09T08:45:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 20,
-        "computed_at": "2026-11-07T18:04:12Z",
+        "computed_at": "2026-11-07T18:25:43Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -450,7 +937,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 33.32,
+          "age_h": 33.68,
           "first_seen": "2026-11-06T08:45:00Z"
         },
         "points": {
@@ -460,7 +947,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 3.82
+          "T": 3.78
         },
         "base": 15.95
       },
@@ -498,9 +985,946 @@
       "classified_by": "rules",
       "classification": {
         "by": "rules",
-        "version": "events/1",
-        "headline_en": "Young Factor Europe, six Finance-Lesson Countries",
-        "translated_by": "local:romance-en@f60feaa"
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261106-419b41fef4",
+      "label": "United States: Economy",
+      "label_source": "template",
+      "headline": {
+        "t": "United States: Economy",
+        "o": "tv2_dk",
+        "l": "en",
+        "np": true
+      },
+      "countries": [
+        "US"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "categories": [],
+      "country_basis": "title",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "tv2_dk",
+          "s": "2026-11-06T08:45:00Z",
+          "l": "da",
+          "join": "seed",
+          "copies": 1,
+          "np": true
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "US",
+          "count": 13,
+          "names": [
+            "Commodity Futures Trading Commission",
+            "Consumer Financial Protection Bureau",
+            "Federal Reserve",
+            "Federal Reserve Bank of New York",
+            "U.S. Bureau of Economic Analysis",
+            "U.S. Bureau of Labor Statistics",
+            "U.S. Securities and Exchange Commission",
+            "U.S. Treasury",
+            "Bank for International Settlements",
+            "International Labour Organization",
+            "International Monetary Fund",
+            "OECD",
+            "World Bank"
+          ]
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 13 official sources we follow for the United States published a matching release in the days around this story.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T18:25:43Z",
+        "frozen_after": "2026-11-09T08:45:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 10,
+        "computed_at": "2026-11-07T18:25:43Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [
+            "US"
+          ],
+          "regions": [
+            "north-america"
+          ],
+          "scope": "one_country",
+          "places": 1,
+          "categories": [],
+          "category": null,
+          "category_weight": 0,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 33.68,
+          "first_seen": "2026-11-06T08:45:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 0,
+          "M": 0,
+          "P": 0,
+          "T": 3.78
+        },
+        "base": 5.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1+embed/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261106084500"
+        ],
+        "events": [
+          [
+            "2026-11-07T18:25:43Z",
+            "created",
+            {
+              "outlet": "tv2_dk",
+              "seen_at": "2026-11-06T08:45:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-06T08:45:00Z",
+      "last_seen": "2026-11-06T08:45:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261106-d2d7d8d4e4",
+      "label": "Place not identified: Economy",
+      "label_source": "template",
+      "headline": {
+        "t": "Place not identified: Economy",
+        "o": "mg_za",
+        "l": "en",
+        "np": true
+      },
+      "countries": [],
+      "regions": [],
+      "categories": [],
+      "country_basis": "none",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "mg_za",
+          "s": "2026-11-06T09:00:00Z",
+          "l": "en",
+          "join": "seed",
+          "copies": 1,
+          "np": true
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "WLD",
+          "count": 0,
+          "names": []
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T18:25:43Z",
+        "frozen_after": "2026-11-09T09:00:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 10,
+        "computed_at": "2026-11-07T18:25:43Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [],
+          "regions": [],
+          "scope": "unknown",
+          "places": 0,
+          "categories": [],
+          "category": null,
+          "category_weight": 0,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 33.43,
+          "first_seen": "2026-11-06T09:00:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 0,
+          "M": 0,
+          "P": 0,
+          "T": 3.81
+        },
+        "base": 5.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1+embed/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261106090000"
+        ],
+        "events": [
+          [
+            "2026-11-07T18:25:43Z",
+            "created",
+            {
+              "outlet": "mg_za",
+              "seen_at": "2026-11-06T09:00:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-06T09:00:00Z",
+      "last_seen": "2026-11-06T09:00:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261106-ac49b19cd0",
+      "label": "Poland: Economy",
+      "label_source": "template",
+      "headline": {
+        "t": "Poland: Economy",
+        "o": "notesfrompoland",
+        "l": "en",
+        "np": true
+      },
+      "countries": [
+        "PL"
+      ],
+      "regions": [
+        "eu"
+      ],
+      "categories": [],
+      "country_basis": "title",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "notesfrompoland",
+          "s": "2026-11-06T10:00:00Z",
+          "l": "en",
+          "join": "seed",
+          "copies": 1,
+          "np": true
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "PL",
+          "count": 6,
+          "names": [
+            "Eurostat",
+            "Bank for International Settlements",
+            "International Labour Organization",
+            "International Monetary Fund",
+            "OECD",
+            "World Bank"
+          ]
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 6 official sources we follow for Poland published a matching release in the days around this story.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T18:25:43Z",
+        "frozen_after": "2026-11-09T10:00:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 10,
+        "computed_at": "2026-11-07T18:25:43Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [
+            "PL"
+          ],
+          "regions": [
+            "eu"
+          ],
+          "scope": "one_country",
+          "places": 1,
+          "categories": [],
+          "category": null,
+          "category_weight": 0,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 32.43,
+          "first_seen": "2026-11-06T10:00:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 0,
+          "M": 0,
+          "P": 0,
+          "T": 3.92
+        },
+        "base": 5.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1+embed/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261106100000"
+        ],
+        "events": [
+          [
+            "2026-11-07T18:25:43Z",
+            "created",
+            {
+              "outlet": "notesfrompoland",
+              "seen_at": "2026-11-06T10:00:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-06T10:00:00Z",
+      "last_seen": "2026-11-06T10:00:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261106-d61ae76a7d",
+      "label": "European Union: Economy",
+      "label_source": "template",
+      "headline": {
+        "t": "European Union: Economy",
+        "o": "tv2_dk",
+        "l": "en",
+        "np": true
+      },
+      "countries": [
+        "EU"
+      ],
+      "regions": [
+        "eu"
+      ],
+      "categories": [],
+      "country_basis": "title",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "tv2_dk",
+          "s": "2026-11-06T10:00:00Z",
+          "l": "da",
+          "join": "seed",
+          "copies": 1,
+          "np": true
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "EU",
+          "count": 3,
+          "names": [
+            "European Banking Authority",
+            "European Securities and Markets Authority",
+            "Eurostat"
+          ]
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 3 official sources we follow for the European Union published a matching release in the days around this story.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T18:25:43Z",
+        "frozen_after": "2026-11-09T10:00:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 15,
+        "computed_at": "2026-11-07T18:25:43Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [
+            "EU"
+          ],
+          "regions": [
+            "eu"
+          ],
+          "scope": "one_region",
+          "places": 1,
+          "categories": [],
+          "category": null,
+          "category_weight": 0,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 32.43,
+          "first_seen": "2026-11-06T10:00:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 5,
+          "K": 0,
+          "M": 0,
+          "P": 0,
+          "T": 3.92
+        },
+        "base": 10.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1+embed/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261106100000"
+        ],
+        "events": [
+          [
+            "2026-11-07T18:25:43Z",
+            "created",
+            {
+              "outlet": "tv2_dk",
+              "seen_at": "2026-11-06T10:00:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-06T10:00:00Z",
+      "last_seen": "2026-11-06T10:00:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261106-10f3524ae0",
+      "label": "India: Economy",
+      "label_source": "template",
+      "headline": {
+        "t": "India: Economy",
+        "o": "icelandreview",
+        "l": "en",
+        "np": true
+      },
+      "countries": [
+        "IN"
+      ],
+      "regions": [
+        "asia-pacific"
+      ],
+      "categories": [],
+      "country_basis": "title",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "icelandreview",
+          "s": "2026-11-06T11:45:00Z",
+          "l": "en",
+          "join": "seed",
+          "copies": 1,
+          "np": true
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "IN",
+          "count": 7,
+          "names": [
+            "European Central Bank",
+            "Reserve Bank of India",
+            "Bank for International Settlements",
+            "International Labour Organization",
+            "International Monetary Fund",
+            "OECD",
+            "World Bank"
+          ]
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 7 official sources we follow for India published a matching release in the days around this story.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T18:25:43Z",
+        "frozen_after": "2026-11-09T11:45:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 10,
+        "computed_at": "2026-11-07T18:25:43Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [
+            "IN"
+          ],
+          "regions": [
+            "asia-pacific"
+          ],
+          "scope": "one_country",
+          "places": 1,
+          "categories": [],
+          "category": null,
+          "category_weight": 0,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 30.68,
+          "first_seen": "2026-11-06T11:45:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 0,
+          "M": 0,
+          "P": 0,
+          "T": 4.12
+        },
+        "base": 5.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1+embed/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261106114500"
+        ],
+        "events": [
+          [
+            "2026-11-07T18:25:43Z",
+            "created",
+            {
+              "outlet": "icelandreview",
+              "seen_at": "2026-11-06T11:45:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-06T11:45:00Z",
+      "last_seen": "2026-11-06T11:45:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261106-d2c191ea9c",
+      "label": "United States: Economy",
+      "label_source": "template",
+      "headline": {
+        "t": "United States: Economy",
+        "o": "mg_za",
+        "l": "en",
+        "np": true
+      },
+      "countries": [
+        "US",
+        "IL",
+        "IR"
+      ],
+      "regions": [
+        "north-america",
+        "middle-east"
+      ],
+      "categories": [],
+      "country_basis": "title",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "mg_za",
+          "s": "2026-11-06T12:30:00Z",
+          "l": "en",
+          "join": "seed",
+          "copies": 1,
+          "np": true
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "US",
+          "count": 13,
+          "names": [
+            "Commodity Futures Trading Commission",
+            "Consumer Financial Protection Bureau",
+            "Federal Reserve",
+            "Federal Reserve Bank of New York",
+            "U.S. Bureau of Economic Analysis",
+            "U.S. Bureau of Labor Statistics",
+            "U.S. Securities and Exchange Commission",
+            "U.S. Treasury",
+            "Bank for International Settlements",
+            "International Labour Organization",
+            "International Monetary Fund",
+            "OECD",
+            "World Bank"
+          ]
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 13 official sources we follow for the United States published a matching release in the days around this story.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T18:25:43Z",
+        "frozen_after": "2026-11-09T12:30:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 18,
+        "computed_at": "2026-11-07T18:25:43Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [
+            "US",
+            "IL",
+            "IR"
+          ],
+          "regions": [
+            "north-america",
+            "middle-east"
+          ],
+          "scope": "regions_2",
+          "places": 3,
+          "categories": [],
+          "category": null,
+          "category_weight": 0,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 29.93,
+          "first_seen": "2026-11-06T12:30:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 7.5,
+          "K": 0,
+          "M": 0,
+          "P": 0,
+          "T": 4.21
+        },
+        "base": 13.45
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1+embed/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261106123000"
+        ],
+        "events": [
+          [
+            "2026-11-07T18:25:43Z",
+            "created",
+            {
+              "outlet": "mg_za",
+              "seen_at": "2026-11-06T12:30:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-06T12:30:00Z",
+      "last_seen": "2026-11-06T12:30:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
+    {
+      "id": "s20261106-cfcd5c393b",
+      "label": "Global: Economy",
+      "label_source": "template",
+      "headline": {
+        "t": "Global: Economy",
+        "o": "mg_za",
+        "l": "en",
+        "np": true
+      },
+      "countries": [],
+      "regions": [
+        "global"
+      ],
+      "categories": [],
+      "country_basis": "title",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "mg_za",
+          "s": "2026-11-06T15:00:00Z",
+          "l": "en",
+          "join": "seed",
+          "copies": 1,
+          "np": true
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "WLD",
+          "count": 1,
+          "names": [
+            "World Bank"
+          ]
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 1 international source we follow for the world economy published a matching release in the days around this story.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T18:25:43Z",
+        "frozen_after": "2026-11-09T15:00:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 20,
+        "computed_at": "2026-11-07T18:25:43Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [],
+          "regions": [
+            "global"
+          ],
+          "scope": "global",
+          "places": 0,
+          "categories": [],
+          "category": null,
+          "category_weight": 0,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 27.43,
+          "first_seen": "2026-11-06T15:00:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 10,
+          "K": 0,
+          "M": 0,
+          "P": 0,
+          "T": 4.53
+        },
+        "base": 15.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1+embed/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261106150000"
+        ],
+        "events": [
+          [
+            "2026-11-07T18:25:43Z",
+            "created",
+            {
+              "outlet": "mg_za",
+              "seen_at": "2026-11-06T15:00:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-06T15:00:00Z",
+      "last_seen": "2026-11-06T15:00:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
       }
     },
     {
@@ -508,10 +1932,10 @@
       "label": "United States: Macroeconomics",
       "label_source": "template",
       "headline": {
-        "t": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+        "t": "United States: Macroeconomics",
         "o": "cnbc",
-        "u": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
-        "l": "en"
+        "l": "en",
+        "np": true
       },
       "countries": [
         "US"
@@ -528,12 +1952,11 @@
       "coverage": [
         {
           "o": "cnbc",
-          "t": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
-          "u": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
           "s": "2026-11-06T16:00:00Z",
           "l": "en",
           "join": "seed",
-          "copies": 1
+          "copies": 1,
+          "np": true
         }
       ],
       "other_sites": {
@@ -614,13 +2037,13 @@
         },
         "text": "Linked to an official release. U.S. Bureau of Labor Statistics published “United States: Nonfarm payrolls, monthly change, October 2026” on 1 November 2026. The reports match it on topic, figure and date. Matching is automatic. It shows that an official release on this exists. It does not check each claim in the reports.",
         "text_simple": "An official source published this: U.S. Bureau of Labor Statistics, on 1 November 2026.",
-        "checked_at": "2026-11-07T18:04:12Z",
+        "checked_at": "2026-11-07T18:25:43Z",
         "frozen_after": "2026-11-09T16:00:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 36,
-        "computed_at": "2026-11-07T18:04:12Z",
+        "computed_at": "2026-11-07T18:25:43Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -640,7 +2063,7 @@
           "category_weight": 1,
           "match_kind": "data_release",
           "p_hours": 1,
-          "age_h": 26.07,
+          "age_h": 26.43,
           "first_seen": "2026-11-06T16:00:00Z"
         },
         "points": {
@@ -650,7 +2073,7 @@
           "K": 10,
           "M": 15,
           "P": 0,
-          "T": 4.71
+          "T": 4.66
         },
         "base": 30.95
       },
@@ -710,10 +2133,10 @@
       "label": "European Union: Economy",
       "label_source": "template",
       "headline": {
-        "t": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+        "t": "European Union: Economy",
         "o": "bbc",
-        "u": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo",
-        "l": "en"
+        "l": "en",
+        "np": true
       },
       "countries": [
         "EU"
@@ -727,12 +2150,11 @@
       "coverage": [
         {
           "o": "bbc",
-          "t": "Why smoky bacon crisps threaten to reignite rows over EU rules",
-          "u": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo",
           "s": "2026-11-06T17:15:00Z",
           "l": "en",
           "join": "seed",
-          "copies": 1
+          "copies": 1,
+          "np": true
         }
       ],
       "other_sites": {
@@ -764,13 +2186,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 3 official sources we follow for the European Union published a matching release in the days around this story.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:04:12Z",
+        "checked_at": "2026-11-07T18:25:43Z",
         "frozen_after": "2026-11-09T17:15:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 16,
-        "computed_at": "2026-11-07T18:04:12Z",
+        "computed_at": "2026-11-07T18:25:43Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -787,7 +2209,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 24.82,
+          "age_h": 25.18,
           "first_seen": "2026-11-06T17:15:00Z"
         },
         "points": {
@@ -797,7 +2219,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 4.88
+          "T": 4.83
         },
         "base": 10.95
       },
@@ -843,10 +2265,10 @@
       "label": "United States: Financial markets",
       "label_source": "template",
       "headline": {
-        "t": "Why the US midterms sparked an AI stock selloff",
+        "t": "United States: Financial markets",
         "o": "bbc",
-        "u": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo",
-        "l": "en"
+        "l": "en",
+        "np": true
       },
       "countries": [
         "US"
@@ -862,12 +2284,11 @@
       "coverage": [
         {
           "o": "bbc",
-          "t": "Why the US midterms sparked an AI stock selloff",
-          "u": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo",
           "s": "2026-11-06T18:30:00Z",
           "l": "en",
           "join": "seed",
-          "copies": 1
+          "copies": 1,
+          "np": true
         }
       ],
       "other_sites": {
@@ -909,13 +2330,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 13 official sources we follow for the United States published a matching release in the days around this story.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:04:12Z",
+        "checked_at": "2026-11-07T18:25:43Z",
         "frozen_after": "2026-11-09T18:30:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 18,
-        "computed_at": "2026-11-07T18:04:12Z",
+        "computed_at": "2026-11-07T18:25:43Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -934,7 +2355,7 @@
           "category_weight": 0.7,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 23.57,
+          "age_h": 23.93,
           "first_seen": "2026-11-06T18:30:00Z"
         },
         "points": {
@@ -944,7 +2365,7 @@
           "K": 7,
           "M": 0,
           "P": 0,
-          "T": 5.06
+          "T": 5.01
         },
         "base": 12.95
       },
@@ -990,10 +2411,10 @@
       "label": "Place not identified: Employment and wages",
       "label_source": "template",
       "headline": {
-        "t": "A disturbing employment trend is hiding beneath the latest strong job numbers",
+        "t": "Place not identified: Employment and wages",
         "o": "cnbc",
-        "u": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
-        "l": "en"
+        "l": "en",
+        "np": true
       },
       "countries": [],
       "regions": [],
@@ -1005,12 +2426,11 @@
       "coverage": [
         {
           "o": "cnbc",
-          "t": "A disturbing employment trend is hiding beneath the latest strong job numbers",
-          "u": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
           "s": "2026-11-06T20:00:00Z",
           "l": "en",
           "join": "seed",
-          "copies": 1
+          "copies": 1,
+          "np": true
         }
       ],
       "other_sites": {
@@ -1038,13 +2458,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:04:12Z",
+        "checked_at": "2026-11-07T18:25:43Z",
         "frozen_after": "2026-11-09T20:00:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 21,
-        "computed_at": "2026-11-07T18:04:12Z",
+        "computed_at": "2026-11-07T18:25:43Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -1059,7 +2479,7 @@
           "category_weight": 1,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 22.07,
+          "age_h": 22.43,
           "first_seen": "2026-11-06T20:00:00Z"
         },
         "points": {
@@ -1069,7 +2489,7 @@
           "K": 10,
           "M": 0,
           "P": 0,
-          "T": 5.29
+          "T": 5.23
         },
         "base": 15.95
       },

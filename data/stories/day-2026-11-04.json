@@ -1,17 +1,154 @@
 {
   "schema": "veritane/story-day/1",
   "date": "2026-11-04",
-  "generated_at": "2026-11-07T18:04:12Z",
+  "generated_at": "2026-11-07T18:25:43Z",
   "stories": [
+    {
+      "id": "s20261104-2fd15a75c4",
+      "label": "Norway: Economy",
+      "label_source": "template",
+      "headline": {
+        "t": "Norway: Economy",
+        "o": "tv2_dk",
+        "l": "en",
+        "np": true
+      },
+      "countries": [
+        "NO"
+      ],
+      "regions": [
+        "europe-other"
+      ],
+      "categories": [],
+      "country_basis": "title",
+      "opinion": false,
+      "coverage": [
+        {
+          "o": "tv2_dk",
+          "s": "2026-11-04T20:45:00Z",
+          "l": "da",
+          "join": "seed",
+          "copies": 1,
+          "np": true
+        }
+      ],
+      "other_sites": {
+        "n": 0,
+        "domains": []
+      },
+      "counts": {
+        "pages": 1,
+        "listed": 1,
+        "groups": 1,
+        "outlet_countries": 1,
+        "languages": 1,
+        "other_sites": 0,
+        "copy_groups": 1
+      },
+      "verification": {
+        "status": "single",
+        "official": [],
+        "related": [],
+        "scheduled": [],
+        "followed_sources": {
+          "region": "NO",
+          "count": 8,
+          "names": [
+            "Eurostat",
+            "Norges Bank",
+            "Statistics Norway",
+            "Bank for International Settlements",
+            "International Labour Organization",
+            "International Monetary Fund",
+            "OECD",
+            "World Bank"
+          ]
+        },
+        "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 8 official sources we follow for Norway published a matching release in the days around this story.",
+        "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
+        "checked_at": "2026-11-07T18:25:43Z",
+        "frozen_after": "2026-11-07T20:45:00Z"
+      },
+      "importance": {
+        "version": "importance/1",
+        "score": 7,
+        "computed_at": "2026-11-07T18:25:43Z",
+        "inputs": {
+          "ni": 1,
+          "k": 1,
+          "countries": [
+            "NO"
+          ],
+          "regions": [
+            "europe-other"
+          ],
+          "scope": "one_country",
+          "places": 1,
+          "categories": [],
+          "category": null,
+          "category_weight": 0,
+          "match_kind": null,
+          "p_hours": 1,
+          "age_h": 69.68,
+          "first_seen": "2026-11-04T20:45:00Z"
+        },
+        "points": {
+          "O": 5.95,
+          "C": 0,
+          "R": 0,
+          "K": 0,
+          "M": 0,
+          "P": 0,
+          "T": 1.34
+        },
+        "base": 5.95
+      },
+      "context": [],
+      "audit": {
+        "rules": {
+          "events": "events/1",
+          "gate": "gate/1",
+          "grouping": "stories/1+embed/1",
+          "country": "story-country/1",
+          "match": "official-match/1",
+          "importance": "importance/1",
+          "templates": "story-templates/1",
+          "select": "select/2"
+        },
+        "gkg_files": [
+          "20261104204500"
+        ],
+        "events": [
+          [
+            "2026-11-07T18:25:43Z",
+            "created",
+            {
+              "outlet": "tv2_dk",
+              "seen_at": "2026-11-04T20:45:00Z"
+            }
+          ]
+        ]
+      },
+      "overrides": [],
+      "first_seen": "2026-11-04T20:45:00Z",
+      "last_seen": "2026-11-04T20:45:00Z",
+      "status": "new",
+      "version": 1,
+      "classified_by": "rules",
+      "classification": {
+        "by": "rules",
+        "version": "events/1"
+      }
+    },
     {
       "id": "s20261104-33fd0fa563",
       "label": "Place not identified: Economy",
       "label_source": "template",
       "headline": {
-        "t": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+        "t": "Place not identified: Economy",
         "o": "bbc",
-        "u": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko",
-        "l": "en"
+        "l": "en",
+        "np": true
       },
       "countries": [],
       "regions": [],
@@ -21,12 +158,11 @@
       "coverage": [
         {
           "o": "bbc",
-          "t": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-          "u": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko",
           "s": "2026-11-04T21:30:00Z",
           "l": "en",
           "join": "seed",
-          "copies": 1
+          "copies": 1,
+          "np": true
         }
       ],
       "other_sites": {
@@ -54,13 +190,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:04:12Z",
+        "checked_at": "2026-11-07T18:25:43Z",
         "frozen_after": "2026-11-07T21:30:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 7,
-        "computed_at": "2026-11-07T18:04:12Z",
+        "computed_at": "2026-11-07T18:25:43Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -73,7 +209,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 68.57,
+          "age_h": 68.93,
           "first_seen": "2026-11-04T21:30:00Z"
         },
         "points": {
@@ -83,7 +219,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 1.38
+          "T": 1.37
         },
         "base": 5.95
       },
@@ -129,10 +265,10 @@
       "label": "Place not identified: Financial markets",
       "label_source": "template",
       "headline": {
-        "t": "The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+        "t": "Place not identified: Financial markets",
         "o": "cnbc",
-        "u": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
-        "l": "en"
+        "l": "en",
+        "np": true
       },
       "countries": [],
       "regions": [],
@@ -144,13 +280,12 @@
       "coverage": [
         {
           "o": "cnbc",
-          "t": "The Democrats have one chance to extract concessions from Trump. Markets will hate it",
-          "u": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
           "s": "2026-11-04T22:45:00Z",
           "l": "en",
           "op": true,
           "join": "seed",
-          "copies": 1
+          "copies": 1,
+          "np": true
         }
       ],
       "other_sites": {
@@ -178,13 +313,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:04:12Z",
+        "checked_at": "2026-11-07T18:25:43Z",
         "frozen_after": "2026-11-07T22:45:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 14,
-        "computed_at": "2026-11-07T18:04:12Z",
+        "computed_at": "2026-11-07T18:25:43Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -199,7 +334,7 @@
           "category_weight": 0.7,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 67.32,
+          "age_h": 67.68,
           "first_seen": "2026-11-04T22:45:00Z"
         },
         "points": {
@@ -209,7 +344,7 @@
           "K": 7,
           "M": 0,
           "P": 0,
-          "T": 1.43
+          "T": 1.42
         },
         "base": 12.95
       },
