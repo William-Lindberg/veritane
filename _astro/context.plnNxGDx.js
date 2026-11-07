@@ -1,0 +1,1 @@
+import"./locale.BldWaX32.js";import"./i18n.DsGsbPHg.js";

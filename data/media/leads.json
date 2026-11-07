@@ -609,7 +609,8 @@
           "t": "Ukraine: Selenskyj nennt Trumps Friedensplan gefährlich",
           "u": "https://www.handelsblatt.com/politik/international/ukraine-selenskyj-nennt-trumps-friedensplan-gefaehrlich/27982126.html",
           "s": "2026-11-07T13:00:00Z",
-          "l": "de"
+          "l": "de",
+          "np": true
         },
         {
           "o": "wiwo",
@@ -625,7 +626,8 @@
           "t": "Ukraine-Krieg: Selenskyj nennt Trumps Friedensplan gefährlich",
           "u": "https://www.handelsblatt.com/politik/international/ukraine-krieg-selenskyj-nennt-trumps-friedensplan-gefaehrlich/100268092.html",
           "s": "2026-11-07T13:15:00Z",
-          "l": "de"
+          "l": "de",
+          "np": true
         },
         {
           "o": "welt",
@@ -640,7 +642,8 @@
       "first_seen": "2026-11-07T13:00:00Z",
       "last_seen": "2026-11-07T13:45:00Z",
       "major_event": true,
-      "event_type": "conflict"
+      "event_type": "conflict",
+      "np": true
     },
     {
       "id": "l-s20261107-befa2fcadb",
@@ -763,7 +766,8 @@
           "t": "Workers rally for Prabowo, while women march against him",
           "u": "https://www.straitstimes.com/asia/se-asia/indonesian-workers-rally-for-prabowo-as-women-march-against-president",
           "s": "2026-11-07T13:30:00Z",
-          "l": "en"
+          "l": "en",
+          "np": true
         }
       ],
       "other_sites": 1,
@@ -982,12 +986,14 @@
           "t": "What can Democrats do about the economy in the majority?",
           "u": "https://www.npr.org/transcripts/nx-s1-6026662",
           "s": "2026-11-07T11:15:00Z",
-          "l": "en"
+          "l": "en",
+          "np": true
         }
       ],
       "other_sites": 0,
       "first_seen": "2026-11-07T11:15:00Z",
-      "last_seen": "2026-11-07T11:15:00Z"
+      "last_seen": "2026-11-07T11:15:00Z",
+      "np": true
     },
     {
       "id": "l-s20261107-852e563f66",
@@ -1048,12 +1054,14 @@
           "t": "The economy propelled Democrats to victory. What can they actually do about it?",
           "u": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
           "s": "2026-11-07T06:30:00Z",
-          "l": "en"
+          "l": "en",
+          "np": true
         }
       ],
       "other_sites": 73,
       "first_seen": "2026-11-07T06:15:00Z",
-      "last_seen": "2026-11-07T13:45:00Z"
+      "last_seen": "2026-11-07T13:45:00Z",
+      "np": true
     },
     {
       "id": "l-s20261107-78d1bc9cff",
@@ -1610,12 +1618,14 @@
           "t": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
           "u": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties",
           "s": "2026-11-07T06:45:00Z",
-          "l": "en"
+          "l": "en",
+          "np": true
         }
       ],
       "other_sites": 2,
       "first_seen": "2026-11-07T06:30:00Z",
-      "last_seen": "2026-11-07T10:45:00Z"
+      "last_seen": "2026-11-07T10:45:00Z",
+      "np": true
     },
     {
       "id": "l-s20261107-b81cfbebf3",
@@ -3168,12 +3178,14 @@
           "t": "Lavoratori teatri e scritturati lunedì a Roma per la manifestazione nazionale - Notizie",
           "u": "https://www.ansa.it/lazio/notizie/2026/11/07/lavoratori-teatri-e-scritturati-lunedi-a-roma-per-la-manifestazione-nazionale_a86806f9-96cc-4368-ba53-fd549bb642a9.html",
           "s": "2026-11-07T13:45:00Z",
-          "l": "it"
+          "l": "it",
+          "np": true
         }
       ],
       "other_sites": 0,
       "first_seen": "2026-11-07T13:45:00Z",
-      "last_seen": "2026-11-07T13:45:00Z"
+      "last_seen": "2026-11-07T13:45:00Z",
+      "np": true
     },
     {
       "id": "l-s20261107-27318e1827",
@@ -3267,12 +3279,14 @@
           "t": "French presidential hopeful Melenchon pledges minimum wage rise, retirement at 60",
           "u": "https://www.straitstimes.com/world/europe/french-presidential-hopeful-melenchon-pledges-minimum-wage-rise-retirement-at-60",
           "s": "2026-11-07T13:30:00Z",
-          "l": "en"
+          "l": "en",
+          "np": true
         }
       ],
       "other_sites": 0,
       "first_seen": "2026-11-07T13:30:00Z",
-      "last_seen": "2026-11-07T13:30:00Z"
+      "last_seen": "2026-11-07T13:30:00Z",
+      "np": true
     },
     {
       "id": "l-s20261107-788e8c0d47",
@@ -3400,12 +3414,14 @@
           "t": "الصين تواصل رفع مشترياتها من الذهب للعام الثاني رغم تراجعه",
           "u": "https://www.aljazeera.net/ebusiness/2026/11/7/%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%B1%D9%81%D8%B9-%D9%85%D8%B4%D8%AA%D8%B1%D9%8A%D8%A7%D8%AA%D9%87%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%B0%D9%87%D8%A8",
           "s": "2026-11-07T13:30:00Z",
-          "l": "ar"
+          "l": "ar",
+          "np": true
         }
       ],
       "other_sites": 0,
       "first_seen": "2026-11-07T13:30:00Z",
-      "last_seen": "2026-11-07T13:30:00Z"
+      "last_seen": "2026-11-07T13:30:00Z",
+      "np": true
     },
     {
       "id": "l-s20261107-a519cbd180",
@@ -3466,12 +3482,14 @@
           "t": "Große Parteien fast gleichauf: Wahlkrimi in Neuseeland: Kleine Partei als Königsmacherin?",
           "u": "https://www.handelsblatt.com/politik/international/grosse-parteien-fast-gleichauf-wahlkrimi-in-neuseeland-kleine-partei-als-koenigsmacherin/100268081.html",
           "s": "2026-11-07T13:15:00Z",
-          "l": "de"
+          "l": "de",
+          "np": true
         }
       ],
       "other_sites": 0,
       "first_seen": "2026-11-07T13:15:00Z",
-      "last_seen": "2026-11-07T13:15:00Z"
+      "last_seen": "2026-11-07T13:15:00Z",
+      "np": true
     },
     {
       "id": "l-s20261107-2524fa95bc",
@@ -3694,12 +3712,14 @@
           "t": "Εκλογές στη Νέα Ζηλανδία: Οριακή μάχη δεξιάς - Εργατικών",
           "u": "https://gr.euronews.com/2026/11/07/ekloges-nea-zhlandia-oriakh-maxh-dexias-ergatikon",
           "s": "2026-11-07T12:30:00Z",
-          "l": "el"
+          "l": "el",
+          "np": true
         }
       ],
       "other_sites": 0,
       "first_seen": "2026-11-07T12:30:00Z",
-      "last_seen": "2026-11-07T12:30:00Z"
+      "last_seen": "2026-11-07T12:30:00Z",
+      "np": true
     },
     {
       "id": "l-s20261107-abfabd17aa",
@@ -3756,12 +3776,14 @@
           "t": "Trump may have lost but don't bet Democrats can fix the economy | US economy",
           "u": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
           "s": "2026-11-07T12:15:00Z",
-          "l": "en"
+          "l": "en",
+          "np": true
         }
       ],
       "other_sites": 0,
       "first_seen": "2026-11-07T12:15:00Z",
-      "last_seen": "2026-11-07T12:15:00Z"
+      "last_seen": "2026-11-07T12:15:00Z",
+      "np": true
     },
     {
       "id": "l-s20261107-e91a9c32e4",
@@ -4005,12 +4027,14 @@
           "t": "'Wait, what?': the underdog Democrats who won their midterm races against all odds | US midterm elections 2026",
           "u": "https://www.theguardian.com/us-news/2026/nov/07/surprising-wins-democrats-midterm-elections",
           "s": "2026-11-07T13:00:00Z",
-          "l": "en"
+          "l": "en",
+          "np": true
         }
       ],
       "other_sites": 0,
       "first_seen": "2026-11-07T13:00:00Z",
-      "last_seen": "2026-11-07T13:00:00Z"
+      "last_seen": "2026-11-07T13:00:00Z",
+      "np": true
     },
     {
       "id": "l-s20261107-80b877fd0b",
@@ -4231,12 +4255,14 @@
           "t": "De Pascale: sulla sanità il Governo genera rabbia sociale - Notizie",
           "u": "https://www.ansa.it/emiliaromagna/notizie/2026/11/07/de-pascale-sulla-sanita-il-governo-genera-rabbia-sociale_be762e05-3b1b-41b7-a20e-c16e66a146e8.html",
           "s": "2026-11-07T12:00:00Z",
-          "l": "it"
+          "l": "it",
+          "np": true
         }
       ],
       "other_sites": 0,
       "first_seen": "2026-11-07T12:00:00Z",
-      "last_seen": "2026-11-07T12:00:00Z"
+      "last_seen": "2026-11-07T12:00:00Z",
+      "np": true
     },
     {
       "id": "l-s20261107-a56de56da2",
@@ -4791,12 +4817,14 @@
           "t": "Immobilien: Wo um Hamburg herum für Pendler noch Schnäppchen locken",
           "u": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-um-hamburg-herum-fuer-pendler-noch-schnaeppchen-locken/100262282.html",
           "s": "2026-11-07T12:15:00Z",
-          "l": "de"
+          "l": "de",
+          "np": true
         }
       ],
       "other_sites": 0,
       "first_seen": "2026-11-07T12:15:00Z",
-      "last_seen": "2026-11-07T12:15:00Z"
+      "last_seen": "2026-11-07T12:15:00Z",
+      "np": true
     },
     {
       "id": "l-s20261107-44d8995c47",
@@ -4952,12 +4980,14 @@
           "t": "Democrats weigh Trump probes and affordability agenda",
           "u": "https://www.straitstimes.com/world/united-states/victorious-democrats-weigh-bread-and-butter-priorities-against-trump-probe",
           "s": "2026-11-07T09:00:00Z",
-          "l": "en"
+          "l": "en",
+          "np": true
         }
       ],
       "other_sites": 0,
       "first_seen": "2026-11-07T09:00:00Z",
-      "last_seen": "2026-11-07T09:00:00Z"
+      "last_seen": "2026-11-07T09:00:00Z",
+      "np": true
     },
     {
       "id": "l-s20261107-e9d348cb6f",
@@ -5048,12 +5078,14 @@
           "t": "Nationwide launches savings account with 'market leading' 5.3% interest",
           "u": "https://www.theguardian.com/money/2026/nov/07/nationwide-savings-account-market-leading-interest-rate",
           "s": "2026-11-07T07:30:00Z",
-          "l": "en"
+          "l": "en",
+          "np": true
         }
       ],
       "other_sites": 0,
       "first_seen": "2026-11-07T07:30:00Z",
-      "last_seen": "2026-11-07T07:30:00Z"
+      "last_seen": "2026-11-07T07:30:00Z",
+      "np": true
     },
     {
       "id": "l-s20261107-c5f94528b5",
@@ -5208,12 +5240,14 @@
           "t": "Codacons, 'a prezzi attuali bolletta del gas invernale a 1.381 euro in Valle d'Aosta' - Notizie",
           "u": "https://www.ansa.it/valledaosta/notizie/2026/11/07/codacons-a-prezzi-attuali-bolletta-del-gas-invernale-a-1.381-euro-in-valle_65b64ff1-390a-41aa-bd4d-fb99a8b934db.html",
           "s": "2026-11-07T13:30:00Z",
-          "l": "it"
+          "l": "it",
+          "np": true
         }
       ],
       "other_sites": 0,
       "first_seen": "2026-11-07T13:30:00Z",
-      "last_seen": "2026-11-07T13:30:00Z"
+      "last_seen": "2026-11-07T13:30:00Z",
+      "np": true
     },
     {
       "id": "l-s20261107-01d567f11e",
@@ -5532,12 +5566,14 @@
           "t": "Faces from the front lines of Spain's housing crisis",
           "u": "https://www.theglobeandmail.com/world/article-faces-front-lines-spain-housing-crisis-madrid-economy/",
           "s": "2026-11-07T11:45:00Z",
-          "l": "en"
+          "l": "en",
+          "np": true
         }
       ],
       "other_sites": 0,
       "first_seen": "2026-11-07T11:45:00Z",
-      "last_seen": "2026-11-07T11:45:00Z"
+      "last_seen": "2026-11-07T11:45:00Z",
+      "np": true
     },
     {
       "id": "l-s20261107-08ba0f233c",
@@ -6728,12 +6764,14 @@
           "t": "Why Puerto Rico can't stop talking about electricity",
           "u": "https://english.elpais.com/usa/2026-11-07/why-puerto-rico-cant-stop-talking-about-electricity.html",
           "s": "2026-11-07T07:15:00Z",
-          "l": "en"
+          "l": "en",
+          "np": true
         }
       ],
       "other_sites": 0,
       "first_seen": "2026-11-07T07:15:00Z",
-      "last_seen": "2026-11-07T07:15:00Z"
+      "last_seen": "2026-11-07T07:15:00Z",
+      "np": true
     },
     {
       "id": "l-s20261107-a3cdc51794",
@@ -7147,12 +7185,14 @@
           "t": "A small town in Spain battles again construction of a macro data center: 'It's a way of kicking us out' | Spain",
           "u": "https://english.elpais.com/spain/2026-11-07/a-small-town-in-spain-battles-again-construction-of-a-macro-data-center-its-a-way-of-kicking-us-out.html",
           "s": "2026-11-07T07:15:00Z",
-          "l": "en"
+          "l": "en",
+          "np": true
         }
       ],
       "other_sites": 0,
       "first_seen": "2026-11-07T07:15:00Z",
-      "last_seen": "2026-11-07T07:15:00Z"
+      "last_seen": "2026-11-07T07:15:00Z",
+      "np": true
     },
     {
       "id": "l-s20261106-cc73a5c54f",
@@ -8040,12 +8080,14 @@
           "t": "How the US midterm elections reflected resistance to data centres",
           "u": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres",
           "s": "2026-11-07T06:45:00Z",
-          "l": "en"
+          "l": "en",
+          "np": true
         }
       ],
       "other_sites": 0,
       "first_seen": "2026-11-07T06:45:00Z",
-      "last_seen": "2026-11-07T06:45:00Z"
+      "last_seen": "2026-11-07T06:45:00Z",
+      "np": true
     },
     {
       "id": "l-s20261107-5904e6b161",

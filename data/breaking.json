@@ -1,0 +1,38 @@
+{
+  "schema": "veritane/breaking/1",
+  "generated_at": "2026-11-07T13:50:02Z",
+  "rules": {
+    "version": "breaking/1",
+    "window_hours": 6,
+    "keep_hours": 24,
+    "min_importance": 60,
+    "min_groups": 3,
+    "banks": [
+      "US",
+      "EA",
+      "JP",
+      "GB",
+      "CN",
+      "CA",
+      "CH",
+      "AU"
+    ]
+  },
+  "kinds": [
+    "major_event",
+    "top_story",
+    "central_bank"
+  ],
+  "entries": [
+    {
+      "id": "e-conflict-sa-2026-11-07",
+      "time": "2026-11-07T13:15:00Z",
+      "kind": "major_event",
+      "headline": "Saudi Arabia: Conflict",
+      "path": "news/events/conflict-sa-2026-11-07/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/conflict-sa-2026-11-07/",
+      "event_type": "conflict",
+      "importance": 50
+    }
+  ]
+}
