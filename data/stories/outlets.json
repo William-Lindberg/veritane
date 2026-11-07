@@ -19,8 +19,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 28,
-      "last_seen": "2026-11-07T13:45:00Z",
+      "seen_28d": 57,
+      "last_seen": "2026-11-07T16:30:00Z",
       "public_display": false
     },
     {
@@ -41,8 +41,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 3,
-      "last_seen": "2026-11-07T13:30:00Z"
+      "seen_28d": 6,
+      "last_seen": "2026-11-07T16:30:00Z"
     },
     {
       "id": "xinhua",
@@ -64,8 +64,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 24,
-      "last_seen": "2026-11-07T13:30:00Z"
+      "seen_28d": 41,
+      "last_seen": "2026-11-07T16:30:00Z"
     },
     {
       "id": "interfax",
@@ -107,8 +107,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 16,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 23,
+      "last_seen": "2026-11-07T15:30:00Z"
     },
     {
       "id": "cna_tw",
@@ -129,8 +129,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 25,
-      "last_seen": "2026-11-07T14:00:00Z"
+      "seen_28d": 31,
+      "last_seen": "2026-11-07T16:30:00Z"
     },
     {
       "id": "antara",
@@ -151,8 +151,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 21,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 29,
+      "last_seen": "2026-11-07T16:30:00Z"
     },
     {
       "id": "agenciabrasil",
@@ -215,8 +215,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 29,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 47,
+      "last_seen": "2026-11-07T17:15:00Z"
     },
     {
       "id": "rfi",
@@ -256,8 +256,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 13,
-      "last_seen": "2026-11-07T13:30:00Z",
+      "seen_28d": 32,
+      "last_seen": "2026-11-07T16:00:00Z",
       "public_display": false
     },
     {
@@ -280,8 +280,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 21,
-      "last_seen": "2026-11-07T13:30:00Z",
+      "seen_28d": 36,
+      "last_seen": "2026-11-07T16:30:00Z",
       "public_display": false
     },
     {
@@ -301,8 +301,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 12,
-      "last_seen": "2026-11-07T14:00:00Z"
+      "seen_28d": 27,
+      "last_seen": "2026-11-07T17:15:00Z"
     },
     {
       "id": "foxnews",
@@ -321,8 +321,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 8,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 20,
+      "last_seen": "2026-11-07T16:30:00Z"
     },
     {
       "id": "npr",
@@ -339,9 +339,73 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 4,
-      "last_seen": "2026-11-07T13:45:00Z",
+      "seen_28d": 5,
+      "last_seen": "2026-11-07T16:15:00Z",
       "public_display": false
+    },
+    {
+      "id": "washexaminer",
+      "name": "Washington Examiner",
+      "hosts": [
+        "washingtonexaminer.com"
+      ],
+      "country": "US",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Clarity Media",
+      "owner_group": "clarity-media",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 15,
+      "last_seen": "2026-11-07T17:30:00Z"
+    },
+    {
+      "id": "cbsnews",
+      "name": "CBS News",
+      "hosts": [
+        "cbsnews.com"
+      ],
+      "country": "US",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Paramount",
+      "owner_group": "paramount",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T14:45:00Z"
+    },
+    {
+      "id": "abcnews_us",
+      "name": "ABC News (US)",
+      "hosts": [
+        "abcnews.go.com",
+        "abcnews.com"
+      ],
+      "country": "US",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "The Walt Disney Company",
+      "owner_group": "the-walt-disney-company",
+      "status": "listed",
+      "wire_paths": {
+        "^/[^/]+/wireStory/": "AP"
+      },
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T17:00:00Z"
     },
     {
       "id": "nbcnews",
@@ -380,8 +444,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T11:15:00Z"
+      "seen_28d": 6,
+      "last_seen": "2026-11-07T16:15:00Z"
     },
     {
       "id": "cbc",
@@ -402,8 +466,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 5,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 16,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "globeandmail",
@@ -420,9 +484,29 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T11:45:00Z",
+      "seen_28d": 13,
+      "last_seen": "2026-11-07T17:00:00Z",
       "public_display": false
+    },
+    {
+      "id": "nationalpost",
+      "name": "National Post",
+      "hosts": [
+        "nationalpost.com"
+      ],
+      "country": "CA",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Postmedia",
+      "owner_group": "postmedia",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T14:30:00Z"
     },
     {
       "id": "bnn",
@@ -443,6 +527,66 @@
       "reviewed": "2026-11-07",
       "seen_28d": 1,
       "last_seen": "2026-11-07T13:45:00Z"
+    },
+    {
+      "id": "eleconomista_mx",
+      "name": "El Economista (MX)",
+      "hosts": [
+        "eleconomista.com.mx"
+      ],
+      "country": "MX",
+      "languages": [
+        "es"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Grupo Multimedios",
+      "owner_group": "grupo-multimedios",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 6,
+      "last_seen": "2026-11-07T15:30:00Z"
+    },
+    {
+      "id": "elfinanciero",
+      "name": "El Financiero",
+      "hosts": [
+        "elfinanciero.com.mx"
+      ],
+      "country": "MX",
+      "languages": [
+        "es"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "El Financiero",
+      "owner_group": "el-financiero",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T15:45:00Z"
+    },
+    {
+      "id": "eluniversal",
+      "name": "El Universal",
+      "hosts": [
+        "eluniversal.com.mx"
+      ],
+      "country": "MX",
+      "languages": [
+        "es"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "El Universal",
+      "owner_group": "el-universal",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T16:30:00Z"
     },
     {
       "id": "jornada",
@@ -482,8 +626,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 32,
-      "last_seen": "2026-11-07T14:00:00Z"
+      "seen_28d": 72,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "guardian",
@@ -500,9 +644,29 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 10,
-      "last_seen": "2026-11-07T13:45:00Z",
+      "seen_28d": 23,
+      "last_seen": "2026-11-07T16:45:00Z",
       "public_display": false
+    },
+    {
+      "id": "independent",
+      "name": "The Independent",
+      "hosts": [
+        "independent.co.uk"
+      ],
+      "country": "GB",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Independent Digital News & Media",
+      "owner_group": "independent-digital-news-and-media",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T15:45:00Z"
     },
     {
       "id": "mirror",
@@ -521,8 +685,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 9,
-      "last_seen": "2026-11-07T13:15:00Z"
+      "seen_28d": 25,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "rte",
@@ -541,8 +705,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T07:00:00Z"
+      "seen_28d": 7,
+      "last_seen": "2026-11-07T15:30:00Z"
     },
     {
       "id": "irishtimes",
@@ -561,8 +725,28 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 4,
-      "last_seen": "2026-11-07T13:30:00Z"
+      "seen_28d": 6,
+      "last_seen": "2026-11-07T15:45:00Z"
+    },
+    {
+      "id": "politico_eu",
+      "name": "POLITICO Europe",
+      "hosts": [
+        "politico.eu"
+      ],
+      "country": "INT",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Axel Springer",
+      "owner_group": "axel-springer",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T16:00:00Z"
     },
     {
       "id": "tagesschau",
@@ -600,8 +784,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 11,
-      "last_seen": "2026-11-07T13:15:00Z",
+      "seen_28d": 19,
+      "last_seen": "2026-11-07T16:30:00Z",
       "public_display": false
     },
     {
@@ -621,8 +805,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T12:30:00Z"
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T16:00:00Z"
     },
     {
       "id": "spiegel",
@@ -642,8 +826,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 11,
-      "last_seen": "2026-11-07T12:30:00Z"
+      "seen_28d": 14,
+      "last_seen": "2026-11-07T16:00:00Z"
     },
     {
       "id": "welt",
@@ -662,8 +846,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 17,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 26,
+      "last_seen": "2026-11-07T16:15:00Z"
     },
     {
       "id": "wiwo",
@@ -721,8 +905,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T12:15:00Z"
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T16:30:00Z"
     },
     {
       "id": "elpais",
@@ -741,8 +925,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 10,
-      "last_seen": "2026-11-07T13:30:00Z",
+      "seen_28d": 12,
+      "last_seen": "2026-11-07T15:30:00Z",
       "public_display": false
     },
     {
@@ -802,8 +986,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 10,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 18,
+      "last_seen": "2026-11-07T16:30:00Z"
     },
     {
       "id": "eldiario",
@@ -862,7 +1046,7 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 19,
+      "seen_28d": 31,
       "last_seen": "2026-11-07T12:15:00Z"
     },
     {
@@ -882,8 +1066,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 4,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 9,
+      "last_seen": "2026-11-07T16:30:00Z"
     },
     {
       "id": "repubblica",
@@ -902,8 +1086,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 15,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 19,
+      "last_seen": "2026-11-07T16:15:00Z"
     },
     {
       "id": "ilgiornale",
@@ -922,8 +1106,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 17,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 22,
+      "last_seen": "2026-11-07T16:30:00Z"
     },
     {
       "id": "ilfatto",
@@ -942,8 +1126,28 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 6,
-      "last_seen": "2026-11-07T13:30:00Z"
+      "seen_28d": 10,
+      "last_seen": "2026-11-07T15:45:00Z"
+    },
+    {
+      "id": "nos",
+      "name": "NOS",
+      "hosts": [
+        "nos.nl"
+      ],
+      "country": "NL",
+      "languages": [
+        "nl"
+      ],
+      "type": "public_media",
+      "ownership": "public",
+      "owner": "NPO (statutory)",
+      "owner_group": "npo",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 5,
+      "last_seen": "2026-11-07T16:15:00Z"
     },
     {
       "id": "vrt",
@@ -982,8 +1186,48 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 3,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T16:00:00Z"
+    },
+    {
+      "id": "svt",
+      "name": "SVT",
+      "hosts": [
+        "svt.se"
+      ],
+      "country": "SE",
+      "languages": [
+        "sv"
+      ],
+      "type": "public_media",
+      "ownership": "public",
+      "owner": "SVT (public service)",
+      "owner_group": "svt",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T15:45:00Z"
+    },
+    {
+      "id": "dn_se",
+      "name": "Dagens Nyheter",
+      "hosts": [
+        "dn.se"
+      ],
+      "country": "SE",
+      "languages": [
+        "sv"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Bonnier",
+      "owner_group": "bonnier",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T16:15:00Z"
     },
     {
       "id": "svd",
@@ -1002,8 +1246,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T12:30:00Z"
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T16:15:00Z"
     },
     {
       "id": "di",
@@ -1022,8 +1266,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 2,
-      "last_seen": "2026-11-07T13:30:00Z"
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T16:00:00Z"
     },
     {
       "id": "yle",
@@ -1044,8 +1288,28 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 8,
-      "last_seen": "2026-11-07T13:15:00Z"
+      "seen_28d": 11,
+      "last_seen": "2026-11-07T16:30:00Z"
+    },
+    {
+      "id": "kauppalehti",
+      "name": "Kauppalehti",
+      "hosts": [
+        "kauppalehti.fi"
+      ],
+      "country": "FI",
+      "languages": [
+        "fi"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Alma Media",
+      "owner_group": "alma-media",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T15:45:00Z"
     },
     {
       "id": "nrk",
@@ -1066,6 +1330,26 @@
       "reviewed": "2026-11-07",
       "seen_28d": 3,
       "last_seen": "2026-11-07T12:15:00Z"
+    },
+    {
+      "id": "dr",
+      "name": "DR",
+      "hosts": [
+        "dr.dk"
+      ],
+      "country": "DK",
+      "languages": [
+        "da"
+      ],
+      "type": "public_media",
+      "ownership": "public",
+      "owner": "DR (statutory)",
+      "owner_group": "dr",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T15:30:00Z"
     },
     {
       "id": "borsen",
@@ -1104,8 +1388,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 7,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 10,
+      "last_seen": "2026-11-07T15:45:00Z"
     },
     {
       "id": "srf",
@@ -1167,8 +1451,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 16,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 19,
+      "last_seen": "2026-11-07T15:30:00Z"
     },
     {
       "id": "derstandard",
@@ -1187,8 +1471,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 2,
-      "last_seen": "2026-11-07T13:00:00Z"
+      "seen_28d": 6,
+      "last_seen": "2026-11-07T16:30:00Z"
     },
     {
       "id": "diepresse",
@@ -1231,6 +1515,46 @@
       "last_seen": "2026-11-07T13:15:00Z"
     },
     {
+      "id": "ct24",
+      "name": "ČT24",
+      "hosts": [
+        "ct24.ceskatelevize.cz"
+      ],
+      "country": "CZ",
+      "languages": [
+        "cs"
+      ],
+      "type": "public_media",
+      "ownership": "public",
+      "owner": "Česká televize",
+      "owner_group": "ceska-televize",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T16:15:00Z"
+    },
+    {
+      "id": "hn",
+      "name": "Hospodářské noviny",
+      "hosts": [
+        "hn.cz"
+      ],
+      "country": "CZ",
+      "languages": [
+        "cs"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Economia",
+      "owner_group": "economia",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T16:00:00Z"
+    },
+    {
       "id": "hvg",
       "name": "HVG",
       "hosts": [
@@ -1247,8 +1571,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 9,
-      "last_seen": "2026-11-07T13:15:00Z"
+      "seen_28d": 10,
+      "last_seen": "2026-11-07T16:30:00Z"
     },
     {
       "id": "portfolio",
@@ -1267,8 +1591,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 6,
-      "last_seen": "2026-11-07T12:30:00Z"
+      "seen_28d": 10,
+      "last_seen": "2026-11-07T16:00:00Z"
     },
     {
       "id": "magyarnemzet",
@@ -1291,6 +1615,28 @@
       "last_seen": "2026-11-07T12:45:00Z"
     },
     {
+      "id": "kathimerini",
+      "name": "Kathimerini",
+      "hosts": [
+        "kathimerini.gr",
+        "ekathimerini.com"
+      ],
+      "country": "GR",
+      "languages": [
+        "el",
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Kathimerini group",
+      "owner_group": "kathimerini",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 11,
+      "last_seen": "2026-11-07T16:30:00Z"
+    },
+    {
       "id": "naftemporiki",
       "name": "Naftemporiki",
       "hosts": [
@@ -1307,8 +1653,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 11,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 14,
+      "last_seen": "2026-11-07T16:30:00Z"
     },
     {
       "id": "rtp",
@@ -1367,8 +1713,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T07:15:00Z"
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T15:00:00Z"
     },
     {
       "id": "dailysabah",
@@ -1407,8 +1753,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T12:00:00Z"
+      "seen_28d": 16,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "aawsat",
@@ -1428,8 +1774,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T09:45:00Z"
+      "seen_28d": 8,
+      "last_seen": "2026-11-07T15:30:00Z"
     },
     {
       "id": "thenational",
@@ -1490,8 +1836,28 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T16:15:00Z"
+    },
+    {
+      "id": "jpost",
+      "name": "The Jerusalem Post",
+      "hosts": [
+        "jpost.com"
+      ],
+      "country": "IL",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "The Jerusalem Post",
+      "owner_group": "the-jerusalem-post",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 21,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "globes",
@@ -1512,8 +1878,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T12:00:00Z"
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T16:15:00Z"
     },
     {
       "id": "dailymaverick",
@@ -1532,8 +1898,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T14:00:00Z"
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T16:00:00Z"
     },
     {
       "id": "premiumtimes",
@@ -1552,8 +1918,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 5,
-      "last_seen": "2026-11-07T13:15:00Z"
+      "seen_28d": 11,
+      "last_seen": "2026-11-07T16:15:00Z"
     },
     {
       "id": "punch",
@@ -1572,8 +1938,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T06:45:00Z"
+      "seen_28d": 16,
+      "last_seen": "2026-11-07T16:45:00Z"
     },
     {
       "id": "thisday",
@@ -1612,8 +1978,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 8,
-      "last_seen": "2026-11-07T13:30:00Z"
+      "seen_28d": 18,
+      "last_seen": "2026-11-07T17:00:00Z"
     },
     {
       "id": "standard_ke",
@@ -1632,8 +1998,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 2,
-      "last_seen": "2026-11-07T14:00:00Z"
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T16:30:00Z"
     },
     {
       "id": "graphic",
@@ -1652,8 +2018,28 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T12:30:00Z"
+      "seen_28d": 5,
+      "last_seen": "2026-11-07T17:15:00Z"
+    },
+    {
+      "id": "africanews",
+      "name": "Africanews",
+      "hosts": [],
+      "country": "INT",
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "type": "international",
+      "ownership": "private",
+      "owner": "Euronews",
+      "owner_group": "euronews",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T16:00:00Z",
+      "public_display": false
     },
     {
       "id": "nikkei",
@@ -1674,8 +2060,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 2,
-      "last_seen": "2026-11-07T12:15:00Z"
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "asahi",
@@ -1737,8 +2123,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 2,
-      "last_seen": "2026-11-07T12:00:00Z"
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T16:30:00Z"
     },
     {
       "id": "koreaherald",
@@ -1761,6 +2147,26 @@
       "last_seen": "2026-11-07T14:00:00Z"
     },
     {
+      "id": "koreatimes",
+      "name": "The Korea Times",
+      "hosts": [
+        "koreatimes.co.kr"
+      ],
+      "country": "KR",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "The Korea Times",
+      "owner_group": "the-korea-times",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T15:30:00Z"
+    },
+    {
       "id": "hani",
       "name": "Hankyoreh",
       "hosts": [
@@ -1779,8 +2185,29 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T13:15:00Z"
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T17:15:00Z"
+    },
+    {
+      "id": "chosun",
+      "name": "Chosun Ilbo",
+      "hosts": [
+        "chosun.com"
+      ],
+      "country": "KR",
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Chosun Media",
+      "owner_group": "chosun-media",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T15:30:00Z"
     },
     {
       "id": "globaltimes",
@@ -1822,8 +2249,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 6,
-      "last_seen": "2026-11-07T13:00:00Z"
+      "seen_28d": 7,
+      "last_seen": "2026-11-07T15:45:00Z"
     },
     {
       "id": "thehindu",
@@ -1845,8 +2272,8 @@
       ],
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 29,
-      "last_seen": "2026-11-07T14:00:00Z"
+      "seen_28d": 108,
+      "last_seen": "2026-11-07T17:15:00Z"
     },
     {
       "id": "businessline",
@@ -1865,8 +2292,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 15,
-      "last_seen": "2026-11-07T13:30:00Z"
+      "seen_28d": 34,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "mint",
@@ -1885,8 +2312,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 25,
-      "last_seen": "2026-11-07T12:45:00Z"
+      "seen_28d": 40,
+      "last_seen": "2026-11-07T16:15:00Z"
     },
     {
       "id": "hindustantimes",
@@ -1905,8 +2332,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 10,
-      "last_seen": "2026-11-07T13:30:00Z"
+      "seen_28d": 25,
+      "last_seen": "2026-11-07T16:45:00Z"
     },
     {
       "id": "et",
@@ -1925,8 +2352,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 30,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 53,
+      "last_seen": "2026-11-07T17:15:00Z"
     },
     {
       "id": "toi",
@@ -1945,8 +2372,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 26,
-      "last_seen": "2026-11-07T14:00:00Z"
+      "seen_28d": 85,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "bs",
@@ -1968,8 +2395,8 @@
       ],
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 9,
-      "last_seen": "2026-11-07T14:00:00Z"
+      "seen_28d": 15,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "moneycontrol",
@@ -1988,8 +2415,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 24,
-      "last_seen": "2026-11-07T13:15:00Z"
+      "seen_28d": 35,
+      "last_seen": "2026-11-07T16:00:00Z"
     },
     {
       "id": "tribune_pk",
@@ -2008,8 +2435,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 8,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 11,
+      "last_seen": "2026-11-07T16:45:00Z"
     },
     {
       "id": "thenews_pk",
@@ -2028,8 +2455,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 2,
-      "last_seen": "2026-11-07T14:00:00Z"
+      "seen_28d": 10,
+      "last_seen": "2026-11-07T15:30:00Z"
     },
     {
       "id": "dailystar_bd",
@@ -2048,8 +2475,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 4,
-      "last_seen": "2026-11-07T11:45:00Z"
+      "seen_28d": 12,
+      "last_seen": "2026-11-07T16:00:00Z"
     },
     {
       "id": "jakartapost",
@@ -2088,8 +2515,29 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 3,
-      "last_seen": "2026-11-07T13:30:00Z"
+      "seen_28d": 16,
+      "last_seen": "2026-11-07T16:30:00Z"
+    },
+    {
+      "id": "malaysiakini",
+      "name": "Malaysiakini",
+      "hosts": [
+        "malaysiakini.com"
+      ],
+      "country": "MY",
+      "languages": [
+        "en",
+        "ms"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Mkini Dotcom",
+      "owner_group": "mkini-dotcom",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T14:45:00Z"
     },
     {
       "id": "fmt",
@@ -2109,8 +2557,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 9,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 18,
+      "last_seen": "2026-11-07T16:00:00Z"
     },
     {
       "id": "straitstimes",
@@ -2167,8 +2615,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T07:30:00Z"
+      "seen_28d": 6,
+      "last_seen": "2026-11-07T17:15:00Z"
     },
     {
       "id": "philstar",
@@ -2187,8 +2635,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T08:15:00Z"
+      "seen_28d": 6,
+      "last_seen": "2026-11-07T17:00:00Z"
     },
     {
       "id": "rappler",
@@ -2207,8 +2655,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T10:30:00Z"
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T15:30:00Z"
     },
     {
       "id": "manilatimes",
@@ -2230,8 +2678,8 @@
       ],
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 3,
-      "last_seen": "2026-11-07T13:30:00Z"
+      "seen_28d": 35,
+      "last_seen": "2026-11-07T17:30:00Z"
     },
     {
       "id": "vnexpress",
@@ -2272,8 +2720,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 3,
-      "last_seen": "2026-11-07T10:30:00Z"
+      "seen_28d": 7,
+      "last_seen": "2026-11-07T14:30:00Z"
     },
     {
       "id": "abc_au",
@@ -2292,8 +2740,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T07:00:00Z"
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T15:45:00Z"
     },
     {
       "id": "smh",
@@ -2312,8 +2760,48 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 1,
-      "last_seen": "2026-11-07T10:00:00Z"
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T16:45:00Z"
+    },
+    {
+      "id": "rnz",
+      "name": "RNZ",
+      "hosts": [
+        "rnz.co.nz"
+      ],
+      "country": "NZ",
+      "languages": [
+        "en"
+      ],
+      "type": "public_media",
+      "ownership": "public",
+      "owner": "RNZ (statutory)",
+      "owner_group": "rnz",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 4,
+      "last_seen": "2026-11-07T17:15:00Z"
+    },
+    {
+      "id": "nzherald",
+      "name": "The New Zealand Herald",
+      "hosts": [
+        "nzherald.co.nz"
+      ],
+      "country": "NZ",
+      "languages": [
+        "en"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "NZME",
+      "owner_group": "nzme",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 11,
+      "last_seen": "2026-11-07T16:45:00Z"
     },
     {
       "id": "g1",
@@ -2332,8 +2820,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 25,
-      "last_seen": "2026-11-07T13:30:00Z"
+      "seen_28d": 48,
+      "last_seen": "2026-11-07T16:30:00Z"
     },
     {
       "id": "oglobo",
@@ -2352,8 +2840,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 6,
-      "last_seen": "2026-11-07T13:30:00Z"
+      "seen_28d": 9,
+      "last_seen": "2026-11-07T16:00:00Z"
     },
     {
       "id": "folha",
@@ -2372,8 +2860,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 4,
-      "last_seen": "2026-11-07T13:30:00Z"
+      "seen_28d": 14,
+      "last_seen": "2026-11-07T16:30:00Z"
     },
     {
       "id": "estadao",
@@ -2392,8 +2880,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 5,
-      "last_seen": "2026-11-07T13:30:00Z"
+      "seen_28d": 10,
+      "last_seen": "2026-11-07T16:00:00Z"
     },
     {
       "id": "infomoney",
@@ -2412,8 +2900,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 9,
-      "last_seen": "2026-11-07T12:30:00Z"
+      "seen_28d": 10,
+      "last_seen": "2026-11-07T16:15:00Z"
     },
     {
       "id": "lanacion",
@@ -2432,8 +2920,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 10,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 16,
+      "last_seen": "2026-11-07T15:45:00Z"
     },
     {
       "id": "clarin",
@@ -2452,8 +2940,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 13,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 20,
+      "last_seen": "2026-11-07T15:45:00Z"
     },
     {
       "id": "infobae",
@@ -2472,8 +2960,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 6,
-      "last_seen": "2026-11-07T13:30:00Z"
+      "seen_28d": 16,
+      "last_seen": "2026-11-07T16:15:00Z"
     },
     {
       "id": "ambito",
@@ -2492,8 +2980,8 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 6,
-      "last_seen": "2026-11-07T12:45:00Z"
+      "seen_28d": 7,
+      "last_seen": "2026-11-07T15:30:00Z"
     },
     {
       "id": "latercera",
@@ -2512,8 +3000,28 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 26,
-      "last_seen": "2026-11-07T13:30:00Z"
+      "seen_28d": 31,
+      "last_seen": "2026-11-07T16:15:00Z"
+    },
+    {
+      "id": "df_cl",
+      "name": "Diario Financiero",
+      "hosts": [
+        "df.cl"
+      ],
+      "country": "CL",
+      "languages": [
+        "es"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Grupo DF",
+      "owner_group": "grupo-df",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 1,
+      "last_seen": "2026-11-07T16:15:00Z"
     },
     {
       "id": "biobio",
@@ -2536,6 +3044,26 @@
       "last_seen": "2026-11-07T12:00:00Z"
     },
     {
+      "id": "eltiempo",
+      "name": "El Tiempo",
+      "hosts": [
+        "eltiempo.com"
+      ],
+      "country": "CO",
+      "languages": [
+        "es"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Casa Editorial El Tiempo",
+      "owner_group": "el-tiempo",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 2,
+      "last_seen": "2026-11-07T16:00:00Z"
+    },
+    {
       "id": "elespectador",
       "name": "El Espectador",
       "hosts": [
@@ -2552,8 +3080,48 @@
       "status": "listed",
       "added": "2026-11-07",
       "reviewed": "2026-11-07",
-      "seen_28d": 2,
-      "last_seen": "2026-11-07T13:45:00Z"
+      "seen_28d": 14,
+      "last_seen": "2026-11-07T16:15:00Z"
+    },
+    {
+      "id": "gestion",
+      "name": "Gestión",
+      "hosts": [
+        "gestion.pe"
+      ],
+      "country": "PE",
+      "languages": [
+        "es"
+      ],
+      "type": "business",
+      "ownership": "private",
+      "owner": "Grupo El Comercio",
+      "owner_group": "grupo-el-comercio",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 5,
+      "last_seen": "2026-11-07T16:15:00Z"
+    },
+    {
+      "id": "larepublica_pe",
+      "name": "La República (PE)",
+      "hosts": [
+        "larepublica.pe"
+      ],
+      "country": "PE",
+      "languages": [
+        "es"
+      ],
+      "type": "general",
+      "ownership": "private",
+      "owner": "Grupo La República",
+      "owner_group": "grupo-la-republica",
+      "status": "listed",
+      "added": "2026-11-07",
+      "reviewed": "2026-11-07",
+      "seen_28d": 3,
+      "last_seen": "2026-11-07T15:30:00Z"
     }
   ],
   "blocked": [

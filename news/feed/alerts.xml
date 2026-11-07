@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veritane News: official disaster alerts</title>
+    <link>https://william-lindberg.github.io/veritane/news/</link>
+    <atom:link href="https://william-lindberg.github.io/veritane/news/feed/alerts.xml" rel="self" type="application/rss+xml" />
+    <description>Official alerts at the two highest levels from GDACS and the U.S. Geological Survey, as shown on the Veritane world news map. Each item links to the event tracker or the publisher’s page.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Nov 2026 17:17:41 GMT</lastBuildDate>
+    <item>
+      <title>India: Tropical cyclone Murasu · GDACS alert level: Red</title>
+      <link>https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001346</link>
+      <guid isPermaLink="false">veritane-signal-gdacs-tc-1001346</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+      <description>GDACS alert level: Red. 157 km/h. Since: 2026-11-01. Source page: https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001346. GDACS alerts for earthquakes, tsunamis and tropical cyclones are automatic estimates from models and can contain errors. They do not replace warnings from national authorities.</description>
+    </item>
+    <item>
+      <title>East Africa, Central Sahel: Drought · GDACS alert level: Orange</title>
+      <link>https://www.gdacs.org/report.aspx?eventtype=DR&amp;eventid=1027450</link>
+      <guid isPermaLink="false">veritane-signal-gdacs-dr-1027450</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+      <description>GDACS alert level: Orange. Since: 2026-05-21. Source page: https://www.gdacs.org/report.aspx?eventtype=DR&amp;eventid=1027450. GDACS alerts for earthquakes, tsunamis and tropical cyclones are automatic estimates from models and can contain errors. They do not replace warnings from national authorities.</description>
+    </item>
+    <item>
+      <title>Central America: Drought · GDACS alert level: Orange</title>
+      <link>https://www.gdacs.org/report.aspx?eventtype=DR&amp;eventid=1027449</link>
+      <guid isPermaLink="false">veritane-signal-gdacs-dr-1027449</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+      <description>GDACS alert level: Orange. Since: 2026-04-21. Source page: https://www.gdacs.org/report.aspx?eventtype=DR&amp;eventid=1027449. GDACS alerts for earthquakes, tsunamis and tropical cyclones are automatic estimates from models and can contain errors. They do not replace warnings from national authorities.</description>
+    </item>
+    <item>
+      <title>Europe: Drought · GDACS alert level: Orange</title>
+      <link>https://www.gdacs.org/report.aspx?eventtype=DR&amp;eventid=1018332</link>
+      <guid isPermaLink="false">veritane-signal-gdacs-dr-1018332</guid>
+      <pubDate>Sun, 21 Dec 2025 00:00:00 GMT</pubDate>
+      <description>GDACS alert level: Orange. Since: 2025-12-21. Source page: https://www.gdacs.org/report.aspx?eventtype=DR&amp;eventid=1018332. GDACS alerts for earthquakes, tsunamis and tropical cyclones are automatic estimates from models and can contain errors. They do not replace warnings from national authorities.</description>
+    </item>
+  </channel>
+</rss>

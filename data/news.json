@@ -1,6 +1,6 @@
 {
   "schema": "veritane/news/1",
-  "generated_at": "2026-11-07T11:33:11Z",
+  "generated_at": "2026-11-07T17:27:38Z",
   "template_version": "news-templates/1",
   "topics": {
     "policy_rate": "Interest rates",
@@ -16,11 +16,39 @@
     "other": "Other"
   },
   "counts": {
-    "items": 348,
-    "ui_visible": 330,
+    "items": 349,
+    "ui_visible": 331,
     "other_languages": 18
   },
   "items": [
+    {
+      "id": "71240352f25b849c",
+      "kind": "press_release",
+      "source_id": "ecb_press",
+      "source_name": "European Central Bank",
+      "region": "EA",
+      "topics": [
+        "other"
+      ],
+      "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+      "published_at": "2026-11-07T14:00:00.000Z",
+      "date_source": "feed",
+      "summary": "On 7 November 2026 the European Central Bank published “Christine Lagarde: Interview with Yomiuri Shimbun”.",
+      "summary_source": "feed_title",
+      "language": "en",
+      "ui_visible": true,
+      "related_series": [],
+      "related_lessons": [],
+      "template_version": "news-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
+      "retrieved_at": "2026-11-07T17:27:38Z"
+    },
     {
       "id": "02d699b669603b1f",
       "kind": "data_update",

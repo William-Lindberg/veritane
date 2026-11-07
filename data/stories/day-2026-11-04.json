@@ -1,7 +1,7 @@
 {
   "schema": "veritane/story-day/1",
   "date": "2026-11-04",
-  "generated_at": "2026-11-07T13:50:02Z",
+  "generated_at": "2026-11-07T17:27:38Z",
   "stories": [
     {
       "id": "s20261104-33fd0fa563",
@@ -54,13 +54,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T13:50:02Z",
+        "checked_at": "2026-11-07T17:27:38Z",
         "frozen_after": "2026-11-07T21:30:00Z"
       },
       "importance": {
         "version": "importance/1",
-        "score": 8,
-        "computed_at": "2026-11-07T13:50:02Z",
+        "score": 7,
+        "computed_at": "2026-11-07T17:27:38Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -73,7 +73,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 64.33,
+          "age_h": 67.96,
           "first_seen": "2026-11-04T21:30:00Z"
         },
         "points": {
@@ -83,7 +83,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 1.56
+          "T": 1.4
         },
         "base": 5.95
       },
@@ -92,7 +92,7 @@
         "rules": {
           "events": "events/1",
           "gate": "gate/1",
-          "grouping": "stories/1",
+          "grouping": "stories/1+embed/1",
           "country": "story-country/1",
           "match": "official-match/1",
           "importance": "importance/1",
@@ -116,7 +116,7 @@
       "overrides": [],
       "first_seen": "2026-11-04T21:30:00Z",
       "last_seen": "2026-11-04T21:30:00Z",
-      "status": "new",
+      "status": "quiet",
       "version": 1,
       "classified_by": "rules",
       "classification": {
@@ -178,13 +178,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T13:50:02Z",
+        "checked_at": "2026-11-07T17:27:38Z",
         "frozen_after": "2026-11-07T22:45:00Z"
       },
       "importance": {
         "version": "importance/1",
-        "score": 15,
-        "computed_at": "2026-11-07T13:50:02Z",
+        "score": 14,
+        "computed_at": "2026-11-07T17:27:38Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -199,7 +199,7 @@
           "category_weight": 0.7,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 63.08,
+          "age_h": 66.71,
           "first_seen": "2026-11-04T22:45:00Z"
         },
         "points": {
@@ -209,7 +209,7 @@
           "K": 7,
           "M": 0,
           "P": 0,
-          "T": 1.62
+          "T": 1.46
         },
         "base": 12.95
       },
@@ -218,7 +218,7 @@
         "rules": {
           "events": "events/1",
           "gate": "gate/1",
-          "grouping": "stories/1",
+          "grouping": "stories/1+embed/1",
           "country": "story-country/1",
           "match": "official-match/1",
           "importance": "importance/1",
@@ -242,7 +242,7 @@
       "overrides": [],
       "first_seen": "2026-11-04T22:45:00Z",
       "last_seen": "2026-11-04T22:45:00Z",
-      "status": "new",
+      "status": "quiet",
       "version": 1,
       "classified_by": "rules",
       "classification": {

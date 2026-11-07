@@ -1,0 +1,1 @@
+import"./chart-interact.BB-6hoMw.js";for(let e of document.querySelectorAll(`[data-sig-toggle]`)){let t=e.closest(`.world-map`),n=e.closest(`li`);t&&n&&(n.hidden=!1,e.addEventListener(`change`,()=>t.classList.toggle(`sig-off`,!e.checked)))}

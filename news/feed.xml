@@ -6,7 +6,15 @@
     <atom:link href="https://william-lindberg.github.io/veritane/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>Economics and finance items generated automatically from official sources, with neutral template summaries. Education, not advice.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 11:33:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 17:27:38 GMT</lastBuildDate>
+    <item>
+      <title>Christine Lagarde: Interview with Yomiuri Shimbun</title>
+      <link>https://william-lindberg.github.io/veritane/news/71240352f25b849c/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/news/71240352f25b849c/</guid>
+      <pubDate>Sat, 07 Nov 2026 14:00:00 GMT</pubDate>
+      <description>On 7 November 2026 the European Central Bank published “Christine Lagarde: Interview with Yomiuri Shimbun”. Source: European Central Bank (https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html). Generated automatically from the source; review status: not yet reviewed.</description>
+      <source url="https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html">European Central Bank</source>
+    </item>
     <item>
       <title>United Kingdom: Unemployment rate, the three months to August 2026</title>
       <link>https://william-lindberg.github.io/veritane/news/02d699b669603b1f/</link>
@@ -430,14 +438,6 @@
       <pubDate>Fri, 06 Nov 2026 07:00:00 GMT</pubDate>
       <description>On 6 November 2026 Statistics Norway published “Turnover in oil and gas, manufacturing, mining and electricity supply”. Source: Statistics Norway (https://www.ssb.no/en/energi-og-industri/industri-og-bergverksdrift/statistikk/omsetning-i-olje-og-gass-industri-bergverk-og-kraftforsyning). Generated automatically from the source; review status: not yet reviewed.</description>
       <source url="https://www.ssb.no/en/energi-og-industri/industri-og-bergverksdrift/statistikk/omsetning-i-olje-og-gass-industri-bergverk-og-kraftforsyning">Statistics Norway</source>
-    </item>
-    <item>
-      <title>International reserves and foreign currency liquidity</title>
-      <link>https://william-lindberg.github.io/veritane/news/6a4b5941ee87019c/</link>
-      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/news/6a4b5941ee87019c/</guid>
-      <pubDate>Fri, 06 Nov 2026 07:00:00 GMT</pubDate>
-      <description>On 6 November 2026 Statistics Norway published “International reserves and foreign currency liquidity”. Source: Statistics Norway (https://www.ssb.no/en/utenriksokonomi/fordringer-og-gjeld-overfor-utlandet/statistikk/internasjonale-reservar-og-valutalikviditet). Generated automatically from the source; review status: not yet reviewed.</description>
-      <source url="https://www.ssb.no/en/utenriksokonomi/fordringer-og-gjeld-overfor-utlandet/statistikk/internasjonale-reservar-og-valutalikviditet">Statistics Norway</source>
     </item>
   </channel>
 </rss>

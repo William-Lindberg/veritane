@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veritane News: Asia-Pacific</title>
+    <link>https://william-lindberg.github.io/veritane/news/</link>
+    <atom:link href="https://william-lindberg.github.io/veritane/news/feed/stories/region/asia-pacific.xml" rel="self" type="application/rss+xml" />
+    <description>Veritane stories about Asia-Pacific. Education, not advice.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jan 1970 00:00:00 GMT</lastBuildDate>
+  </channel>
+</rss>

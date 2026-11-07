@@ -1,6 +1,6 @@
 {
   "schema": "veritane/sources/1",
-  "generated_at": "2026-11-07T13:50:02Z",
+  "generated_at": "2026-11-07T17:27:38Z",
   "sources": [
     {
       "id": "abs",
@@ -22,7 +22,7 @@
       "adapters": [
         "abs"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -43,7 +43,7 @@
       "adapters": [
         "bcb"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -69,7 +69,7 @@
         "bis",
         "bis_rpp"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -97,7 +97,7 @@
       "adapters": [
         "boc"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -126,7 +126,7 @@
       "adapters": [
         "boe"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -149,7 +149,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -172,7 +172,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -196,7 +196,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -226,7 +226,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -250,7 +250,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -290,7 +290,7 @@
         "ecb",
         "ecb_fx"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -314,7 +314,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -337,7 +337,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -378,7 +378,7 @@
         "eurostat_minwage",
         "cpi_categories"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -402,7 +402,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -424,7 +424,7 @@
       "adapters": [
         "nyfed"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -453,7 +453,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -477,7 +477,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -532,7 +532,7 @@
         "imf_cpi",
         "imf_fiscal"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -568,7 +568,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -592,7 +592,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -620,7 +620,7 @@
       "adapters": [
         "norgesbank"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -653,7 +653,7 @@
         "oecd_minwage"
       ],
       "last_fetched": "2026-11-07T13:50:02Z",
-      "ok": true
+      "ok": false
     },
     {
       "id": "ons",
@@ -685,7 +685,7 @@
         "ons",
         "cpi_categories"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -721,7 +721,7 @@
       "adapters": [
         "rba"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -745,7 +745,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -768,7 +768,7 @@
       "adapters": [
         "sarb"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -790,7 +790,7 @@
       "adapters": [
         "statcan"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -811,7 +811,7 @@
       "adapters": [
         "dst"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -840,7 +840,7 @@
       "adapters": [
         "ssb"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -870,7 +870,7 @@
       "adapters": [
         "scb"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -904,7 +904,7 @@
       "adapters": [
         "riksbank"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -928,7 +928,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -956,8 +956,8 @@
         "bls",
         "cpi_categories"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
-      "ok": false
+      "last_fetched": "2026-11-07T17:27:38Z",
+      "ok": true
     },
     {
       "id": "ustreasury",
@@ -977,7 +977,7 @@
       "adapters": [
         "yield_curves"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -1004,7 +1004,7 @@
         }
       ],
       "adapters": [],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -1028,7 +1028,7 @@
       "adapters": [
         "fiscaldata"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     },
     {
@@ -1060,7 +1060,7 @@
         "wb_commodities",
         "wb_living"
       ],
-      "last_fetched": "2026-11-07T13:50:02Z",
+      "last_fetched": "2026-11-07T17:27:38Z",
       "ok": true
     }
   ]

@@ -1,6 +1,6 @@
 {
   "schema": "veritane/breaking/1",
-  "generated_at": "2026-11-07T13:50:02Z",
+  "generated_at": "2026-11-07T17:27:38Z",
   "rules": {
     "version": "breaking/1",
     "window_hours": 6,
@@ -25,6 +25,66 @@
   ],
   "entries": [
     {
+      "id": "e-conflict-in-2026-11-07",
+      "time": "2026-11-07T15:45:00Z",
+      "kind": "major_event",
+      "headline": "Poland: Conflict",
+      "path": "news/events/conflict-in-2026-11-07/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/conflict-in-2026-11-07/",
+      "event_type": "conflict",
+      "importance": 55
+    },
+    {
+      "id": "e-conflict-pl-2026-11-07",
+      "time": "2026-11-07T15:30:00Z",
+      "kind": "major_event",
+      "headline": "Poland: Conflict",
+      "path": "news/events/conflict-pl-2026-11-07/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/conflict-pl-2026-11-07/",
+      "event_type": "conflict",
+      "importance": 48
+    },
+    {
+      "id": "e-conflict-ru-2026-11-07-2",
+      "time": "2026-11-07T14:15:00Z",
+      "kind": "major_event",
+      "headline": "Ukraine: Conflict",
+      "path": "news/events/conflict-ru-2026-11-07-2/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/conflict-ru-2026-11-07-2/",
+      "event_type": "conflict",
+      "importance": 48
+    },
+    {
+      "id": "e-election-us-2026-11-07-2",
+      "time": "2026-11-07T13:45:00Z",
+      "kind": "major_event",
+      "headline": "United States: Election",
+      "path": "news/events/election-us-2026-11-07-2/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/election-us-2026-11-07-2/",
+      "event_type": "election",
+      "importance": 40
+    },
+    {
+      "id": "e-election-us-2026-11-07",
+      "time": "2026-11-07T13:30:00Z",
+      "kind": "major_event",
+      "headline": "United States: Political decision",
+      "path": "news/events/election-us-2026-11-07/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/election-us-2026-11-07/",
+      "event_type": "policy",
+      "importance": 46
+    },
+    {
+      "id": "e-conflict-ar-2026-11-07",
+      "time": "2026-11-07T13:15:00Z",
+      "kind": "major_event",
+      "headline": "Uruguay: Conflict",
+      "path": "news/events/conflict-ar-2026-11-07/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/conflict-ar-2026-11-07/",
+      "event_type": "conflict",
+      "importance": 53
+    },
+    {
       "id": "e-conflict-sa-2026-11-07",
       "time": "2026-11-07T13:15:00Z",
       "kind": "major_event",
@@ -32,7 +92,67 @@
       "path": "news/events/conflict-sa-2026-11-07/",
       "url": "https://william-lindberg.github.io/veritane/news/events/conflict-sa-2026-11-07/",
       "event_type": "conflict",
-      "importance": 50
+      "importance": 60
+    },
+    {
+      "id": "e-election-us-2026-11-07-3",
+      "time": "2026-11-07T13:15:00Z",
+      "kind": "major_event",
+      "headline": "United States: Election",
+      "path": "news/events/election-us-2026-11-07-3/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/election-us-2026-11-07-3/",
+      "event_type": "election",
+      "importance": 39
+    },
+    {
+      "id": "e-major-fr-2026-11-07",
+      "time": "2026-11-07T13:00:00Z",
+      "kind": "major_event",
+      "headline": "France: Economy",
+      "path": "news/events/major-fr-2026-11-07/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/major-fr-2026-11-07/",
+      "event_type": "other",
+      "importance": 35
+    },
+    {
+      "id": "e-conflict-ir-2026-11-07-3",
+      "time": "2026-11-07T12:45:00Z",
+      "kind": "major_event",
+      "headline": "Iran: Conflict",
+      "path": "news/events/conflict-ir-2026-11-07-3/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/conflict-ir-2026-11-07-3/",
+      "event_type": "conflict",
+      "importance": 54
+    },
+    {
+      "id": "e-conflict-ir-2026-11-07",
+      "time": "2026-11-07T12:15:00Z",
+      "kind": "major_event",
+      "headline": "Iran: Conflict",
+      "path": "news/events/conflict-ir-2026-11-07/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/conflict-ir-2026-11-07/",
+      "event_type": "conflict",
+      "importance": 48
+    },
+    {
+      "id": "e-election-nz-2026-11-07",
+      "time": "2026-11-07T12:15:00Z",
+      "kind": "major_event",
+      "headline": "New Zealand: Election",
+      "path": "news/events/election-nz-2026-11-07/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/election-nz-2026-11-07/",
+      "event_type": "election",
+      "importance": 64
+    },
+    {
+      "id": "e-major-it-2026-11-07",
+      "time": "2026-11-07T12:15:00Z",
+      "kind": "major_event",
+      "headline": "Italy: Economy",
+      "path": "news/events/major-it-2026-11-07/",
+      "url": "https://william-lindberg.github.io/veritane/news/events/major-it-2026-11-07/",
+      "event_type": "other",
+      "importance": 64
     }
   ]
 }

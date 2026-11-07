@@ -1,7 +1,7 @@
 {
   "schema": "veritane/story-day/1",
   "date": "2026-11-05",
-  "generated_at": "2026-11-07T13:50:02Z",
+  "generated_at": "2026-11-07T17:27:38Z",
   "stories": [
     {
       "id": "s20261105-6464a6797f",
@@ -66,13 +66,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 7 official sources we follow for Australia published a matching release in the days around this story.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T13:50:02Z",
+        "checked_at": "2026-11-07T17:27:38Z",
         "frozen_after": "2026-11-08T00:45:00Z"
       },
       "importance": {
         "version": "importance/1",
-        "score": 8,
-        "computed_at": "2026-11-07T13:50:02Z",
+        "score": 7,
+        "computed_at": "2026-11-07T17:27:38Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -89,7 +89,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 61.08,
+          "age_h": 64.71,
           "first_seen": "2026-11-05T00:45:00Z"
         },
         "points": {
@@ -99,7 +99,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 1.71
+          "T": 1.54
         },
         "base": 5.95
       },
@@ -108,7 +108,7 @@
         "rules": {
           "events": "events/1",
           "gate": "gate/1",
-          "grouping": "stories/1",
+          "grouping": "stories/1+embed/1",
           "country": "story-country/1",
           "match": "official-match/1",
           "importance": "importance/1",
@@ -132,7 +132,7 @@
       "overrides": [],
       "first_seen": "2026-11-05T00:45:00Z",
       "last_seen": "2026-11-05T00:45:00Z",
-      "status": "new",
+      "status": "quiet",
       "version": 1,
       "classified_by": "rules",
       "classification": {
@@ -191,13 +191,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T13:50:02Z",
+        "checked_at": "2026-11-07T17:27:38Z",
         "frozen_after": "2026-11-08T04:15:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 8,
-        "computed_at": "2026-11-07T13:50:02Z",
+        "computed_at": "2026-11-07T17:27:38Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -210,7 +210,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 57.58,
+          "age_h": 61.21,
           "first_seen": "2026-11-05T04:15:00Z"
         },
         "points": {
@@ -220,7 +220,7 @@
           "K": 0,
           "M": 0,
           "P": 0,
-          "T": 1.9
+          "T": 1.71
         },
         "base": 5.95
       },
@@ -229,7 +229,7 @@
         "rules": {
           "events": "events/1",
           "gate": "gate/1",
-          "grouping": "stories/1",
+          "grouping": "stories/1+embed/1",
           "country": "story-country/1",
           "match": "official-match/1",
           "importance": "importance/1",
@@ -253,7 +253,7 @@
       "overrides": [],
       "first_seen": "2026-11-05T04:15:00Z",
       "last_seen": "2026-11-05T04:15:00Z",
-      "status": "new",
+      "status": "quiet",
       "version": 1,
       "classified_by": "rules",
       "classification": {
@@ -263,7 +263,7 @@
     },
     {
       "id": "s20261105-f5c4a094c3",
-      "label": "Place not identified: Energy and commodities",
+      "label": "Place not identified: Fiscal policy",
       "label_source": "template",
       "headline": {
         "t": "Food, fuel and taxes – can the Democrats actually make life cheaper?",
@@ -274,8 +274,8 @@
       "countries": [],
       "regions": [],
       "categories": [
-        "energy",
-        "fiscal"
+        "fiscal",
+        "energy"
       ],
       "country_basis": "none",
       "opinion": false,
@@ -315,13 +315,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T13:50:02Z",
+        "checked_at": "2026-11-07T17:27:38Z",
         "frozen_after": "2026-11-08T06:00:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 17,
-        "computed_at": "2026-11-07T13:50:02Z",
+        "computed_at": "2026-11-07T17:27:38Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -330,14 +330,14 @@
           "scope": "unknown",
           "places": 0,
           "categories": [
-            "energy",
-            "fiscal"
+            "fiscal",
+            "energy"
           ],
           "category": "fiscal",
           "category_weight": 0.9,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 55.83,
+          "age_h": 59.46,
           "first_seen": "2026-11-05T06:00:00Z"
         },
         "points": {
@@ -347,7 +347,7 @@
           "K": 9,
           "M": 0,
           "P": 0,
-          "T": 1.99
+          "T": 1.8
         },
         "base": 14.95
       },
@@ -356,7 +356,7 @@
         "rules": {
           "events": "events/1",
           "gate": "gate/1",
-          "grouping": "stories/1",
+          "grouping": "stories/1+embed/1",
           "country": "story-country/1",
           "match": "official-match/1",
           "importance": "importance/1",
@@ -380,8 +380,8 @@
       "overrides": [],
       "first_seen": "2026-11-05T06:00:00Z",
       "last_seen": "2026-11-05T06:00:00Z",
-      "status": "new",
-      "version": 1,
+      "status": "quiet",
+      "version": 2,
       "classified_by": "rules",
       "classification": {
         "by": "rules",
@@ -459,13 +459,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 13 official sources we follow for the United States published a matching release in the days around this story.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T13:50:02Z",
+        "checked_at": "2026-11-07T17:27:38Z",
         "frozen_after": "2026-11-08T14:30:00Z"
       },
       "importance": {
         "version": "importance/1",
-        "score": 19,
-        "computed_at": "2026-11-07T13:50:02Z",
+        "score": 18,
+        "computed_at": "2026-11-07T17:27:38Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -484,7 +484,7 @@
           "category_weight": 1,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 47.33,
+          "age_h": 50.96,
           "first_seen": "2026-11-05T14:30:00Z"
         },
         "points": {
@@ -494,7 +494,7 @@
           "K": 10,
           "M": 0,
           "P": 0,
-          "T": 2.55
+          "T": 2.3
         },
         "base": 15.95
       },
@@ -503,7 +503,7 @@
         "rules": {
           "events": "events/1",
           "gate": "gate/1",
-          "grouping": "stories/1",
+          "grouping": "stories/1+embed/1",
           "country": "story-country/1",
           "match": "official-match/1",
           "importance": "importance/1",
@@ -527,7 +527,7 @@
       "overrides": [],
       "first_seen": "2026-11-05T14:30:00Z",
       "last_seen": "2026-11-05T14:30:00Z",
-      "status": "new",
+      "status": "quiet",
       "version": 1,
       "classified_by": "rules",
       "classification": {
@@ -588,13 +588,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T13:50:02Z",
+        "checked_at": "2026-11-07T17:27:38Z",
         "frozen_after": "2026-11-08T16:00:00Z"
       },
       "importance": {
         "version": "importance/1",
-        "score": 19,
-        "computed_at": "2026-11-07T13:50:02Z",
+        "score": 18,
+        "computed_at": "2026-11-07T17:27:38Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -609,7 +609,7 @@
           "category_weight": 1,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 45.83,
+          "age_h": 49.46,
           "first_seen": "2026-11-05T16:00:00Z"
         },
         "points": {
@@ -619,7 +619,7 @@
           "K": 10,
           "M": 0,
           "P": 0,
-          "T": 2.66
+          "T": 2.4
         },
         "base": 15.95
       },
@@ -628,7 +628,7 @@
         "rules": {
           "events": "events/1",
           "gate": "gate/1",
-          "grouping": "stories/1",
+          "grouping": "stories/1+embed/1",
           "country": "story-country/1",
           "match": "official-match/1",
           "importance": "importance/1",
@@ -652,7 +652,7 @@
       "overrides": [],
       "first_seen": "2026-11-05T16:00:00Z",
       "last_seen": "2026-11-05T16:00:00Z",
-      "status": "new",
+      "status": "quiet",
       "version": 1,
       "classified_by": "rules",
       "classification": {
@@ -777,13 +777,13 @@
         },
         "text": "Linked to an official release. Bank of England published “Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes” on 5 November 2026. The reports match it on institution, topic and date. Matching is automatic. It shows that an official release on this exists. It does not check each claim in the reports.",
         "text_simple": "An official source published this: Bank of England, on 5 November 2026.",
-        "checked_at": "2026-11-07T13:50:02Z",
+        "checked_at": "2026-11-07T17:27:38Z",
         "frozen_after": "2026-11-08T16:00:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 41,
-        "computed_at": "2026-11-07T13:50:02Z",
+        "computed_at": "2026-11-07T17:27:38Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -805,7 +805,7 @@
           "category_weight": 1,
           "match_kind": "monetary_policy_decision",
           "p_hours": 1,
-          "age_h": 45.83,
+          "age_h": 49.46,
           "first_seen": "2026-11-05T16:00:00Z"
         },
         "points": {
@@ -815,7 +815,7 @@
           "K": 10,
           "M": 15,
           "P": 0,
-          "T": 2.66
+          "T": 2.4
         },
         "base": 38.45
       },
@@ -824,7 +824,7 @@
         "rules": {
           "events": "events/1",
           "gate": "gate/1",
-          "grouping": "stories/1",
+          "grouping": "stories/1+embed/1",
           "country": "story-country/1",
           "match": "official-match/1",
           "importance": "importance/1",
@@ -861,7 +861,7 @@
       "overrides": [],
       "first_seen": "2026-11-05T16:00:00Z",
       "last_seen": "2026-11-05T16:00:00Z",
-      "status": "new",
+      "status": "quiet",
       "version": 1,
       "classified_by": "rules",
       "classification": {
