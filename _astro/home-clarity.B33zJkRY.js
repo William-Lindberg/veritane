@@ -1,1 +1,0 @@
-function e(e,t,n){let r=(t??``).toUpperCase();if(!/^[A-Z]{2}$/.test(r))return[...e];let i=[],a=[];for(let t of e)(n(t).some(e=>(e??``).toUpperCase()===r)?i:a).push(t);return[...i,...a]}export{e as t};
