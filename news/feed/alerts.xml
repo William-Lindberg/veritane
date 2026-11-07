@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Veritane News: official disaster alerts</title>
-    <link>https://william-lindberg.github.io/veritane/news/</link>
+    <link>https://william-lindberg.github.io/veritane/</link>
     <atom:link href="https://william-lindberg.github.io/veritane/news/feed/alerts.xml" rel="self" type="application/rss+xml" />
     <description>Official alerts at the two highest levels from GDACS and the U.S. Geological Survey, as shown on the Veritane world news map. Each item links to the event tracker or the publisher’s page.</description>
     <language>en</language>

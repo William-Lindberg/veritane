@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Veritane News: officiella katastroflarm</title>
-    <link>https://william-lindberg.github.io/veritane/sv/news/</link>
+    <link>https://william-lindberg.github.io/veritane/sv/</link>
     <atom:link href="https://william-lindberg.github.io/veritane/sv/news/feed/alerts.xml" rel="self" type="application/rss+xml" />
     <description>Officiella larm på de två högsta nivåerna från GDACS och U.S. Geological Survey, som på Veritanes världskarta över nyheter. Varje inlägg länkar till händelsesidan eller utgivarens sida.</description>
     <language>sv</language>

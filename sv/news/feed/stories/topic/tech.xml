@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Veritane News: Teknik och produktivitet</title>
-    <link>https://william-lindberg.github.io/veritane/sv/news/</link>
+    <link>https://william-lindberg.github.io/veritane/sv/</link>
     <atom:link href="https://william-lindberg.github.io/veritane/sv/news/feed/stories/topic/tech.xml" rel="self" type="application/rss+xml" />
     <description>Veritanes nyheter om teknik och produktivitet. Utbildning, inte rådgivning.</description>
     <language>sv</language>

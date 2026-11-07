@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Veritane News: Bangladesh</title>
-    <link>https://william-lindberg.github.io/veritane/news/</link>
+    <link>https://william-lindberg.github.io/veritane/</link>
     <atom:link href="https://william-lindberg.github.io/veritane/news/feed/stories/country/bd.xml" rel="self" type="application/rss+xml" />
     <description>Veritane stories about Bangladesh. Education, not advice.</description>
     <language>en</language>
