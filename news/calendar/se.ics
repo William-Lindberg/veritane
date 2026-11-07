@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Veritane economic calendar: Sweden
 BEGIN:VEVENT
 UID:riksbank_cal:2026-12-16@veritane
-DTSTAMP:20261107T180059Z
+DTSTAMP:20261107T180412Z
 DTSTART:20261216T083000Z
 SUMMARY:Sveriges Riksbank interest-rate decision
 DESCRIPTION:Sveriges Riksbank announces its decision on the policy rate\, i

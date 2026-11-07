@@ -1,6 +1,6 @@
 {
   "schema": "veritane/leads/1",
-  "generated_at": "2026-11-07T18:00:59Z",
+  "generated_at": "2026-11-07T18:04:12Z",
   "window_hours": 72,
   "leads": [
     {
@@ -204,7 +204,86 @@
       "last_seen": "2026-11-07T17:30:00Z",
       "major_event": true,
       "event_type": "other",
-      "cb": "local"
+      "cb": "rules"
+    },
+    {
+      "id": "l-s20261107-afc6117dbc",
+      "kind": "cluster",
+      "story_id": "s20261107-afc6117dbc",
+      "t": "Thousands pour into a park in Uruguay for Pope Leo's first Mass in South America",
+      "tl": "en",
+      "label": "Uruguay: Globalisation",
+      "countries": [
+        "UY",
+        "US",
+        "AR"
+      ],
+      "regions": [
+        "north-america",
+        "latin-america"
+      ],
+      "categories": [
+        "globalisation"
+      ],
+      "importance": 62,
+      "rl": "multi",
+      "official": [],
+      "coverage": [
+        {
+          "o": "manilatimes",
+          "on": "The Manila Times",
+          "t": "Thousands pour into a park in Uruguay for Pope Leo's first Mass in South America",
+          "u": "https://www.manilatimes.net/2026/11/07/world/thousands-pour-into-a-park-in-uruguay-for-pope-leos-first-mass-in-south-america/2464545",
+          "s": "2026-11-07T13:15:00Z",
+          "l": "en"
+        },
+        {
+          "o": "abcnews_us",
+          "on": "ABC News (US)",
+          "t": "Thousands pour into a park in Uruguay for Pope Leo's first Mass in South America",
+          "u": "https://abcnews.com/International/wireStory/thousands-pour-park-uruguay-pope-leos-mass-south-137938096",
+          "s": "2026-11-07T15:00:00Z",
+          "l": "en"
+        },
+        {
+          "o": "estadao",
+          "on": "O Estado de S. Paulo",
+          "t": "Milhares de pessoas lotam parque no Uruguai para primeira missa do papa Leão XIV na América do Sul",
+          "u": "https://www.estadao.com.br/internacional/uruguai-visita-papa-leao-xiv/",
+          "s": "2026-11-07T15:45:00Z",
+          "l": "pt"
+        },
+        {
+          "o": "arabnews",
+          "on": "Arab News",
+          "t": "Pope Leo urges South America to bridge divides on Uruguay-Argentina border",
+          "u": "https://www.arabnews.com/world/pope-leo-urges-south-america-to-bridge-divides-on-uruguay-argentina-border-3010273",
+          "s": "2026-11-07T16:30:00Z",
+          "l": "en"
+        },
+        {
+          "o": "irishtimes",
+          "on": "The Irish Times",
+          "t": "Pope urges faithful in Uruguay to embrace faith and unity at first Mass in South America",
+          "u": "https://www.irishtimes.com/world/americas/2026/11/07/pope-urges-faithful-in-uruguay-to-embrace-faith-and-unity-at-first-mass-in-south-america/",
+          "s": "2026-11-07T17:45:00Z",
+          "l": "en"
+        },
+        {
+          "o": "thenews_pk",
+          "on": "The News",
+          "t": "Pope Leo urges South America to bridge divides amid Uruguay-Argentina border tensions",
+          "u": "https://www.thenews.com.pk/latest/1422845-pope-leo-urges-south-america-to-bridge-divides-amid-uruguay-argentina-border-tensions",
+          "s": "2026-11-07T18:15:00Z",
+          "l": "en"
+        }
+      ],
+      "other_sites": 0,
+      "first_seen": "2026-11-07T13:15:00Z",
+      "last_seen": "2026-11-07T18:15:00Z",
+      "major_event": true,
+      "event_type": "conflict",
+      "cb": "rules"
     },
     {
       "id": "l-s20261107-0aff5032c8",
@@ -313,77 +392,6 @@
       "cb": "rules"
     },
     {
-      "id": "l-s20261107-afc6117dbc",
-      "kind": "cluster",
-      "story_id": "s20261107-afc6117dbc",
-      "t": "Thousands pour into a park in Uruguay for Pope Leo's first Mass in South America",
-      "tl": "en",
-      "label": "Uruguay: Globalisation",
-      "countries": [
-        "UY",
-        "US",
-        "AR"
-      ],
-      "regions": [
-        "north-america",
-        "latin-america"
-      ],
-      "categories": [
-        "globalisation"
-      ],
-      "importance": 59,
-      "rl": "multi",
-      "official": [],
-      "coverage": [
-        {
-          "o": "manilatimes",
-          "on": "The Manila Times",
-          "t": "Thousands pour into a park in Uruguay for Pope Leo's first Mass in South America",
-          "u": "https://www.manilatimes.net/2026/11/07/world/thousands-pour-into-a-park-in-uruguay-for-pope-leos-first-mass-in-south-america/2464545",
-          "s": "2026-11-07T13:15:00Z",
-          "l": "en"
-        },
-        {
-          "o": "abcnews_us",
-          "on": "ABC News (US)",
-          "t": "Thousands pour into a park in Uruguay for Pope Leo's first Mass in South America",
-          "u": "https://abcnews.com/International/wireStory/thousands-pour-park-uruguay-pope-leos-mass-south-137938096",
-          "s": "2026-11-07T15:00:00Z",
-          "l": "en"
-        },
-        {
-          "o": "estadao",
-          "on": "O Estado de S. Paulo",
-          "t": "Milhares de pessoas lotam parque no Uruguai para primeira missa do papa Leão XIV na América do Sul",
-          "u": "https://www.estadao.com.br/internacional/uruguai-visita-papa-leao-xiv/",
-          "s": "2026-11-07T15:45:00Z",
-          "l": "pt"
-        },
-        {
-          "o": "arabnews",
-          "on": "Arab News",
-          "t": "Pope Leo urges South America to bridge divides on Uruguay-Argentina border",
-          "u": "https://www.arabnews.com/world/pope-leo-urges-south-america-to-bridge-divides-on-uruguay-argentina-border-3010273",
-          "s": "2026-11-07T16:30:00Z",
-          "l": "en"
-        },
-        {
-          "o": "irishtimes",
-          "on": "The Irish Times",
-          "t": "Pope urges faithful in Uruguay to embrace faith and unity at first Mass in South America",
-          "u": "https://www.irishtimes.com/world/americas/2026/11/07/pope-urges-faithful-in-uruguay-to-embrace-faith-and-unity-at-first-mass-in-south-america/",
-          "s": "2026-11-07T17:45:00Z",
-          "l": "en"
-        }
-      ],
-      "other_sites": 0,
-      "first_seen": "2026-11-07T13:15:00Z",
-      "last_seen": "2026-11-07T17:45:00Z",
-      "major_event": true,
-      "event_type": "conflict",
-      "cb": "local"
-    },
-    {
       "id": "l-s20261107-ce83e26400",
       "kind": "cluster",
       "story_id": "s20261107-ce83e26400",
@@ -459,12 +467,86 @@
       "last_seen": "2026-11-07T16:00:00Z",
       "major_event": true,
       "event_type": "other",
-      "cb": "local",
+      "cb": "rules",
       "en_alt": {
         "o": "dw",
         "on": "Deutsche Welle",
         "t": "Italy: Meloni says pro-Russian actors hacked minister",
         "u": "https://www.dw.com/en/italys-meloni-blames-pro-russian-hackers-for-cyberattack-on-minister/a-79885200"
+      }
+    },
+    {
+      "id": "l-s20261107-eae7aa4906",
+      "kind": "cluster",
+      "story_id": "s20261107-eae7aa4906",
+      "t": "New Paraguayan president promises full compensation after bank collapse following predecessor's impeachment",
+      "tl": "en",
+      "label": "Paraguay: Economy",
+      "countries": [
+        "PY",
+        "CL",
+        "US"
+      ],
+      "regions": [
+        "north-america",
+        "latin-america"
+      ],
+      "categories": [],
+      "importance": 54,
+      "rl": "multi",
+      "official": [],
+      "coverage": [
+        {
+          "o": "anadolu",
+          "on": "Anadolu Agency",
+          "t": "New Paraguayan president promises full compensation after bank collapse following predecessor's impeachment",
+          "u": "https://aa.com.tr/en/politics/new-paraguayan-president-promises-full-compensation-after-bank-collapse-following-predecessor-s-impeachment/4114850",
+          "s": "2026-11-07T08:15:00Z",
+          "l": "en"
+        },
+        {
+          "o": "euronews",
+          "on": "Euronews",
+          "s": "2026-11-07T13:00:00Z",
+          "l": "it",
+          "np": true
+        },
+        {
+          "o": "infobae",
+          "on": "Infobae",
+          "t": "Pedro Alliana designó a Ariel Martínez como ministro del Interior de Paraguay: \"Nuestro país necesita paz, orden y seguridad\"",
+          "u": "https://www.infobae.com/america/america-latina/2026/11/07/pedro-alliana-designo-a-ariel-martinez-como-ministro-del-interior-de-paraguay-nuestro-pais-necesita-paz-orden-y-seguridad/",
+          "s": "2026-11-07T16:00:00Z",
+          "l": "es"
+        },
+        {
+          "o": "elespectador",
+          "on": "El Espectador",
+          "t": "Quién es Pedro Alliana, nuevo presidente de Paraguay",
+          "u": "https://www.elespectador.com/mundo/america/pedro-alliana-de-sobreviviente-de-cancer-a-asumir-la-presidencia-de-paraguay/",
+          "s": "2026-11-07T16:15:00Z",
+          "l": "es"
+        },
+        {
+          "o": "thenews_pk",
+          "on": "The News",
+          "t": "Who is Pedro Alliana? Paraguay's new president following Santiago Pena's impeachment",
+          "u": "https://www.thenews.com.pk/latest/1422833-who-is-pedro-alliana-paraguays-new-president-following-santiago-penas-impeachment",
+          "s": "2026-11-07T18:15:00Z",
+          "l": "en"
+        }
+      ],
+      "other_sites": 1,
+      "first_seen": "2026-11-07T08:15:00Z",
+      "last_seen": "2026-11-07T18:15:00Z",
+      "major_event": true,
+      "event_type": "legal",
+      "cb": "rules",
+      "en_alt": {
+        "o": "anadolu",
+        "on": "Anadolu Agency",
+        "t": "New Paraguayan president promises full compensation after bank collapse following predecessor's impeachment",
+        "u": "https://aa.com.tr/en/politics/new-paraguayan-president-promises-full-compensation-after-bank-collapse-following-predecessor-s-impeachment/4114850"
       }
     },
     {
@@ -527,7 +609,75 @@
       "last_seen": "2026-11-07T16:30:00Z",
       "major_event": true,
       "event_type": "conflict",
-      "cb": "local"
+      "cb": "rules"
+    },
+    {
+      "id": "l-s20261107-09296f7de0",
+      "kind": "cluster",
+      "story_id": "s20261107-09296f7de0",
+      "t": "Paraguay's prosecutors question ex-president over banking scandal",
+      "tl": "en",
+      "label": "Paraguay: Banking",
+      "countries": [
+        "PY"
+      ],
+      "regions": [
+        "latin-america"
+      ],
+      "categories": [
+        "banking"
+      ],
+      "importance": 51,
+      "rl": "multi",
+      "official": [],
+      "coverage": [
+        {
+          "o": "rte",
+          "on": "RTÉ",
+          "t": "Paraguay bank collapse sees president impeached, arrested",
+          "u": "https://www.rte.ie/news/world/2026/1107/1598335-paraguay-bank-collapse-sees-president-impeached-arrested/",
+          "s": "2026-11-07T07:00:00Z",
+          "l": "en"
+        },
+        {
+          "o": "graphic",
+          "on": "Graphic Online",
+          "t": "Paraguay's president impeached and under house arrest after bank collapse",
+          "u": "https://www.graphic.com.gh/international/international-news/paraguays-president-impeached-and-under-house-arrest-after-bank-collapse.html",
+          "s": "2026-11-07T12:30:00Z",
+          "l": "en"
+        },
+        {
+          "o": "moneycontrol",
+          "on": "Moneycontrol",
+          "t": "Paraguayan President Pena removed from office, arrested as bank collapse triggers political crisis",
+          "u": "https://www.moneycontrol.com/world/paraguayan-president-pena-removed-from-office-arrested-as-bank-collapse-triggers-political-crisis-article-14074600.html",
+          "s": "2026-11-07T16:00:00Z",
+          "l": "en"
+        },
+        {
+          "o": "abcnews_us",
+          "on": "ABC News (US)",
+          "t": "Paraguay's former president faces prosecutors after his removal over bank collapse",
+          "u": "https://abcnews.com/International/wireStory/paraguays-former-president-faces-prosecutors-after-removal-bank-137941605",
+          "s": "2026-11-07T17:00:00Z",
+          "l": "en"
+        },
+        {
+          "o": "fmt",
+          "on": "Free Malaysia Today",
+          "t": "Paraguay's prosecutors question ex-president over banking scandal",
+          "u": "https://www.freemalaysiatoday.com/category/world/2026/11/07/paraguay-s-prosecutors-question-ex-president-over-banking-scandal",
+          "s": "2026-11-07T18:15:00Z",
+          "l": "en"
+        }
+      ],
+      "other_sites": 57,
+      "first_seen": "2026-11-07T06:30:00Z",
+      "last_seen": "2026-11-07T18:15:00Z",
+      "major_event": true,
+      "event_type": "policy",
+      "cb": "rules"
     },
     {
       "id": "l-s20261107-f4fecc840f",
@@ -600,6 +750,59 @@
       "cb": "rules"
     },
     {
+      "id": "l-s20261107-2af9462c14",
+      "kind": "cluster",
+      "story_id": "s20261107-2af9462c14",
+      "t": "Expanding on naval blockade, US military looks to restrict Iranian land commerce",
+      "tl": "en",
+      "label": "United States: Energy and commodities",
+      "countries": [
+        "US",
+        "IR"
+      ],
+      "regions": [
+        "north-america",
+        "middle-east"
+      ],
+      "categories": [
+        "energy"
+      ],
+      "importance": 48,
+      "rl": "multi",
+      "official": [],
+      "coverage": [
+        {
+          "o": "arabnews",
+          "on": "Arab News",
+          "t": "Expanding on naval blockade, US military looks to restrict Iranian land commerce",
+          "u": "https://www.arabnews.com/middle-east/expanding-on-naval-blockade-us-military-looks-to-restrict-iranian-land-commerce-3010330",
+          "s": "2026-11-07T14:45:00Z",
+          "l": "en"
+        },
+        {
+          "o": "globeandmail",
+          "on": "The Globe and Mail",
+          "s": "2026-11-07T16:45:00Z",
+          "l": "en",
+          "np": true
+        },
+        {
+          "o": "cnbc",
+          "on": "CNBC",
+          "t": "U.S. looks to restrict Iranian land commerce with new task force",
+          "u": "https://www.cnbc.com/2026/11/07/iran-us-task-force-land-commerce.html",
+          "s": "2026-11-07T18:15:00Z",
+          "l": "en"
+        }
+      ],
+      "other_sites": 0,
+      "first_seen": "2026-11-07T14:45:00Z",
+      "last_seen": "2026-11-07T18:15:00Z",
+      "major_event": true,
+      "event_type": "conflict",
+      "cb": "local"
+    },
+    {
       "id": "l-s20261107-7254fc0e9b",
       "kind": "cluster",
       "story_id": "s20261107-7254fc0e9b",
@@ -658,14 +861,97 @@
           "u": "https://www.washingtonexaminer.com/news/world/4796525/gunman-poland-krakow-mass-shooting/",
           "s": "2026-11-07T17:30:00Z",
           "l": "en"
+        },
+        {
+          "o": "et",
+          "on": "The Economic Times",
+          "t": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+          "u": "https://economictimes.indiatimes.com/news/international/world-news/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15/articleshow/135643724.cms",
+          "s": "2026-11-07T18:15:00Z",
+          "l": "en"
         }
       ],
       "other_sites": 0,
       "first_seen": "2026-11-07T15:45:00Z",
-      "last_seen": "2026-11-07T17:30:00Z",
+      "last_seen": "2026-11-07T18:15:00Z",
       "major_event": true,
       "event_type": "conflict",
-      "cb": "local"
+      "cb": "rules"
+    },
+    {
+      "id": "l-s20261107-802b18fa27",
+      "kind": "cluster",
+      "story_id": "s20261107-802b18fa27",
+      "t": "Live updates: Trump taps Stephen Miller as new chief of staff",
+      "tl": "en",
+      "label": "United States: Trade",
+      "countries": [
+        "US"
+      ],
+      "regions": [
+        "north-america"
+      ],
+      "categories": [
+        "trade"
+      ],
+      "importance": 48,
+      "rl": "multi",
+      "official": [],
+      "coverage": [
+        {
+          "o": "toi",
+          "on": "The Times of India",
+          "t": "Miller Time: Trump promotes immigration hardliner to chief of staff after electoral drubbing",
+          "u": "https://timesofindia.indiatimes.com/world/us/miller-time-trump-promotes-immigration-hardliner-to-chief-of-staff-after-electoral-drubbing/articleshow/135637798.cms",
+          "s": "2026-11-07T13:30:00Z",
+          "l": "en"
+        },
+        {
+          "o": "foxnews",
+          "on": "Fox News",
+          "t": "Republicans blast Stephen Miller's promotion to Trump chief of staff",
+          "u": "https://www.foxnews.com/politics/house-gop-erupts-stephen-miller-trump-elevates-him-after-midterm-massacre-megalomaniac",
+          "s": "2026-11-07T13:45:00Z",
+          "l": "en"
+        },
+        {
+          "o": "toi",
+          "on": "The Times of India",
+          "t": "Trump says 'I just wanted to make a change' as Stephen Miller replaces Susie Wiles as chief of staff",
+          "u": "https://timesofindia.indiatimes.com/world/us/trump-says-i-just-wanted-to-make-a-change-as-stephen-miller-replaces-susie-wiles-as-chief-of-staff/articleshow/135638935.cms",
+          "s": "2026-11-07T14:45:00Z",
+          "l": "en"
+        },
+        {
+          "o": "rte",
+          "on": "RTÉ",
+          "t": "'It's Miller time' but who is Trump's new chief of staff?",
+          "u": "https://www.rte.ie/news/us/2026/1107/1598356-stephen-miller/",
+          "s": "2026-11-07T15:30:00Z",
+          "l": "en"
+        },
+        {
+          "o": "guardian",
+          "on": "The Guardian",
+          "s": "2026-11-07T16:00:00Z",
+          "l": "en",
+          "np": true
+        },
+        {
+          "o": "nbcnews",
+          "on": "NBC News",
+          "t": "Live updates: Trump taps Stephen Miller as new chief of staff",
+          "u": "https://www.nbcnews.com/politics/2026-election/live-blog/rump-taps-stephen-miller-chief-staff-wiles-cabinet-midterm-elections-rcna607914",
+          "s": "2026-11-07T18:15:00Z",
+          "l": "en"
+        }
+      ],
+      "other_sites": 0,
+      "first_seen": "2026-11-07T13:30:00Z",
+      "last_seen": "2026-11-07T18:15:00Z",
+      "major_event": true,
+      "event_type": "policy",
+      "cb": "rules"
     },
     {
       "id": "l-s20261107-ba1014f35a",
@@ -867,7 +1153,7 @@
       "last_seen": "2026-11-07T16:15:00Z",
       "major_event": true,
       "event_type": "conflict",
-      "cb": "local",
+      "cb": "rules",
       "en_alt": {
         "o": "premiumtimes",
         "on": "Premium Times",
@@ -922,6 +1208,74 @@
       "other_sites": 1,
       "first_seen": "2026-11-07T09:30:00Z",
       "last_seen": "2026-11-07T16:15:00Z",
+      "cb": "rules"
+    },
+    {
+      "id": "l-s20261107-bfd4e270d9",
+      "kind": "cluster",
+      "story_id": "s20261107-bfd4e270d9",
+      "t": "Heavy rain floods tents housing Gaza displaced people, aid shortages hamper response",
+      "tl": "en",
+      "label": "Israel: Development",
+      "countries": [
+        "IL"
+      ],
+      "regions": [
+        "middle-east"
+      ],
+      "categories": [
+        "development",
+        "housing"
+      ],
+      "importance": 47,
+      "rl": "multi",
+      "official": [],
+      "coverage": [
+        {
+          "o": "straitstimes",
+          "on": "The Straits Times",
+          "s": "2026-11-07T13:30:00Z",
+          "l": "en",
+          "np": true
+        },
+        {
+          "o": "arabnews",
+          "on": "Arab News",
+          "t": "Heavy rain floods tents housing Gaza displaced people, aid shortages hamper response",
+          "u": "https://www.arabnews.com/middle-east/heavy-rain-floods-tents-housing-gaza-displaced-people-aid-shortages-hamper-response-3010327",
+          "s": "2026-11-07T14:30:00Z",
+          "l": "en"
+        },
+        {
+          "o": "anadolu",
+          "on": "Anadolu Agency",
+          "t": "5 Palestinians injured in storm-related collapses as heavy rains batter Gaza displacement tents",
+          "u": "https://aa.com.tr/en/world/5-palestinians-injured-in-storm-related-collapses-as-heavy-rains-batter-gaza-displacement-tents/4114898",
+          "s": "2026-11-07T18:00:00Z",
+          "l": "en"
+        },
+        {
+          "o": "dailysabah",
+          "on": "Daily Sabah",
+          "t": "Heavy rains flood 70,000 displacement tents across Gaza",
+          "u": "https://www.dailysabah.com/world/mid-east/heavy-rains-flood-70000-displacement-tents-across-gaza",
+          "s": "2026-11-07T18:15:00Z",
+          "l": "en"
+        },
+        {
+          "o": "nbcnews",
+          "on": "NBC News",
+          "t": "Heavy rain floods thousands of tents in Gaza, aid shortages hamper response",
+          "u": "https://www.nbcnews.com/world/gaza/heavy-rain-floods-thousands-tents-gaza-aid-shortages-hamper-response-rcna607988",
+          "s": "2026-11-07T18:15:00Z",
+          "l": "en"
+        }
+      ],
+      "other_sites": 0,
+      "first_seen": "2026-11-07T13:30:00Z",
+      "last_seen": "2026-11-07T18:15:00Z",
+      "major_event": true,
+      "event_type": "disaster",
       "cb": "rules"
     },
     {
@@ -1123,131 +1477,63 @@
       "tb": "mt"
     },
     {
-      "id": "l-s20261107-802b18fa27",
+      "id": "l-s20261107-7ce804f4b2",
       "kind": "cluster",
-      "story_id": "s20261107-802b18fa27",
-      "t": "Republicans blast Stephen Miller's promotion to Trump chief of staff",
+      "story_id": "s20261107-7ce804f4b2",
+      "t": "Syria says military deal with Saudi Arabia focuses on training, denies sending troops to Yemen",
       "tl": "en",
-      "label": "United States: Trade",
+      "label": "Saudi Arabia: Macroeconomics",
       "countries": [
-        "US"
+        "SA"
       ],
       "regions": [
-        "north-america"
+        "middle-east"
       ],
       "categories": [
-        "trade"
+        "macro"
       ],
       "importance": 46,
       "rl": "multi",
       "official": [],
       "coverage": [
         {
-          "o": "toi",
-          "on": "The Times of India",
-          "t": "Miller Time: Trump promotes immigration hardliner to chief of staff after electoral drubbing",
-          "u": "https://timesofindia.indiatimes.com/world/us/miller-time-trump-promotes-immigration-hardliner-to-chief-of-staff-after-electoral-drubbing/articleshow/135637798.cms",
-          "s": "2026-11-07T13:30:00Z",
-          "l": "en"
-        },
-        {
-          "o": "foxnews",
-          "on": "Fox News",
-          "t": "Republicans blast Stephen Miller's promotion to Trump chief of staff",
-          "u": "https://www.foxnews.com/politics/house-gop-erupts-stephen-miller-trump-elevates-him-after-midterm-massacre-megalomaniac",
-          "s": "2026-11-07T13:45:00Z",
-          "l": "en"
-        },
-        {
-          "o": "toi",
-          "on": "The Times of India",
-          "t": "Trump says 'I just wanted to make a change' as Stephen Miller replaces Susie Wiles as chief of staff",
-          "u": "https://timesofindia.indiatimes.com/world/us/trump-says-i-just-wanted-to-make-a-change-as-stephen-miller-replaces-susie-wiles-as-chief-of-staff/articleshow/135638935.cms",
-          "s": "2026-11-07T14:45:00Z",
-          "l": "en"
-        },
-        {
-          "o": "rte",
-          "on": "RTÉ",
-          "t": "'It's Miller time' but who is Trump's new chief of staff?",
-          "u": "https://www.rte.ie/news/us/2026/1107/1598356-stephen-miller/",
-          "s": "2026-11-07T15:30:00Z",
-          "l": "en"
-        },
-        {
-          "o": "guardian",
-          "on": "The Guardian",
-          "s": "2026-11-07T16:00:00Z",
-          "l": "en",
-          "np": true
-        }
-      ],
-      "other_sites": 0,
-      "first_seen": "2026-11-07T13:30:00Z",
-      "last_seen": "2026-11-07T16:00:00Z",
-      "major_event": true,
-      "event_type": "policy",
-      "cb": "rules"
-    },
-    {
-      "id": "l-s20261107-09296f7de0",
-      "kind": "cluster",
-      "story_id": "s20261107-09296f7de0",
-      "t": "Paraguay bank collapse sees president impeached, arrested",
-      "tl": "en",
-      "label": "Paraguay: Banking",
-      "countries": [
-        "PY"
-      ],
-      "regions": [
-        "latin-america"
-      ],
-      "categories": [
-        "banking"
-      ],
-      "importance": 45,
-      "rl": "multi",
-      "official": [],
-      "coverage": [
-        {
-          "o": "rte",
-          "on": "RTÉ",
-          "t": "Paraguay bank collapse sees president impeached, arrested",
-          "u": "https://www.rte.ie/news/world/2026/1107/1598335-paraguay-bank-collapse-sees-president-impeached-arrested/",
-          "s": "2026-11-07T07:00:00Z",
-          "l": "en"
-        },
-        {
-          "o": "graphic",
-          "on": "Graphic Online",
-          "t": "Paraguay's president impeached and under house arrest after bank collapse",
-          "u": "https://www.graphic.com.gh/international/international-news/paraguays-president-impeached-and-under-house-arrest-after-bank-collapse.html",
-          "s": "2026-11-07T12:30:00Z",
+          "o": "arabnews",
+          "on": "Arab News",
+          "t": "Syria denies plans to send troops to Yemen",
+          "u": "https://www.arabnews.com/middle-east/syria-denies-plans-to-send-troops-to-yemen-3010338",
+          "s": "2026-11-07T17:30:00Z",
           "l": "en"
         },
         {
           "o": "moneycontrol",
           "on": "Moneycontrol",
-          "t": "Paraguayan President Pena removed from office, arrested as bank collapse triggers political crisis",
-          "u": "https://www.moneycontrol.com/world/paraguayan-president-pena-removed-from-office-arrested-as-bank-collapse-triggers-political-crisis-article-14074600.html",
-          "s": "2026-11-07T16:00:00Z",
+          "t": "Syria denies sending troops to Yemen as Saudi military ties deepen",
+          "u": "https://www.moneycontrol.com/world/syria-denies-sending-troops-to-yemen-as-saudi-military-ties-deepen-article-14074629.html",
+          "s": "2026-11-07T17:45:00Z",
           "l": "en"
         },
         {
-          "o": "abcnews_us",
-          "on": "ABC News (US)",
-          "t": "Paraguay's former president faces prosecutors after his removal over bank collapse",
-          "u": "https://abcnews.com/International/wireStory/paraguays-former-president-faces-prosecutors-after-removal-bank-137941605",
-          "s": "2026-11-07T17:00:00Z",
+          "o": "anadolu",
+          "on": "Anadolu Agency",
+          "t": "Syria says military deal with Saudi Arabia focuses on training, denies sending troops to Yemen",
+          "u": "https://aa.com.tr/en/middle-east/syria-says-military-deal-with-saudi-arabia-focuses-on-training-denies-sending-troops-to-yemen/4115383",
+          "s": "2026-11-07T18:00:00Z",
           "l": "en"
+        },
+        {
+          "o": "straitstimes",
+          "on": "The Straits Times",
+          "s": "2026-11-07T18:15:00Z",
+          "l": "en",
+          "np": true
         }
       ],
-      "other_sites": 56,
-      "first_seen": "2026-11-07T06:30:00Z",
-      "last_seen": "2026-11-07T18:00:00Z",
+      "other_sites": 0,
+      "first_seen": "2026-11-07T17:30:00Z",
+      "last_seen": "2026-11-07T18:15:00Z",
       "major_event": true,
-      "event_type": "legal",
-      "cb": "rules"
+      "event_type": "conflict",
+      "cb": "local"
     },
     {
       "id": "l-s20261107-897ab4b142",
@@ -1303,6 +1589,61 @@
       "last_seen": "2026-11-07T17:30:00Z",
       "cb": "rules",
       "te": "Dollar today: how much you're paying this Saturday, November 7th",
+      "tb": "mt"
+    },
+    {
+      "id": "l-s20261107-6ddb83a000",
+      "kind": "cluster",
+      "story_id": "s20261107-6ddb83a000",
+      "t": "El expresidente Santiago Peña declara en la Fiscalía por el colapso de Ueno Bank",
+      "tl": "es",
+      "label": "Paraguay: Banking",
+      "countries": [
+        "PY",
+        "SE"
+      ],
+      "regions": [
+        "eu",
+        "latin-america"
+      ],
+      "categories": [
+        "banking",
+        "fiscal"
+      ],
+      "importance": 42,
+      "rl": "multi",
+      "official": [],
+      "coverage": [
+        {
+          "o": "ilfatto",
+          "on": "Il Fatto Quotidiano",
+          "t": "Crac Ueno Bank Paraguay, folla assalta la casa di Peña",
+          "u": "https://www.ilfattoquotidiano.it/2026/11/07/scontri-paraguay-crac-ueno-bank-folla-tenta-irruzione-casa-santiago-pena-deve-andare-in-carcere/8563957/",
+          "s": "2026-11-07T12:00:00Z",
+          "l": "it"
+        },
+        {
+          "o": "clarin",
+          "on": "Clarín",
+          "t": "Tras ser destituido y detenido, Santiago Peña irá a declarar ante la Justicia por la quiebra de Ueno Bank",
+          "u": "https://www.clarin.com/mundo/destituido-detenido-santiago-pena-ira-declarar-justicia-quiebra-ueno-bank_0_8eyom8PLaD.html",
+          "s": "2026-11-07T13:30:00Z",
+          "l": "es"
+        },
+        {
+          "o": "lanacion",
+          "on": "La Nación (AR)",
+          "t": "El expresidente Santiago Peña declara en la Fiscalía por el colapso de Ueno Bank",
+          "u": "https://www.lanacion.com.ar/el-mundo/el-expresidente-santiago-pena-declara-en-la-fiscalia-por-el-colapso-de-ueno-bank-nid07112026/",
+          "s": "2026-11-07T18:00:00Z",
+          "l": "es"
+        }
+      ],
+      "other_sites": 5,
+      "first_seen": "2026-11-07T12:00:00Z",
+      "last_seen": "2026-11-07T18:00:00Z",
+      "cb": "rules",
+      "te": "Former President Santiago Peña declares in the Prosecutor's Office for the collapse of Ueno Bank",
       "tb": "mt"
     },
     {
@@ -1488,7 +1829,7 @@
       "last_seen": "2026-11-07T17:30:00Z",
       "major_event": true,
       "event_type": "other",
-      "cb": "local",
+      "cb": "rules",
       "en_alt": {
         "o": "fmt",
         "on": "Free Malaysia Today",
@@ -1497,55 +1838,12 @@
       }
     },
     {
-      "id": "l-s20261107-2af9462c14",
-      "kind": "cluster",
-      "story_id": "s20261107-2af9462c14",
-      "t": "Expanding on naval blockade, US military looks to restrict Iranian land commerce",
-      "tl": "en",
-      "label": "United States: Economy",
-      "countries": [
-        "US",
-        "IR"
-      ],
-      "regions": [
-        "north-america",
-        "middle-east"
-      ],
-      "categories": [],
-      "importance": 41,
-      "rl": "multi",
-      "official": [],
-      "coverage": [
-        {
-          "o": "arabnews",
-          "on": "Arab News",
-          "t": "Expanding on naval blockade, US military looks to restrict Iranian land commerce",
-          "u": "https://www.arabnews.com/middle-east/expanding-on-naval-blockade-us-military-looks-to-restrict-iranian-land-commerce-3010330",
-          "s": "2026-11-07T14:45:00Z",
-          "l": "en"
-        },
-        {
-          "o": "globeandmail",
-          "on": "The Globe and Mail",
-          "s": "2026-11-07T16:45:00Z",
-          "l": "en",
-          "np": true
-        }
-      ],
-      "other_sites": 0,
-      "first_seen": "2026-11-07T14:45:00Z",
-      "last_seen": "2026-11-07T16:45:00Z",
-      "major_event": true,
-      "event_type": "conflict",
-      "cb": "rules"
-    },
-    {
       "id": "l-s20261107-5b3241a454",
       "kind": "cluster",
       "story_id": "s20261107-5b3241a454",
       "t": "Russia continues its attacks on power facilities in Kyiv as temperatures drop ahead of winter",
       "tl": "en",
-      "label": "Russia: Economy",
+      "label": "Russia: Government debt",
       "countries": [
         "RU",
         "UA"
@@ -1553,7 +1851,9 @@
       "regions": [
         "europe-other"
       ],
-      "categories": [],
+      "categories": [
+        "debt"
+      ],
       "importance": 41,
       "rl": "multi",
       "official": [],
@@ -1580,14 +1880,22 @@
           "s": "2026-11-07T16:45:00Z",
           "l": "en",
           "np": true
+        },
+        {
+          "o": "nbcnews",
+          "on": "NBC News",
+          "t": "Russia pounds power facilities around Kyiv, damages major bridge",
+          "u": "https://www.nbcnews.com/world/ukraine/russia-pounds-power-facilities-kyiv-damages-major-bridge-rcna607976",
+          "s": "2026-11-07T18:15:00Z",
+          "l": "en"
         }
       ],
       "other_sites": 0,
       "first_seen": "2026-11-07T14:15:00Z",
-      "last_seen": "2026-11-07T16:45:00Z",
+      "last_seen": "2026-11-07T18:15:00Z",
       "major_event": true,
       "event_type": "conflict",
-      "cb": "rules"
+      "cb": "local"
     },
     {
       "id": "l-s20261105-67923a3636",
@@ -2322,7 +2630,7 @@
       "story_id": "s20261107-8c0c633902",
       "t": "Inflation, housing, jobs and corporate earnings will dominate the business calendar this week",
       "tl": "en",
-      "label": "Iran: Inflation",
+      "label": "Iran: Employment and wages",
       "countries": [
         "IR",
         "US"
@@ -2332,8 +2640,8 @@
         "middle-east"
       ],
       "categories": [
-        "inflation",
         "jobs",
+        "inflation",
         "housing"
       ],
       "importance": 33,
@@ -2349,9 +2657,9 @@
           "l": "en"
         }
       ],
-      "other_sites": 3,
+      "other_sites": 5,
       "first_seen": "2026-11-07T17:45:00Z",
-      "last_seen": "2026-11-07T18:00:00Z",
+      "last_seen": "2026-11-07T18:15:00Z",
       "cb": "rules"
     },
     {
@@ -2799,50 +3107,6 @@
       "cb": "rules"
     },
     {
-      "id": "l-s20261107-bfd4e270d9",
-      "kind": "cluster",
-      "story_id": "s20261107-bfd4e270d9",
-      "t": "Heavy rain floods tents housing Gaza displaced people, aid shortages hamper response",
-      "tl": "en",
-      "label": "Israel: Housing",
-      "countries": [
-        "IL"
-      ],
-      "regions": [
-        "middle-east"
-      ],
-      "categories": [
-        "housing",
-        "development"
-      ],
-      "importance": 33,
-      "rl": "multi",
-      "official": [],
-      "coverage": [
-        {
-          "o": "straitstimes",
-          "on": "The Straits Times",
-          "s": "2026-11-07T13:30:00Z",
-          "l": "en",
-          "np": true
-        },
-        {
-          "o": "arabnews",
-          "on": "Arab News",
-          "t": "Heavy rain floods tents housing Gaza displaced people, aid shortages hamper response",
-          "u": "https://www.arabnews.com/middle-east/heavy-rain-floods-tents-housing-gaza-displaced-people-aid-shortages-hamper-response-3010327",
-          "s": "2026-11-07T14:30:00Z",
-          "l": "en"
-        }
-      ],
-      "other_sites": 0,
-      "first_seen": "2026-11-07T13:30:00Z",
-      "last_seen": "2026-11-07T14:30:00Z",
-      "major_event": true,
-      "event_type": "disaster",
-      "cb": "rules"
-    },
-    {
       "id": "l-s20261107-a18f8d15e0",
       "kind": "cluster",
       "story_id": "s20261107-a18f8d15e0",
@@ -3164,6 +3428,80 @@
       "cb": "rules"
     },
     {
+      "id": "l-s20261107-58f252a4e4",
+      "kind": "cluster",
+      "story_id": "s20261107-58f252a4e4",
+      "t": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
+      "tl": "en",
+      "label": "United States: Financial markets",
+      "countries": [
+        "US",
+        "IR"
+      ],
+      "regions": [
+        "north-america",
+        "middle-east"
+      ],
+      "categories": [
+        "markets",
+        "trade",
+        "tech"
+      ],
+      "importance": 31,
+      "rl": "single",
+      "official": [],
+      "coverage": [
+        {
+          "o": "abcnews_us",
+          "on": "ABC News (US)",
+          "t": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
+          "u": "https://abcnews.com/Business/wireStory/high-flying-ai-stocks-tariff-hit-alcohol-companies-137938660",
+          "s": "2026-11-07T18:00:00Z",
+          "l": "en"
+        }
+      ],
+      "other_sites": 7,
+      "first_seen": "2026-11-07T17:45:00Z",
+      "last_seen": "2026-11-07T18:15:00Z",
+      "cb": "rules"
+    },
+    {
+      "id": "l-s20261107-f962a211f4",
+      "kind": "cluster",
+      "story_id": "s20261107-f962a211f4",
+      "t": "Pandas put a soft face on Beijing's trade row with US",
+      "tl": "en",
+      "label": "China: Trade",
+      "countries": [
+        "CN",
+        "US"
+      ],
+      "regions": [
+        "north-america",
+        "asia-pacific"
+      ],
+      "categories": [
+        "trade"
+      ],
+      "importance": 31,
+      "rl": "single",
+      "official": [],
+      "coverage": [
+        {
+          "o": "taipeitimes",
+          "on": "Taipei Times",
+          "t": "Pandas put a soft face on Beijing's trade row with US",
+          "u": "https://www.taipeitimes.com/News/world/archives/2026/11/08/2003867377",
+          "s": "2026-11-07T18:15:00Z",
+          "l": "en"
+        }
+      ],
+      "other_sites": 0,
+      "first_seen": "2026-11-07T18:15:00Z",
+      "last_seen": "2026-11-07T18:15:00Z",
+      "cb": "rules"
+    },
+    {
       "id": "l-s20261107-102b0e1472",
       "kind": "cluster",
       "story_id": "s20261107-102b0e1472",
@@ -3477,49 +3815,10 @@
           "l": "en"
         }
       ],
-      "other_sites": 23,
+      "other_sites": 26,
       "first_seen": "2026-11-07T15:00:00Z",
-      "last_seen": "2026-11-07T18:00:00Z",
+      "last_seen": "2026-11-07T18:15:00Z",
       "cb": "rules"
-    },
-    {
-      "id": "l-s20261107-f8453ab6dc",
-      "kind": "cluster",
-      "story_id": "s20261107-f8453ab6dc",
-      "t": "Tras ser destituido y detenido, Santiago Peña irá a declarar ante la Justicia por la quiebra de Ueno Bank",
-      "tl": "es",
-      "label": "Paraguay: Corporate finance",
-      "countries": [
-        "PY",
-        "SE"
-      ],
-      "regions": [
-        "eu",
-        "latin-america"
-      ],
-      "categories": [
-        "corporate",
-        "banking"
-      ],
-      "importance": 30,
-      "rl": "single",
-      "official": [],
-      "coverage": [
-        {
-          "o": "clarin",
-          "on": "Clarín",
-          "t": "Tras ser destituido y detenido, Santiago Peña irá a declarar ante la Justicia por la quiebra de Ueno Bank",
-          "u": "https://www.clarin.com/mundo/destituido-detenido-santiago-pena-ira-declarar-justicia-quiebra-ueno-bank_0_8eyom8PLaD.html",
-          "s": "2026-11-07T13:30:00Z",
-          "l": "es"
-        }
-      ],
-      "other_sites": 3,
-      "first_seen": "2026-11-07T13:30:00Z",
-      "last_seen": "2026-11-07T17:45:00Z",
-      "cb": "rules",
-      "te": "After being dismissed and arrested, Santiago Peña will testify before the Court for the bankruptcy of Ueno Bank",
-      "tb": "mt"
     },
     {
       "id": "l-s20261107-9b19337415",
@@ -5788,6 +6087,41 @@
       "cb": "rules"
     },
     {
+      "id": "l-s20261107-1dba8a1bb5",
+      "kind": "cluster",
+      "story_id": "s20261107-1dba8a1bb5",
+      "t": "Spain: Housing",
+      "tl": "en",
+      "label": "Spain: Housing",
+      "countries": [
+        "ES"
+      ],
+      "regions": [
+        "eu"
+      ],
+      "categories": [
+        "housing",
+        "fiscal"
+      ],
+      "importance": 25,
+      "rl": "single",
+      "official": [],
+      "coverage": [
+        {
+          "o": "elpais",
+          "on": "El País",
+          "s": "2026-11-07T18:00:00Z",
+          "l": "es",
+          "np": true
+        }
+      ],
+      "other_sites": 0,
+      "first_seen": "2026-11-07T18:00:00Z",
+      "last_seen": "2026-11-07T18:00:00Z",
+      "cb": "rules",
+      "np": true
+    },
+    {
       "id": "l-s20261107-0c4eed28bf",
       "kind": "cluster",
       "story_id": "s20261107-0c4eed28bf",
@@ -5886,55 +6220,6 @@
       "last_seen": "2026-11-07T17:00:00Z",
       "cb": "rules",
       "np": true
-    },
-    {
-      "id": "l-s20261107-22171900e9",
-      "kind": "cluster",
-      "story_id": "s20261107-22171900e9",
-      "t": "Quién es Pedro Alliana, nuevo presidente de Paraguay",
-      "tl": "es",
-      "label": "Paraguay: Economy",
-      "countries": [
-        "PY"
-      ],
-      "regions": [
-        "latin-america"
-      ],
-      "categories": [],
-      "importance": 25,
-      "rl": "multi",
-      "official": [],
-      "coverage": [
-        {
-          "o": "euronews",
-          "on": "Euronews",
-          "s": "2026-11-07T13:00:00Z",
-          "l": "it",
-          "np": true
-        },
-        {
-          "o": "infobae",
-          "on": "Infobae",
-          "t": "Pedro Alliana designó a Ariel Martínez como ministro del Interior de Paraguay: \"Nuestro país necesita paz, orden y seguridad\"",
-          "u": "https://www.infobae.com/america/america-latina/2026/11/07/pedro-alliana-designo-a-ariel-martinez-como-ministro-del-interior-de-paraguay-nuestro-pais-necesita-paz-orden-y-seguridad/",
-          "s": "2026-11-07T16:00:00Z",
-          "l": "es"
-        },
-        {
-          "o": "elespectador",
-          "on": "El Espectador",
-          "t": "Quién es Pedro Alliana, nuevo presidente de Paraguay",
-          "u": "https://www.elespectador.com/mundo/america/pedro-alliana-de-sobreviviente-de-cancer-a-asumir-la-presidencia-de-paraguay/",
-          "s": "2026-11-07T16:15:00Z",
-          "l": "es"
-        }
-      ],
-      "other_sites": 0,
-      "first_seen": "2026-11-07T13:00:00Z",
-      "last_seen": "2026-11-07T16:15:00Z",
-      "cb": "rules",
-      "te": "Who is Pedro Alliana, new president of Paraguay",
-      "tb": "mt"
     },
     {
       "id": "l-s20261107-3f63b62b8a",
@@ -6766,38 +7051,37 @@
       "cb": "rules"
     },
     {
-      "id": "l-s20261107-58f252a4e4",
+      "id": "l-s20261107-333ce75aed",
       "kind": "cluster",
-      "story_id": "s20261107-58f252a4e4",
-      "t": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
+      "story_id": "s20261107-333ce75aed",
+      "t": "Gold-backed agriculture loans: RBI proposes changes to priority sector lending rules; what could change for borrowers",
       "tl": "en",
-      "label": "United States: Trade",
+      "label": "India: Energy and commodities",
       "countries": [
-        "US"
+        "IN"
       ],
       "regions": [
-        "north-america"
+        "asia-pacific"
       ],
       "categories": [
-        "trade",
-        "markets",
-        "tech"
+        "energy",
+        "monetary"
       ],
       "importance": 24,
       "rl": "single",
       "official": [],
       "coverage": [
         {
-          "o": "abcnews_us",
-          "on": "ABC News (US)",
-          "t": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
-          "u": "https://abcnews.com/Business/wireStory/high-flying-ai-stocks-tariff-hit-alcohol-companies-137938660",
-          "s": "2026-11-07T18:00:00Z",
+          "o": "mint",
+          "on": "Mint",
+          "t": "Gold-backed agriculture loans: RBI proposes changes to priority sector lending rules; what could change for borrowers",
+          "u": "https://www.livemint.com/money/personal-finance/goldbacked-agriculture-loans-rbi-proposes-changes-to-priority-sector-lending-rules-what-could-change-for-borrowers-11794038739503.html",
+          "s": "2026-11-07T09:30:00Z",
           "l": "en"
         }
       ],
-      "other_sites": 3,
-      "first_seen": "2026-11-07T17:45:00Z",
+      "other_sites": 2,
+      "first_seen": "2026-11-07T09:30:00Z",
       "last_seen": "2026-11-07T18:00:00Z",
       "cb": "rules"
     },
@@ -7624,42 +7908,6 @@
       "cb": "rules"
     },
     {
-      "id": "l-s20261107-333ce75aed",
-      "kind": "cluster",
-      "story_id": "s20261107-333ce75aed",
-      "t": "Gold-backed agriculture loans: RBI proposes changes to priority sector lending rules; what could change for borrowers",
-      "tl": "en",
-      "label": "India: Monetary policy",
-      "countries": [
-        "IN"
-      ],
-      "regions": [
-        "asia-pacific"
-      ],
-      "categories": [
-        "monetary",
-        "banking",
-        "energy"
-      ],
-      "importance": 24,
-      "rl": "single",
-      "official": [],
-      "coverage": [
-        {
-          "o": "mint",
-          "on": "Mint",
-          "t": "Gold-backed agriculture loans: RBI proposes changes to priority sector lending rules; what could change for borrowers",
-          "u": "https://www.livemint.com/money/personal-finance/goldbacked-agriculture-loans-rbi-proposes-changes-to-priority-sector-lending-rules-what-could-change-for-borrowers-11794038739503.html",
-          "s": "2026-11-07T09:30:00Z",
-          "l": "en"
-        }
-      ],
-      "other_sites": 0,
-      "first_seen": "2026-11-07T09:30:00Z",
-      "last_seen": "2026-11-07T09:30:00Z",
-      "cb": "rules"
-    },
-    {
       "id": "l-s20261107-7754dbefd8",
       "kind": "cluster",
       "story_id": "s20261107-7754dbefd8",
@@ -7764,6 +8012,74 @@
       "first_seen": "2026-11-07T09:00:00Z",
       "last_seen": "2026-11-07T09:00:00Z",
       "cb": "rules"
+    },
+    {
+      "id": "l-s20261107-0732fe2e5d",
+      "kind": "cluster",
+      "story_id": "s20261107-0732fe2e5d",
+      "t": "Psychiatrist offers tips to manage trading stress",
+      "tl": "en",
+      "label": "Taiwan: Financial markets",
+      "countries": [
+        "TW"
+      ],
+      "regions": [
+        "asia-pacific"
+      ],
+      "categories": [
+        "markets"
+      ],
+      "importance": 23,
+      "rl": "single",
+      "official": [],
+      "coverage": [
+        {
+          "o": "taipeitimes",
+          "on": "Taipei Times",
+          "t": "Psychiatrist offers tips to manage trading stress",
+          "u": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/08/2003867369",
+          "s": "2026-11-07T18:15:00Z",
+          "l": "en"
+        }
+      ],
+      "other_sites": 0,
+      "first_seen": "2026-11-07T18:15:00Z",
+      "last_seen": "2026-11-07T18:15:00Z",
+      "cb": "rules"
+    },
+    {
+      "id": "l-s20261107-239b8fddd9",
+      "kind": "cluster",
+      "story_id": "s20261107-239b8fddd9",
+      "t": "Jordan: Trade",
+      "tl": "en",
+      "label": "Jordan: Trade",
+      "countries": [
+        "JO"
+      ],
+      "regions": [
+        "middle-east"
+      ],
+      "categories": [
+        "trade"
+      ],
+      "importance": 23,
+      "rl": "single",
+      "official": [],
+      "coverage": [
+        {
+          "o": "ansa",
+          "on": "ANSA",
+          "s": "2026-11-07T15:30:00Z",
+          "l": "it",
+          "np": true
+        }
+      ],
+      "other_sites": 3,
+      "first_seen": "2026-11-07T15:30:00Z",
+      "last_seen": "2026-11-07T18:00:00Z",
+      "cb": "rules",
+      "np": true
     },
     {
       "id": "l-s20261107-5628bce7ce",
@@ -7973,36 +8289,6 @@
       "first_seen": "2026-11-07T16:15:00Z",
       "last_seen": "2026-11-07T16:15:00Z",
       "cb": "rules"
-    },
-    {
-      "id": "l-s20261107-239b8fddd9",
-      "kind": "cluster",
-      "story_id": "s20261107-239b8fddd9",
-      "t": "Place not identified: Trade",
-      "tl": "en",
-      "label": "Place not identified: Trade",
-      "countries": [],
-      "regions": [],
-      "categories": [
-        "trade"
-      ],
-      "importance": 23,
-      "rl": "single",
-      "official": [],
-      "coverage": [
-        {
-          "o": "ansa",
-          "on": "ANSA",
-          "s": "2026-11-07T15:30:00Z",
-          "l": "it",
-          "np": true
-        }
-      ],
-      "other_sites": 2,
-      "first_seen": "2026-11-07T15:30:00Z",
-      "last_seen": "2026-11-07T16:00:00Z",
-      "cb": "rules",
-      "np": true
     },
     {
       "id": "l-s20261107-52fd6b74ec",
@@ -8656,9 +8942,9 @@
           "l": "pt"
         }
       ],
-      "other_sites": 3,
+      "other_sites": 4,
       "first_seen": "2026-11-07T12:15:00Z",
-      "last_seen": "2026-11-07T17:30:00Z",
+      "last_seen": "2026-11-07T18:00:00Z",
       "cb": "rules",
       "te": "The offices make a lot of effort to prevent the buying of real estate",
       "tb": "mt"
@@ -9246,43 +9532,6 @@
       "tb": "mt"
     },
     {
-      "id": "l-s20261107-6ddb83a000",
-      "kind": "cluster",
-      "story_id": "s20261107-6ddb83a000",
-      "t": "Crac Ueno Bank Paraguay, folla assalta la casa di Peña",
-      "tl": "it",
-      "label": "Paraguay: Housing",
-      "countries": [
-        "PY"
-      ],
-      "regions": [
-        "latin-america"
-      ],
-      "categories": [
-        "housing",
-        "banking"
-      ],
-      "importance": 22,
-      "rl": "single",
-      "official": [],
-      "coverage": [
-        {
-          "o": "ilfatto",
-          "on": "Il Fatto Quotidiano",
-          "t": "Crac Ueno Bank Paraguay, folla assalta la casa di Peña",
-          "u": "https://www.ilfattoquotidiano.it/2026/11/07/scontri-paraguay-crac-ueno-bank-folla-tenta-irruzione-casa-santiago-pena-deve-andare-in-carcere/8563957/",
-          "s": "2026-11-07T12:00:00Z",
-          "l": "it"
-        }
-      ],
-      "other_sites": 0,
-      "first_seen": "2026-11-07T12:00:00Z",
-      "last_seen": "2026-11-07T12:00:00Z",
-      "cb": "rules",
-      "te": "Crac Ueno Bank Paraguay, crowd assaults Peña's house",
-      "tb": "mt"
-    },
-    {
       "id": "l-s20261107-df6081137e",
       "kind": "cluster",
       "story_id": "s20261107-df6081137e",
@@ -9857,40 +10106,6 @@
       ],
       "other_sites": 5,
       "first_seen": "2026-11-07T09:15:00Z",
-      "last_seen": "2026-11-07T12:15:00Z",
-      "cb": "rules"
-    },
-    {
-      "id": "l-s20261107-eae7aa4906",
-      "kind": "cluster",
-      "story_id": "s20261107-eae7aa4906",
-      "t": "New Paraguayan president promises full compensation after bank collapse following predecessor's impeachment",
-      "tl": "en",
-      "label": "Paraguay: Banking",
-      "countries": [
-        "PY"
-      ],
-      "regions": [
-        "latin-america"
-      ],
-      "categories": [
-        "banking"
-      ],
-      "importance": 21,
-      "rl": "single",
-      "official": [],
-      "coverage": [
-        {
-          "o": "anadolu",
-          "on": "Anadolu Agency",
-          "t": "New Paraguayan president promises full compensation after bank collapse following predecessor's impeachment",
-          "u": "https://aa.com.tr/en/politics/new-paraguayan-president-promises-full-compensation-after-bank-collapse-following-predecessor-s-impeachment/4114850",
-          "s": "2026-11-07T08:15:00Z",
-          "l": "en"
-        }
-      ],
-      "other_sites": 1,
-      "first_seen": "2026-11-07T08:15:00Z",
       "last_seen": "2026-11-07T12:15:00Z",
       "cb": "rules"
     },
@@ -11362,9 +11577,9 @@
           "l": "en"
         }
       ],
-      "other_sites": 33,
+      "other_sites": 35,
       "first_seen": "2026-11-07T11:15:00Z",
-      "last_seen": "2026-11-07T18:00:00Z",
+      "last_seen": "2026-11-07T18:15:00Z",
       "cb": "rules"
     },
     {
@@ -11925,6 +12140,38 @@
       "other_sites": 0,
       "first_seen": "2026-11-05T06:00:00Z",
       "last_seen": "2026-11-05T06:00:00Z",
+      "cb": "rules"
+    },
+    {
+      "id": "l-s20261107-6be5d0e3b4",
+      "kind": "cluster",
+      "story_id": "s20261107-6be5d0e3b4",
+      "t": "Trusting consumer data in digital age",
+      "tl": "en",
+      "label": "Taiwan: Economy",
+      "countries": [
+        "TW"
+      ],
+      "regions": [
+        "asia-pacific"
+      ],
+      "categories": [],
+      "importance": 16,
+      "rl": "single",
+      "official": [],
+      "coverage": [
+        {
+          "o": "taipeitimes",
+          "on": "Taipei Times",
+          "t": "Trusting consumer data in digital age",
+          "u": "https://www.taipeitimes.com/News/editorials/archives/2026/11/08/2003867344",
+          "s": "2026-11-07T18:15:00Z",
+          "l": "en"
+        }
+      ],
+      "other_sites": 0,
+      "first_seen": "2026-11-07T18:15:00Z",
+      "last_seen": "2026-11-07T18:15:00Z",
       "cb": "rules"
     },
     {

@@ -1,6 +1,6 @@
 {
   "schema": "veritane/calendar/1",
-  "generated_at": "2026-11-07T18:00:59Z",
+  "generated_at": "2026-11-07T18:04:12Z",
   "template_version": "calendar-templates/1",
   "horizon_days": 60,
   "coverage": {
@@ -96,7 +96,7 @@
           "verified_on": "2026-11-07",
           "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
       },
       "published": null
@@ -137,7 +137,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.ssb.no/en/kommende-publiseringer"
       },
       "published": null
@@ -179,7 +179,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.ons.gov.uk/releasecalendar"
       },
       "published": null
@@ -219,7 +219,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.ons.gov.uk/releasecalendar"
       },
       "published": null
@@ -258,7 +258,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.ons.gov.uk/releasecalendar"
       },
       "published": null
@@ -305,7 +305,7 @@
           "verified_on": "2026-11-07",
           "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
       },
       "published": null
@@ -367,7 +367,7 @@
           "verified_on": "2026-11-07",
           "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
       },
       "published": null
@@ -410,7 +410,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.ons.gov.uk/releasecalendar"
       },
       "published": null
@@ -505,7 +505,7 @@
           "verified_on": "2026-11-07",
           "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
       },
       "published": null
@@ -548,7 +548,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.ons.gov.uk/releasecalendar"
       },
       "published": null
@@ -587,7 +587,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.ons.gov.uk/releasecalendar"
       },
       "published": null
@@ -663,7 +663,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.ons.gov.uk/releasecalendar"
       },
       "published": null
@@ -700,7 +700,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.ons.gov.uk/releasecalendar"
       },
       "published": null
@@ -740,7 +740,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.ssb.no/en/kommende-publiseringer"
       },
       "published": null
@@ -888,7 +888,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.ssb.no/en/kommende-publiseringer"
       },
       "published": null
@@ -940,7 +940,7 @@
           "verified_on": "2026-11-07",
           "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
       },
       "published": null
@@ -1004,7 +1004,7 @@
           "verified_on": "2026-11-07",
           "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
       },
       "published": null
@@ -1066,7 +1066,7 @@
           "verified_on": "2026-11-07",
           "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
       },
       "published": null
@@ -1130,7 +1130,7 @@
           "verified_on": "2026-11-07",
           "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
       },
       "published": null
@@ -1170,11 +1170,11 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T18:04:12Z"
       },
       "published": null,
       "curated": {
-        "checked_at": "2026-11-07T18:00:59Z",
+        "checked_at": "2026-11-07T18:04:12Z",
         "check": "ok",
         "added_by": "maintainer",
         "added_on": "2026-11-07"
@@ -1253,7 +1253,7 @@
           "url": "https://www.bankofcanada.ca/terms/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.bankofcanada.ca/press/upcoming-events/"
       },
       "published": null
@@ -1335,7 +1335,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.ons.gov.uk/releasecalendar"
       },
       "published": null
@@ -1374,7 +1374,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.ons.gov.uk/releasecalendar"
       },
       "published": null
@@ -1436,7 +1436,7 @@
           "verified_on": "2026-11-07",
           "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
       },
       "published": null
@@ -1479,7 +1479,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.ons.gov.uk/releasecalendar"
       },
       "published": null
@@ -1522,7 +1522,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.ons.gov.uk/releasecalendar"
       },
       "published": null
@@ -1561,7 +1561,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.ons.gov.uk/releasecalendar"
       },
       "published": null
@@ -1602,7 +1602,7 @@
           "url": "https://www.riksbank.se/en-gb/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.riksbank.se/en-gb/press-and-published/calendar/"
       },
       "published": null
@@ -1676,11 +1676,11 @@
           "url": "https://www.bankofengland.co.uk/legal",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T18:04:12Z"
       },
       "published": null,
       "curated": {
-        "checked_at": "2026-11-07T18:00:59Z",
+        "checked_at": "2026-11-07T18:04:12Z",
         "check": "ok",
         "added_by": "maintainer",
         "added_on": "2026-11-07"
@@ -1722,11 +1722,11 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T18:04:12Z"
       },
       "published": null,
       "curated": {
-        "checked_at": "2026-11-07T18:00:59Z",
+        "checked_at": "2026-11-07T18:04:12Z",
         "check": "ok",
         "added_by": "maintainer",
         "added_on": "2026-11-07"
@@ -1787,7 +1787,7 @@
           "verified_on": "2026-11-07",
           "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
       },
       "published": null
@@ -1828,7 +1828,7 @@
           "url": "https://www.norges-bank.no/en/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.norges-bank.no/en/news-events/calendar/"
       },
       "published": null
@@ -1867,11 +1867,11 @@
           "url": "https://www.boj.or.jp/en/",
           "verified": false
         },
-        "retrieved_at": "2026-11-07T18:00:59Z"
+        "retrieved_at": "2026-11-07T18:04:12Z"
       },
       "published": null,
       "curated": {
-        "checked_at": "2026-11-07T18:00:59Z",
+        "checked_at": "2026-11-07T18:04:12Z",
         "check": "ok",
         "added_by": "maintainer",
         "added_on": "2026-11-07"
@@ -1909,7 +1909,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.ons.gov.uk/releasecalendar"
       },
       "published": null
@@ -1951,7 +1951,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.ons.gov.uk/releasecalendar"
       },
       "published": null
@@ -1990,7 +1990,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://www.ons.gov.uk/releasecalendar"
       },
       "published": null
@@ -2153,7 +2153,7 @@
           "verified_on": "2026-11-07",
           "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
-        "retrieved_at": "2026-11-07T18:00:59Z",
+        "retrieved_at": "2026-11-07T18:04:12Z",
         "calendar_url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
       },
       "published": null

@@ -1,6 +1,6 @@
 {
   "schema": "veritane/forecasts/1",
-  "generated_at": "2026-11-07T18:00:59Z",
+  "generated_at": "2026-11-07T18:04:12Z",
   "source": {
     "name": "IMF, World Economic Outlook (DataMapper)",
     "url": "https://www.imf.org/en/Publications/WEO",
@@ -21,7 +21,7 @@
     {
       "id": "seen-2026-11-07",
       "first_seen": "2026-11-07T13:50:02Z",
-      "last_seen": "2026-11-07T18:00:59Z"
+      "last_seen": "2026-11-07T18:04:12Z"
     }
   ],
   "values": {

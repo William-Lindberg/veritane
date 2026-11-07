@@ -1,7 +1,7 @@
 {
   "schema": "veritane/story-day/1",
   "date": "2026-11-05",
-  "generated_at": "2026-11-07T18:00:59Z",
+  "generated_at": "2026-11-07T18:04:12Z",
   "stories": [
     {
       "id": "s20261105-6464a6797f",
@@ -66,13 +66,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 7 official sources we follow for Australia published a matching release in the days around this story.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:00:59Z",
+        "checked_at": "2026-11-07T18:04:12Z",
         "frozen_after": "2026-11-08T00:45:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 7,
-        "computed_at": "2026-11-07T18:00:59Z",
+        "computed_at": "2026-11-07T18:04:12Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -89,7 +89,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 65.27,
+          "age_h": 65.32,
           "first_seen": "2026-11-05T00:45:00Z"
         },
         "points": {
@@ -191,13 +191,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:00:59Z",
+        "checked_at": "2026-11-07T18:04:12Z",
         "frozen_after": "2026-11-08T04:15:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 8,
-        "computed_at": "2026-11-07T18:00:59Z",
+        "computed_at": "2026-11-07T18:04:12Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -210,7 +210,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 61.77,
+          "age_h": 61.82,
           "first_seen": "2026-11-05T04:15:00Z"
         },
         "points": {
@@ -315,13 +315,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:00:59Z",
+        "checked_at": "2026-11-07T18:04:12Z",
         "frozen_after": "2026-11-08T06:00:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 17,
-        "computed_at": "2026-11-07T18:00:59Z",
+        "computed_at": "2026-11-07T18:04:12Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -337,7 +337,7 @@
           "category_weight": 0.9,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 60.02,
+          "age_h": 60.07,
           "first_seen": "2026-11-05T06:00:00Z"
         },
         "points": {
@@ -347,7 +347,7 @@
           "K": 9,
           "M": 0,
           "P": 0,
-          "T": 1.77
+          "T": 1.76
         },
         "base": 14.95
       },
@@ -459,13 +459,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. None of the 13 official sources we follow for the United States published a matching release in the days around this story.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:00:59Z",
+        "checked_at": "2026-11-07T18:04:12Z",
         "frozen_after": "2026-11-08T14:30:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 18,
-        "computed_at": "2026-11-07T18:00:59Z",
+        "computed_at": "2026-11-07T18:04:12Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -484,7 +484,7 @@
           "category_weight": 1,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 51.52,
+          "age_h": 51.57,
           "first_seen": "2026-11-05T14:30:00Z"
         },
         "points": {
@@ -588,13 +588,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:00:59Z",
+        "checked_at": "2026-11-07T18:04:12Z",
         "frozen_after": "2026-11-08T16:00:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 18,
-        "computed_at": "2026-11-07T18:00:59Z",
+        "computed_at": "2026-11-07T18:04:12Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -609,7 +609,7 @@
           "category_weight": 1,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 50.02,
+          "age_h": 50.07,
           "first_seen": "2026-11-05T16:00:00Z"
         },
         "points": {
@@ -619,7 +619,7 @@
           "K": 10,
           "M": 0,
           "P": 0,
-          "T": 2.36
+          "T": 2.35
         },
         "base": 15.95
       },
@@ -777,13 +777,13 @@
         },
         "text": "Linked to an official release. Bank of England published “Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes” on 5 November 2026. The reports match it on institution, topic and date. Matching is automatic. It shows that an official release on this exists. It does not check each claim in the reports.",
         "text_simple": "An official source published this: Bank of England, on 5 November 2026.",
-        "checked_at": "2026-11-07T18:00:59Z",
+        "checked_at": "2026-11-07T18:04:12Z",
         "frozen_after": "2026-11-08T16:00:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 41,
-        "computed_at": "2026-11-07T18:00:59Z",
+        "computed_at": "2026-11-07T18:04:12Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -805,7 +805,7 @@
           "category_weight": 1,
           "match_kind": "monetary_policy_decision",
           "p_hours": 1,
-          "age_h": 50.02,
+          "age_h": 50.07,
           "first_seen": "2026-11-05T16:00:00Z"
         },
         "points": {
@@ -815,7 +815,7 @@
           "K": 10,
           "M": 15,
           "P": 0,
-          "T": 2.36
+          "T": 2.35
         },
         "base": 38.45
       },

@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Veritane economic calendar: Canada
 BEGIN:VEVENT
 UID:boc_cal:247290@bank-banque-canada.ca@veritane
-DTSTAMP:20261107T180059Z
+DTSTAMP:20261107T180412Z
 DTSTART:20261209T144500Z
 SUMMARY:Bank of Canada interest-rate decision
 DESCRIPTION:The Bank of Canada announces its decision on the target for the

@@ -1,7 +1,7 @@
 {
   "schema": "veritane/story-day/1",
   "date": "2026-11-04",
-  "generated_at": "2026-11-07T18:00:59Z",
+  "generated_at": "2026-11-07T18:04:12Z",
   "stories": [
     {
       "id": "s20261104-33fd0fa563",
@@ -54,13 +54,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:00:59Z",
+        "checked_at": "2026-11-07T18:04:12Z",
         "frozen_after": "2026-11-07T21:30:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 7,
-        "computed_at": "2026-11-07T18:00:59Z",
+        "computed_at": "2026-11-07T18:04:12Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -73,7 +73,7 @@
           "category_weight": 0,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 68.52,
+          "age_h": 68.57,
           "first_seen": "2026-11-04T21:30:00Z"
         },
         "points": {
@@ -178,13 +178,13 @@
         },
         "text": "Reported by 1 outlet. Not linked to an official release yet. Not linked yet does not mean the report is wrong. No country was detected, so no official source was searched.",
         "text_simple": "One news outlet reported this. We have not found it in an official source yet.",
-        "checked_at": "2026-11-07T18:00:59Z",
+        "checked_at": "2026-11-07T18:04:12Z",
         "frozen_after": "2026-11-07T22:45:00Z"
       },
       "importance": {
         "version": "importance/1",
         "score": 14,
-        "computed_at": "2026-11-07T18:00:59Z",
+        "computed_at": "2026-11-07T18:04:12Z",
         "inputs": {
           "ni": 1,
           "k": 1,
@@ -199,7 +199,7 @@
           "category_weight": 0.7,
           "match_kind": null,
           "p_hours": 1,
-          "age_h": 67.27,
+          "age_h": 67.32,
           "first_seen": "2026-11-04T22:45:00Z"
         },
         "points": {

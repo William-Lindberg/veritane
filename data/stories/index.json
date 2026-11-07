@@ -1,7 +1,7 @@
 {
   "schema": "veritane/story-index/1",
-  "generated_at": "2026-11-07T18:00:59Z",
-  "data_clock": "20261107180000",
+  "generated_at": "2026-11-07T18:04:12Z",
+  "data_clock": "20261107181500",
   "windows": {
     "story_hours": 72,
     "official_days": 14,
@@ -95,8 +95,8 @@
     "provider": "The GDELT Project",
     "url": "https://www.gdeltproject.org/",
     "status": "ok",
-    "last_file": "20261107180000",
-    "files_ok": 0,
+    "last_file": "20261107181500",
+    "files_ok": 1,
     "files_failed": 0,
     "gaps": []
   },
@@ -114,6 +114,8 @@
     }
   },
   "aliases": {
+    "s20261107-22171900e9": "s20261107-eae7aa4906",
+    "s20261107-28e95c66d2": "s20261107-09296f7de0",
     "s20261107-3ab377695c": "s20261107-f4fecc840f",
     "s20261107-46042db4ce": "s20261107-3f6d4c0501",
     "s20261107-591ce5bdca": "s20261107-6e762a7db9",
@@ -124,13 +126,16 @@
     "s20261107-77d89c4ba0": "s20261107-5b3241a454",
     "s20261107-8b1a26e717": "s20261107-09296f7de0",
     "s20261107-935797a1a2": "s20261107-71d1829ccd",
+    "s20261107-99befee944": "s20261107-bfd4e270d9",
     "s20261107-b5718018ba": "s20261107-885dc44298",
     "s20261107-b62abb00ea": "s20261107-3c5d4d20ed",
     "s20261107-b9ba5548c2": "s20261107-12210d5bb2",
     "s20261107-bdace04138": "s20261107-ba1014f35a",
     "s20261107-becdb0b24c": "s20261107-ce83e26400",
+    "s20261107-c16bd3949a": "s20261107-333ce75aed",
     "s20261107-dc56c1a8a7": "s20261107-e41f4c27b0",
-    "s20261107-f79afd1aa0": "s20261107-56875e34f4"
+    "s20261107-f79afd1aa0": "s20261107-56875e34f4",
+    "s20261107-f8453ab6dc": "s20261107-6ddb83a000"
   },
   "dropped": {
     "stories": 0
@@ -142,13 +147,44 @@
   },
   "rows": [
     {
+      "id": "s20261107-0732fe2e5d",
+      "ty": "story",
+      "t": "Psychiatrist offers tips to manage trading stress",
+      "tl": "en",
+      "u": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/08/2003867369",
+      "o": "taipeitimes",
+      "on": "Taipei Times",
+      "label": "Taiwan: Financial markets",
+      "c": [
+        "TW"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "markets"
+      ],
+      "i": 23,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T18:15:00Z",
+      "l": "2026-11-07T18:15:00Z",
+      "st": "new",
+      "v": 1
+    },
+    {
       "id": "s20261107-09296f7de0",
       "ty": "story",
-      "t": "Paraguay bank collapse sees president impeached, arrested",
+      "t": "Paraguay's prosecutors question ex-president over banking scandal",
       "tl": "en",
-      "u": "https://www.rte.ie/news/world/2026/1107/1598335-paraguay-bank-collapse-sees-president-impeached-arrested/",
-      "o": "rte",
-      "on": "RTÉ",
+      "u": "https://www.freemalaysiatoday.com/category/world/2026/11/07/paraguay-s-prosecutors-question-ex-president-over-banking-scandal",
+      "o": "fmt",
+      "on": "Free Malaysia Today",
       "label": "Paraguay: Banking",
       "c": [
         "PY"
@@ -159,17 +195,50 @@
       "k": [
         "banking"
       ],
-      "i": 45,
+      "i": 51,
       "rl": "multi",
       "me": 1,
-      "et": "legal",
-      "n": 4,
-      "ni": 4,
-      "ns": 56,
+      "et": "policy",
+      "n": 5,
+      "ni": 5,
+      "ns": 57,
       "f": "2026-11-07T06:30:00Z",
-      "l": "2026-11-07T18:00:00Z",
+      "l": "2026-11-07T18:15:00Z",
       "st": "active",
-      "v": 7
+      "v": 8
+    },
+    {
+      "id": "s20261107-2af9462c14",
+      "ty": "story",
+      "t": "Expanding on naval blockade, US military looks to restrict Iranian land commerce",
+      "tl": "en",
+      "u": "https://www.arabnews.com/middle-east/expanding-on-naval-blockade-us-military-looks-to-restrict-iranian-land-commerce-3010330",
+      "o": "arabnews",
+      "on": "Arab News",
+      "label": "United States: Energy and commodities",
+      "c": [
+        "US",
+        "IR"
+      ],
+      "g": [
+        "north-america",
+        "middle-east"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 48,
+      "rl": "multi",
+      "me": 1,
+      "et": "conflict",
+      "cb": "local",
+      "n": 3,
+      "ni": 3,
+      "ns": 0,
+      "f": "2026-11-07T14:45:00Z",
+      "l": "2026-11-07T18:15:00Z",
+      "st": "updated",
+      "v": 3
     },
     {
       "id": "s20261107-58f252a4e4",
@@ -179,6 +248,191 @@
       "u": "https://abcnews.com/Business/wireStory/high-flying-ai-stocks-tariff-hit-alcohol-companies-137938660",
       "o": "abcnews_us",
       "on": "ABC News (US)",
+      "label": "United States: Financial markets",
+      "c": [
+        "US",
+        "IR"
+      ],
+      "g": [
+        "north-america",
+        "middle-east"
+      ],
+      "k": [
+        "markets",
+        "trade",
+        "tech"
+      ],
+      "i": 31,
+      "rl": "single",
+      "fl": [
+        "syndicated"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 7,
+      "f": "2026-11-07T17:45:00Z",
+      "l": "2026-11-07T18:15:00Z",
+      "st": "active",
+      "v": 3
+    },
+    {
+      "id": "s20261107-5b3241a454",
+      "ty": "story",
+      "t": "Russia continues its attacks on power facilities in Kyiv as temperatures drop ahead of winter",
+      "tl": "en",
+      "u": "https://www.cbc.ca/news/world/russia-kyiv-power-winter-9.7413490",
+      "o": "cbc",
+      "on": "CBC / Radio-Canada",
+      "label": "Russia: Government debt",
+      "c": [
+        "RU",
+        "UA"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [
+        "debt"
+      ],
+      "i": 41,
+      "rl": "multi",
+      "me": 1,
+      "et": "conflict",
+      "cb": "local",
+      "n": 4,
+      "ni": 3,
+      "ns": 0,
+      "f": "2026-11-07T14:15:00Z",
+      "l": "2026-11-07T18:15:00Z",
+      "st": "updated",
+      "v": 3
+    },
+    {
+      "id": "s20261107-6be5d0e3b4",
+      "ty": "story",
+      "t": "Trusting consumer data in digital age",
+      "tl": "en",
+      "u": "https://www.taipeitimes.com/News/editorials/archives/2026/11/08/2003867344",
+      "o": "taipeitimes",
+      "on": "Taipei Times",
+      "label": "Taiwan: Economy",
+      "c": [
+        "TW"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 16,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T18:15:00Z",
+      "l": "2026-11-07T18:15:00Z",
+      "st": "new",
+      "v": 1
+    },
+    {
+      "id": "s20261107-7254fc0e9b",
+      "ty": "story",
+      "t": "Gunman opens fire in Polish city of Krakow, killing 5 people",
+      "tl": "en",
+      "u": "https://www.washingtonexaminer.com/news/world/4796525/gunman-poland-krakow-mass-shooting/",
+      "o": "washexaminer",
+      "on": "Washington Examiner",
+      "label": "Poland: Microeconomics",
+      "c": [
+        "PL"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "micro"
+      ],
+      "i": 48,
+      "rl": "multi",
+      "me": 1,
+      "et": "conflict",
+      "n": 6,
+      "ni": 5,
+      "ns": 0,
+      "f": "2026-11-07T15:45:00Z",
+      "l": "2026-11-07T18:15:00Z",
+      "st": "active",
+      "v": 4
+    },
+    {
+      "id": "s20261107-7ce804f4b2",
+      "ty": "story",
+      "t": "Syria says military deal with Saudi Arabia focuses on training, denies sending troops to Yemen",
+      "tl": "en",
+      "u": "https://aa.com.tr/en/middle-east/syria-says-military-deal-with-saudi-arabia-focuses-on-training-denies-sending-troops-to-yemen/4115383",
+      "o": "anadolu",
+      "on": "Anadolu Agency",
+      "label": "Saudi Arabia: Macroeconomics",
+      "c": [
+        "SA"
+      ],
+      "g": [
+        "middle-east"
+      ],
+      "k": [
+        "macro"
+      ],
+      "i": 46,
+      "rl": "multi",
+      "me": 1,
+      "et": "conflict",
+      "cb": "local",
+      "n": 4,
+      "ni": 4,
+      "ns": 0,
+      "f": "2026-11-07T17:30:00Z",
+      "l": "2026-11-07T18:15:00Z",
+      "st": "new",
+      "v": 1
+    },
+    {
+      "id": "s20261107-7f317e8901",
+      "ty": "story",
+      "t": "Tata Steel Q2 net profit up 18.2 per cent Y-o-Y, led by India operations",
+      "tl": "en",
+      "u": "https://www.business-standard.com/companies/quarterly-results/tata-steel-q2-fy27-results-net-profit-india-operations-uk-netherlands-126110700767_1.html",
+      "o": "bs",
+      "on": "Business Standard",
+      "label": "India: Corporate finance",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "corporate"
+      ],
+      "i": 18,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "ns": 35,
+      "f": "2026-11-07T11:15:00Z",
+      "l": "2026-11-07T18:15:00Z",
+      "st": "active",
+      "v": 5
+    },
+    {
+      "id": "s20261107-802b18fa27",
+      "ty": "story",
+      "t": "Live updates: Trump taps Stephen Miller as new chief of staff",
+      "tl": "en",
+      "u": "https://www.nbcnews.com/politics/2026-election/live-blog/rump-taps-stephen-miller-chief-staff-wiles-cabinet-midterm-elections-rcna607914",
+      "o": "nbcnews",
+      "on": "NBC News",
       "label": "United States: Trade",
       "c": [
         "US"
@@ -187,16 +441,311 @@
         "north-america"
       ],
       "k": [
-        "trade",
-        "markets",
-        "tech"
+        "trade"
       ],
-      "i": 24,
+      "i": 48,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "me": 1,
+      "et": "policy",
+      "n": 6,
+      "ni": 5,
+      "ns": 0,
+      "f": "2026-11-07T13:30:00Z",
+      "l": "2026-11-07T18:15:00Z",
+      "st": "updated",
+      "v": 3
+    },
+    {
+      "id": "s20261107-8c0c633902",
+      "ty": "story",
+      "t": "Inflation, housing, jobs and corporate earnings will dominate the business calendar this week",
+      "tl": "en",
+      "u": "https://abcnews.com/Business/wireStory/inflation-housing-jobs-corporate-earnings-dominate-business-calendar-137941014",
+      "o": "abcnews_us",
+      "on": "ABC News (US)",
+      "label": "Iran: Employment and wages",
+      "c": [
+        "IR",
+        "US"
+      ],
+      "g": [
+        "north-america",
+        "middle-east"
+      ],
+      "k": [
+        "jobs",
+        "inflation",
+        "housing"
+      ],
+      "i": 33,
+      "rl": "single",
+      "fl": [
+        "country_auto",
+        "syndicated"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 5,
+      "f": "2026-11-07T17:45:00Z",
+      "l": "2026-11-07T18:15:00Z",
+      "st": "active",
+      "v": 3
+    },
+    {
+      "id": "s20261107-afc6117dbc",
+      "ty": "story",
+      "t": "Thousands pour into a park in Uruguay for Pope Leo's first Mass in South America",
+      "tl": "en",
+      "u": "https://www.manilatimes.net/2026/11/07/world/thousands-pour-into-a-park-in-uruguay-for-pope-leos-first-mass-in-south-america/2464545",
+      "o": "manilatimes",
+      "on": "The Manila Times",
+      "label": "Uruguay: Globalisation",
+      "c": [
+        "UY",
+        "US",
+        "AR"
+      ],
+      "g": [
+        "north-america",
+        "latin-america"
+      ],
+      "k": [
+        "globalisation"
+      ],
+      "i": 62,
+      "rl": "multi",
+      "me": 1,
+      "et": "conflict",
+      "n": 6,
+      "ni": 6,
+      "ns": 0,
+      "f": "2026-11-07T13:15:00Z",
+      "l": "2026-11-07T18:15:00Z",
+      "st": "updated",
+      "v": 4
+    },
+    {
+      "id": "s20261107-bfd4e270d9",
+      "ty": "story",
+      "t": "Heavy rain floods tents housing Gaza displaced people, aid shortages hamper response",
+      "tl": "en",
+      "u": "https://www.arabnews.com/middle-east/heavy-rain-floods-tents-housing-gaza-displaced-people-aid-shortages-hamper-response-3010327",
+      "o": "arabnews",
+      "on": "Arab News",
+      "label": "Israel: Development",
+      "c": [
+        "IL"
+      ],
+      "g": [
+        "middle-east"
+      ],
+      "k": [
+        "development",
+        "housing"
+      ],
+      "i": 47,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "me": 1,
+      "et": "disaster",
+      "n": 5,
+      "ni": 5,
+      "ns": 0,
+      "f": "2026-11-07T13:30:00Z",
+      "l": "2026-11-07T18:15:00Z",
+      "st": "updated",
+      "v": 2
+    },
+    {
+      "id": "s20261107-e0d398a8fe",
+      "ty": "story",
+      "t": "Berkshire Hathaway buys back $9.6B of its own stock but profits decline",
+      "tl": "en",
+      "u": "https://abcnews.com/Business/wireStory/berkshire-hathaway-buys-back-96-billion-stock-profits-137939982",
+      "o": "abcnews_us",
+      "on": "ABC News (US)",
+      "label": "United States: Financial markets",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "markets",
+        "corporate"
+      ],
+      "i": 30,
+      "rl": "multi",
+      "fl": [
+        "country_auto",
+        "syndicated"
+      ],
+      "n": 2,
+      "ni": 2,
+      "ns": 26,
+      "f": "2026-11-07T15:00:00Z",
+      "l": "2026-11-07T18:15:00Z",
+      "st": "active",
+      "v": 3
+    },
+    {
+      "id": "s20261107-eae7aa4906",
+      "ty": "story",
+      "t": "New Paraguayan president promises full compensation after bank collapse following predecessor's impeachment",
+      "tl": "en",
+      "o": "anadolu",
+      "on": "Anadolu Agency",
+      "label": "Paraguay: Economy",
+      "c": [
+        "PY",
+        "CL",
+        "US"
+      ],
+      "g": [
+        "north-america",
+        "latin-america"
+      ],
+      "k": [],
+      "i": 54,
+      "rl": "multi",
+      "me": 1,
+      "et": "legal",
+      "n": 5,
+      "ni": 5,
+      "ns": 1,
+      "f": "2026-11-07T08:15:00Z",
+      "l": "2026-11-07T18:15:00Z",
+      "st": "updated",
+      "v": 4,
+      "u": "https://aa.com.tr/en/politics/new-paraguayan-president-promises-full-compensation-after-bank-collapse-following-predecessor-s-impeachment/4114850"
+    },
+    {
+      "id": "s20261107-f962a211f4",
+      "ty": "story",
+      "t": "Pandas put a soft face on Beijing's trade row with US",
+      "tl": "en",
+      "u": "https://www.taipeitimes.com/News/world/archives/2026/11/08/2003867377",
+      "o": "taipeitimes",
+      "on": "Taipei Times",
+      "label": "China: Trade",
+      "c": [
+        "CN",
+        "US"
+      ],
+      "g": [
+        "north-america",
+        "asia-pacific"
+      ],
+      "k": [
+        "trade"
+      ],
+      "i": 31,
       "rl": "single",
       "n": 1,
       "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T18:15:00Z",
+      "l": "2026-11-07T18:15:00Z",
+      "st": "new",
+      "v": 1
+    },
+    {
+      "id": "s20261107-1dba8a1bb5",
+      "ty": "story",
+      "t": "Spain: Housing",
+      "tl": "en",
+      "o": "elpais",
+      "on": "El País",
+      "label": "Spain: Housing",
+      "c": [
+        "ES"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "housing",
+        "fiscal"
+      ],
+      "i": 25,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "ns": 0,
+      "f": "2026-11-07T18:00:00Z",
+      "l": "2026-11-07T18:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261107-239b8fddd9",
+      "ty": "story",
+      "t": "Jordan: Trade",
+      "tl": "en",
+      "o": "ansa",
+      "on": "ANSA",
+      "label": "Jordan: Trade",
+      "c": [
+        "JO"
+      ],
+      "g": [
+        "middle-east"
+      ],
+      "k": [
+        "trade"
+      ],
+      "i": 23,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
       "ns": 3,
-      "f": "2026-11-07T17:45:00Z",
+      "f": "2026-11-07T15:30:00Z",
+      "l": "2026-11-07T18:00:00Z",
+      "st": "active",
+      "v": 2,
+      "np": 1
+    },
+    {
+      "id": "s20261107-333ce75aed",
+      "ty": "story",
+      "t": "Gold-backed agriculture loans: RBI proposes changes to priority sector lending rules; what could change for borrowers",
+      "tl": "en",
+      "u": "https://www.livemint.com/money/personal-finance/goldbacked-agriculture-loans-rbi-proposes-changes-to-priority-sector-lending-rules-what-could-change-for-borrowers-11794038739503.html",
+      "o": "mint",
+      "on": "Mint",
+      "label": "India: Energy and commodities",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "energy",
+        "monetary"
+      ],
+      "i": 24,
+      "rl": "single",
+      "fl": [
+        "forecast_language"
+      ],
+      "n": 2,
+      "ni": 1,
+      "ns": 2,
+      "f": "2026-11-07T09:30:00Z",
       "l": "2026-11-07T18:00:00Z",
       "st": "active",
       "v": 2
@@ -259,6 +808,39 @@
       "l": "2026-11-07T18:00:00Z",
       "st": "active",
       "v": 1
+    },
+    {
+      "id": "s20261107-6ddb83a000",
+      "ty": "story",
+      "t": "El expresidente Santiago Peña declara en la Fiscalía por el colapso de Ueno Bank",
+      "tl": "es",
+      "u": "https://www.lanacion.com.ar/el-mundo/el-expresidente-santiago-pena-declara-en-la-fiscalia-por-el-colapso-de-ueno-bank-nid07112026/",
+      "o": "lanacion",
+      "on": "La Nación (AR)",
+      "label": "Paraguay: Banking",
+      "c": [
+        "PY",
+        "SE"
+      ],
+      "g": [
+        "eu",
+        "latin-america"
+      ],
+      "k": [
+        "banking",
+        "fiscal"
+      ],
+      "i": 42,
+      "rl": "multi",
+      "te": "Former President Santiago Peña declares in the Prosecutor's Office for the collapse of Ueno Bank",
+      "tb": "mt",
+      "n": 3,
+      "ni": 3,
+      "ns": 5,
+      "f": "2026-11-07T12:00:00Z",
+      "l": "2026-11-07T18:00:00Z",
+      "st": "active",
+      "v": 3
     },
     {
       "id": "s20261107-70a46a0dc0",
@@ -325,34 +907,6 @@
       "v": 2
     },
     {
-      "id": "s20261107-7f317e8901",
-      "ty": "story",
-      "t": "Tata Steel Q2 net profit up 18.2 per cent Y-o-Y, led by India operations",
-      "tl": "en",
-      "u": "https://www.business-standard.com/companies/quarterly-results/tata-steel-q2-fy27-results-net-profit-india-operations-uk-netherlands-126110700767_1.html",
-      "o": "bs",
-      "on": "Business Standard",
-      "label": "India: Corporate finance",
-      "c": [
-        "IN"
-      ],
-      "g": [
-        "asia-pacific"
-      ],
-      "k": [
-        "corporate"
-      ],
-      "i": 18,
-      "rl": "single",
-      "n": 1,
-      "ni": 1,
-      "ns": 33,
-      "f": "2026-11-07T11:15:00Z",
-      "l": "2026-11-07T18:00:00Z",
-      "st": "active",
-      "v": 4
-    },
-    {
       "id": "s20261107-83ba7b5b7a",
       "ty": "story",
       "t": "Middle East war will reshape regional economic, security landscape: Turkish finance minister",
@@ -382,41 +936,6 @@
       "v": 1
     },
     {
-      "id": "s20261107-8c0c633902",
-      "ty": "story",
-      "t": "Inflation, housing, jobs and corporate earnings will dominate the business calendar this week",
-      "tl": "en",
-      "u": "https://abcnews.com/Business/wireStory/inflation-housing-jobs-corporate-earnings-dominate-business-calendar-137941014",
-      "o": "abcnews_us",
-      "on": "ABC News (US)",
-      "label": "Iran: Inflation",
-      "c": [
-        "IR",
-        "US"
-      ],
-      "g": [
-        "north-america",
-        "middle-east"
-      ],
-      "k": [
-        "inflation",
-        "jobs",
-        "housing"
-      ],
-      "i": 33,
-      "rl": "single",
-      "fl": [
-        "country_auto"
-      ],
-      "n": 1,
-      "ni": 1,
-      "ns": 3,
-      "f": "2026-11-07T17:45:00Z",
-      "l": "2026-11-07T18:00:00Z",
-      "st": "active",
-      "v": 2
-    },
-    {
       "id": "s20261107-95b11f394c",
       "ty": "story",
       "t": "Philippines Q2 GDP revised to 2.4%",
@@ -443,38 +962,6 @@
       "l": "2026-11-07T18:00:00Z",
       "st": "active",
       "v": 1
-    },
-    {
-      "id": "s20261107-e0d398a8fe",
-      "ty": "story",
-      "t": "Berkshire Hathaway buys back $9.6B of its own stock but profits decline",
-      "tl": "en",
-      "u": "https://abcnews.com/Business/wireStory/berkshire-hathaway-buys-back-96-billion-stock-profits-137939982",
-      "o": "abcnews_us",
-      "on": "ABC News (US)",
-      "label": "United States: Financial markets",
-      "c": [
-        "US"
-      ],
-      "g": [
-        "north-america"
-      ],
-      "k": [
-        "markets",
-        "corporate"
-      ],
-      "i": 30,
-      "rl": "multi",
-      "fl": [
-        "country_auto"
-      ],
-      "n": 2,
-      "ni": 2,
-      "ns": 23,
-      "f": "2026-11-07T15:00:00Z",
-      "l": "2026-11-07T18:00:00Z",
-      "st": "active",
-      "v": 2
     },
     {
       "id": "s20261107-f4fecc840f",
@@ -507,6 +994,39 @@
       "l": "2026-11-07T18:00:00Z",
       "st": "active",
       "v": 2
+    },
+    {
+      "id": "s20261107-f9d3e9665e",
+      "ty": "story",
+      "t": "Cartórios fazem mutirão para prevenir golpes na compra de imóveis",
+      "tl": "pt",
+      "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/cartorios-fazem-mutirao-para-prevenir-golpes-na-compra-de-imoveis",
+      "o": "agenciabrasil",
+      "on": "Agência Brasil",
+      "label": "Brazil: Housing",
+      "c": [
+        "BR"
+      ],
+      "g": [
+        "latin-america"
+      ],
+      "k": [
+        "housing"
+      ],
+      "i": 22,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "te": "The offices make a lot of effort to prevent the buying of real estate",
+      "tb": "mt",
+      "n": 1,
+      "ni": 1,
+      "ns": 4,
+      "f": "2026-11-07T12:15:00Z",
+      "l": "2026-11-07T18:00:00Z",
+      "st": "active",
+      "v": 3
     },
     {
       "id": "s20261107-0c4eed28bf",
@@ -799,40 +1319,6 @@
       "v": 1
     },
     {
-      "id": "s20261107-afc6117dbc",
-      "ty": "story",
-      "t": "Thousands pour into a park in Uruguay for Pope Leo's first Mass in South America",
-      "tl": "en",
-      "u": "https://www.manilatimes.net/2026/11/07/world/thousands-pour-into-a-park-in-uruguay-for-pope-leos-first-mass-in-south-america/2464545",
-      "o": "manilatimes",
-      "on": "The Manila Times",
-      "label": "Uruguay: Globalisation",
-      "c": [
-        "UY",
-        "US",
-        "AR"
-      ],
-      "g": [
-        "north-america",
-        "latin-america"
-      ],
-      "k": [
-        "globalisation"
-      ],
-      "i": 59,
-      "rl": "multi",
-      "me": 1,
-      "et": "conflict",
-      "cb": "local",
-      "n": 5,
-      "ni": 5,
-      "ns": 0,
-      "f": "2026-11-07T13:15:00Z",
-      "l": "2026-11-07T17:45:00Z",
-      "st": "active",
-      "v": 3
-    },
-    {
       "id": "s20261107-cacf47796c",
       "ty": "story",
       "t": "How many Nigerians have been lifted out of poverty? Obi asks Tinubu",
@@ -893,42 +1379,6 @@
       "v": 1
     },
     {
-      "id": "s20261107-f8453ab6dc",
-      "ty": "story",
-      "t": "Tras ser destituido y detenido, Santiago Peña irá a declarar ante la Justicia por la quiebra de Ueno Bank",
-      "tl": "es",
-      "u": "https://www.clarin.com/mundo/destituido-detenido-santiago-pena-ira-declarar-justicia-quiebra-ueno-bank_0_8eyom8PLaD.html",
-      "o": "clarin",
-      "on": "Clarín",
-      "label": "Paraguay: Corporate finance",
-      "c": [
-        "PY",
-        "SE"
-      ],
-      "g": [
-        "eu",
-        "latin-america"
-      ],
-      "k": [
-        "corporate",
-        "banking"
-      ],
-      "i": 30,
-      "rl": "single",
-      "fl": [
-        "country_auto"
-      ],
-      "te": "After being dismissed and arrested, Santiago Peña will testify before the Court for the bankruptcy of Ueno Bank",
-      "tb": "mt",
-      "n": 1,
-      "ni": 1,
-      "ns": 3,
-      "f": "2026-11-07T13:30:00Z",
-      "l": "2026-11-07T17:45:00Z",
-      "st": "active",
-      "v": 4
-    },
-    {
       "id": "s20261107-5680fdde44",
       "ty": "story",
       "t": "Polen: Schütze feuert in Krakau aus Auto",
@@ -983,7 +1433,6 @@
       "rl": "multi",
       "me": 1,
       "et": "other",
-      "cb": "local",
       "n": 8,
       "ni": 8,
       "ns": 0,
@@ -1056,37 +1505,6 @@
       "l": "2026-11-07T17:30:00Z",
       "st": "active",
       "v": 2
-    },
-    {
-      "id": "s20261107-7254fc0e9b",
-      "ty": "story",
-      "t": "Gunman opens fire in Polish city of Krakow, killing 5 people",
-      "tl": "en",
-      "u": "https://www.washingtonexaminer.com/news/world/4796525/gunman-poland-krakow-mass-shooting/",
-      "o": "washexaminer",
-      "on": "Washington Examiner",
-      "label": "Poland: Microeconomics",
-      "c": [
-        "PL"
-      ],
-      "g": [
-        "eu"
-      ],
-      "k": [
-        "micro"
-      ],
-      "i": 48,
-      "rl": "multi",
-      "me": 1,
-      "et": "conflict",
-      "cb": "local",
-      "n": 5,
-      "ni": 5,
-      "ns": 0,
-      "f": "2026-11-07T15:45:00Z",
-      "l": "2026-11-07T17:30:00Z",
-      "st": "active",
-      "v": 3
     },
     {
       "id": "s20261107-87324cba13",
@@ -1366,7 +1784,6 @@
       ],
       "me": 1,
       "et": "other",
-      "cb": "local",
       "n": 4,
       "ni": 4,
       "ns": 0,
@@ -1406,39 +1823,6 @@
       "l": "2026-11-07T17:30:00Z",
       "st": "active",
       "v": 1
-    },
-    {
-      "id": "s20261107-f9d3e9665e",
-      "ty": "story",
-      "t": "Cartórios fazem mutirão para prevenir golpes na compra de imóveis",
-      "tl": "pt",
-      "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/cartorios-fazem-mutirao-para-prevenir-golpes-na-compra-de-imoveis",
-      "o": "agenciabrasil",
-      "on": "Agência Brasil",
-      "label": "Brazil: Housing",
-      "c": [
-        "BR"
-      ],
-      "g": [
-        "latin-america"
-      ],
-      "k": [
-        "housing"
-      ],
-      "i": 22,
-      "rl": "single",
-      "fl": [
-        "country_auto"
-      ],
-      "te": "The offices make a lot of effort to prevent the buying of real estate",
-      "tb": "mt",
-      "n": 1,
-      "ni": 1,
-      "ns": 3,
-      "f": "2026-11-07T12:15:00Z",
-      "l": "2026-11-07T17:30:00Z",
-      "st": "active",
-      "v": 2
     },
     {
       "id": "s20261107-54da9f02ee",
@@ -1770,36 +2154,6 @@
       "v": 3
     },
     {
-      "id": "s20261107-2af9462c14",
-      "ty": "story",
-      "t": "Expanding on naval blockade, US military looks to restrict Iranian land commerce",
-      "tl": "en",
-      "u": "https://www.arabnews.com/middle-east/expanding-on-naval-blockade-us-military-looks-to-restrict-iranian-land-commerce-3010330",
-      "o": "arabnews",
-      "on": "Arab News",
-      "label": "United States: Economy",
-      "c": [
-        "US",
-        "IR"
-      ],
-      "g": [
-        "north-america",
-        "middle-east"
-      ],
-      "k": [],
-      "i": 41,
-      "rl": "multi",
-      "me": 1,
-      "et": "conflict",
-      "n": 2,
-      "ni": 2,
-      "ns": 0,
-      "f": "2026-11-07T14:45:00Z",
-      "l": "2026-11-07T16:45:00Z",
-      "st": "active",
-      "v": 2
-    },
-    {
       "id": "s20261107-314f3afc2c",
       "ty": "story",
       "t": "OpenAI raises $11 billion at $1.25 trillion valuation amid concerns over AI spending and regulation",
@@ -1892,35 +2246,6 @@
       "v": 1
     },
     {
-      "id": "s20261107-5b3241a454",
-      "ty": "story",
-      "t": "Russia continues its attacks on power facilities in Kyiv as temperatures drop ahead of winter",
-      "tl": "en",
-      "u": "https://www.cbc.ca/news/world/russia-kyiv-power-winter-9.7413490",
-      "o": "cbc",
-      "on": "CBC / Radio-Canada",
-      "label": "Russia: Economy",
-      "c": [
-        "RU",
-        "UA"
-      ],
-      "g": [
-        "europe-other"
-      ],
-      "k": [],
-      "i": 41,
-      "rl": "multi",
-      "me": 1,
-      "et": "conflict",
-      "n": 3,
-      "ni": 3,
-      "ns": 0,
-      "f": "2026-11-07T14:15:00Z",
-      "l": "2026-11-07T16:45:00Z",
-      "st": "active",
-      "v": 2
-    },
-    {
       "id": "s20261107-2fb2b2fa5f",
       "ty": "story",
       "t": "Place not identified: Fiscal policy",
@@ -2002,7 +2327,6 @@
       ],
       "me": 1,
       "et": "conflict",
-      "cb": "local",
       "n": 4,
       "ni": 4,
       "ns": 0,
@@ -2285,7 +2609,6 @@
       ],
       "me": 1,
       "et": "conflict",
-      "cb": "local",
       "n": 4,
       "ni": 4,
       "ns": 0,
@@ -2293,34 +2616,6 @@
       "l": "2026-11-07T16:15:00Z",
       "st": "active",
       "v": 2
-    },
-    {
-      "id": "s20261107-22171900e9",
-      "ty": "story",
-      "t": "Quién es Pedro Alliana, nuevo presidente de Paraguay",
-      "tl": "es",
-      "u": "https://www.elespectador.com/mundo/america/pedro-alliana-de-sobreviviente-de-cancer-a-asumir-la-presidencia-de-paraguay/",
-      "o": "elespectador",
-      "on": "El Espectador",
-      "label": "Paraguay: Economy",
-      "c": [
-        "PY"
-      ],
-      "g": [
-        "latin-america"
-      ],
-      "k": [],
-      "i": 25,
-      "rl": "multi",
-      "te": "Who is Pedro Alliana, new president of Paraguay",
-      "tb": "mt",
-      "n": 3,
-      "ni": 3,
-      "ns": 0,
-      "f": "2026-11-07T13:00:00Z",
-      "l": "2026-11-07T16:15:00Z",
-      "st": "active",
-      "v": 1
     },
     {
       "id": "s20261107-3864cf273e",
@@ -2707,33 +3002,6 @@
       "v": 6
     },
     {
-      "id": "s20261107-239b8fddd9",
-      "ty": "story",
-      "t": "Place not identified: Trade",
-      "tl": "en",
-      "o": "ansa",
-      "on": "ANSA",
-      "label": "Place not identified: Trade",
-      "c": [],
-      "g": [],
-      "k": [
-        "trade"
-      ],
-      "i": 23,
-      "rl": "single",
-      "fl": [
-        "country_unknown"
-      ],
-      "n": 1,
-      "ni": 1,
-      "ns": 2,
-      "f": "2026-11-07T15:30:00Z",
-      "l": "2026-11-07T16:00:00Z",
-      "st": "active",
-      "v": 1,
-      "np": 1
-    },
-    {
       "id": "s20261107-45cec0305d",
       "ty": "story",
       "t": "Moderna lifts annual revenue forecast",
@@ -2927,39 +3195,6 @@
       "v": 2
     },
     {
-      "id": "s20261107-802b18fa27",
-      "ty": "story",
-      "t": "Republicans blast Stephen Miller's promotion to Trump chief of staff",
-      "tl": "en",
-      "u": "https://www.foxnews.com/politics/house-gop-erupts-stephen-miller-trump-elevates-him-after-midterm-massacre-megalomaniac",
-      "o": "foxnews",
-      "on": "Fox News",
-      "label": "United States: Trade",
-      "c": [
-        "US"
-      ],
-      "g": [
-        "north-america"
-      ],
-      "k": [
-        "trade"
-      ],
-      "i": 46,
-      "rl": "multi",
-      "fl": [
-        "country_auto"
-      ],
-      "me": 1,
-      "et": "policy",
-      "n": 5,
-      "ni": 4,
-      "ns": 0,
-      "f": "2026-11-07T13:30:00Z",
-      "l": "2026-11-07T16:00:00Z",
-      "st": "active",
-      "v": 2
-    },
-    {
       "id": "s20261107-ce83e26400",
       "ty": "story",
       "t": "Hacker veröffentlichen Daten des italienischen Außenministers",
@@ -2984,7 +3219,6 @@
       "rl": "multi",
       "me": 1,
       "et": "other",
-      "cb": "local",
       "n": 6,
       "ni": 5,
       "ns": 0,
@@ -3839,40 +4073,6 @@
       "ni": 1,
       "ns": 0,
       "f": "2026-11-07T14:30:00Z",
-      "l": "2026-11-07T14:30:00Z",
-      "st": "active",
-      "v": 1
-    },
-    {
-      "id": "s20261107-bfd4e270d9",
-      "ty": "story",
-      "t": "Heavy rain floods tents housing Gaza displaced people, aid shortages hamper response",
-      "tl": "en",
-      "u": "https://www.arabnews.com/middle-east/heavy-rain-floods-tents-housing-gaza-displaced-people-aid-shortages-hamper-response-3010327",
-      "o": "arabnews",
-      "on": "Arab News",
-      "label": "Israel: Housing",
-      "c": [
-        "IL"
-      ],
-      "g": [
-        "middle-east"
-      ],
-      "k": [
-        "housing",
-        "development"
-      ],
-      "i": 33,
-      "rl": "multi",
-      "fl": [
-        "country_auto"
-      ],
-      "me": 1,
-      "et": "disaster",
-      "n": 2,
-      "ni": 2,
-      "ns": 0,
-      "f": "2026-11-07T13:30:00Z",
       "l": "2026-11-07T14:30:00Z",
       "st": "active",
       "v": 1
@@ -5727,34 +5927,6 @@
       "v": 1
     },
     {
-      "id": "s20261107-eae7aa4906",
-      "ty": "story",
-      "t": "New Paraguayan president promises full compensation after bank collapse following predecessor's impeachment",
-      "tl": "en",
-      "u": "https://aa.com.tr/en/politics/new-paraguayan-president-promises-full-compensation-after-bank-collapse-following-predecessor-s-impeachment/4114850",
-      "o": "anadolu",
-      "on": "Anadolu Agency",
-      "label": "Paraguay: Banking",
-      "c": [
-        "PY"
-      ],
-      "g": [
-        "latin-america"
-      ],
-      "k": [
-        "banking"
-      ],
-      "i": 21,
-      "rl": "single",
-      "n": 1,
-      "ni": 1,
-      "ns": 1,
-      "f": "2026-11-07T08:15:00Z",
-      "l": "2026-11-07T12:15:00Z",
-      "st": "active",
-      "v": 3
-    },
-    {
       "id": "s20261107-ed2bfef293",
       "ty": "story",
       "t": "Les efforts de médiation entre les États-Unis et l'Iran se poursuivent selon le Qatar",
@@ -6023,37 +6195,6 @@
       "l": "2026-11-07T12:00:00Z",
       "st": "active",
       "v": 1
-    },
-    {
-      "id": "s20261107-6ddb83a000",
-      "ty": "story",
-      "t": "Crac Ueno Bank Paraguay, folla assalta la casa di Peña",
-      "tl": "it",
-      "u": "https://www.ilfattoquotidiano.it/2026/11/07/scontri-paraguay-crac-ueno-bank-folla-tenta-irruzione-casa-santiago-pena-deve-andare-in-carcere/8563957/",
-      "o": "ilfatto",
-      "on": "Il Fatto Quotidiano",
-      "label": "Paraguay: Housing",
-      "c": [
-        "PY"
-      ],
-      "g": [
-        "latin-america"
-      ],
-      "k": [
-        "housing",
-        "banking"
-      ],
-      "i": 22,
-      "rl": "single",
-      "te": "Crac Ueno Bank Paraguay, crowd assaults Peña's house",
-      "tb": "mt",
-      "n": 1,
-      "ni": 1,
-      "ns": 0,
-      "f": "2026-11-07T12:00:00Z",
-      "l": "2026-11-07T12:00:00Z",
-      "st": "active",
-      "v": 2
     },
     {
       "id": "s20261107-71ece7e45a",
@@ -7003,39 +7144,6 @@
       "ni": 2,
       "ns": 0,
       "f": "2026-11-07T09:15:00Z",
-      "l": "2026-11-07T09:30:00Z",
-      "st": "active",
-      "v": 1
-    },
-    {
-      "id": "s20261107-333ce75aed",
-      "ty": "story",
-      "t": "Gold-backed agriculture loans: RBI proposes changes to priority sector lending rules; what could change for borrowers",
-      "tl": "en",
-      "u": "https://www.livemint.com/money/personal-finance/goldbacked-agriculture-loans-rbi-proposes-changes-to-priority-sector-lending-rules-what-could-change-for-borrowers-11794038739503.html",
-      "o": "mint",
-      "on": "Mint",
-      "label": "India: Monetary policy",
-      "c": [
-        "IN"
-      ],
-      "g": [
-        "asia-pacific"
-      ],
-      "k": [
-        "monetary",
-        "banking",
-        "energy"
-      ],
-      "i": 24,
-      "rl": "single",
-      "fl": [
-        "forecast_language"
-      ],
-      "n": 1,
-      "ni": 1,
-      "ns": 0,
-      "f": "2026-11-07T09:30:00Z",
       "l": "2026-11-07T09:30:00Z",
       "st": "active",
       "v": 1
