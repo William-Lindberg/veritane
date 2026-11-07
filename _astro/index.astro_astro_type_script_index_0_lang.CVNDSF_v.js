@@ -1,0 +1,1 @@
+import{t as e}from"./landing-country.npYgVZbP.js";{let e=new URLSearchParams(window.location.search),t=[`c`,`g`,`k`,`country`,`region`,`topic`].some(t=>e.has(t)),n=document.querySelector(`[data-full-list]`)?.dataset.fullList;t&&n&&window.location.replace(`${n}${window.location.search}`)}e(document);
