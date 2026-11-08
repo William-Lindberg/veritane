@@ -43,41 +43,6 @@
       "last_seen": "2026-11-05T12:00:00Z"
     },
     {
-      "id": "l-s20261108-178d24c937",
-      "kind": "cluster",
-      "story_id": "s20261108-178d24c937",
-      "t": "United States: Employment and wages",
-      "tl": "en",
-      "label": "United States: Employment and wages",
-      "countries": [
-        "US",
-        "JP"
-      ],
-      "regions": [
-        "north-america",
-        "asia-pacific"
-      ],
-      "categories": [
-        "jobs"
-      ],
-      "importance": 33,
-      "rl": "single",
-      "official": [],
-      "coverage": [
-        {
-          "o": "bt_sg",
-          "s": "2026-11-08T10:15:00Z",
-          "l": "en",
-          "np": true
-        }
-      ],
-      "other_sites": 0,
-      "first_seen": "2026-11-08T10:15:00Z",
-      "last_seen": "2026-11-08T10:15:00Z",
-      "cb": "rules",
-      "np": true
-    },
-    {
       "id": "l-o-1e9018df907d89d4",
       "kind": "official",
       "t": "Australia: Cash rate target, 5 November 2026",
