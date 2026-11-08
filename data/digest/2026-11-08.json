@@ -1,7 +1,7 @@
 {
   "schema": "veritane/digest/1",
   "date": "2026-11-08",
-  "generated_at": "2026-11-08T13:38:16Z",
+  "generated_at": "2026-11-08T22:28:42Z",
   "final": false,
   "template_version": "digest-templates/1",
   "headline": "No new official figures or decisions were collected on 8 November 2026.",
@@ -326,9 +326,11 @@
     }
   ],
   "sources": {
-    "ok": 77,
-    "failed": 0,
-    "failed_names": []
+    "ok": 76,
+    "failed": 1,
+    "failed_names": [
+      "OECD"
+    ]
   },
   "empty": false
 }
