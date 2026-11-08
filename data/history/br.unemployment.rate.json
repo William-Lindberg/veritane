@@ -11,8 +11,8 @@
     "provider_id": "bcb",
     "dataset": "SGS 24369",
     "url": "https://www.bcb.gov.br/en",
-    "api_url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.24369/dados/ultimos/20?formato=json",
-    "retrieved_at": "2026-11-07T09:27:57Z"
+    "api_url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.24369/dados?formato=json&dataInicial=01/01/2016&dataFinal=08/11/2026",
+    "retrieved_at": "2026-11-08T10:01:49Z"
   },
   "points": [
     [

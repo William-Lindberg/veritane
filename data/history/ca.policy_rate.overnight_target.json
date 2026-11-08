@@ -11,8 +11,8 @@
     "provider_id": "boc",
     "dataset": "V39079",
     "url": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/",
-    "api_url": "https://www.bankofcanada.ca/valet/observations/V39079/json?recent=260",
-    "retrieved_at": "2026-11-07T09:27:57Z"
+    "api_url": "https://www.bankofcanada.ca/valet/observations/V39079/json?start_date=2016-01-01",
+    "retrieved_at": "2026-11-08T10:01:49Z"
   },
   "points": [
     [

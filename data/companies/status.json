@@ -1,0 +1,12 @@
+{
+  "schema": "veritane/companies-status/1",
+  "attempted_at": "2026-11-08T10:08:26Z",
+  "last_success_at": null,
+  "contact_set": false,
+  "mode": "bulk",
+  "ok": false,
+  "error": "HTTP 403: <!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"> <html xmlns=\"http://www.w3.org/1999/xhtml\"> <head> <meta http-equiv=\"Content-T",
+  "http": 403,
+  "kept_previous": true,
+  "hint": "SEC refuses automated requests without a contact e-mail in the User-Agent. Set \"secContact\" in config/site.json."
+}

@@ -1,7 +1,7 @@
 {
   "schema": "veritane/digest/1",
   "date": "2026-11-08",
-  "generated_at": "2026-11-08T06:04:57Z",
+  "generated_at": "2026-11-08T10:01:49Z",
   "final": false,
   "template_version": "digest-templates/1",
   "headline": "No new official figures or decisions were collected on 8 November 2026.",
@@ -9,7 +9,7 @@
   "counts": {
     "data": 0,
     "decisions": 0,
-    "revisions": 0,
+    "revisions": 18,
     "alerts": 0,
     "publications": 0,
     "coming_up": 5
@@ -25,7 +25,224 @@
     },
     {
       "key": "revisions",
-      "entries": []
+      "entries": [
+        {
+          "revision_id": "4a87e3413c6f67d5",
+          "series_id": "cz.industrial_production.yoy",
+          "region": "CZ",
+          "text": "Czechia, Industrial production, change on a year earlier: Eurostat revised the figure for March 2024 from −2.3% to −2.2%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for March 2024 is now −2.2%. Before, it was −2.3%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=CZ&time=2024-03&format=JSON&lang=EN",
+            "dataset": "sts_inpr_m CZ"
+          }
+        },
+        {
+          "revision_id": "1bc7892cd5c3798a",
+          "series_id": "cz.industrial_production.yoy",
+          "region": "CZ",
+          "text": "Czechia, Industrial production, change on a year earlier: Eurostat revised the figure for September 2025 from 1.0% to 0.9%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for September 2025 is now 0.9%. Before, it was 1.0%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=CZ&time=2025-09&format=JSON&lang=EN",
+            "dataset": "sts_inpr_m CZ"
+          }
+        },
+        {
+          "revision_id": "c80ee961b939d1a7",
+          "series_id": "cz.industrial_production.yoy",
+          "region": "CZ",
+          "text": "Czechia, Industrial production, change on a year earlier: Eurostat revised the figure for June 2026 from 3.9% to 3.8%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for June 2026 is now 3.8%. Before, it was 3.9%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=CZ&time=2026-06&format=JSON&lang=EN",
+            "dataset": "sts_inpr_m CZ"
+          }
+        },
+        {
+          "revision_id": "7d2d32a0cf4e7a59",
+          "series_id": "de.industrial_production.yoy",
+          "region": "DE",
+          "text": "Germany, Industrial production, change on a year earlier: Eurostat revised 31 figures at once, from April 2021 to August 2026.",
+          "text_simple": "Eurostat changed 31 past figures at the same time, from April 2021 to August 2026.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=DE&time=2021-04&format=JSON&lang=EN",
+            "dataset": "sts_inpr_m DE"
+          }
+        },
+        {
+          "revision_id": "70145f27caf7ce6c",
+          "series_id": "dk.industrial_production.yoy",
+          "region": "DK",
+          "text": "Denmark, Industrial production, change on a year earlier: Eurostat revised the figure for December 2025 from −4.4% to −4.1%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for December 2025 is now −4.1%. Before, it was −4.4%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=DK&time=2025-12&format=JSON&lang=EN",
+            "dataset": "sts_inpr_m DK"
+          }
+        },
+        {
+          "revision_id": "21c8d1e82ad0a725",
+          "series_id": "dk.industrial_production.yoy",
+          "region": "DK",
+          "text": "Denmark, Industrial production, change on a year earlier: Eurostat revised the figure for May 2026 from 5.6% to 5.3%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for May 2026 is now 5.3%. Before, it was 5.6%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=DK&time=2026-05&format=JSON&lang=EN",
+            "dataset": "sts_inpr_m DK"
+          }
+        },
+        {
+          "revision_id": "02a6ed95171dc848",
+          "series_id": "dk.industrial_production.yoy",
+          "region": "DK",
+          "text": "Denmark, Industrial production, change on a year earlier: Eurostat revised the figure for June 2026 from 5.9% to 6.1%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for June 2026 is now 6.1%. Before, it was 5.9%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=DK&time=2026-06&format=JSON&lang=EN",
+            "dataset": "sts_inpr_m DK"
+          }
+        },
+        {
+          "revision_id": "adaa2dc52acab80f",
+          "series_id": "dk.industrial_production.yoy",
+          "region": "DK",
+          "text": "Denmark, Industrial production, change on a year earlier: Eurostat revised the figure for August 2026 from 8.3% to 9.0%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for August 2026 is now 9.0%. Before, it was 8.3%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=DK&time=2026-08&format=JSON&lang=EN",
+            "dataset": "sts_inpr_m DK"
+          }
+        },
+        {
+          "revision_id": "775768cdaca40927",
+          "series_id": "es.industrial_production.yoy",
+          "region": "ES",
+          "text": "Spain, Industrial production, change on a year earlier: Eurostat revised the figure for October 2016 from 0.3% to 0.4%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for October 2016 is now 0.4%. Before, it was 0.3%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=ES&time=2016-10&format=JSON&lang=EN",
+            "dataset": "sts_inpr_m ES"
+          }
+        },
+        {
+          "revision_id": "19c6bdc95ebd1eb8",
+          "series_id": "es.industrial_production.yoy",
+          "region": "ES",
+          "text": "Spain, Industrial production, change on a year earlier: Eurostat revised the figure for November 2016 from 0.7% to 0.6%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for November 2016 is now 0.6%. Before, it was 0.7%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=ES&time=2016-11&format=JSON&lang=EN",
+            "dataset": "sts_inpr_m ES"
+          }
+        },
+        {
+          "revision_id": "65529ddcb8623a90",
+          "series_id": "es.industrial_production.yoy",
+          "region": "ES",
+          "text": "Spain, Industrial production, change on a year earlier: Eurostat revised the figure for October 2017 from 4.9% to 4.8%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for October 2017 is now 4.8%. Before, it was 4.9%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=ES&time=2017-10&format=JSON&lang=EN",
+            "dataset": "sts_inpr_m ES"
+          }
+        },
+        {
+          "revision_id": "26e050c2b53e5e8f",
+          "series_id": "es.industrial_production.yoy",
+          "region": "ES",
+          "text": "Spain, Industrial production, change on a year earlier: Eurostat revised the figure for November 2017 from 4.6% to 4.7%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for November 2017 is now 4.7%. Before, it was 4.6%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=ES&time=2017-11&format=JSON&lang=EN",
+            "dataset": "sts_inpr_m ES"
+          }
+        },
+        {
+          "revision_id": "bf72df8c0b3b0f48",
+          "series_id": "es.industrial_production.yoy",
+          "region": "ES",
+          "text": "Spain, Industrial production, change on a year earlier: Eurostat revised the figure for December 2018 from −4.4% to −4.3%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for December 2018 is now −4.3%. Before, it was −4.4%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=ES&time=2018-12&format=JSON&lang=EN",
+            "dataset": "sts_inpr_m ES"
+          }
+        },
+        {
+          "revision_id": "8b000513b9474d61",
+          "series_id": "es.industrial_production.yoy",
+          "region": "ES",
+          "text": "Spain, Industrial production, change on a year earlier: Eurostat revised the figure for December 2019 from 0.2% to 0.1%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for December 2019 is now 0.1%. Before, it was 0.2%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=ES&time=2019-12&format=JSON&lang=EN",
+            "dataset": "sts_inpr_m ES"
+          }
+        },
+        {
+          "revision_id": "715e0dc96f2c2006",
+          "series_id": "es.industrial_production.yoy",
+          "region": "ES",
+          "text": "Spain, Industrial production, change on a year earlier: Eurostat revised the figure for March 2025 from 0.9% to 1.0%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for March 2025 is now 1.0%. Before, it was 0.9%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=ES&time=2025-03&format=JSON&lang=EN",
+            "dataset": "sts_inpr_m ES"
+          }
+        },
+        {
+          "revision_id": "c7a06ca253f9b404",
+          "series_id": "es.industrial_production.yoy",
+          "region": "ES",
+          "text": "Spain, Industrial production, change on a year earlier: Eurostat revised the figure for March 2026 from 2.2% to 2.1%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for March 2026 is now 2.1%. Before, it was 2.2%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=ES&time=2026-03&format=JSON&lang=EN",
+            "dataset": "sts_inpr_m ES"
+          }
+        },
+        {
+          "revision_id": "a71d83f0e45f231f",
+          "series_id": "es.industrial_production.yoy",
+          "region": "ES",
+          "text": "Spain, Industrial production, change on a year earlier: Eurostat revised the figure for July 2026 from 2.7% to 2.4%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for July 2026 is now 2.4%. Before, it was 2.7%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=ES&time=2026-07&format=JSON&lang=EN",
+            "dataset": "sts_inpr_m ES"
+          }
+        },
+        {
+          "revision_id": "7e923832661715da",
+          "series_id": "es.industrial_production.yoy",
+          "region": "ES",
+          "text": "Spain, Industrial production, change on a year earlier: Eurostat revised the figure for August 2026 from 1.2% to 1.0%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for August 2026 is now 1.0%. Before, it was 1.2%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=ES&time=2026-08&format=JSON&lang=EN",
+            "dataset": "sts_inpr_m ES"
+          }
+        }
+      ]
     },
     {
       "key": "alerts",
@@ -97,11 +314,12 @@
     }
   ],
   "sources": {
-    "ok": 67,
-    "failed": 1,
+    "ok": 75,
+    "failed": 2,
     "failed_names": [
+      "International Labour Organization (ILOSTAT)",
       "OECD"
     ]
   },
-  "empty": true
+  "empty": false
 }

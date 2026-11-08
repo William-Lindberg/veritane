@@ -1,6 +1,6 @@
 {
   "schema": "veritane/cpi-categories/1",
-  "generated_at": "2026-11-07T12:54:42Z",
+  "generated_at": "2026-11-08T10:01:49Z",
   "categories": [
     "housing",
     "food",
@@ -85,15 +85,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "EU",
@@ -165,15 +166,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "AT",
@@ -245,15 +247,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "BE",
@@ -325,15 +328,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "BG",
@@ -405,15 +409,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "HR",
@@ -485,15 +490,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "CY",
@@ -565,15 +571,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "CZ",
@@ -645,15 +652,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "DK",
@@ -725,15 +733,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "EE",
@@ -805,15 +814,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "FI",
@@ -885,15 +895,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "FR",
@@ -965,15 +976,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "DE",
@@ -1045,15 +1057,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "GR",
@@ -1125,15 +1138,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "HU",
@@ -1205,15 +1219,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "IS",
@@ -1285,15 +1300,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "IE",
@@ -1365,15 +1381,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "IT",
@@ -1445,15 +1462,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "LV",
@@ -1525,15 +1543,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "LT",
@@ -1605,15 +1624,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "LU",
@@ -1685,15 +1705,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "MT",
@@ -1765,15 +1786,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "NL",
@@ -1845,15 +1867,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "NO",
@@ -1925,15 +1948,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "PL",
@@ -2005,15 +2029,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "PT",
@@ -2085,15 +2110,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "RO",
@@ -2165,15 +2191,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "SK",
@@ -2245,15 +2272,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "SI",
@@ -2325,15 +2353,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "ES",
@@ -2405,15 +2434,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "SE",
@@ -2485,15 +2515,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "CH",
@@ -2565,15 +2596,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "TR",
@@ -2645,15 +2677,16 @@
         "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
         "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?unit=RCH_A&geo=EA&geo=EU27_2020&geo=AT&geo=BE&geo=BG&geo=HR&geo=CY&geo=CZ&geo=DK&geo=EE&geo=FI&geo=FR&geo=DE&geo=EL&geo=HU&geo=IE&geo=IT&geo=LV&geo=LT&geo=LU&geo=MT&geo=NL&geo=PL&geo=PT&geo=RO&geo=SK&geo=SI&geo=ES&geo=SE&geo=IS&geo=NO&geo=CH&geo=TR&coicop18=SERV_HOUS&coicop18=CP01&coicop18=CP07&coicop18=ELC_GAS&coicop18=CP06&coicop18=CP09&coicop18=TOTAL&lastTimePeriod=4&format=JSON&lang=EN",
         "license": {
-          "name": "CC BY 4.0",
+          "name": "Free reuse with source (Eurostat copyright notice)",
           "url": "https://ec.europa.eu/eurostat/help/copyright-notice",
           "verified": true,
-          "verified_on": "2026-11-06"
+          "verified_on": "2026-11-07",
+          "quote": "Reuse of statistical data, metadata, publications, and other dissemination tools published on this website for commercial or non-commercial purposes is authorised provided the source is acknowledged."
         },
         "publisher_updated": "2026-11-04T11:00:00+0100",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "GB",
@@ -2767,9 +2800,9 @@
           "verified_on": "2026-11-06"
         },
         "publisher_updated": "2026-10-20T23:00:00.000Z",
-        "retrieved_at": "2026-11-07T10:59:10Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T10:59:10Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     },
     {
       "code": "US",
@@ -2960,9 +2993,9 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-07T12:54:42Z"
+        "retrieved_at": "2026-11-08T10:01:49Z"
       },
-      "retrieved_at": "2026-11-07T12:54:42Z"
+      "retrieved_at": "2026-11-08T10:01:49Z"
     }
   ]
 }
