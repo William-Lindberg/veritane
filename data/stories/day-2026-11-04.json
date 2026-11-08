@@ -1,7 +1,7 @@
 {
   "schema": "veritane/story-day/1",
   "date": "2026-11-04",
-  "generated_at": "2026-11-07T21:53:04Z",
+  "generated_at": "2026-11-08T06:04:57Z",
   "stories": [
     {
       "id": "s20261104-2fd15a75c4",
@@ -377,7 +377,7 @@
       "overrides": [],
       "first_seen": "2026-11-04T22:45:00Z",
       "last_seen": "2026-11-04T22:45:00Z",
-      "status": "quiet",
+      "status": "closed",
       "version": 1,
       "classified_by": "rules",
       "classification": {

@@ -1,7 +1,7 @@
 {
   "schema": "veritane/story-index/1",
-  "generated_at": "2026-11-07T21:53:04Z",
-  "data_clock": "20261107220000",
+  "generated_at": "2026-11-08T06:04:57Z",
+  "data_clock": "20261108061500",
   "windows": {
     "story_hours": 72,
     "official_days": 14,
@@ -95,10 +95,12 @@
     "provider": "The GDELT Project",
     "url": "https://www.gdeltproject.org/",
     "status": "ok",
-    "last_file": "20261107220000",
-    "files_ok": 11,
+    "last_file": "20261108061500",
+    "files_ok": 28,
     "files_failed": 0,
-    "gaps": []
+    "gaps": [
+      "20261107221500/20261107231500"
+    ]
   },
   "policy": {
     "outlets": "outlets/1",
@@ -123,10 +125,12 @@
     "s20261107-5a0565771a": "s20261107-056cacf4c2",
     "s20261107-5b273c4ae7": "s20261107-87324cba13",
     "s20261107-63b2de9865": "s20261107-ce83e26400",
+    "s20261107-6baff4a01d": "s20261105-f9cfd09efb",
     "s20261107-6fd20a8ed1": "s20261107-d89d1e787f",
     "s20261107-77d89c4ba0": "s20261107-5b3241a454",
     "s20261107-78d1bc9cff": "s20261107-eae7aa4906",
     "s20261107-7ea35bc1b2": "s20261107-15114c887c",
+    "s20261107-810738a2ff": "s20261107-7254fc0e9b",
     "s20261107-885dc44298": "s20261107-193a739224",
     "s20261107-8b1a26e717": "s20261107-09296f7de0",
     "s20261107-8b754c8aa4": "s20261107-4534930504",
@@ -141,10 +145,17 @@
     "s20261107-bdace04138": "s20261107-ba1014f35a",
     "s20261107-becdb0b24c": "s20261107-ce83e26400",
     "s20261107-c16bd3949a": "s20261107-333ce75aed",
+    "s20261107-c3b9102541": "s20261107-af238c45e9",
+    "s20261107-d89d816d3a": "s20261107-90731dcee8",
     "s20261107-dc56c1a8a7": "s20261107-e41f4c27b0",
+    "s20261107-e0d398a8fe": "s20261107-608ec59c9c",
     "s20261107-e871e06e7c": "s20261107-12210d5bb2",
     "s20261107-f79afd1aa0": "s20261107-56875e34f4",
-    "s20261107-f8453ab6dc": "s20261107-6ddb83a000"
+    "s20261107-f8453ab6dc": "s20261107-6ddb83a000",
+    "s20261108-615433ddef": "s20261107-1ada0040d7",
+    "s20261108-9b38292af9": "s20261108-3927912d71",
+    "s20261108-c231780fdd": "s20261106-cc73a5c54f",
+    "s20261108-db849c3c95": "s20261108-1700017284"
   },
   "dropped": {
     "stories": 0
@@ -156,66 +167,272 @@
   },
   "rows": [
     {
-      "id": "1e9018df907d89d4",
-      "ty": "official",
-      "t": "Australia: Cash rate target, 5 November 2026",
+      "id": "s20261107-be9a16abdf",
+      "ty": "story",
+      "t": "New Zealand: Employment and wages",
       "tl": "en",
-      "u": "/news/1e9018df907d89d4/",
-      "o": "rba",
-      "on": "Reserve Bank of Australia",
+      "o": "cna_sg",
+      "label": "New Zealand: Employment and wages",
       "c": [
-        "AU"
+        "NZ"
       ],
       "g": [
         "asia-pacific"
       ],
       "k": [
-        "monetary",
-        "rates"
+        "jobs"
       ],
-      "i": 35,
-      "rl": "official",
-      "n": 0,
-      "ni": 0,
+      "i": 34,
+      "rl": "multi",
+      "me": 1,
+      "et": "election",
+      "n": 5,
+      "ni": 3,
+      "nc": 2,
       "ns": 0,
-      "f": "2026-11-07T21:53:04Z",
-      "l": "2026-11-07T21:53:04Z",
+      "f": "2026-11-07T13:45:00Z",
+      "l": "2026-11-08T06:15:00Z",
       "st": "active",
-      "v": 1,
-      "cv": 0
+      "v": 2,
+      "np": 1
     },
     {
-      "id": "s20261107-09296f7de0",
+      "id": "s20261107-c29319a10d",
       "ty": "story",
-      "t": "Paraguay: Banking",
+      "t": "Israel: Economy",
       "tl": "en",
-      "o": "aljazeera",
-      "label": "Paraguay: Banking",
+      "o": "xinhua",
+      "label": "Israel: Economy",
       "c": [
-        "PY",
-        "CL"
+        "IL",
+        "IR",
+        "AU"
       ],
       "g": [
-        "latin-america"
+        "asia-pacific",
+        "middle-east"
       ],
-      "k": [
-        "banking"
-      ],
-      "i": 59,
+      "k": [],
+      "i": 78,
       "rl": "multi",
       "fl": [
         "syndicated"
       ],
       "me": 1,
       "et": "policy",
-      "n": 7,
-      "ni": 7,
-      "nc": 6,
-      "ns": 73,
-      "f": "2026-11-07T06:30:00Z",
-      "l": "2026-11-07T21:15:00Z",
+      "n": 35,
+      "ni": 30,
+      "nc": 19,
+      "ns": 0,
+      "f": "2026-11-07T18:30:00Z",
+      "l": "2026-11-08T06:15:00Z",
       "st": "updated",
-      "v": 10,
+      "v": 2,
+      "np": 1
+    },
+    {
+      "id": "s20261107-c30832c383",
+      "ty": "story",
+      "t": "India: Financial markets",
+      "tl": "en",
+      "o": "mint",
+      "label": "India: Financial markets",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "markets"
+      ],
+      "i": 23,
+      "rl": "multi",
+      "n": 2,
+      "ni": 2,
+      "nc": 1,
+      "ns": 4,
+      "f": "2026-11-07T08:45:00Z",
+      "l": "2026-11-08T06:15:00Z",
+      "st": "active",
+      "v": 4,
+      "np": 1
+    },
+    {
+      "id": "s20261108-442e035195",
+      "ty": "story",
+      "t": "Bangladesh: Government debt",
+      "tl": "en",
+      "o": "dailystar_bd",
+      "label": "Bangladesh: Government debt",
+      "c": [
+        "BD"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "debt",
+        "macro"
+      ],
+      "i": 26,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T06:15:00Z",
+      "l": "2026-11-08T06:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-7cd92f1031",
+      "ty": "story",
+      "t": "Place not identified: Economy",
+      "tl": "en",
+      "o": "rnz",
+      "label": "Place not identified: Economy",
+      "c": [],
+      "g": [],
+      "k": [],
+      "i": 29,
+      "rl": "multi",
+      "fl": [
+        "country_unknown"
+      ],
+      "me": 1,
+      "et": "legal",
+      "n": 2,
+      "ni": 2,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T00:15:00Z",
+      "l": "2026-11-08T06:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-bc98e31a0e",
+      "ty": "story",
+      "t": "South Korea: Financial markets",
+      "tl": "en",
+      "o": "koreaherald",
+      "label": "South Korea: Financial markets",
+      "c": [
+        "KR",
+        "US"
+      ],
+      "g": [
+        "north-america",
+        "asia-pacific"
+      ],
+      "k": [
+        "markets"
+      ],
+      "i": 30,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T06:15:00Z",
+      "l": "2026-11-08T06:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-de0ffeb366",
+      "ty": "story",
+      "t": "Saudi Arabia: Economy",
+      "tl": "en",
+      "o": "rte",
+      "label": "Saudi Arabia: Economy",
+      "c": [
+        "SA",
+        "YE"
+      ],
+      "g": [
+        "middle-east"
+      ],
+      "k": [],
+      "i": 47,
+      "rl": "multi",
+      "me": 1,
+      "et": "conflict",
+      "n": 5,
+      "ni": 4,
+      "nc": 3,
+      "ns": 0,
+      "f": "2026-11-08T03:15:00Z",
+      "l": "2026-11-08T06:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-fe9b5577f9",
+      "ty": "story",
+      "t": "India: Financial markets",
+      "tl": "en",
+      "o": "toi",
+      "label": "India: Financial markets",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "markets"
+      ],
+      "i": 27,
+      "rl": "multi",
+      "n": 2,
+      "ni": 2,
+      "nc": 1,
+      "ns": 2,
+      "f": "2026-11-08T05:00:00Z",
+      "l": "2026-11-08T06:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261107-0d90652e37",
+      "ty": "story",
+      "t": "United States: Economy",
+      "tl": "en",
+      "o": "et",
+      "label": "United States: Economy",
+      "c": [
+        "US",
+        "OM",
+        "IR"
+      ],
+      "g": [
+        "north-america",
+        "middle-east"
+      ],
+      "k": [],
+      "i": 51,
+      "rl": "multi",
+      "fl": [
+        "syndicated"
+      ],
+      "me": 1,
+      "et": "conflict",
+      "n": 6,
+      "ni": 5,
+      "nc": 3,
+      "ns": 0,
+      "f": "2026-11-07T23:30:00Z",
+      "l": "2026-11-08T06:00:00Z",
+      "st": "new",
+      "v": 1,
       "np": 1
     },
     {
@@ -234,37 +451,1470 @@
       "k": [
         "corporate"
       ],
-      "i": 45,
+      "i": 52,
       "rl": "multi",
       "fl": [
         "country_auto"
       ],
       "me": 1,
       "et": "conflict",
-      "n": 4,
-      "ni": 4,
-      "nc": 4,
+      "n": 6,
+      "ni": 6,
+      "nc": 5,
       "ns": 0,
       "f": "2026-11-07T20:00:00Z",
-      "l": "2026-11-07T21:15:00Z",
+      "l": "2026-11-08T06:00:00Z",
+      "st": "updated",
+      "v": 2,
+      "np": 1
+    },
+    {
+      "id": "s20261108-1700017284",
+      "ty": "story",
+      "t": "Japan: Economy",
+      "tl": "en",
+      "o": "xinhua",
+      "label": "Japan: Economy",
+      "c": [
+        "JP"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 58,
+      "rl": "multi",
+      "fl": [
+        "syndicated"
+      ],
+      "me": 1,
+      "et": "disaster",
+      "n": 15,
+      "ni": 11,
+      "nc": 7,
+      "ns": 0,
+      "f": "2026-11-08T00:00:00Z",
+      "l": "2026-11-08T06:00:00Z",
       "st": "new",
       "v": 1,
       "np": 1
     },
     {
-      "id": "s20261107-c29319a10d",
+      "id": "s20261108-26916b1b80",
       "ty": "story",
-      "t": "Israel: Economy",
+      "t": "Iran: Economy",
       "tl": "en",
-      "o": "cbc",
-      "label": "Israel: Economy",
+      "o": "toi",
+      "label": "Iran: Economy",
       "c": [
-        "IL",
         "IR",
-        "AU"
+        "US"
+      ],
+      "g": [
+        "north-america",
+        "middle-east"
+      ],
+      "k": [],
+      "i": 38,
+      "rl": "multi",
+      "me": 1,
+      "et": "conflict",
+      "n": 2,
+      "ni": 2,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T05:30:00Z",
+      "l": "2026-11-08T06:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-39ea1166a9",
+      "ty": "story",
+      "t": "Iran: Economy",
+      "tl": "en",
+      "o": "hindustantimes",
+      "label": "Iran: Economy",
+      "c": [
+        "IR",
+        "US"
+      ],
+      "g": [
+        "north-america",
+        "middle-east"
+      ],
+      "k": [],
+      "i": 23,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T06:00:00Z",
+      "l": "2026-11-08T06:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-8feb8f5b9c",
+      "ty": "story",
+      "t": "Place not identified: Economy",
+      "tl": "en",
+      "o": "enca",
+      "label": "Place not identified: Economy",
+      "c": [],
+      "g": [],
+      "k": [],
+      "i": 16,
+      "rl": "single",
+      "fl": [
+        "country_unknown"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T06:00:00Z",
+      "l": "2026-11-08T06:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-bc59723aaa",
+      "ty": "story",
+      "t": "Place not identified: Economy",
+      "tl": "en",
+      "o": "hotnews",
+      "label": "Place not identified: Economy",
+      "c": [],
+      "g": [],
+      "k": [],
+      "i": 16,
+      "rl": "single",
+      "fl": [
+        "country_unknown"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T06:00:00Z",
+      "l": "2026-11-08T06:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-d33fc0f466",
+      "ty": "story",
+      "t": "Place not identified: Economy",
+      "tl": "en",
+      "o": "hotnews",
+      "label": "Place not identified: Economy",
+      "c": [],
+      "g": [],
+      "k": [],
+      "i": 16,
+      "rl": "single",
+      "fl": [
+        "country_unknown"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T06:00:00Z",
+      "l": "2026-11-08T06:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-d7d5308763",
+      "ty": "story",
+      "t": "Pakistan: Economy",
+      "tl": "en",
+      "o": "tribune_pk",
+      "label": "Pakistan: Economy",
+      "c": [],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 16,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T06:00:00Z",
+      "l": "2026-11-08T06:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-f33d37002d",
+      "ty": "story",
+      "t": "New Zealand: Economy",
+      "tl": "en",
+      "o": "toi",
+      "label": "New Zealand: Economy",
+      "c": [
+        "NZ"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 36,
+      "rl": "multi",
+      "me": 1,
+      "et": "election",
+      "n": 3,
+      "ni": 3,
+      "nc": 2,
+      "ns": 0,
+      "f": "2026-11-08T03:00:00Z",
+      "l": "2026-11-08T06:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-69aeb3c1d6",
+      "ty": "story",
+      "t": "Place not identified: Economy",
+      "tl": "en",
+      "o": "enca",
+      "label": "Place not identified: Economy",
+      "c": [],
+      "g": [],
+      "k": [],
+      "i": 16,
+      "rl": "single",
+      "fl": [
+        "country_unknown"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T05:45:00Z",
+      "l": "2026-11-08T05:45:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-dffc4c8577",
+      "ty": "story",
+      "t": "China: Technology and productivity",
+      "tl": "en",
+      "o": "xinhua",
+      "label": "China: Technology and productivity",
+      "c": [
+        "CN",
+        "PL",
+        "IE"
+      ],
+      "g": [
+        "eu",
+        "asia-pacific"
+      ],
+      "k": [
+        "tech",
+        "macro"
+      ],
+      "i": 32,
+      "rl": "single",
+      "n": 2,
+      "ni": 1,
+      "nc": 1,
+      "ns": 1,
+      "f": "2026-11-08T00:00:00Z",
+      "l": "2026-11-08T05:45:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-f1971f6003",
+      "ty": "story",
+      "t": "Australia: Cost of living",
+      "tl": "en",
+      "o": "smh",
+      "label": "Australia: Cost of living",
+      "c": [],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "cost-of-living",
+        "fiscal"
+      ],
+      "i": 25,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 2,
+      "ni": 1,
+      "nc": 1,
+      "ns": 1,
+      "f": "2026-11-08T05:45:00Z",
+      "l": "2026-11-08T05:45:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-611413d95d",
+      "ty": "story",
+      "t": "Place not identified: Economy",
+      "tl": "en",
+      "o": "hotnews",
+      "label": "Place not identified: Economy",
+      "c": [],
+      "g": [],
+      "k": [],
+      "i": 16,
+      "rl": "single",
+      "fl": [
+        "country_unknown"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T05:30:00Z",
+      "l": "2026-11-08T05:30:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261107-09296f7de0",
+      "ty": "story",
+      "t": "Paraguay: Banking",
+      "tl": "en",
+      "o": "aljazeera",
+      "label": "Paraguay: Banking",
+      "c": [
+        "PY",
+        "CL"
+      ],
+      "g": [
+        "latin-america"
+      ],
+      "k": [
+        "banking"
+      ],
+      "i": 62,
+      "rl": "multi",
+      "fl": [
+        "syndicated"
+      ],
+      "me": 1,
+      "et": "policy",
+      "n": 10,
+      "ni": 10,
+      "nc": 7,
+      "ns": 98,
+      "f": "2026-11-07T06:30:00Z",
+      "l": "2026-11-08T05:15:00Z",
+      "st": "updated",
+      "v": 11,
+      "np": 1
+    },
+    {
+      "id": "s20261107-87324cba13",
+      "ty": "story",
+      "t": "Paraguay: Banking",
+      "tl": "en",
+      "o": "ambito",
+      "label": "Paraguay: Banking",
+      "c": [
+        "PY",
+        "BR"
+      ],
+      "g": [
+        "latin-america"
+      ],
+      "k": [
+        "banking",
+        "monetary"
+      ],
+      "i": 47,
+      "rl": "multi",
+      "me": 1,
+      "et": "policy",
+      "n": 6,
+      "ni": 5,
+      "nc": 3,
+      "ns": 7,
+      "f": "2026-11-07T13:30:00Z",
+      "l": "2026-11-08T05:15:00Z",
+      "st": "active",
+      "v": 4,
+      "np": 1
+    },
+    {
+      "id": "s20261107-af238c45e9",
+      "ty": "story",
+      "t": "Argentina: Economy",
+      "tl": "en",
+      "o": "clarin",
+      "label": "Argentina: Economy",
+      "c": [
+        "AR",
+        "UY"
+      ],
+      "g": [
+        "latin-america"
+      ],
+      "k": [],
+      "i": 42,
+      "rl": "multi",
+      "me": 1,
+      "et": "policy",
+      "n": 6,
+      "ni": 5,
+      "nc": 2,
+      "ns": 1,
+      "f": "2026-11-07T12:30:00Z",
+      "l": "2026-11-08T05:15:00Z",
+      "st": "updated",
+      "v": 3,
+      "np": 1
+    },
+    {
+      "id": "s20261108-1a404b6136",
+      "ty": "story",
+      "t": "Place not identified: Economy",
+      "tl": "en",
+      "o": "hotnews",
+      "label": "Place not identified: Economy",
+      "c": [],
+      "g": [],
+      "k": [],
+      "i": 16,
+      "rl": "single",
+      "fl": [
+        "country_unknown"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T05:15:00Z",
+      "l": "2026-11-08T05:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-32cc605f77",
+      "ty": "story",
+      "t": "United States: Economy",
+      "tl": "en",
+      "o": "cna_tw",
+      "label": "United States: Economy",
+      "c": [],
+      "g": [
+        "north-america",
+        "latin-america"
+      ],
+      "k": [],
+      "i": 23,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T05:15:00Z",
+      "l": "2026-11-08T05:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-419b7ad6ea",
+      "ty": "story",
+      "t": "Mexico: Employment and wages",
+      "tl": "en",
+      "o": "eluniversal",
+      "label": "Mexico: Employment and wages",
+      "c": [],
+      "g": [
+        "north-america",
+        "latin-america"
+      ],
+      "k": [
+        "jobs"
+      ],
+      "i": 26,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 1,
+      "f": "2026-11-08T04:30:00Z",
+      "l": "2026-11-08T05:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-8137ff915f",
+      "ty": "story",
+      "t": "Global: Economy",
+      "tl": "en",
+      "o": "yicai",
+      "label": "Global: Economy",
+      "c": [],
+      "g": [
+        "global"
+      ],
+      "k": [],
+      "i": 26,
+      "rl": "single",
+      "fl": [
+        "country_auto",
+        "global"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T05:15:00Z",
+      "l": "2026-11-08T05:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-874632956d",
+      "ty": "story",
+      "t": "Place not identified: Economy",
+      "tl": "en",
+      "o": "hotnews",
+      "label": "Place not identified: Economy",
+      "c": [],
+      "g": [],
+      "k": [],
+      "i": 16,
+      "rl": "single",
+      "fl": [
+        "country_unknown"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T05:15:00Z",
+      "l": "2026-11-08T05:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-8c1aa1215b",
+      "ty": "story",
+      "t": "Global: Economy",
+      "tl": "en",
+      "o": "yicai",
+      "label": "Global: Economy",
+      "c": [],
+      "g": [
+        "global"
+      ],
+      "k": [],
+      "i": 26,
+      "rl": "single",
+      "fl": [
+        "country_auto",
+        "global"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T05:15:00Z",
+      "l": "2026-11-08T05:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-95eaf5c964",
+      "ty": "story",
+      "t": "Italy: Economy",
+      "tl": "en",
+      "o": "enca",
+      "label": "Italy: Economy",
+      "c": [
+        "IT"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 16,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T05:15:00Z",
+      "l": "2026-11-08T05:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-bf793d06b7",
+      "ty": "story",
+      "t": "Japan: Inflation",
+      "tl": "en",
+      "o": "cna_sg",
+      "label": "Japan: Inflation",
+      "c": [
+        "JP"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 26,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T05:15:00Z",
+      "l": "2026-11-08T05:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-c35f203470",
+      "ty": "story",
+      "t": "United States: Economy",
+      "tl": "en",
+      "o": "cna_tw",
+      "label": "United States: Economy",
+      "c": [],
+      "g": [
+        "north-america"
+      ],
+      "k": [],
+      "i": 16,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T05:15:00Z",
+      "l": "2026-11-08T05:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-c6e530b98f",
+      "ty": "story",
+      "t": "United States: Inflation",
+      "tl": "en",
+      "o": "bt_sg",
+      "label": "United States: Inflation",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 26,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T05:15:00Z",
+      "l": "2026-11-08T05:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-da482ae987",
+      "ty": "story",
+      "t": "Paraguay: Banking",
+      "tl": "en",
+      "o": "proceso",
+      "label": "Paraguay: Banking",
+      "c": [
+        "PY",
+        "PT",
+        "MX"
+      ],
+      "g": [
+        "eu",
+        "north-america",
+        "latin-america"
+      ],
+      "k": [
+        "banking"
+      ],
+      "i": 31,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 4,
+      "f": "2026-11-08T04:15:00Z",
+      "l": "2026-11-08T05:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261107-1ada0040d7",
+      "ty": "story",
+      "t": "India: Economy",
+      "tl": "en",
+      "o": "businessline",
+      "label": "India: Economy",
+      "c": [
+        "IN",
+        "KR",
+        "TW"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 17,
+      "rl": "single",
+      "fl": [
+        "forecast_language"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 48,
+      "f": "2026-11-07T11:00:00Z",
+      "l": "2026-11-08T05:00:00Z",
+      "st": "active",
+      "v": 7,
+      "np": 1
+    },
+    {
+      "id": "s20261107-34aa8df69c",
+      "ty": "story",
+      "t": "Russia: Inflation",
+      "tl": "en",
+      "o": "portfolio",
+      "label": "Russia: Inflation",
+      "c": [],
+      "g": [
+        "europe-other"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 35,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 2,
+      "ni": 2,
+      "nc": 2,
+      "ns": 0,
+      "f": "2026-11-07T12:30:00Z",
+      "l": "2026-11-08T05:00:00Z",
+      "st": "updated",
+      "v": 2,
+      "np": 1
+    },
+    {
+      "id": "s20261108-17c3d91be1",
+      "ty": "story",
+      "t": "Place not identified: Economy",
+      "tl": "en",
+      "o": "hotnews",
+      "label": "Place not identified: Economy",
+      "c": [],
+      "g": [],
+      "k": [],
+      "i": 16,
+      "rl": "single",
+      "fl": [
+        "country_unknown"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T05:00:00Z",
+      "l": "2026-11-08T05:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-18d9ac1e3a",
+      "ty": "story",
+      "t": "Indonesia: Fiscal policy",
+      "tl": "en",
+      "o": "antara",
+      "label": "Indonesia: Fiscal policy",
+      "c": [],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "fiscal"
+      ],
+      "i": 25,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T05:00:00Z",
+      "l": "2026-11-08T05:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-22d46f620c",
+      "ty": "story",
+      "t": "Chile: Economy",
+      "tl": "en",
+      "o": "peoplesdaily",
+      "label": "Chile: Economy",
+      "c": [],
+      "g": [
+        "latin-america",
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 23,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T05:00:00Z",
+      "l": "2026-11-08T05:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-28ea276622",
+      "ty": "story",
+      "t": "Syria: Economy",
+      "tl": "en",
+      "o": "anadolu",
+      "label": "Syria: Economy",
+      "c": [
+        "SY"
+      ],
+      "g": [
+        "middle-east"
+      ],
+      "k": [],
+      "i": 38,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "me": 1,
+      "et": "disaster",
+      "n": 2,
+      "ni": 2,
+      "nc": 2,
+      "ns": 0,
+      "f": "2026-11-08T03:15:00Z",
+      "l": "2026-11-08T05:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-3ed160832c",
+      "ty": "story",
+      "t": "Place not identified: Economy",
+      "tl": "en",
+      "o": "enca",
+      "label": "Place not identified: Economy",
+      "c": [],
+      "g": [],
+      "k": [],
+      "i": 16,
+      "rl": "single",
+      "fl": [
+        "country_unknown"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T05:00:00Z",
+      "l": "2026-11-08T05:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-98c291c2c1",
+      "ty": "story",
+      "t": "Global: Economy",
+      "tl": "en",
+      "o": "elpais",
+      "label": "Global: Economy",
+      "c": [],
+      "g": [
+        "global"
+      ],
+      "k": [],
+      "i": 26,
+      "rl": "single",
+      "fl": [
+        "country_auto",
+        "global"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T05:00:00Z",
+      "l": "2026-11-08T05:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-b368a7f516",
+      "ty": "story",
+      "t": "United States: Corporate finance",
+      "tl": "en",
+      "o": "toi",
+      "label": "United States: Corporate finance",
+      "c": [],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "corporate"
+      ],
+      "i": 20,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T05:00:00Z",
+      "l": "2026-11-08T05:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-cf8af6fb1e",
+      "ty": "story",
+      "t": "Chile: Economy",
+      "tl": "en",
+      "o": "peoplesdaily",
+      "label": "Chile: Economy",
+      "c": [],
+      "g": [
+        "latin-america"
+      ],
+      "k": [],
+      "i": 16,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T05:00:00Z",
+      "l": "2026-11-08T05:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-d4126964fd",
+      "ty": "story",
+      "t": "Place not identified: Economy",
+      "tl": "en",
+      "o": "hotnews",
+      "label": "Place not identified: Economy",
+      "c": [],
+      "g": [],
+      "k": [],
+      "i": 16,
+      "rl": "single",
+      "fl": [
+        "country_unknown"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T05:00:00Z",
+      "l": "2026-11-08T05:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261107-54da9f02ee",
+      "ty": "story",
+      "t": "Russia: Economy",
+      "tl": "en",
+      "o": "thehindu",
+      "label": "Russia: Economy",
+      "c": [
+        "RU",
+        "UA",
+        "US"
+      ],
+      "g": [
+        "europe-other",
+        "north-america"
+      ],
+      "k": [],
+      "i": 52,
+      "rl": "multi",
+      "me": 1,
+      "et": "conflict",
+      "n": 4,
+      "ni": 4,
+      "nc": 4,
+      "ns": 0,
+      "f": "2026-11-07T14:45:00Z",
+      "l": "2026-11-08T04:45:00Z",
+      "st": "updated",
+      "v": 3,
+      "np": 1
+    },
+    {
+      "id": "s20261107-6396214c6b",
+      "ty": "story",
+      "t": "India: Corporate finance",
+      "tl": "en",
+      "o": "et",
+      "label": "India: Corporate finance",
+      "c": [
+        "IN",
+        "GB"
+      ],
+      "g": [
+        "europe-other",
+        "asia-pacific"
+      ],
+      "k": [
+        "corporate",
+        "fiscal"
+      ],
+      "i": 28,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 2,
+      "f": "2026-11-07T08:45:00Z",
+      "l": "2026-11-08T04:45:00Z",
+      "st": "active",
+      "v": 3,
+      "np": 1
+    },
+    {
+      "id": "s20261107-6ddb83a000",
+      "ty": "story",
+      "t": "Paraguay: Banking",
+      "tl": "en",
+      "o": "antara",
+      "label": "Paraguay: Banking",
+      "c": [
+        "PY",
+        "SE",
+        "PT"
+      ],
+      "g": [
+        "eu",
+        "latin-america"
+      ],
+      "k": [
+        "banking"
+      ],
+      "i": 63,
+      "rl": "multi",
+      "me": 1,
+      "et": "policy",
+      "n": 10,
+      "ni": 10,
+      "nc": 8,
+      "ns": 16,
+      "f": "2026-11-07T12:00:00Z",
+      "l": "2026-11-08T04:45:00Z",
+      "st": "updated",
+      "v": 6,
+      "np": 1
+    },
+    {
+      "id": "s20261107-7254fc0e9b",
+      "ty": "story",
+      "t": "Poland: Microeconomics",
+      "tl": "en",
+      "o": "npr",
+      "label": "Poland: Microeconomics",
+      "c": [
+        "PL"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [
+        "micro"
+      ],
+      "i": 58,
+      "rl": "multi",
+      "me": 1,
+      "et": "conflict",
+      "n": 14,
+      "ni": 11,
+      "nc": 6,
+      "ns": 0,
+      "f": "2026-11-07T15:45:00Z",
+      "l": "2026-11-08T04:45:00Z",
+      "st": "updated",
+      "v": 7,
+      "np": 1
+    },
+    {
+      "id": "s20261107-7419902c53",
+      "ty": "story",
+      "t": "United States: Fiscal policy",
+      "tl": "en",
+      "o": "anadolu",
+      "label": "United States: Fiscal policy",
+      "c": [],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "fiscal"
+      ],
+      "i": 27,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 2,
+      "ni": 2,
+      "nc": 2,
+      "ns": 3,
+      "f": "2026-11-07T06:45:00Z",
+      "l": "2026-11-08T04:45:00Z",
+      "st": "active",
+      "v": 3,
+      "np": 1
+    },
+    {
+      "id": "s20261107-ad64d7c6ff",
+      "ty": "story",
+      "t": "Global: Financial markets",
+      "tl": "en",
+      "o": "hurriyetdaily",
+      "label": "Global: Financial markets",
+      "c": [
+        "TW"
       ],
       "g": [
         "asia-pacific",
+        "global"
+      ],
+      "k": [
+        "markets"
+      ],
+      "i": 36,
+      "rl": "multi",
+      "fl": [
+        "country_auto",
+        "global"
+      ],
+      "n": 2,
+      "ni": 2,
+      "nc": 2,
+      "ns": 4,
+      "f": "2026-11-07T06:45:00Z",
+      "l": "2026-11-08T04:45:00Z",
+      "st": "active",
+      "v": 3,
+      "np": 1
+    },
+    {
+      "id": "s20261108-77533ba982",
+      "ty": "story",
+      "t": "Israel: Economy",
+      "tl": "en",
+      "o": "globes",
+      "label": "Israel: Economy",
+      "c": [],
+      "g": [
+        "middle-east"
+      ],
+      "k": [],
+      "i": 16,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T04:45:00Z",
+      "l": "2026-11-08T04:45:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-c195b0cf70",
+      "ty": "story",
+      "t": "Japan: Economy",
+      "tl": "en",
+      "o": "ct24",
+      "label": "Japan: Economy",
+      "c": [
+        "JP"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 54,
+      "rl": "multi",
+      "me": 1,
+      "et": "disaster",
+      "n": 7,
+      "ni": 7,
+      "nc": 6,
+      "ns": 0,
+      "f": "2026-11-08T02:00:00Z",
+      "l": "2026-11-08T04:45:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-e1e66bb466",
+      "ty": "story",
+      "t": "United Kingdom: Corporate finance",
+      "tl": "en",
+      "o": "enca",
+      "label": "United Kingdom: Corporate finance",
+      "c": [],
+      "g": [
+        "europe-other",
+        "north-america",
+        "middle-east"
+      ],
+      "k": [
+        "corporate",
+        "energy"
+      ],
+      "i": 40,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 2,
+      "ni": 2,
+      "nc": 2,
+      "ns": 0,
+      "f": "2026-11-08T04:00:00Z",
+      "l": "2026-11-08T04:45:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261107-47b83809cf",
+      "ty": "story",
+      "t": "Paraguay: Banking",
+      "tl": "en",
+      "o": "fmt",
+      "label": "Paraguay: Banking",
+      "c": [
+        "PY",
+        "US"
+      ],
+      "g": [
+        "north-america",
+        "latin-america"
+      ],
+      "k": [
+        "banking"
+      ],
+      "i": 54,
+      "rl": "multi",
+      "fl": [
+        "syndicated"
+      ],
+      "me": 1,
+      "et": "legal",
+      "n": 4,
+      "ni": 4,
+      "nc": 4,
+      "ns": 1,
+      "f": "2026-11-07T23:30:00Z",
+      "l": "2026-11-08T04:30:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-3f3faa68f2",
+      "ty": "story",
+      "t": "China: Economy",
+      "tl": "en",
+      "o": "vnexpress",
+      "label": "China: Economy",
+      "c": [],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 16,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T04:30:00Z",
+      "l": "2026-11-08T04:30:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-cc1be5d302",
+      "ty": "story",
+      "t": "Paraguay: Economy",
+      "tl": "en",
+      "o": "infobae",
+      "label": "Paraguay: Economy",
+      "c": [
+        "PY"
+      ],
+      "g": [
+        "latin-america"
+      ],
+      "k": [],
+      "i": 16,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T04:30:00Z",
+      "l": "2026-11-08T04:30:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261106-cc73a5c54f",
+      "ty": "story",
+      "t": "India: Financial markets",
+      "tl": "en",
+      "o": "bbc",
+      "label": "India: Financial markets",
+      "c": [
+        "IN",
+        "US",
+        "CN"
+      ],
+      "g": [
+        "north-america",
+        "asia-pacific"
+      ],
+      "k": [
+        "markets"
+      ],
+      "i": 41,
+      "rl": "multi",
+      "me": 1,
+      "et": "election",
+      "n": 3,
+      "ni": 3,
+      "nc": 3,
+      "ns": 0,
+      "f": "2026-11-06T18:30:00Z",
+      "l": "2026-11-08T04:15:00Z",
+      "st": "active",
+      "v": 2,
+      "np": 1
+    },
+    {
+      "id": "s20261107-15114c887c",
+      "ty": "story",
+      "t": "Israel: Economy",
+      "tl": "en",
+      "o": "anadolu",
+      "label": "Israel: Economy",
+      "c": [
+        "IL",
+        "NL",
+        "IR"
+      ],
+      "g": [
+        "eu",
         "middle-east"
       ],
       "k": [],
@@ -272,14 +1922,1621 @@
       "rl": "multi",
       "me": 1,
       "et": "policy",
-      "n": 13,
-      "ni": 13,
-      "nc": 10,
+      "n": 15,
+      "ni": 15,
+      "nc": 11,
       "ns": 0,
-      "f": "2026-11-07T18:30:00Z",
-      "l": "2026-11-07T21:15:00Z",
+      "f": "2026-11-07T20:15:00Z",
+      "l": "2026-11-08T04:15:00Z",
+      "st": "updated",
+      "v": 2,
+      "np": 1
+    },
+    {
+      "id": "s20261107-20d8b89f99",
+      "ty": "story",
+      "t": "Ukraine: Economy",
+      "tl": "en",
+      "o": "xinhua",
+      "label": "Ukraine: Economy",
+      "c": [
+        "UA"
+      ],
+      "g": [
+        "europe-other"
+      ],
+      "k": [],
+      "i": 55,
+      "rl": "multi",
+      "fl": [
+        "country_auto",
+        "framing_review"
+      ],
+      "me": 1,
+      "et": "conflict",
+      "n": 6,
+      "ni": 6,
+      "nc": 5,
+      "ns": 0,
+      "f": "2026-11-07T12:00:00Z",
+      "l": "2026-11-08T04:15:00Z",
+      "st": "updated",
+      "v": 2,
+      "np": 1
+    },
+    {
+      "id": "s20261107-3ff7ed7a7b",
+      "ty": "story",
+      "t": "Palestinian territories: Economy",
+      "tl": "en",
+      "o": "cna_sg",
+      "label": "Palestinian territories: Economy",
+      "c": [
+        "PS",
+        "IL"
+      ],
+      "g": [
+        "middle-east"
+      ],
+      "k": [],
+      "i": 50,
+      "rl": "multi",
+      "fl": [
+        "syndicated"
+      ],
+      "me": 1,
+      "et": "conflict",
+      "n": 6,
+      "ni": 5,
+      "nc": 4,
+      "ns": 0,
+      "f": "2026-11-07T16:00:00Z",
+      "l": "2026-11-08T04:15:00Z",
+      "st": "updated",
+      "v": 3,
+      "np": 1
+    },
+    {
+      "id": "s20261107-f4fecc840f",
+      "ty": "story",
+      "t": "United States: Trade",
+      "tl": "en",
+      "o": "anadolu",
+      "label": "United States: Trade",
+      "c": [
+        "US",
+        "IR"
+      ],
+      "g": [
+        "north-america",
+        "middle-east"
+      ],
+      "k": [
+        "trade"
+      ],
+      "i": 56,
+      "rl": "multi",
+      "me": 1,
+      "et": "conflict",
+      "n": 7,
+      "ni": 6,
+      "nc": 4,
+      "ns": 0,
+      "f": "2026-11-07T14:15:00Z",
+      "l": "2026-11-08T04:15:00Z",
+      "st": "updated",
+      "v": 3,
+      "np": 1
+    },
+    {
+      "id": "s20261108-0d75febab2",
+      "ty": "story",
+      "t": "Indonesia: Economy",
+      "tl": "en",
+      "o": "antara",
+      "label": "Indonesia: Economy",
+      "c": [],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 15,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T04:15:00Z",
+      "l": "2026-11-08T04:15:00Z",
       "st": "new",
       "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-2c6313b251",
+      "ty": "story",
+      "t": "Place not identified: Technology and productivity",
+      "tl": "en",
+      "o": "mint",
+      "label": "Place not identified: Technology and productivity",
+      "c": [],
+      "g": [],
+      "k": [
+        "tech",
+        "fiscal"
+      ],
+      "i": 24,
+      "rl": "single",
+      "fl": [
+        "country_unknown"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T04:15:00Z",
+      "l": "2026-11-08T04:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-312f5b8c8e",
+      "ty": "story",
+      "t": "Canada: Economy",
+      "tl": "en",
+      "o": "ledevoir",
+      "label": "Canada: Economy",
+      "c": [],
+      "g": [
+        "north-america"
+      ],
+      "k": [],
+      "i": 15,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T04:15:00Z",
+      "l": "2026-11-08T04:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-5e0fe2e36a",
+      "ty": "story",
+      "t": "Global: Economy",
+      "tl": "en",
+      "o": "bangkokpost",
+      "label": "Global: Economy",
+      "c": [],
+      "g": [
+        "global"
+      ],
+      "k": [],
+      "i": 25,
+      "rl": "single",
+      "fl": [
+        "global"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T04:15:00Z",
+      "l": "2026-11-08T04:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-6349d024a6",
+      "ty": "story",
+      "t": "France: Economy",
+      "tl": "en",
+      "o": "aljazeera",
+      "label": "France: Economy",
+      "c": [
+        "FR"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 32,
+      "rl": "multi",
+      "me": 1,
+      "et": "other",
+      "n": 2,
+      "ni": 2,
+      "nc": 2,
+      "ns": 0,
+      "f": "2026-11-08T00:00:00Z",
+      "l": "2026-11-08T04:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-6a737c29aa",
+      "ty": "story",
+      "t": "Colombia: Economy",
+      "tl": "en",
+      "o": "eltiempo",
+      "label": "Colombia: Economy",
+      "c": [],
+      "g": [
+        "latin-america"
+      ],
+      "k": [],
+      "i": 15,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T04:15:00Z",
+      "l": "2026-11-08T04:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-a12a28fd25",
+      "ty": "story",
+      "t": "India: Energy and commodities",
+      "tl": "en",
+      "o": "cbc",
+      "label": "India: Energy and commodities",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 22,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T04:15:00Z",
+      "l": "2026-11-08T04:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-c5c35c3ab3",
+      "ty": "story",
+      "t": "Mexico: Energy and commodities",
+      "tl": "en",
+      "o": "proceso",
+      "label": "Mexico: Energy and commodities",
+      "c": [],
+      "g": [
+        "north-america",
+        "latin-america"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 22,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T04:15:00Z",
+      "l": "2026-11-08T04:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-cbfdd6c0c4",
+      "ty": "story",
+      "t": "New Zealand: Economy",
+      "tl": "en",
+      "o": "straitstimes",
+      "label": "New Zealand: Economy",
+      "c": [
+        "NZ"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 40,
+      "rl": "multi",
+      "me": 1,
+      "et": "election",
+      "n": 4,
+      "ni": 3,
+      "nc": 3,
+      "ns": 0,
+      "f": "2026-11-08T02:45:00Z",
+      "l": "2026-11-08T04:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-dee75753c4",
+      "ty": "story",
+      "t": "India: Financial markets",
+      "tl": "en",
+      "o": "moneycontrol",
+      "label": "India: Financial markets",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "markets"
+      ],
+      "i": 26,
+      "rl": "multi",
+      "n": 2,
+      "ni": 2,
+      "nc": 1,
+      "ns": 1,
+      "f": "2026-11-08T02:45:00Z",
+      "l": "2026-11-08T04:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-f0d96a9680",
+      "ty": "story",
+      "t": "South Korea: Economy",
+      "tl": "en",
+      "o": "chosun",
+      "label": "South Korea: Economy",
+      "c": [],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 15,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T04:15:00Z",
+      "l": "2026-11-08T04:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-f13bb64499",
+      "ty": "story",
+      "t": "Colombia: Fiscal policy",
+      "tl": "en",
+      "o": "larepublica_co",
+      "label": "Colombia: Fiscal policy",
+      "c": [],
+      "g": [
+        "latin-america"
+      ],
+      "k": [
+        "fiscal",
+        "corporate"
+      ],
+      "i": 24,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T04:15:00Z",
+      "l": "2026-11-08T04:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261107-9fb2c00d35",
+      "ty": "story",
+      "t": "Poland: Economy",
+      "tl": "en",
+      "o": "rnz",
+      "label": "Poland: Economy",
+      "c": [
+        "PL"
+      ],
+      "g": [
+        "eu"
+      ],
+      "k": [],
+      "i": 50,
+      "rl": "multi",
+      "me": 1,
+      "et": "conflict",
+      "n": 7,
+      "ni": 5,
+      "nc": 5,
+      "ns": 0,
+      "f": "2026-11-07T19:15:00Z",
+      "l": "2026-11-08T04:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-1447027c02",
+      "ty": "story",
+      "t": "Place not identified: Economy",
+      "tl": "en",
+      "o": "enca",
+      "label": "Place not identified: Economy",
+      "c": [],
+      "g": [],
+      "k": [],
+      "i": 15,
+      "rl": "single",
+      "fl": [
+        "country_unknown"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T04:00:00Z",
+      "l": "2026-11-08T04:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-b3e0f3a2fc",
+      "ty": "story",
+      "t": "Italy: Corporate finance",
+      "tl": "en",
+      "o": "bt_sg",
+      "label": "Italy: Corporate finance",
+      "c": [],
+      "g": [
+        "eu",
+        "north-america"
+      ],
+      "k": [
+        "corporate"
+      ],
+      "i": 27,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T04:00:00Z",
+      "l": "2026-11-08T04:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261105-f9cfd09efb",
+      "ty": "story",
+      "t": "United Kingdom: Interest rates",
+      "tl": "en",
+      "o": "bbc",
+      "label": "United Kingdom: Interest rates",
+      "c": [],
+      "g": [
+        "europe-other"
+      ],
+      "k": [
+        "rates",
+        "housing"
+      ],
+      "i": 17,
+      "rl": "single",
+      "fl": [
+        "country_auto",
+        "syndicated"
+      ],
+      "n": 3,
+      "ni": 1,
+      "nc": 1,
+      "ns": 3,
+      "f": "2026-11-05T13:00:00Z",
+      "l": "2026-11-08T03:45:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261107-7f1b3a7b5e",
+      "ty": "story",
+      "t": "Israel: Economy",
+      "tl": "en",
+      "o": "arabnews",
+      "label": "Israel: Economy",
+      "c": [
+        "IL",
+        "RU"
+      ],
+      "g": [
+        "europe-other",
+        "middle-east"
+      ],
+      "k": [],
+      "i": 58,
+      "rl": "multi",
+      "fl": [
+        "forecast_language"
+      ],
+      "me": 1,
+      "et": "policy",
+      "n": 5,
+      "ni": 5,
+      "nc": 5,
+      "ns": 0,
+      "f": "2026-11-07T19:15:00Z",
+      "l": "2026-11-08T03:45:00Z",
+      "st": "updated",
+      "v": 2,
+      "np": 1
+    },
+    {
+      "id": "s20261108-7698892993",
+      "ty": "story",
+      "t": "Pakistan: Economy",
+      "tl": "en",
+      "o": "tribune_pk",
+      "label": "Pakistan: Economy",
+      "c": [],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 15,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T03:45:00Z",
+      "l": "2026-11-08T03:45:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-ab1feda69c",
+      "ty": "story",
+      "t": "Pakistan: Fiscal policy",
+      "tl": "en",
+      "o": "tribune_pk",
+      "label": "Pakistan: Fiscal policy",
+      "c": [],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "fiscal"
+      ],
+      "i": 24,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T03:45:00Z",
+      "l": "2026-11-08T03:45:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261107-6ca2ca9ede",
+      "ty": "story",
+      "t": "Nigeria: Economy",
+      "tl": "en",
+      "o": "vanguard",
+      "label": "Nigeria: Economy",
+      "c": [
+        "NG"
+      ],
+      "g": [
+        "africa"
+      ],
+      "k": [],
+      "i": 17,
+      "rl": "multi",
+      "n": 4,
+      "ni": 2,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-07T13:30:00Z",
+      "l": "2026-11-08T03:30:00Z",
+      "st": "active",
+      "v": 4,
+      "np": 1
+    },
+    {
+      "id": "s20261107-cd4e1fd0d4",
+      "ty": "story",
+      "t": "China: Trade",
+      "tl": "en",
+      "o": "cna_sg",
+      "label": "China: Trade",
+      "c": [
+        "CN",
+        "US"
+      ],
+      "g": [
+        "north-america",
+        "asia-pacific"
+      ],
+      "k": [
+        "trade"
+      ],
+      "i": 27,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 1,
+      "f": "2026-11-07T07:30:00Z",
+      "l": "2026-11-08T03:30:00Z",
+      "st": "active",
+      "v": 3,
+      "np": 1
+    },
+    {
+      "id": "s20261108-2fc6385397",
+      "ty": "story",
+      "t": "United Kingdom: Trade",
+      "tl": "en",
+      "o": "thisday",
+      "label": "United Kingdom: Trade",
+      "c": [
+        "GB",
+        "US"
+      ],
+      "g": [
+        "europe-other",
+        "north-america"
+      ],
+      "k": [
+        "trade"
+      ],
+      "i": 31,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T03:30:00Z",
+      "l": "2026-11-08T03:30:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-34d795b4c6",
+      "ty": "story",
+      "t": "United States: Economy",
+      "tl": "en",
+      "o": "punch",
+      "label": "United States: Economy",
+      "c": [
+        "US",
+        "NG"
+      ],
+      "g": [
+        "north-america",
+        "africa"
+      ],
+      "k": [],
+      "i": 36,
+      "rl": "multi",
+      "me": 1,
+      "et": "election",
+      "n": 2,
+      "ni": 2,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T00:15:00Z",
+      "l": "2026-11-08T03:30:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-54195cdce2",
+      "ty": "story",
+      "t": "Nigeria: Economy",
+      "tl": "en",
+      "o": "thisday",
+      "label": "Nigeria: Economy",
+      "c": [],
+      "g": [
+        "africa"
+      ],
+      "k": [],
+      "i": 15,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T03:30:00Z",
+      "l": "2026-11-08T03:30:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-67141f8fef",
+      "ty": "story",
+      "t": "Nigeria: Economy",
+      "tl": "en",
+      "o": "thisday",
+      "label": "Nigeria: Economy",
+      "c": [],
+      "g": [
+        "africa"
+      ],
+      "k": [],
+      "i": 15,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T03:30:00Z",
+      "l": "2026-11-08T03:30:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-e621ab2fe6",
+      "ty": "story",
+      "t": "Nigeria: Financial markets",
+      "tl": "en",
+      "o": "thisday",
+      "label": "Nigeria: Financial markets",
+      "c": [
+        "NG",
+        "SY"
+      ],
+      "g": [
+        "middle-east",
+        "africa"
+      ],
+      "k": [
+        "markets"
+      ],
+      "i": 30,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T03:30:00Z",
+      "l": "2026-11-08T03:30:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261107-3c5d4d20ed",
+      "ty": "story",
+      "t": "India: Corporate finance",
+      "tl": "en",
+      "o": "toi",
+      "label": "India: Corporate finance",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "corporate"
+      ],
+      "i": 26,
+      "rl": "multi",
+      "n": 10,
+      "ni": 5,
+      "nc": 1,
+      "ns": 6,
+      "f": "2026-11-07T11:00:00Z",
+      "l": "2026-11-08T03:15:00Z",
+      "st": "updated",
+      "v": 7,
+      "np": 1
+    },
+    {
+      "id": "s20261107-608ec59c9c",
+      "ty": "story",
+      "t": "United States: Corporate finance",
+      "tl": "en",
+      "o": "abcnews_us",
+      "label": "United States: Corporate finance",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "corporate",
+        "markets"
+      ],
+      "i": 30,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 3,
+      "ni": 3,
+      "nc": 2,
+      "ns": 23,
+      "f": "2026-11-07T14:30:00Z",
+      "l": "2026-11-08T03:15:00Z",
+      "st": "active",
+      "v": 2,
+      "np": 1
+    },
+    {
+      "id": "s20261108-1180fb5a25",
+      "ty": "story",
+      "t": "Colombia: Economy",
+      "tl": "en",
+      "o": "anadolu",
+      "label": "Colombia: Economy",
+      "c": [
+        "CO"
+      ],
+      "g": [
+        "latin-america"
+      ],
+      "k": [],
+      "i": 32,
+      "rl": "multi",
+      "me": 1,
+      "et": "conflict",
+      "n": 2,
+      "ni": 2,
+      "nc": 2,
+      "ns": 0,
+      "f": "2026-11-08T03:15:00Z",
+      "l": "2026-11-08T03:15:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261107-97914e3155",
+      "ty": "story",
+      "t": "India: Housing",
+      "tl": "en",
+      "o": "et",
+      "label": "India: Housing",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "housing",
+        "corporate"
+      ],
+      "i": 30,
+      "rl": "multi",
+      "fl": [
+        "forecast_language"
+      ],
+      "n": 4,
+      "ni": 4,
+      "nc": 1,
+      "ns": 1,
+      "f": "2026-11-07T08:30:00Z",
+      "l": "2026-11-08T03:00:00Z",
+      "st": "updated",
+      "v": 4,
+      "np": 1
+    },
+    {
+      "id": "s20261107-baa7a43580",
+      "ty": "story",
+      "t": "Yemen: Energy and commodities",
+      "tl": "en",
+      "o": "moneycontrol",
+      "label": "Yemen: Energy and commodities",
+      "c": [
+        "YE",
+        "SA"
+      ],
+      "g": [
+        "middle-east"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 35,
+      "rl": "multi",
+      "me": 1,
+      "et": "conflict",
+      "n": 4,
+      "ni": 3,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-07T16:15:00Z",
+      "l": "2026-11-08T03:00:00Z",
+      "st": "active",
+      "v": 2,
+      "np": 1
+    },
+    {
+      "id": "s20261108-128d3edfeb",
+      "ty": "story",
+      "t": "France: Trade",
+      "tl": "en",
+      "o": "abc_au",
+      "label": "France: Trade",
+      "c": [
+        "FR",
+        "EU",
+        "AU"
+      ],
+      "g": [
+        "eu",
+        "asia-pacific"
+      ],
+      "k": [
+        "trade"
+      ],
+      "i": 31,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T03:00:00Z",
+      "l": "2026-11-08T03:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-1edf78ef47",
+      "ty": "story",
+      "t": "India: Corporate finance",
+      "tl": "en",
+      "o": "moneycontrol",
+      "label": "India: Corporate finance",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "corporate",
+        "debt",
+        "micro"
+      ],
+      "i": 24,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T03:00:00Z",
+      "l": "2026-11-08T03:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-3927912d71",
+      "ty": "story",
+      "t": "Iran: Economy",
+      "tl": "en",
+      "o": "xinhua",
+      "label": "Iran: Economy",
+      "c": [
+        "IR"
+      ],
+      "g": [
+        "middle-east"
+      ],
+      "k": [],
+      "i": 51,
+      "rl": "multi",
+      "me": 1,
+      "et": "conflict",
+      "n": 5,
+      "ni": 5,
+      "nc": 5,
+      "ns": 0,
+      "f": "2026-11-08T00:00:00Z",
+      "l": "2026-11-08T03:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-a6a4938363",
+      "ty": "story",
+      "t": "Pakistan: Banking",
+      "tl": "en",
+      "o": "tribune_pk",
+      "label": "Pakistan: Banking",
+      "c": [],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "banking"
+      ],
+      "i": 23,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T03:00:00Z",
+      "l": "2026-11-08T03:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261107-58f252a4e4",
+      "ty": "story",
+      "t": "United States: Trade",
+      "tl": "en",
+      "o": "abcnews_us",
+      "label": "United States: Trade",
+      "c": [
+        "US",
+        "IR"
+      ],
+      "g": [
+        "north-america",
+        "middle-east"
+      ],
+      "k": [
+        "trade",
+        "markets",
+        "tech"
+      ],
+      "i": 28,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 15,
+      "f": "2026-11-07T17:45:00Z",
+      "l": "2026-11-08T02:45:00Z",
+      "st": "active",
+      "v": 6,
+      "np": 1
+    },
+    {
+      "id": "s20261108-37e81e0491",
+      "ty": "story",
+      "t": "India: Financial markets",
+      "tl": "en",
+      "o": "toi",
+      "label": "India: Financial markets",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "markets"
+      ],
+      "i": 22,
+      "rl": "single",
+      "fl": [
+        "forecast_language"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T02:45:00Z",
+      "l": "2026-11-08T02:45:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-3efc8325e8",
+      "ty": "story",
+      "t": "Nigeria: Financial markets",
+      "tl": "en",
+      "o": "punch",
+      "label": "Nigeria: Financial markets",
+      "c": [],
+      "g": [
+        "africa"
+      ],
+      "k": [
+        "markets",
+        "fiscal"
+      ],
+      "i": 24,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T02:30:00Z",
+      "l": "2026-11-08T02:30:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-4da8e3cb6d",
+      "ty": "story",
+      "t": "Place not identified: Financial markets",
+      "tl": "en",
+      "o": "et",
+      "label": "Place not identified: Financial markets",
+      "c": [],
+      "g": [],
+      "k": [
+        "markets"
+      ],
+      "i": 22,
+      "rl": "single",
+      "fl": [
+        "country_unknown"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T02:30:00Z",
+      "l": "2026-11-08T02:30:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261107-4c7273b49c",
+      "ty": "story",
+      "t": "United States: Employment and wages",
+      "tl": "en",
+      "o": "gestion",
+      "label": "United States: Employment and wages",
+      "c": [],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "jobs"
+      ],
+      "i": 23,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 1,
+      "f": "2026-11-07T16:15:00Z",
+      "l": "2026-11-08T02:15:00Z",
+      "st": "active",
+      "v": 2,
+      "np": 1
+    },
+    {
+      "id": "s20261107-6df1f57418",
+      "ty": "story",
+      "t": "India: Financial markets",
+      "tl": "en",
+      "o": "hindustantimes",
+      "label": "India: Financial markets",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "markets"
+      ],
+      "i": 19,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 1,
+      "f": "2026-11-07T13:00:00Z",
+      "l": "2026-11-08T02:15:00Z",
+      "st": "active",
+      "v": 2,
+      "np": 1
+    },
+    {
+      "id": "s20261107-6dca176899",
+      "ty": "story",
+      "t": "New Zealand: Economy",
+      "tl": "en",
+      "o": "anadolu",
+      "label": "New Zealand: Economy",
+      "c": [
+        "NZ"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 38,
+      "rl": "multi",
+      "me": 1,
+      "et": "election",
+      "n": 3,
+      "ni": 3,
+      "nc": 3,
+      "ns": 0,
+      "f": "2026-11-07T16:30:00Z",
+      "l": "2026-11-08T02:00:00Z",
+      "st": "updated",
+      "v": 2,
+      "np": 1
+    },
+    {
+      "id": "s20261108-08a797d75f",
+      "ty": "story",
+      "t": "India: Financial markets",
+      "tl": "en",
+      "o": "businessline",
+      "label": "India: Financial markets",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "markets"
+      ],
+      "i": 22,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T02:00:00Z",
+      "l": "2026-11-08T02:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-4a7f1d60cf",
+      "ty": "story",
+      "t": "South Korea: Economy",
+      "tl": "en",
+      "o": "koreaherald",
+      "label": "South Korea: Economy",
+      "c": [],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 15,
+      "rl": "single",
+      "fl": [
+        "country_auto",
+        "forecast_language"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T02:00:00Z",
+      "l": "2026-11-08T02:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-a3d7ae80ec",
+      "ty": "story",
+      "t": "United States: Employment and wages",
+      "tl": "en",
+      "o": "koreaherald",
+      "label": "United States: Employment and wages",
+      "c": [
+        "US"
+      ],
+      "g": [
+        "north-america"
+      ],
+      "k": [
+        "jobs",
+        "monetary",
+        "rates"
+      ],
+      "i": 25,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T02:00:00Z",
+      "l": "2026-11-08T02:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-bd2d375852",
+      "ty": "story",
+      "t": "Australia: Financial markets",
+      "tl": "en",
+      "o": "afr",
+      "label": "Australia: Financial markets",
+      "c": [
+        "AU",
+        "US"
+      ],
+      "g": [
+        "north-america",
+        "asia-pacific"
+      ],
+      "k": [
+        "markets",
+        "tech"
+      ],
+      "i": 29,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T02:00:00Z",
+      "l": "2026-11-08T02:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-eb98bba2fe",
+      "ty": "story",
+      "t": "Australia: Inflation",
+      "tl": "en",
+      "o": "afr",
+      "label": "Australia: Inflation",
+      "c": [
+        "AU"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 25,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T02:00:00Z",
+      "l": "2026-11-08T02:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-f511472fcd",
+      "ty": "story",
+      "t": "South Korea: Economy",
+      "tl": "en",
+      "o": "koreatimes",
+      "label": "South Korea: Economy",
+      "c": [
+        "KR",
+        "US",
+        "KP"
+      ],
+      "g": [
+        "north-america",
+        "asia-pacific"
+      ],
+      "k": [],
+      "i": 37,
+      "rl": "multi",
+      "me": 1,
+      "et": "other",
+      "n": 2,
+      "ni": 2,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T01:15:00Z",
+      "l": "2026-11-08T02:00:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-63703a86d3",
+      "ty": "story",
+      "t": "Global: Energy and commodities",
+      "tl": "en",
+      "o": "fortune",
+      "label": "Global: Energy and commodities",
+      "c": [],
+      "g": [
+        "global"
+      ],
+      "k": [
+        "energy",
+        "industry"
+      ],
+      "i": 32,
+      "rl": "single",
+      "fl": [
+        "global",
+        "forecast_language"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T01:45:00Z",
+      "l": "2026-11-08T01:45:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-e69191eb82",
+      "ty": "story",
+      "t": "India: Fiscal policy",
+      "tl": "en",
+      "o": "mint",
+      "label": "India: Fiscal policy",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "fiscal"
+      ],
+      "i": 24,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T01:45:00Z",
+      "l": "2026-11-08T01:45:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261108-2025ee2748",
+      "ty": "story",
+      "t": "Global: Inflation",
+      "tl": "en",
+      "o": "interest_nz",
+      "label": "Global: Inflation",
+      "c": [],
+      "g": [
+        "global"
+      ],
+      "k": [
+        "inflation"
+      ],
+      "i": 35,
+      "rl": "single",
+      "fl": [
+        "global"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T01:30:00Z",
+      "l": "2026-11-08T01:30:00Z",
+      "st": "new",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261107-12210d5bb2",
+      "ty": "story",
+      "t": "Iran: Energy and commodities",
+      "tl": "en",
+      "o": "antara",
+      "label": "Iran: Energy and commodities",
+      "c": [
+        "IR",
+        "US"
+      ],
+      "g": [
+        "north-america",
+        "middle-east"
+      ],
+      "k": [
+        "energy"
+      ],
+      "i": 60,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "me": 1,
+      "et": "conflict",
+      "n": 9,
+      "ni": 7,
+      "nc": 6,
+      "ns": 0,
+      "f": "2026-11-07T12:15:00Z",
+      "l": "2026-11-08T01:15:00Z",
+      "st": "updated",
+      "v": 4,
       "np": 1
     },
     {
@@ -301,15 +3558,162 @@
       ],
       "me": 1,
       "et": "legal",
-      "n": 7,
-      "ni": 7,
+      "n": 8,
+      "ni": 8,
       "nc": 6,
       "ns": 0,
       "f": "2026-11-07T20:15:00Z",
-      "l": "2026-11-07T21:15:00Z",
+      "l": "2026-11-08T01:15:00Z",
+      "st": "updated",
+      "v": 2,
+      "np": 1
+    },
+    {
+      "id": "s20261108-c81e02c0d5",
+      "ty": "story",
+      "t": "Place not identified: Energy and commodities",
+      "tl": "en",
+      "o": "seneweb",
+      "label": "Place not identified: Energy and commodities",
+      "c": [],
+      "g": [],
+      "k": [
+        "energy"
+      ],
+      "i": 22,
+      "rl": "single",
+      "fl": [
+        "country_unknown"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-08T01:15:00Z",
+      "l": "2026-11-08T01:15:00Z",
       "st": "new",
       "v": 1,
       "np": 1
+    },
+    {
+      "id": "s20261107-7f317e8901",
+      "ty": "story",
+      "t": "India: Corporate finance",
+      "tl": "en",
+      "o": "bs",
+      "label": "India: Corporate finance",
+      "c": [
+        "IN"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "corporate"
+      ],
+      "i": 16,
+      "rl": "single",
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 46,
+      "f": "2026-11-07T11:15:00Z",
+      "l": "2026-11-08T00:00:00Z",
+      "st": "active",
+      "v": 8,
+      "np": 1
+    },
+    {
+      "id": "s20261107-8c0c633902",
+      "ty": "story",
+      "t": "Iran: Employment and wages",
+      "tl": "en",
+      "o": "abcnews_us",
+      "label": "Iran: Employment and wages",
+      "c": [],
+      "g": [
+        "north-america",
+        "middle-east"
+      ],
+      "k": [
+        "jobs",
+        "inflation",
+        "housing"
+      ],
+      "i": 30,
+      "rl": "single",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 12,
+      "f": "2026-11-07T17:45:00Z",
+      "l": "2026-11-08T00:00:00Z",
+      "st": "active",
+      "v": 6,
+      "np": 1
+    },
+    {
+      "id": "s20261107-90731dcee8",
+      "ty": "story",
+      "t": "Paraguay: Monetary policy",
+      "tl": "en",
+      "o": "ambito",
+      "label": "Paraguay: Monetary policy",
+      "c": [
+        "PY"
+      ],
+      "g": [
+        "latin-america"
+      ],
+      "k": [
+        "monetary"
+      ],
+      "i": 44,
+      "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
+      "n": 4,
+      "ni": 4,
+      "nc": 4,
+      "ns": 2,
+      "f": "2026-11-07T12:45:00Z",
+      "l": "2026-11-07T22:15:00Z",
+      "st": "updated",
+      "v": 3,
+      "np": 1
+    },
+    {
+      "id": "1e9018df907d89d4",
+      "ty": "official",
+      "t": "Australia: Cash rate target, 5 November 2026",
+      "tl": "en",
+      "u": "/news/1e9018df907d89d4/",
+      "o": "rba",
+      "on": "Reserve Bank of Australia",
+      "c": [
+        "AU"
+      ],
+      "g": [
+        "asia-pacific"
+      ],
+      "k": [
+        "monetary",
+        "rates"
+      ],
+      "i": 33,
+      "rl": "official",
+      "n": 0,
+      "ni": 0,
+      "ns": 0,
+      "f": "2026-11-07T21:53:04Z",
+      "l": "2026-11-07T21:53:04Z",
+      "st": "active",
+      "v": 1,
+      "cv": 0
     },
     {
       "id": "s20261107-e24c5c5a46",
@@ -323,7 +3727,7 @@
         "africa"
       ],
       "k": [],
-      "i": 19,
+      "i": 17,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -334,7 +3738,7 @@
       "ns": 0,
       "f": "2026-11-07T16:00:00Z",
       "l": "2026-11-07T21:15:00Z",
-      "st": "updated",
+      "st": "active",
       "v": 2,
       "np": 1
     },
@@ -352,7 +3756,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 24,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -368,36 +3772,6 @@
       "np": 1
     },
     {
-      "id": "s20261107-15114c887c",
-      "ty": "story",
-      "t": "Israel: Economy",
-      "tl": "en",
-      "o": "anadolu",
-      "label": "Israel: Economy",
-      "c": [
-        "IL",
-        "NL"
-      ],
-      "g": [
-        "eu",
-        "middle-east"
-      ],
-      "k": [],
-      "i": 66,
-      "rl": "multi",
-      "me": 1,
-      "et": "policy",
-      "n": 14,
-      "ni": 14,
-      "nc": 10,
-      "ns": 0,
-      "f": "2026-11-07T20:15:00Z",
-      "l": "2026-11-07T21:00:00Z",
-      "st": "new",
-      "v": 1,
-      "np": 1
-    },
-    {
       "id": "s20261107-193a739224",
       "ty": "story",
       "t": "United States: Economy",
@@ -409,7 +3783,7 @@
         "north-america"
       ],
       "k": [],
-      "i": 51,
+      "i": 49,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -422,7 +3796,7 @@
       "ns": 0,
       "f": "2026-11-07T12:15:00Z",
       "l": "2026-11-07T21:00:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1,
       "np": 1
     },
@@ -443,7 +3817,7 @@
         "middle-east"
       ],
       "k": [],
-      "i": 61,
+      "i": 59,
       "rl": "multi",
       "me": 1,
       "et": "election",
@@ -453,7 +3827,7 @@
       "ns": 0,
       "f": "2026-11-07T20:15:00Z",
       "l": "2026-11-07T21:00:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1,
       "np": 1
     },
@@ -469,7 +3843,7 @@
         "eu"
       ],
       "k": [],
-      "i": 53,
+      "i": 51,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -482,77 +3856,8 @@
       "ns": 0,
       "f": "2026-11-07T16:00:00Z",
       "l": "2026-11-07T21:00:00Z",
-      "st": "updated",
-      "v": 2,
-      "np": 1
-    },
-    {
-      "id": "s20261107-58f252a4e4",
-      "ty": "story",
-      "t": "United States: Financial markets",
-      "tl": "en",
-      "o": "abcnews_us",
-      "label": "United States: Financial markets",
-      "c": [
-        "US",
-        "IR"
-      ],
-      "g": [
-        "north-america",
-        "middle-east"
-      ],
-      "k": [
-        "markets",
-        "trade",
-        "tech"
-      ],
-      "i": 30,
-      "rl": "single",
-      "fl": [
-        "syndicated"
-      ],
-      "n": 1,
-      "ni": 1,
-      "nc": 1,
-      "ns": 14,
-      "f": "2026-11-07T17:45:00Z",
-      "l": "2026-11-07T21:00:00Z",
       "st": "active",
-      "v": 5,
-      "np": 1
-    },
-    {
-      "id": "s20261107-6ddb83a000",
-      "ty": "story",
-      "t": "Paraguay: Banking",
-      "tl": "en",
-      "o": "lavanguardia",
-      "label": "Paraguay: Banking",
-      "c": [
-        "PY",
-        "SE",
-        "PT"
-      ],
-      "g": [
-        "eu",
-        "latin-america"
-      ],
-      "k": [
-        "banking",
-        "fiscal"
-      ],
-      "i": 62,
-      "rl": "multi",
-      "me": 1,
-      "et": "policy",
-      "n": 8,
-      "ni": 8,
-      "nc": 6,
-      "ns": 14,
-      "f": "2026-11-07T12:00:00Z",
-      "l": "2026-11-07T21:00:00Z",
-      "st": "updated",
-      "v": 5,
+      "v": 2,
       "np": 1
     },
     {
@@ -569,7 +3874,7 @@
         "north-america"
       ],
       "k": [],
-      "i": 43,
+      "i": 42,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -582,7 +3887,7 @@
       "ns": 0,
       "f": "2026-11-07T12:15:00Z",
       "l": "2026-11-07T21:00:00Z",
-      "st": "updated",
+      "st": "active",
       "v": 2,
       "np": 1
     },
@@ -600,7 +3905,7 @@
       "k": [
         "inflation"
       ],
-      "i": 35,
+      "i": 33,
       "rl": "single",
       "fl": [
         "country_auto",
@@ -630,7 +3935,7 @@
       "k": [
         "trade"
       ],
-      "i": 49,
+      "i": 48,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -643,42 +3948,8 @@
       "ns": 0,
       "f": "2026-11-07T13:30:00Z",
       "l": "2026-11-07T21:00:00Z",
-      "st": "updated",
+      "st": "active",
       "v": 4,
-      "np": 1
-    },
-    {
-      "id": "s20261107-87324cba13",
-      "ty": "story",
-      "t": "Paraguay: Banking",
-      "tl": "en",
-      "o": "estadao",
-      "label": "Paraguay: Banking",
-      "c": [
-        "PY"
-      ],
-      "g": [
-        "latin-america"
-      ],
-      "k": [
-        "banking",
-        "monetary"
-      ],
-      "i": 48,
-      "rl": "multi",
-      "fl": [
-        "country_auto"
-      ],
-      "me": 1,
-      "et": "policy",
-      "n": 6,
-      "ni": 5,
-      "nc": 3,
-      "ns": 6,
-      "f": "2026-11-07T13:30:00Z",
-      "l": "2026-11-07T21:00:00Z",
-      "st": "updated",
-      "v": 3,
       "np": 1
     },
     {
@@ -695,7 +3966,7 @@
         "europe-other"
       ],
       "k": [],
-      "i": 32,
+      "i": 31,
       "rl": "multi",
       "me": 1,
       "et": "conflict",
@@ -705,7 +3976,7 @@
       "ns": 0,
       "f": "2026-11-07T15:00:00Z",
       "l": "2026-11-07T21:00:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1,
       "np": 1
     },
@@ -727,7 +3998,7 @@
       "k": [
         "inequality"
       ],
-      "i": 54,
+      "i": 52,
       "rl": "multi",
       "me": 1,
       "et": "conflict",
@@ -757,7 +4028,7 @@
       "k": [
         "monetary"
       ],
-      "i": 32,
+      "i": 30,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -770,7 +4041,7 @@
       "ns": 0,
       "f": "2026-11-07T13:30:00Z",
       "l": "2026-11-07T21:00:00Z",
-      "st": "updated",
+      "st": "active",
       "v": 2,
       "np": 1
     },
@@ -786,7 +4057,7 @@
         "middle-east"
       ],
       "k": [],
-      "i": 36,
+      "i": 34,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -799,7 +4070,7 @@
       "ns": 0,
       "f": "2026-11-07T19:45:00Z",
       "l": "2026-11-07T21:00:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1,
       "np": 1
     },
@@ -815,7 +4086,7 @@
         "africa"
       ],
       "k": [],
-      "i": 29,
+      "i": 27,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -828,41 +4099,8 @@
       "ns": 0,
       "f": "2026-11-07T15:30:00Z",
       "l": "2026-11-07T20:45:00Z",
-      "st": "updated",
+      "st": "active",
       "v": 2,
-      "np": 1
-    },
-    {
-      "id": "s20261107-7f1b3a7b5e",
-      "ty": "story",
-      "t": "Israel: Economy",
-      "tl": "en",
-      "o": "arabnews",
-      "label": "Israel: Economy",
-      "c": [
-        "IL",
-        "RU"
-      ],
-      "g": [
-        "europe-other",
-        "middle-east"
-      ],
-      "k": [],
-      "i": 47,
-      "rl": "multi",
-      "fl": [
-        "forecast_language"
-      ],
-      "me": 1,
-      "et": "policy",
-      "n": 3,
-      "ni": 3,
-      "nc": 3,
-      "ns": 0,
-      "f": "2026-11-07T19:15:00Z",
-      "l": "2026-11-07T20:45:00Z",
-      "st": "new",
-      "v": 1,
       "np": 1
     },
     {
@@ -881,7 +4119,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 24,
+      "i": 22,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -905,7 +4143,7 @@
         "eu"
       ],
       "k": [],
-      "i": 19,
+      "i": 17,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -916,8 +4154,8 @@
       "ns": 0,
       "f": "2026-11-07T15:15:00Z",
       "l": "2026-11-07T20:45:00Z",
-      "st": "updated",
-      "v": 2,
+      "st": "active",
+      "v": 3,
       "np": 1
     },
     {
@@ -934,7 +4172,7 @@
         "eu"
       ],
       "k": [],
-      "i": 58,
+      "i": 56,
       "rl": "multi",
       "me": 1,
       "et": "other",
@@ -944,67 +4182,8 @@
       "ns": 0,
       "f": "2026-11-07T13:00:00Z",
       "l": "2026-11-07T20:45:00Z",
-      "st": "updated",
-      "v": 4,
-      "np": 1
-    },
-    {
-      "id": "s20261107-20d8b89f99",
-      "ty": "story",
-      "t": "Ukraine: Economy",
-      "tl": "en",
-      "o": "dw",
-      "label": "Ukraine: Economy",
-      "c": [
-        "UA"
-      ],
-      "g": [
-        "europe-other"
-      ],
-      "k": [],
-      "i": 51,
-      "rl": "multi",
-      "fl": [
-        "country_auto"
-      ],
-      "me": 1,
-      "et": "conflict",
-      "n": 5,
-      "ni": 5,
-      "nc": 4,
-      "ns": 0,
-      "f": "2026-11-07T12:00:00Z",
-      "l": "2026-11-07T20:30:00Z",
-      "st": "new",
-      "v": 1,
-      "np": 1
-    },
-    {
-      "id": "s20261107-3c5d4d20ed",
-      "ty": "story",
-      "t": "India: Corporate finance",
-      "tl": "en",
-      "o": "bs",
-      "label": "India: Corporate finance",
-      "c": [
-        "IN"
-      ],
-      "g": [
-        "asia-pacific"
-      ],
-      "k": [
-        "corporate"
-      ],
-      "i": 28,
-      "rl": "multi",
-      "n": 9,
-      "ni": 5,
-      "nc": 1,
-      "ns": 6,
-      "f": "2026-11-07T11:00:00Z",
-      "l": "2026-11-07T20:30:00Z",
       "st": "active",
-      "v": 6,
+      "v": 4,
       "np": 1
     },
     {
@@ -1019,7 +4198,7 @@
         "africa"
       ],
       "k": [],
-      "i": 28,
+      "i": 26,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -1029,64 +4208,6 @@
       "nc": 3,
       "ns": 0,
       "f": "2026-11-07T12:15:00Z",
-      "l": "2026-11-07T20:30:00Z",
-      "st": "updated",
-      "v": 2,
-      "np": 1
-    },
-    {
-      "id": "s20261107-7254fc0e9b",
-      "ty": "story",
-      "t": "Poland: Microeconomics",
-      "tl": "en",
-      "o": "npr",
-      "label": "Poland: Microeconomics",
-      "c": [
-        "PL"
-      ],
-      "g": [
-        "eu"
-      ],
-      "k": [
-        "micro"
-      ],
-      "i": 58,
-      "rl": "multi",
-      "me": 1,
-      "et": "conflict",
-      "n": 10,
-      "ni": 9,
-      "nc": 5,
-      "ns": 0,
-      "f": "2026-11-07T15:45:00Z",
-      "l": "2026-11-07T20:30:00Z",
-      "st": "updated",
-      "v": 6,
-      "np": 1
-    },
-    {
-      "id": "s20261107-90731dcee8",
-      "ty": "story",
-      "t": "Paraguay: Banking",
-      "tl": "en",
-      "o": "ambito",
-      "label": "Paraguay: Banking",
-      "c": [
-        "PY"
-      ],
-      "g": [
-        "latin-america"
-      ],
-      "k": [
-        "banking"
-      ],
-      "i": 22,
-      "rl": "single",
-      "n": 1,
-      "ni": 1,
-      "nc": 1,
-      "ns": 2,
-      "f": "2026-11-07T12:45:00Z",
       "l": "2026-11-07T20:30:00Z",
       "st": "active",
       "v": 2,
@@ -1106,7 +4227,7 @@
         "middle-east"
       ],
       "k": [],
-      "i": 45,
+      "i": 43,
       "rl": "multi",
       "fl": [
         "syndicated"
@@ -1119,7 +4240,7 @@
       "ns": 0,
       "f": "2026-11-07T18:15:00Z",
       "l": "2026-11-07T20:30:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1,
       "np": 1
     },
@@ -1138,7 +4259,7 @@
         "latin-america"
       ],
       "k": [],
-      "i": 44,
+      "i": 42,
       "rl": "multi",
       "me": 1,
       "et": "policy",
@@ -1148,7 +4269,7 @@
       "ns": 0,
       "f": "2026-11-07T17:30:00Z",
       "l": "2026-11-07T20:30:00Z",
-      "st": "updated",
+      "st": "active",
       "v": 2,
       "np": 1
     },
@@ -1160,15 +4281,13 @@
       "o": "euronews",
       "label": "Paraguay: Economy",
       "c": [
-        "PY",
-        "IR"
+        "PY"
       ],
       "g": [
-        "latin-america",
-        "middle-east"
+        "latin-america"
       ],
       "k": [],
-      "i": 61,
+      "i": 52,
       "rl": "multi",
       "me": 1,
       "et": "legal",
@@ -1179,16 +4298,16 @@
       "f": "2026-11-07T08:15:00Z",
       "l": "2026-11-07T20:30:00Z",
       "st": "active",
-      "v": 6,
+      "v": 7,
       "np": 1
     },
     {
       "id": "s20261106-c89441cddd",
       "ty": "story",
-      "t": "United States: Employment and wages",
+      "t": "United States: Macroeconomics",
       "tl": "en",
       "o": "cnbc",
-      "label": "United States: Employment and wages",
+      "label": "United States: Macroeconomics",
       "c": [
         "US"
       ],
@@ -1196,10 +4315,10 @@
         "north-america"
       ],
       "k": [
-        "jobs",
-        "macro"
+        "macro",
+        "jobs"
       ],
-      "i": 35,
+      "i": 34,
       "rl": "linked",
       "ol": {
         "series": "us.unemployment.payrolls_change",
@@ -1215,42 +4334,7 @@
       "f": "2026-11-06T16:00:00Z",
       "l": "2026-11-07T20:15:00Z",
       "st": "active",
-      "v": 3,
-      "np": 1
-    },
-    {
-      "id": "s20261107-12210d5bb2",
-      "ty": "story",
-      "t": "Iran: Energy and commodities",
-      "tl": "en",
-      "o": "antara",
-      "label": "Iran: Energy and commodities",
-      "c": [
-        "IR",
-        "US"
-      ],
-      "g": [
-        "north-america",
-        "middle-east"
-      ],
-      "k": [
-        "energy"
-      ],
-      "i": 60,
-      "rl": "multi",
-      "fl": [
-        "country_auto"
-      ],
-      "me": 1,
-      "et": "conflict",
-      "n": 8,
-      "ni": 6,
-      "nc": 5,
-      "ns": 0,
-      "f": "2026-11-07T12:15:00Z",
-      "l": "2026-11-07T20:15:00Z",
-      "st": "updated",
-      "v": 3,
+      "v": 4,
       "np": 1
     },
     {
@@ -1267,7 +4351,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 39,
+      "i": 37,
       "rl": "multi",
       "me": 1,
       "et": "conflict",
@@ -1277,7 +4361,7 @@
       "ns": 0,
       "f": "2026-11-07T16:30:00Z",
       "l": "2026-11-07T20:15:00Z",
-      "st": "updated",
+      "st": "active",
       "v": 3,
       "np": 1
     },
@@ -1296,7 +4380,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 64,
+      "i": 63,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -1314,99 +4398,6 @@
       "np": 1
     },
     {
-      "id": "s20261107-7419902c53",
-      "ty": "story",
-      "t": "United States: Fiscal policy",
-      "tl": "en",
-      "o": "anadolu",
-      "label": "United States: Fiscal policy",
-      "c": [],
-      "g": [
-        "north-america"
-      ],
-      "k": [
-        "fiscal"
-      ],
-      "i": 29,
-      "rl": "multi",
-      "fl": [
-        "country_auto"
-      ],
-      "n": 2,
-      "ni": 2,
-      "nc": 2,
-      "ns": 2,
-      "f": "2026-11-07T06:45:00Z",
-      "l": "2026-11-07T20:15:00Z",
-      "st": "active",
-      "v": 2,
-      "np": 1
-    },
-    {
-      "id": "s20261107-7f317e8901",
-      "ty": "story",
-      "t": "India: Corporate finance",
-      "tl": "en",
-      "o": "bs",
-      "label": "India: Corporate finance",
-      "c": [
-        "IN"
-      ],
-      "g": [
-        "asia-pacific"
-      ],
-      "k": [
-        "corporate"
-      ],
-      "i": 17,
-      "rl": "single",
-      "fl": [
-        "syndicated"
-      ],
-      "n": 1,
-      "ni": 1,
-      "nc": 1,
-      "ns": 45,
-      "f": "2026-11-07T11:15:00Z",
-      "l": "2026-11-07T20:15:00Z",
-      "st": "active",
-      "v": 7,
-      "np": 1
-    },
-    {
-      "id": "s20261107-8c0c633902",
-      "ty": "story",
-      "t": "Iran: Employment and wages",
-      "tl": "en",
-      "o": "abcnews_us",
-      "label": "Iran: Employment and wages",
-      "c": [],
-      "g": [
-        "north-america",
-        "middle-east"
-      ],
-      "k": [
-        "jobs",
-        "inflation",
-        "housing"
-      ],
-      "i": 32,
-      "rl": "single",
-      "fl": [
-        "country_auto",
-        "syndicated"
-      ],
-      "n": 1,
-      "ni": 1,
-      "nc": 1,
-      "ns": 11,
-      "f": "2026-11-07T17:45:00Z",
-      "l": "2026-11-07T20:15:00Z",
-      "st": "active",
-      "v": 5,
-      "np": 1
-    },
-    {
       "id": "s20261107-ad79ba76c5",
       "ty": "story",
       "t": "United States: Economy",
@@ -1420,7 +4411,7 @@
         "north-america"
       ],
       "k": [],
-      "i": 23,
+      "i": 21,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -1431,7 +4422,7 @@
       "ns": 0,
       "f": "2026-11-07T16:15:00Z",
       "l": "2026-11-07T20:15:00Z",
-      "st": "updated",
+      "st": "active",
       "v": 2,
       "np": 1
     },
@@ -1451,8 +4442,11 @@
         "middle-east"
       ],
       "k": [],
-      "i": 36,
+      "i": 34,
       "rl": "multi",
+      "fl": [
+        "country_auto"
+      ],
       "me": 1,
       "et": "election",
       "n": 3,
@@ -1461,41 +4455,8 @@
       "ns": 0,
       "f": "2026-11-07T13:00:00Z",
       "l": "2026-11-07T20:15:00Z",
-      "st": "new",
-      "v": 1,
-      "np": 1
-    },
-    {
-      "id": "s20261107-e0d398a8fe",
-      "ty": "story",
-      "t": "United States: Financial markets",
-      "tl": "en",
-      "o": "abcnews_us",
-      "label": "United States: Financial markets",
-      "c": [
-        "US"
-      ],
-      "g": [
-        "north-america"
-      ],
-      "k": [
-        "markets",
-        "corporate"
-      ],
-      "i": 29,
-      "rl": "multi",
-      "fl": [
-        "country_auto",
-        "syndicated"
-      ],
-      "n": 2,
-      "ni": 2,
-      "nc": 2,
-      "ns": 35,
-      "f": "2026-11-07T15:00:00Z",
-      "l": "2026-11-07T20:15:00Z",
       "st": "active",
-      "v": 5,
+      "v": 1,
       "np": 1
     },
     {
@@ -1515,7 +4476,7 @@
       "k": [
         "debt"
       ],
-      "i": 46,
+      "i": 44,
       "rl": "multi",
       "me": 1,
       "et": "conflict",
@@ -1525,7 +4486,7 @@
       "ns": 0,
       "f": "2026-11-07T14:15:00Z",
       "l": "2026-11-07T20:00:00Z",
-      "st": "updated",
+      "st": "active",
       "v": 4,
       "np": 1
     },
@@ -1548,7 +4509,7 @@
       "k": [
         "globalisation"
       ],
-      "i": 65,
+      "i": 63,
       "rl": "multi",
       "me": 1,
       "et": "conflict",
@@ -1558,7 +4519,7 @@
       "ns": 0,
       "f": "2026-11-07T13:15:00Z",
       "l": "2026-11-07T20:00:00Z",
-      "st": "updated",
+      "st": "active",
       "v": 5,
       "np": 1
     },
@@ -1570,8 +4531,7 @@
       "o": "bbc",
       "label": "Palestinian territories: Development",
       "c": [
-        "PS",
-        "IL"
+        "PS"
       ],
       "g": [
         "middle-east"
@@ -1580,7 +4540,7 @@
         "development",
         "housing"
       ],
-      "i": 58,
+      "i": 52,
       "rl": "multi",
       "me": 1,
       "et": "disaster",
@@ -1590,37 +4550,8 @@
       "ns": 0,
       "f": "2026-11-07T13:30:00Z",
       "l": "2026-11-07T20:00:00Z",
-      "st": "updated",
-      "v": 4,
-      "np": 1
-    },
-    {
-      "id": "s20261107-d89d816d3a",
-      "ty": "story",
-      "t": "Paraguay: Monetary policy",
-      "tl": "en",
-      "o": "folha",
-      "label": "Paraguay: Monetary policy",
-      "c": [],
-      "g": [
-        "latin-america"
-      ],
-      "k": [
-        "monetary"
-      ],
-      "i": 33,
-      "rl": "multi",
-      "fl": [
-        "country_auto"
-      ],
-      "n": 2,
-      "ni": 2,
-      "nc": 2,
-      "ns": 0,
-      "f": "2026-11-07T16:00:00Z",
-      "l": "2026-11-07T20:00:00Z",
-      "st": "updated",
-      "v": 2,
+      "st": "active",
+      "v": 5,
       "np": 1
     },
     {
@@ -1637,7 +4568,7 @@
       "k": [
         "markets"
       ],
-      "i": 22,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -1666,7 +4597,7 @@
         "eu"
       ],
       "k": [],
-      "i": 19,
+      "i": 17,
       "rl": "multi",
       "n": 2,
       "ni": 2,
@@ -1674,7 +4605,7 @@
       "ns": 0,
       "f": "2026-11-07T15:30:00Z",
       "l": "2026-11-07T19:45:00Z",
-      "st": "updated",
+      "st": "active",
       "v": 2,
       "np": 1
     },
@@ -1697,7 +4628,7 @@
       "k": [
         "cost-of-living"
       ],
-      "i": 36,
+      "i": 34,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -1726,7 +4657,7 @@
         "north-america"
       ],
       "k": [],
-      "i": 32,
+      "i": 30,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -1739,7 +4670,7 @@
       "ns": 0,
       "f": "2026-11-07T13:45:00Z",
       "l": "2026-11-07T19:45:00Z",
-      "st": "new",
+      "st": "active",
       "v": 1,
       "np": 1
     },
@@ -1755,7 +4686,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 32,
+      "i": 30,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -1768,34 +4699,8 @@
       "ns": 0,
       "f": "2026-11-07T14:00:00Z",
       "l": "2026-11-07T19:45:00Z",
-      "st": "updated",
+      "st": "active",
       "v": 2,
-      "np": 1
-    },
-    {
-      "id": "s20261107-6ca2ca9ede",
-      "ty": "story",
-      "t": "Nigeria: Economy",
-      "tl": "en",
-      "o": "vanguard",
-      "label": "Nigeria: Economy",
-      "c": [
-        "NG"
-      ],
-      "g": [
-        "africa"
-      ],
-      "k": [],
-      "i": 18,
-      "rl": "multi",
-      "n": 3,
-      "ni": 2,
-      "nc": 1,
-      "ns": 0,
-      "f": "2026-11-07T13:30:00Z",
-      "l": "2026-11-07T19:30:00Z",
-      "st": "updated",
-      "v": 3,
       "np": 1
     },
     {
@@ -1817,7 +4722,7 @@
       "k": [
         "trade"
       ],
-      "i": 65,
+      "i": 64,
       "rl": "multi",
       "me": 1,
       "et": "other",
@@ -1827,7 +4732,7 @@
       "ns": 0,
       "f": "2026-11-07T13:15:00Z",
       "l": "2026-11-07T19:15:00Z",
-      "st": "updated",
+      "st": "active",
       "v": 4,
       "np": 1
     },
@@ -1849,7 +4754,7 @@
       "k": [
         "macro"
       ],
-      "i": 52,
+      "i": 50,
       "rl": "multi",
       "me": 1,
       "et": "conflict",
@@ -1859,7 +4764,7 @@
       "ns": 0,
       "f": "2026-11-07T17:30:00Z",
       "l": "2026-11-07T19:00:00Z",
-      "st": "updated",
+      "st": "active",
       "v": 3,
       "np": 1
     },
@@ -1878,7 +4783,7 @@
       "k": [
         "macro"
       ],
-      "i": 30,
+      "i": 28,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -1907,7 +4812,7 @@
         "africa"
       ],
       "k": [],
-      "i": 31,
+      "i": 30,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -1920,7 +4825,7 @@
       "ns": 0,
       "f": "2026-11-07T16:45:00Z",
       "l": "2026-11-07T18:45:00Z",
-      "st": "updated",
+      "st": "active",
       "v": 2,
       "np": 1
     },
@@ -1943,7 +4848,7 @@
       "k": [
         "energy"
       ],
-      "i": 43,
+      "i": 41,
       "rl": "multi",
       "me": 1,
       "et": "conflict",
@@ -1953,7 +4858,7 @@
       "ns": 0,
       "f": "2026-11-07T16:30:00Z",
       "l": "2026-11-07T18:45:00Z",
-      "st": "updated",
+      "st": "active",
       "v": 3,
       "np": 1
     },
@@ -1969,7 +4874,7 @@
         "africa"
       ],
       "k": [],
-      "i": 21,
+      "i": 20,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -1980,7 +4885,7 @@
       "ns": 0,
       "f": "2026-11-07T16:15:00Z",
       "l": "2026-11-07T18:45:00Z",
-      "st": "updated",
+      "st": "active",
       "v": 2,
       "np": 1
     },
@@ -2001,7 +4906,7 @@
         "north-america"
       ],
       "k": [],
-      "i": 36,
+      "i": 34,
       "rl": "multi",
       "me": 1,
       "et": "conflict",
@@ -2030,7 +4935,7 @@
         "middle-east"
       ],
       "k": [],
-      "i": 61,
+      "i": 59,
       "rl": "multi",
       "fl": [
         "framing_review"
@@ -2063,7 +4968,7 @@
       "k": [
         "jobs"
       ],
-      "i": 39,
+      "i": 37,
       "rl": "multi",
       "me": 1,
       "et": "election",
@@ -2091,7 +4996,7 @@
         "eu"
       ],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "single",
       "n": 2,
       "ni": 1,
@@ -2118,7 +5023,7 @@
       "k": [
         "cost-of-living"
       ],
-      "i": 40,
+      "i": 38,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -2147,7 +5052,7 @@
         "eu"
       ],
       "k": [],
-      "i": 45,
+      "i": 43,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -2174,7 +5079,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -2207,7 +5112,7 @@
       "k": [
         "energy"
       ],
-      "i": 47,
+      "i": 45,
       "rl": "multi",
       "me": 1,
       "et": "conflict",
@@ -2231,7 +5136,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 32,
+      "i": 30,
       "rl": "multi",
       "fl": [
         "country_unknown"
@@ -2260,7 +5165,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 15,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_auto",
@@ -2288,7 +5193,7 @@
         "north-america"
       ],
       "k": [],
-      "i": 22,
+      "i": 20,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -2313,7 +5218,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 15,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -2342,7 +5247,7 @@
         "eu"
       ],
       "k": [],
-      "i": 15,
+      "i": 13,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -2364,7 +5269,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 15,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -2397,7 +5302,7 @@
       "k": [
         "trade"
       ],
-      "i": 30,
+      "i": 29,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -2424,7 +5329,7 @@
         "fiscal",
         "housing"
       ],
-      "i": 24,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -2453,7 +5358,7 @@
       "k": [
         "trade"
       ],
-      "i": 22,
+      "i": 21,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -2480,7 +5385,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 28,
+      "i": 27,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -2515,7 +5420,7 @@
         "banking",
         "energy"
       ],
-      "i": 23,
+      "i": 21,
       "rl": "single",
       "fl": [
         "forecast_language"
@@ -2544,7 +5449,7 @@
       "k": [
         "development"
       ],
-      "i": 28,
+      "i": 26,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -2577,7 +5482,7 @@
       "k": [
         "macro"
       ],
-      "i": 25,
+      "i": 23,
       "rl": "single",
       "fl": [
         "opinion"
@@ -2590,37 +5495,6 @@
       "l": "2026-11-07T18:00:00Z",
       "st": "active",
       "v": 2,
-      "np": 1
-    },
-    {
-      "id": "s20261107-6dca176899",
-      "ty": "story",
-      "t": "New Zealand: Economy",
-      "tl": "en",
-      "o": "anadolu",
-      "label": "New Zealand: Economy",
-      "c": [
-        "NZ"
-      ],
-      "g": [
-        "asia-pacific"
-      ],
-      "k": [],
-      "i": 33,
-      "rl": "multi",
-      "fl": [
-        "country_auto"
-      ],
-      "me": 1,
-      "et": "election",
-      "n": 2,
-      "ni": 2,
-      "nc": 2,
-      "ns": 0,
-      "f": "2026-11-07T16:30:00Z",
-      "l": "2026-11-07T18:00:00Z",
-      "st": "active",
-      "v": 1,
       "np": 1
     },
     {
@@ -2639,7 +5513,7 @@
       "k": [
         "jobs"
       ],
-      "i": 39,
+      "i": 37,
       "rl": "multi",
       "fl": [
         "syndicated"
@@ -2671,7 +5545,7 @@
       "k": [
         "macro"
       ],
-      "i": 25,
+      "i": 23,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -2695,7 +5569,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 29,
+      "i": 27,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -2728,7 +5602,7 @@
       "k": [
         "macro"
       ],
-      "i": 25,
+      "i": 23,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -2750,7 +5624,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 15,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -2763,38 +5637,6 @@
       "l": "2026-11-07T18:00:00Z",
       "st": "active",
       "v": 1,
-      "np": 1
-    },
-    {
-      "id": "s20261107-f4fecc840f",
-      "ty": "story",
-      "t": "United States: Trade",
-      "tl": "en",
-      "o": "anadolu",
-      "label": "United States: Trade",
-      "c": [
-        "US",
-        "IR"
-      ],
-      "g": [
-        "north-america",
-        "middle-east"
-      ],
-      "k": [
-        "trade"
-      ],
-      "i": 50,
-      "rl": "multi",
-      "me": 1,
-      "et": "conflict",
-      "n": 5,
-      "ni": 4,
-      "nc": 3,
-      "ns": 0,
-      "f": "2026-11-07T14:15:00Z",
-      "l": "2026-11-07T18:00:00Z",
-      "st": "active",
-      "v": 2,
       "np": 1
     },
     {
@@ -2811,7 +5653,7 @@
       "k": [
         "housing"
       ],
-      "i": 22,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -2842,7 +5684,7 @@
       "k": [
         "housing"
       ],
-      "i": 30,
+      "i": 28,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -2873,7 +5715,7 @@
       "k": [
         "trade"
       ],
-      "i": 46,
+      "i": 44,
       "rl": "multi",
       "fl": [
         "opinion"
@@ -2891,37 +5733,6 @@
       "np": 1
     },
     {
-      "id": "s20261107-3ff7ed7a7b",
-      "ty": "story",
-      "t": "Palestinian territories: Economy",
-      "tl": "en",
-      "o": "cna_sg",
-      "label": "Palestinian territories: Economy",
-      "c": [
-        "PS"
-      ],
-      "g": [
-        "middle-east"
-      ],
-      "k": [],
-      "i": 41,
-      "rl": "multi",
-      "fl": [
-        "syndicated"
-      ],
-      "me": 1,
-      "et": "conflict",
-      "n": 4,
-      "ni": 4,
-      "nc": 3,
-      "ns": 0,
-      "f": "2026-11-07T16:00:00Z",
-      "l": "2026-11-07T17:45:00Z",
-      "st": "active",
-      "v": 2,
-      "np": 1
-    },
-    {
       "id": "s20261107-5628bce7ce",
       "ty": "story",
       "t": "Nigeria: Energy and commodities",
@@ -2935,7 +5746,7 @@
       "k": [
         "energy"
       ],
-      "i": 22,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -2964,7 +5775,7 @@
       "k": [
         "energy"
       ],
-      "i": 22,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -2974,37 +5785,6 @@
       "nc": 1,
       "ns": 0,
       "f": "2026-11-07T17:45:00Z",
-      "l": "2026-11-07T17:45:00Z",
-      "st": "active",
-      "v": 1,
-      "np": 1
-    },
-    {
-      "id": "s20261107-baa7a43580",
-      "ty": "story",
-      "t": "Yemen: Energy and commodities",
-      "tl": "en",
-      "o": "moneycontrol",
-      "label": "Yemen: Energy and commodities",
-      "c": [
-        "YE",
-        "SA"
-      ],
-      "g": [
-        "middle-east"
-      ],
-      "k": [
-        "energy"
-      ],
-      "i": 36,
-      "rl": "multi",
-      "me": 1,
-      "et": "conflict",
-      "n": 3,
-      "ni": 3,
-      "nc": 1,
-      "ns": 0,
-      "f": "2026-11-07T16:15:00Z",
       "l": "2026-11-07T17:45:00Z",
       "st": "active",
       "v": 1,
@@ -3024,7 +5804,7 @@
       "k": [
         "inequality"
       ],
-      "i": 20,
+      "i": 18,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -3049,7 +5829,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 15,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -3061,7 +5841,7 @@
       "f": "2026-11-07T17:45:00Z",
       "l": "2026-11-07T17:45:00Z",
       "st": "active",
-      "v": 2,
+      "v": 3,
       "np": 1
     },
     {
@@ -3076,7 +5856,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 24,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -3101,7 +5881,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 15,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -3128,7 +5908,7 @@
         "north-america"
       ],
       "k": [],
-      "i": 32,
+      "i": 30,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -3163,7 +5943,7 @@
       "k": [
         "markets"
       ],
-      "i": 42,
+      "i": 40,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -3192,7 +5972,7 @@
       "k": [
         "inflation"
       ],
-      "i": 25,
+      "i": 23,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -3219,7 +5999,7 @@
         "latin-america"
       ],
       "k": [],
-      "i": 14,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -3250,7 +6030,7 @@
       "k": [
         "energy"
       ],
-      "i": 22,
+      "i": 20,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -3274,7 +6054,7 @@
         "eu"
       ],
       "k": [],
-      "i": 47,
+      "i": 45,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -3309,7 +6089,7 @@
       "k": [
         "monetary"
       ],
-      "i": 32,
+      "i": 30,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -3335,7 +6115,7 @@
       "k": [
         "jobs"
       ],
-      "i": 25,
+      "i": 23,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -3348,37 +6128,6 @@
       "l": "2026-11-07T17:30:00Z",
       "st": "active",
       "v": 1,
-      "np": 1
-    },
-    {
-      "id": "s20261107-54da9f02ee",
-      "ty": "story",
-      "t": "Russia: Economy",
-      "tl": "en",
-      "o": "thehindu",
-      "label": "Russia: Economy",
-      "c": [
-        "RU",
-        "UA",
-        "US"
-      ],
-      "g": [
-        "europe-other",
-        "north-america"
-      ],
-      "k": [],
-      "i": 47,
-      "rl": "multi",
-      "me": 1,
-      "et": "conflict",
-      "n": 3,
-      "ni": 3,
-      "nc": 3,
-      "ns": 0,
-      "f": "2026-11-07T14:45:00Z",
-      "l": "2026-11-07T17:15:00Z",
-      "st": "active",
-      "v": 2,
       "np": 1
     },
     {
@@ -3395,7 +6144,7 @@
       "k": [
         "energy"
       ],
-      "i": 32,
+      "i": 30,
       "rl": "single",
       "fl": [
         "country_auto",
@@ -3423,7 +6172,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 31,
+      "i": 29,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -3456,7 +6205,7 @@
       "k": [
         "jobs"
       ],
-      "i": 31,
+      "i": 30,
       "rl": "multi",
       "n": 3,
       "ni": 2,
@@ -3484,7 +6233,7 @@
         "north-america"
       ],
       "k": [],
-      "i": 36,
+      "i": 34,
       "rl": "multi",
       "fl": [
         "opinion"
@@ -3511,7 +6260,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 15,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -3541,7 +6290,7 @@
         "macro",
         "energy"
       ],
-      "i": 25,
+      "i": 23,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -3566,7 +6315,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 15,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -3595,7 +6344,7 @@
       "k": [
         "energy"
       ],
-      "i": 31,
+      "i": 30,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -3625,7 +6374,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 29,
+      "i": 28,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -3654,7 +6403,7 @@
       "k": [
         "jobs"
       ],
-      "i": 25,
+      "i": 23,
       "rl": "single",
       "fl": [
         "country_auto",
@@ -3680,7 +6429,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 15,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -3705,7 +6454,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 15,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -3732,7 +6481,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 23,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -3764,7 +6513,7 @@
       "k": [
         "trade"
       ],
-      "i": 53,
+      "i": 51,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -3795,7 +6544,7 @@
       "k": [
         "markets"
       ],
-      "i": 22,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_auto",
@@ -3823,7 +6572,7 @@
         "eu"
       ],
       "k": [],
-      "i": 15,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -3833,35 +6582,6 @@
       "nc": 1,
       "ns": 0,
       "f": "2026-11-07T16:30:00Z",
-      "l": "2026-11-07T16:30:00Z",
-      "st": "active",
-      "v": 1,
-      "np": 1
-    },
-    {
-      "id": "s20261107-608ec59c9c",
-      "ty": "story",
-      "t": "United States: Corporate finance",
-      "tl": "en",
-      "o": "cnbc",
-      "label": "United States: Corporate finance",
-      "c": [],
-      "g": [
-        "north-america"
-      ],
-      "k": [
-        "corporate"
-      ],
-      "i": 18,
-      "rl": "single",
-      "fl": [
-        "country_auto"
-      ],
-      "n": 1,
-      "ni": 1,
-      "nc": 1,
-      "ns": 2,
-      "f": "2026-11-07T14:30:00Z",
       "l": "2026-11-07T16:30:00Z",
       "st": "active",
       "v": 1,
@@ -3879,7 +6599,7 @@
         "north-america"
       ],
       "k": [],
-      "i": 15,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -3904,7 +6624,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 15,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -3933,7 +6653,7 @@
       "k": [
         "energy"
       ],
-      "i": 32,
+      "i": 31,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -3962,7 +6682,7 @@
         "middle-east"
       ],
       "k": [],
-      "i": 18,
+      "i": 16,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -3989,7 +6709,7 @@
         "north-america"
       ],
       "k": [],
-      "i": 15,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -4018,7 +6738,7 @@
       "k": [
         "energy"
       ],
-      "i": 22,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -4043,7 +6763,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -4072,7 +6792,7 @@
         "middle-east"
       ],
       "k": [],
-      "i": 14,
+      "i": 13,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -4098,7 +6818,7 @@
       "k": [
         "inflation"
       ],
-      "i": 34,
+      "i": 33,
       "rl": "single",
       "fl": [
         "country_auto",
@@ -4126,34 +6846,7 @@
       "k": [
         "inflation"
       ],
-      "i": 24,
-      "rl": "single",
-      "fl": [
-        "country_unknown"
-      ],
-      "n": 1,
-      "ni": 1,
-      "nc": 1,
-      "ns": 0,
-      "f": "2026-11-07T16:15:00Z",
-      "l": "2026-11-07T16:15:00Z",
-      "st": "active",
-      "v": 1,
-      "np": 1
-    },
-    {
-      "id": "s20261107-4c7273b49c",
-      "ty": "story",
-      "t": "Place not identified: Employment and wages",
-      "tl": "en",
-      "o": "gestion",
-      "label": "Place not identified: Employment and wages",
-      "c": [],
-      "g": [],
-      "k": [
-        "jobs"
-      ],
-      "i": 24,
+      "i": 23,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -4178,7 +6871,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -4209,7 +6902,7 @@
       "k": [
         "cost-of-living"
       ],
-      "i": 23,
+      "i": 22,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -4231,7 +6924,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -4260,7 +6953,7 @@
         "africa"
       ],
       "k": [],
-      "i": 14,
+      "i": 13,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -4288,7 +6981,7 @@
         "monetary",
         "tech"
       ],
-      "i": 47,
+      "i": 46,
       "rl": "multi",
       "fl": [
         "global",
@@ -4321,7 +7014,7 @@
         "banking",
         "markets"
       ],
-      "i": 22,
+      "i": 21,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -4349,7 +7042,7 @@
       "k": [
         "jobs"
       ],
-      "i": 38,
+      "i": 37,
       "rl": "multi",
       "fl": [
         "syndicated"
@@ -4382,7 +7075,7 @@
       "k": [
         "corporate"
       ],
-      "i": 18,
+      "i": 17,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -4406,7 +7099,7 @@
         "global"
       ],
       "k": [],
-      "i": 24,
+      "i": 23,
       "rl": "single",
       "fl": [
         "country_auto",
@@ -4432,7 +7125,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -4448,35 +7141,6 @@
       "np": 1
     },
     {
-      "id": "s20261107-1ada0040d7",
-      "ty": "story",
-      "t": "India: Economy",
-      "tl": "en",
-      "o": "businessline",
-      "label": "India: Economy",
-      "c": [
-        "IN"
-      ],
-      "g": [
-        "asia-pacific"
-      ],
-      "k": [],
-      "i": 13,
-      "rl": "single",
-      "fl": [
-        "forecast_language"
-      ],
-      "n": 1,
-      "ni": 1,
-      "nc": 1,
-      "ns": 46,
-      "f": "2026-11-07T11:00:00Z",
-      "l": "2026-11-07T16:00:00Z",
-      "st": "active",
-      "v": 6,
-      "np": 1
-    },
-    {
       "id": "s20261107-33daff8b36",
       "ty": "story",
       "t": "Place not identified: Economy",
@@ -4486,7 +7150,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -4515,7 +7179,7 @@
       "k": [
         "corporate"
       ],
-      "i": 18,
+      "i": 17,
       "rl": "single",
       "fl": [
         "country_auto",
@@ -4547,7 +7211,7 @@
       "k": [
         "banking"
       ],
-      "i": 22,
+      "i": 21,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -4573,7 +7237,7 @@
       "k": [
         "monetary"
       ],
-      "i": 29,
+      "i": 27,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -4603,7 +7267,7 @@
       "k": [
         "inflation"
       ],
-      "i": 32,
+      "i": 30,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -4630,7 +7294,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 28,
+      "i": 27,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -4661,7 +7325,7 @@
       "k": [
         "jobs"
       ],
-      "i": 24,
+      "i": 23,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -4695,7 +7359,7 @@
       "k": [
         "trade"
       ],
-      "i": 54,
+      "i": 53,
       "rl": "multi",
       "me": 1,
       "et": "other",
@@ -4725,7 +7389,7 @@
       "k": [
         "trade"
       ],
-      "i": 21,
+      "i": 19,
       "rl": "single",
       "n": 2,
       "ni": 1,
@@ -4751,7 +7415,7 @@
       "k": [
         "energy"
       ],
-      "i": 21,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -4778,7 +7442,7 @@
         "global"
       ],
       "k": [],
-      "i": 24,
+      "i": 23,
       "rl": "single",
       "fl": [
         "country_auto",
@@ -4809,7 +7473,7 @@
       "k": [
         "jobs"
       ],
-      "i": 32,
+      "i": 30,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -4842,7 +7506,7 @@
       "k": [
         "trade"
       ],
-      "i": 30,
+      "i": 28,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -4868,7 +7532,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 23,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -4898,7 +7562,7 @@
         "trade",
         "markets"
       ],
-      "i": 22,
+      "i": 21,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -4923,7 +7587,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -4952,7 +7616,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 23,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -4982,7 +7646,7 @@
         "banking",
         "corporate"
       ],
-      "i": 32,
+      "i": 31,
       "rl": "single",
       "fl": [
         "country_auto",
@@ -5013,7 +7677,7 @@
       "k": [
         "banking"
       ],
-      "i": 30,
+      "i": 28,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -5040,7 +7704,7 @@
         "eu"
       ],
       "k": [],
-      "i": 19,
+      "i": 17,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -5065,7 +7729,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 18,
+      "i": 16,
       "rl": "multi",
       "fl": [
         "country_unknown"
@@ -5090,7 +7754,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -5117,7 +7781,7 @@
       "k": [
         "jobs"
       ],
-      "i": 24,
+      "i": 23,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -5148,7 +7812,7 @@
       "k": [
         "energy"
       ],
-      "i": 21,
+      "i": 20,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -5176,7 +7840,7 @@
         "jobs",
         "markets"
       ],
-      "i": 29,
+      "i": 28,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -5201,7 +7865,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -5230,7 +7894,7 @@
       "k": [
         "monetary"
       ],
-      "i": 24,
+      "i": 23,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -5259,7 +7923,7 @@
       "k": [
         "inflation"
       ],
-      "i": 24,
+      "i": 23,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -5291,7 +7955,7 @@
         "macro",
         "markets"
       ],
-      "i": 24,
+      "i": 23,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -5318,7 +7982,7 @@
         "europe-other"
       ],
       "k": [],
-      "i": 32,
+      "i": 30,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -5347,7 +8011,7 @@
       "k": [
         "inflation"
       ],
-      "i": 24,
+      "i": 23,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -5376,7 +8040,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 23,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -5405,7 +8069,7 @@
         "latin-america"
       ],
       "k": [],
-      "i": 14,
+      "i": 13,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -5427,7 +8091,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 13,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -5456,7 +8120,7 @@
       "k": [
         "macro"
       ],
-      "i": 24,
+      "i": 23,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -5485,7 +8149,7 @@
       "k": [
         "jobs"
       ],
-      "i": 28,
+      "i": 26,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -5510,7 +8174,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -5539,7 +8203,7 @@
         "africa"
       ],
       "k": [],
-      "i": 18,
+      "i": 16,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -5549,36 +8213,6 @@
       "nc": 1,
       "ns": 0,
       "f": "2026-11-07T15:15:00Z",
-      "l": "2026-11-07T15:15:00Z",
-      "st": "active",
-      "v": 1,
-      "np": 1
-    },
-    {
-      "id": "s20261107-be9a16abdf",
-      "ty": "story",
-      "t": "New Zealand: Employment and wages",
-      "tl": "en",
-      "o": "cna_sg",
-      "label": "New Zealand: Employment and wages",
-      "c": [
-        "NZ"
-      ],
-      "g": [
-        "asia-pacific"
-      ],
-      "k": [
-        "jobs"
-      ],
-      "i": 35,
-      "rl": "multi",
-      "me": 1,
-      "et": "election",
-      "n": 3,
-      "ni": 3,
-      "nc": 2,
-      "ns": 0,
-      "f": "2026-11-07T13:45:00Z",
       "l": "2026-11-07T15:15:00Z",
       "st": "active",
       "v": 1,
@@ -5598,7 +8232,7 @@
         "north-america"
       ],
       "k": [],
-      "i": 32,
+      "i": 30,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -5625,7 +8259,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -5650,7 +8284,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -5681,7 +8315,7 @@
       "k": [
         "jobs"
       ],
-      "i": 31,
+      "i": 30,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -5708,7 +8342,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -5733,7 +8367,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -5760,7 +8394,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 23,
+      "i": 21,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -5785,7 +8419,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -5810,7 +8444,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -5835,7 +8469,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -5865,7 +8499,7 @@
         "fiscal",
         "markets"
       ],
-      "i": 23,
+      "i": 21,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -5890,7 +8524,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -5920,7 +8554,7 @@
         "jobs",
         "industry"
       ],
-      "i": 24,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -5945,7 +8579,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -5976,7 +8610,7 @@
       "k": [
         "trade"
       ],
-      "i": 22,
+      "i": 20,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -5998,7 +8632,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -6023,7 +8657,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -6048,7 +8682,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -6078,7 +8712,7 @@
         "eu"
       ],
       "k": [],
-      "i": 17,
+      "i": 15,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -6103,7 +8737,7 @@
       "k": [
         "markets"
       ],
-      "i": 21,
+      "i": 19,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -6130,7 +8764,7 @@
       "k": [
         "markets"
       ],
-      "i": 21,
+      "i": 19,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -6161,7 +8795,7 @@
       "k": [
         "markets"
       ],
-      "i": 21,
+      "i": 19,
       "rl": "single",
       "fl": [
         "forecast_language"
@@ -6186,7 +8820,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -6211,7 +8845,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -6243,7 +8877,7 @@
         "middle-east"
       ],
       "k": [],
-      "i": 39,
+      "i": 38,
       "rl": "multi",
       "me": 1,
       "et": "conflict",
@@ -6273,7 +8907,7 @@
       "k": [
         "markets"
       ],
-      "i": 21,
+      "i": 19,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -6295,7 +8929,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -6326,7 +8960,7 @@
       "k": [
         "markets"
       ],
-      "i": 21,
+      "i": 19,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -6352,7 +8986,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 23,
+      "i": 21,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -6382,7 +9016,7 @@
         "housing",
         "markets"
       ],
-      "i": 22,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -6407,7 +9041,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -6432,7 +9066,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -6462,7 +9096,7 @@
         "europe-other"
       ],
       "k": [],
-      "i": 32,
+      "i": 31,
       "rl": "multi",
       "me": 1,
       "et": "conflict",
@@ -6486,7 +9120,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -6515,7 +9149,7 @@
       "k": [
         "inflation"
       ],
-      "i": 24,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -6546,7 +9180,7 @@
       "k": [
         "inflation"
       ],
-      "i": 24,
+      "i": 22,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -6568,7 +9202,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -6599,7 +9233,7 @@
       "k": [
         "inflation"
       ],
-      "i": 24,
+      "i": 22,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -6621,7 +9255,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -6646,7 +9280,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -6675,7 +9309,7 @@
       "k": [
         "jobs"
       ],
-      "i": 24,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -6704,7 +9338,7 @@
       "k": [
         "corporate"
       ],
-      "i": 18,
+      "i": 16,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -6733,7 +9367,7 @@
       "k": [
         "monetary"
       ],
-      "i": 24,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -6746,34 +9380,6 @@
       "l": "2026-11-07T13:30:00Z",
       "st": "active",
       "v": 1,
-      "np": 1
-    },
-    {
-      "id": "s20261107-af238c45e9",
-      "ty": "story",
-      "t": "Argentina: Inequality",
-      "tl": "en",
-      "o": "clarin",
-      "label": "Argentina: Inequality",
-      "c": [
-        "AR"
-      ],
-      "g": [
-        "latin-america"
-      ],
-      "k": [
-        "inequality"
-      ],
-      "i": 20,
-      "rl": "single",
-      "n": 1,
-      "ni": 1,
-      "nc": 1,
-      "ns": 1,
-      "f": "2026-11-07T12:30:00Z",
-      "l": "2026-11-07T13:30:00Z",
-      "st": "active",
-      "v": 2,
       "np": 1
     },
     {
@@ -6791,7 +9397,7 @@
         "energy",
         "markets"
       ],
-      "i": 21,
+      "i": 19,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -6816,7 +9422,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -6846,7 +9452,7 @@
       "k": [
         "development"
       ],
-      "i": 20,
+      "i": 18,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -6877,7 +9483,7 @@
       "k": [
         "markets"
       ],
-      "i": 21,
+      "i": 19,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -6901,7 +9507,7 @@
         "africa"
       ],
       "k": [],
-      "i": 18,
+      "i": 16,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -6928,7 +9534,7 @@
       "k": [
         "tech"
       ],
-      "i": 19,
+      "i": 17,
       "rl": "single",
       "fl": [
         "country_unknown",
@@ -6954,7 +9560,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -6984,7 +9590,7 @@
       "k": [
         "inflation"
       ],
-      "i": 31,
+      "i": 30,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -7015,7 +9621,7 @@
       "k": [
         "jobs"
       ],
-      "i": 24,
+      "i": 22,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -7043,7 +9649,7 @@
       "k": [
         "debt"
       ],
-      "i": 23,
+      "i": 21,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -7071,7 +9677,7 @@
       "k": [
         "corporate"
       ],
-      "i": 18,
+      "i": 16,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -7097,7 +9703,7 @@
       "k": [
         "inflation"
       ],
-      "i": 34,
+      "i": 32,
       "rl": "single",
       "fl": [
         "country_auto",
@@ -7127,7 +9733,7 @@
       "k": [
         "jobs"
       ],
-      "i": 24,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -7152,7 +9758,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -7183,34 +9789,6 @@
       "k": [
         "cost-of-living"
       ],
-      "i": 23,
-      "rl": "single",
-      "n": 1,
-      "ni": 1,
-      "nc": 1,
-      "ns": 0,
-      "f": "2026-11-07T13:00:00Z",
-      "l": "2026-11-07T13:00:00Z",
-      "st": "active",
-      "v": 1,
-      "np": 1
-    },
-    {
-      "id": "s20261107-6df1f57418",
-      "ty": "story",
-      "t": "India: Financial markets",
-      "tl": "en",
-      "o": "hindustantimes",
-      "label": "India: Financial markets",
-      "c": [
-        "IN"
-      ],
-      "g": [
-        "asia-pacific"
-      ],
-      "k": [
-        "markets"
-      ],
       "i": 21,
       "rl": "single",
       "n": 1,
@@ -7224,37 +9802,6 @@
       "np": 1
     },
     {
-      "id": "s20261107-97914e3155",
-      "ty": "story",
-      "t": "India: Housing",
-      "tl": "en",
-      "o": "et",
-      "label": "India: Housing",
-      "c": [
-        "IN"
-      ],
-      "g": [
-        "asia-pacific"
-      ],
-      "k": [
-        "housing"
-      ],
-      "i": 29,
-      "rl": "multi",
-      "fl": [
-        "forecast_language"
-      ],
-      "n": 3,
-      "ni": 3,
-      "nc": 1,
-      "ns": 1,
-      "f": "2026-11-07T08:30:00Z",
-      "l": "2026-11-07T13:00:00Z",
-      "st": "active",
-      "v": 3,
-      "np": 1
-    },
-    {
       "id": "s20261107-dfb047b537",
       "ty": "story",
       "t": "Place not identified: Economy",
@@ -7264,7 +9811,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -7293,7 +9840,7 @@
       "k": [
         "monetary"
       ],
-      "i": 24,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -7322,7 +9869,7 @@
         "eu"
       ],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -7350,7 +9897,7 @@
       "k": [
         "energy"
       ],
-      "i": 20,
+      "i": 18,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -7379,7 +9926,7 @@
         "markets",
         "energy"
       ],
-      "i": 20,
+      "i": 18,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -7405,7 +9952,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -7433,7 +9980,7 @@
       "k": [
         "markets"
       ],
-      "i": 21,
+      "i": 19,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -7446,35 +9993,6 @@
       "np": 1
     },
     {
-      "id": "s20261107-c30832c383",
-      "ty": "story",
-      "t": "India: Financial markets",
-      "tl": "en",
-      "o": "mint",
-      "label": "India: Financial markets",
-      "c": [
-        "IN"
-      ],
-      "g": [
-        "asia-pacific"
-      ],
-      "k": [
-        "markets",
-        "trade"
-      ],
-      "i": 25,
-      "rl": "multi",
-      "n": 2,
-      "ni": 2,
-      "nc": 1,
-      "ns": 0,
-      "f": "2026-11-07T08:45:00Z",
-      "l": "2026-11-07T12:45:00Z",
-      "st": "active",
-      "v": 3,
-      "np": 1
-    },
-    {
       "id": "s20261107-e0626d79a7",
       "ty": "story",
       "t": "Place not identified: Economy",
@@ -7484,7 +10002,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -7513,7 +10031,7 @@
       "k": [
         "jobs"
       ],
-      "i": 24,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -7538,7 +10056,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 18,
+      "i": 16,
       "rl": "multi",
       "fl": [
         "country_unknown"
@@ -7548,35 +10066,6 @@
       "nc": 1,
       "ns": 0,
       "f": "2026-11-07T11:45:00Z",
-      "l": "2026-11-07T12:30:00Z",
-      "st": "active",
-      "v": 1,
-      "np": 1
-    },
-    {
-      "id": "s20261107-34aa8df69c",
-      "ty": "story",
-      "t": "Russia: Inflation",
-      "tl": "en",
-      "o": "portfolio",
-      "label": "Russia: Inflation",
-      "c": [],
-      "g": [
-        "europe-other"
-      ],
-      "k": [
-        "inflation"
-      ],
-      "i": 24,
-      "rl": "single",
-      "fl": [
-        "country_auto"
-      ],
-      "n": 1,
-      "ni": 1,
-      "nc": 1,
-      "ns": 0,
-      "f": "2026-11-07T12:30:00Z",
       "l": "2026-11-07T12:30:00Z",
       "st": "active",
       "v": 1,
@@ -7597,7 +10086,7 @@
         "monetary",
         "markets"
       ],
-      "i": 24,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -7627,7 +10116,7 @@
       "k": [
         "monetary"
       ],
-      "i": 31,
+      "i": 29,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -7654,7 +10143,7 @@
       "k": [
         "jobs"
       ],
-      "i": 24,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -7685,7 +10174,7 @@
       "k": [
         "banking"
       ],
-      "i": 22,
+      "i": 20,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -7713,7 +10202,7 @@
       "k": [
         "markets"
       ],
-      "i": 19,
+      "i": 18,
       "rl": "single",
       "n": 4,
       "ni": 1,
@@ -7740,7 +10229,7 @@
         "fiscal",
         "energy"
       ],
-      "i": 23,
+      "i": 21,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -7767,7 +10256,7 @@
         "eu"
       ],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -7796,7 +10285,7 @@
       "k": [
         "cost-of-living"
       ],
-      "i": 23,
+      "i": 21,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -7829,7 +10318,7 @@
       "k": [
         "inflation"
       ],
-      "i": 31,
+      "i": 29,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -7851,7 +10340,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -7883,7 +10372,7 @@
         "banking",
         "markets"
       ],
-      "i": 22,
+      "i": 20,
       "rl": "single",
       "fl": [
         "forecast_language"
@@ -7910,7 +10399,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -7939,7 +10428,7 @@
       "k": [
         "trade"
       ],
-      "i": 22,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -7966,7 +10455,7 @@
       "k": [
         "energy"
       ],
-      "i": 21,
+      "i": 19,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -7998,7 +10487,7 @@
         "cost-of-living",
         "energy"
       ],
-      "i": 23,
+      "i": 21,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -8024,7 +10513,7 @@
       "k": [
         "energy"
       ],
-      "i": 20,
+      "i": 18,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -8051,7 +10540,7 @@
       "k": [
         "housing"
       ],
-      "i": 22,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -8076,7 +10565,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -8101,7 +10590,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -8130,7 +10619,7 @@
       "k": [
         "corporate"
       ],
-      "i": 18,
+      "i": 16,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -8159,7 +10648,7 @@
         "eu"
       ],
       "k": [],
-      "i": 19,
+      "i": 17,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -8187,7 +10676,7 @@
       "k": [
         "macro"
       ],
-      "i": 24,
+      "i": 22,
       "rl": "single",
       "fl": [
         "forecast_language"
@@ -8216,7 +10705,7 @@
         "middle-east"
       ],
       "k": [],
-      "i": 31,
+      "i": 29,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -8249,7 +10738,7 @@
       "k": [
         "jobs"
       ],
-      "i": 24,
+      "i": 22,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -8275,7 +10764,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 23,
+      "i": 21,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -8307,7 +10796,7 @@
         "middle-east"
       ],
       "k": [],
-      "i": 21,
+      "i": 19,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -8335,7 +10824,7 @@
       "k": [
         "jobs"
       ],
-      "i": 24,
+      "i": 22,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -8359,7 +10848,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 14,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -8387,7 +10876,7 @@
         "macro",
         "jobs"
       ],
-      "i": 23,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -8416,7 +10905,7 @@
       "k": [
         "inflation"
       ],
-      "i": 33,
+      "i": 32,
       "rl": "single",
       "fl": [
         "country_auto",
@@ -8446,7 +10935,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 22,
+      "i": 21,
       "rl": "single",
       "fl": [
         "country_auto",
@@ -8476,7 +10965,7 @@
       "k": [
         "banking"
       ],
-      "i": 21,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -8489,34 +10978,6 @@
       "l": "2026-11-07T12:00:00Z",
       "st": "active",
       "v": 1,
-      "np": 1
-    },
-    {
-      "id": "s20261107-6396214c6b",
-      "ty": "story",
-      "t": "India: Corporate finance",
-      "tl": "en",
-      "o": "et",
-      "label": "India: Corporate finance",
-      "c": [
-        "IN"
-      ],
-      "g": [
-        "asia-pacific"
-      ],
-      "k": [
-        "corporate"
-      ],
-      "i": 17,
-      "rl": "single",
-      "n": 1,
-      "ni": 1,
-      "nc": 1,
-      "ns": 1,
-      "f": "2026-11-07T08:45:00Z",
-      "l": "2026-11-07T12:00:00Z",
-      "st": "active",
-      "v": 2,
       "np": 1
     },
     {
@@ -8535,7 +10996,7 @@
       "k": [
         "markets"
       ],
-      "i": 20,
+      "i": 19,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -8559,7 +11020,7 @@
       "k": [
         "monetary"
       ],
-      "i": 23,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -8588,7 +11049,7 @@
       "k": [
         "inflation"
       ],
-      "i": 23,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -8617,7 +11078,7 @@
       "k": [
         "inflation"
       ],
-      "i": 23,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -8646,7 +11107,7 @@
       "k": [
         "energy"
       ],
-      "i": 20,
+      "i": 19,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -8677,7 +11138,7 @@
       "k": [
         "macro"
       ],
-      "i": 23,
+      "i": 22,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -8703,7 +11164,7 @@
       "k": [
         "inflation"
       ],
-      "i": 33,
+      "i": 32,
       "rl": "single",
       "fl": [
         "global"
@@ -8732,7 +11193,7 @@
         "latin-america"
       ],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "single",
       "fl": [
         "opinion"
@@ -8763,7 +11224,7 @@
       "k": [
         "globalisation"
       ],
-      "i": 19,
+      "i": 18,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -8787,7 +11248,7 @@
       "k": [
         "housing"
       ],
-      "i": 21,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -8812,7 +11273,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -8837,7 +11298,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -8862,7 +11323,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -8896,7 +11357,7 @@
       "k": [
         "development"
       ],
-      "i": 37,
+      "i": 35,
       "rl": "multi",
       "fl": [
         "global"
@@ -8925,7 +11386,7 @@
       "k": [
         "banking"
       ],
-      "i": 21,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -8956,7 +11417,7 @@
       "k": [
         "macro"
       ],
-      "i": 23,
+      "i": 22,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -8984,7 +11445,7 @@
       "k": [
         "housing"
       ],
-      "i": 21,
+      "i": 20,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -9012,7 +11473,7 @@
       "k": [
         "rates"
       ],
-      "i": 23,
+      "i": 22,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -9034,7 +11495,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -9059,7 +11520,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -9090,7 +11551,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 22,
+      "i": 21,
       "rl": "single",
       "fl": [
         "forecast_language"
@@ -9122,7 +11583,7 @@
         "markets",
         "corporate"
       ],
-      "i": 20,
+      "i": 18,
       "rl": "single",
       "n": 2,
       "ni": 1,
@@ -9148,7 +11609,7 @@
       "k": [
         "energy"
       ],
-      "i": 30,
+      "i": 29,
       "rl": "single",
       "fl": [
         "country_auto",
@@ -9181,7 +11642,7 @@
         "corporate",
         "energy"
       ],
-      "i": 20,
+      "i": 19,
       "rl": "single",
       "fl": [
         "forecast_language"
@@ -9210,7 +11671,7 @@
       "k": [
         "energy"
       ],
-      "i": 20,
+      "i": 19,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -9235,7 +11696,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -9266,7 +11727,7 @@
       "k": [
         "tech"
       ],
-      "i": 18,
+      "i": 17,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -9295,7 +11756,7 @@
         "banking",
         "markets"
       ],
-      "i": 21,
+      "i": 20,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -9323,7 +11784,7 @@
       "k": [
         "corporate"
       ],
-      "i": 17,
+      "i": 16,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -9345,7 +11806,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -9370,7 +11831,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -9400,7 +11861,7 @@
         "markets",
         "tech"
       ],
-      "i": 24,
+      "i": 23,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -9431,7 +11892,7 @@
       "k": [
         "markets"
       ],
-      "i": 19,
+      "i": 18,
       "rl": "single",
       "fl": [
         "forecast_language"
@@ -9465,7 +11926,7 @@
       "k": [
         "banking"
       ],
-      "i": 28,
+      "i": 27,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -9487,7 +11948,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -9514,7 +11975,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 22,
+      "i": 21,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -9539,7 +12000,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -9568,7 +12029,7 @@
       "k": [
         "banking"
       ],
-      "i": 21,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -9598,7 +12059,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 18,
+      "i": 17,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -9623,7 +12084,7 @@
         "macro",
         "development"
       ],
-      "i": 23,
+      "i": 22,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -9648,7 +12109,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 11,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -9680,7 +12141,7 @@
         "markets",
         "tech"
       ],
-      "i": 20,
+      "i": 19,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -9702,7 +12163,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -9735,7 +12196,7 @@
         "trade",
         "markets"
       ],
-      "i": 23,
+      "i": 22,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -9757,7 +12218,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -9786,7 +12247,7 @@
       "k": [
         "corporate"
       ],
-      "i": 17,
+      "i": 16,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -9817,7 +12278,7 @@
       "k": [
         "corporate"
       ],
-      "i": 17,
+      "i": 16,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -9841,7 +12302,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 22,
+      "i": 21,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -9873,7 +12334,7 @@
         "corporate",
         "energy"
       ],
-      "i": 20,
+      "i": 19,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -9895,7 +12356,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -9928,7 +12389,7 @@
         "energy",
         "monetary"
       ],
-      "i": 26,
+      "i": 25,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -9959,7 +12420,7 @@
       "k": [
         "markets"
       ],
-      "i": 20,
+      "i": 18,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -9985,7 +12446,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 22,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -10017,7 +12478,7 @@
         "globalisation",
         "markets"
       ],
-      "i": 19,
+      "i": 18,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -10039,7 +12500,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 11,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -10068,7 +12529,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 25,
+      "i": 23,
       "rl": "multi",
       "fl": [
         "country_auto"
@@ -10099,7 +12560,7 @@
       "k": [
         "energy"
       ],
-      "i": 20,
+      "i": 18,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -10129,7 +12590,7 @@
       "k": [
         "markets"
       ],
-      "i": 27,
+      "i": 26,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -10151,7 +12612,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 11,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -10176,7 +12637,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 11,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -10208,41 +12669,13 @@
         "monetary",
         "markets"
       ],
-      "i": 23,
+      "i": 21,
       "rl": "single",
       "n": 1,
       "ni": 1,
       "nc": 1,
       "ns": 0,
       "f": "2026-11-07T09:15:00Z",
-      "l": "2026-11-07T09:15:00Z",
-      "st": "active",
-      "v": 2,
-      "np": 1
-    },
-    {
-      "id": "s20261107-ad64d7c6ff",
-      "ty": "story",
-      "t": "Taiwan: Financial markets",
-      "tl": "en",
-      "o": "hurriyetdaily",
-      "label": "Taiwan: Financial markets",
-      "c": [
-        "TW"
-      ],
-      "g": [
-        "asia-pacific"
-      ],
-      "k": [
-        "markets"
-      ],
-      "i": 28,
-      "rl": "multi",
-      "n": 2,
-      "ni": 2,
-      "nc": 2,
-      "ns": 3,
-      "f": "2026-11-07T06:45:00Z",
       "l": "2026-11-07T09:15:00Z",
       "st": "active",
       "v": 2,
@@ -10258,7 +12691,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 11,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -10283,7 +12716,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 11,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -10310,7 +12743,7 @@
       "k": [
         "markets"
       ],
-      "i": 20,
+      "i": 18,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -10335,7 +12768,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 11,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -10364,7 +12797,7 @@
         "eu"
       ],
       "k": [],
-      "i": 13,
+      "i": 11,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -10390,7 +12823,7 @@
       "k": [
         "cost-of-living"
       ],
-      "i": 22,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -10423,7 +12856,7 @@
         "rates",
         "debt"
       ],
-      "i": 23,
+      "i": 21,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -10450,7 +12883,7 @@
         "markets",
         "energy"
       ],
-      "i": 20,
+      "i": 18,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -10483,7 +12916,7 @@
       "k": [
         "trade"
       ],
-      "i": 28,
+      "i": 27,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -10510,7 +12943,7 @@
         "macro",
         "energy"
       ],
-      "i": 23,
+      "i": 21,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -10541,7 +12974,7 @@
       "k": [
         "monetary"
       ],
-      "i": 22,
+      "i": 21,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -10569,7 +13002,7 @@
       "k": [
         "corporate"
       ],
-      "i": 17,
+      "i": 15,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -10595,7 +13028,7 @@
       "k": [
         "energy"
       ],
-      "i": 20,
+      "i": 18,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -10626,7 +13059,7 @@
       "k": [
         "energy"
       ],
-      "i": 20,
+      "i": 18,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -10654,7 +13087,7 @@
       "k": [
         "markets"
       ],
-      "i": 20,
+      "i": 18,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -10676,7 +13109,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 11,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -10705,7 +13138,7 @@
       "k": [
         "energy"
       ],
-      "i": 20,
+      "i": 18,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -10737,7 +13170,7 @@
         "jobs",
         "markets"
       ],
-      "i": 23,
+      "i": 21,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -10759,7 +13192,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 11,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -10791,7 +13224,7 @@
       "k": [
         "trade"
       ],
-      "i": 26,
+      "i": 24,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -10820,7 +13253,7 @@
         "markets",
         "energy"
       ],
-      "i": 20,
+      "i": 18,
       "rl": "single",
       "fl": [
         "forecast_language"
@@ -10849,7 +13282,7 @@
       "k": [
         "debt"
       ],
-      "i": 22,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -10882,7 +13315,7 @@
       "k": [
         "energy"
       ],
-      "i": 27,
+      "i": 26,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -10906,7 +13339,7 @@
       "k": [
         "rates"
       ],
-      "i": 23,
+      "i": 21,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -10919,36 +13352,6 @@
       "l": "2026-11-07T07:30:00Z",
       "st": "active",
       "v": 1,
-      "np": 1
-    },
-    {
-      "id": "s20261107-cd4e1fd0d4",
-      "ty": "story",
-      "t": "United States: Trade",
-      "tl": "en",
-      "o": "cna_sg",
-      "label": "United States: Trade",
-      "c": [
-        "US",
-        "CN"
-      ],
-      "g": [
-        "north-america",
-        "asia-pacific"
-      ],
-      "k": [
-        "trade"
-      ],
-      "i": 28,
-      "rl": "single",
-      "n": 1,
-      "ni": 1,
-      "nc": 1,
-      "ns": 0,
-      "f": "2026-11-07T07:30:00Z",
-      "l": "2026-11-07T07:30:00Z",
-      "st": "active",
-      "v": 2,
       "np": 1
     },
     {
@@ -10967,7 +13370,7 @@
       "k": [
         "energy"
       ],
-      "i": 20,
+      "i": 18,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -10989,7 +13392,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 13,
+      "i": 11,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -11020,7 +13423,7 @@
       "k": [
         "tech"
       ],
-      "i": 18,
+      "i": 16,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -11044,7 +13447,7 @@
       "k": [
         "markets"
       ],
-      "i": 19,
+      "i": 18,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -11075,7 +13478,7 @@
       "k": [
         "energy"
       ],
-      "i": 19,
+      "i": 18,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -11103,7 +13506,7 @@
         "fiscal",
         "energy"
       ],
-      "i": 21,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -11133,7 +13536,7 @@
         "micro",
         "fiscal"
       ],
-      "i": 21,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -11161,7 +13564,7 @@
         "debt",
         "trade"
       ],
-      "i": 21,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -11193,7 +13596,7 @@
         "macro",
         "corporate"
       ],
-      "i": 22,
+      "i": 21,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -11219,7 +13622,7 @@
         "north-america"
       ],
       "k": [],
-      "i": 12,
+      "i": 11,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -11245,7 +13648,7 @@
       "k": [
         "debt"
       ],
-      "i": 26,
+      "i": 25,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -11274,7 +13677,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 12,
+      "i": 11,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -11302,7 +13705,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 21,
+      "i": 20,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -11329,7 +13732,7 @@
       "k": [
         "banking"
       ],
-      "i": 28,
+      "i": 27,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -11358,7 +13761,7 @@
       "k": [
         "trade"
       ],
-      "i": 20,
+      "i": 19,
       "rl": "single",
       "fl": [
         "country_auto"
@@ -11391,7 +13794,7 @@
         "housing",
         "markets"
       ],
-      "i": 21,
+      "i": 20,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -11420,7 +13823,7 @@
       "k": [
         "markets"
       ],
-      "i": 29,
+      "i": 28,
       "rl": "single",
       "fl": [
         "global"
@@ -11453,7 +13856,7 @@
         "markets",
         "globalisation"
       ],
-      "i": 25,
+      "i": 23,
       "rl": "multi",
       "n": 2,
       "ni": 2,
@@ -11481,7 +13884,7 @@
       "k": [
         "energy"
       ],
-      "i": 19,
+      "i": 18,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -11506,7 +13909,7 @@
         "macro",
         "fiscal"
       ],
-      "i": 22,
+      "i": 21,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -11517,7 +13920,7 @@
       "ns": 0,
       "f": "2026-11-07T05:00:00Z",
       "l": "2026-11-07T05:00:00Z",
-      "st": "active",
+      "st": "quiet",
       "v": 2,
       "np": 1
     },
@@ -11531,7 +13934,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 12,
+      "i": 11,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -11542,7 +13945,7 @@
       "ns": 0,
       "f": "2026-11-07T04:45:00Z",
       "l": "2026-11-07T04:45:00Z",
-      "st": "active",
+      "st": "quiet",
       "v": 1,
       "np": 1
     },
@@ -11558,7 +13961,7 @@
       "k": [
         "energy"
       ],
-      "i": 19,
+      "i": 18,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -11569,7 +13972,7 @@
       "ns": 0,
       "f": "2026-11-07T04:30:00Z",
       "l": "2026-11-07T04:30:00Z",
-      "st": "active",
+      "st": "quiet",
       "v": 1,
       "np": 1
     },
@@ -11583,7 +13986,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 12,
+      "i": 11,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -11594,36 +13997,8 @@
       "ns": 0,
       "f": "2026-11-07T04:15:00Z",
       "l": "2026-11-07T04:15:00Z",
-      "st": "active",
+      "st": "quiet",
       "v": 1,
-      "np": 1
-    },
-    {
-      "id": "s20261107-6baff4a01d",
-      "ty": "story",
-      "t": "Place not identified: Interest rates",
-      "tl": "en",
-      "o": "bbc",
-      "label": "Place not identified: Interest rates",
-      "c": [],
-      "g": [],
-      "k": [
-        "rates",
-        "housing"
-      ],
-      "i": 22,
-      "rl": "single",
-      "fl": [
-        "country_unknown"
-      ],
-      "n": 1,
-      "ni": 1,
-      "nc": 1,
-      "ns": 0,
-      "f": "2026-11-07T01:30:00Z",
-      "l": "2026-11-07T01:30:00Z",
-      "st": "active",
-      "v": 2,
       "np": 1
     },
     {
@@ -11643,7 +14018,7 @@
       "k": [
         "jobs"
       ],
-      "i": 30,
+      "i": 29,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -11672,7 +14047,7 @@
         "monetary",
         "rates"
       ],
-      "i": 30,
+      "i": 29,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -11701,7 +14076,7 @@
         "monetary",
         "rates"
       ],
-      "i": 30,
+      "i": 29,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -11730,7 +14105,7 @@
         "monetary",
         "rates"
       ],
-      "i": 30,
+      "i": 29,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -11753,7 +14128,7 @@
       "k": [
         "jobs"
       ],
-      "i": 21,
+      "i": 20,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -11764,34 +14139,6 @@
       "ns": 0,
       "f": "2026-11-06T20:00:00Z",
       "l": "2026-11-06T20:00:00Z",
-      "st": "quiet",
-      "v": 1,
-      "np": 1
-    },
-    {
-      "id": "s20261106-cc73a5c54f",
-      "ty": "story",
-      "t": "United States: Financial markets",
-      "tl": "en",
-      "o": "bbc",
-      "label": "United States: Financial markets",
-      "c": [
-        "US"
-      ],
-      "g": [
-        "north-america"
-      ],
-      "k": [
-        "markets"
-      ],
-      "i": 17,
-      "rl": "single",
-      "n": 1,
-      "ni": 1,
-      "nc": 1,
-      "ns": 0,
-      "f": "2026-11-06T18:30:00Z",
-      "l": "2026-11-06T18:30:00Z",
       "st": "quiet",
       "v": 1,
       "np": 1
@@ -11836,7 +14183,7 @@
         "eu"
       ],
       "k": [],
-      "i": 15,
+      "i": 14,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -11863,7 +14210,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -11889,7 +14236,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -11915,7 +14262,7 @@
         "eu"
       ],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -11941,7 +14288,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -11967,7 +14314,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -11993,7 +14340,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 12,
+      "i": 11,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -12019,7 +14366,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -12042,7 +14389,7 @@
         "global"
       ],
       "k": [],
-      "i": 20,
+      "i": 19,
       "rl": "single",
       "fl": [
         "global"
@@ -12072,7 +14419,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -12098,7 +14445,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 13,
+      "i": 12,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -12126,7 +14473,7 @@
         "middle-east"
       ],
       "k": [],
-      "i": 17,
+      "i": 16,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -12152,7 +14499,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 10,
+      "i": 9,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -12181,7 +14528,7 @@
       "k": [
         "cost-of-living"
       ],
-      "i": 22,
+      "i": 21,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -12206,7 +14553,7 @@
         "eu"
       ],
       "k": [],
-      "i": 10,
+      "i": 9,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -12232,7 +14579,7 @@
         "eu"
       ],
       "k": [],
-      "i": 15,
+      "i": 14,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -12259,7 +14606,7 @@
         "europe-other"
       ],
       "k": [],
-      "i": 19,
+      "i": 18,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -12285,7 +14632,7 @@
         "europe-other"
       ],
       "k": [],
-      "i": 19,
+      "i": 18,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -13380,7 +15727,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 9,
+      "i": 8,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -13405,7 +15752,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 9,
+      "i": 8,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -13430,7 +15777,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 9,
+      "i": 8,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -13455,7 +15802,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 9,
+      "i": 8,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -13480,7 +15827,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 9,
+      "i": 8,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -13505,7 +15852,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 9,
+      "i": 8,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -13535,7 +15882,7 @@
         "asia-pacific"
       ],
       "k": [],
-      "i": 12,
+      "i": 11,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -13588,7 +15935,7 @@
         "north-america"
       ],
       "k": [],
-      "i": 12,
+      "i": 11,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -13616,7 +15963,7 @@
       "k": [
         "macro"
       ],
-      "i": 28,
+      "i": 27,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -13644,7 +15991,7 @@
       "k": [
         "jobs"
       ],
-      "i": 28,
+      "i": 27,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -13672,7 +16019,7 @@
       "k": [
         "jobs"
       ],
-      "i": 28,
+      "i": 27,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -13859,7 +16206,7 @@
         "inflation",
         "rates"
       ],
-      "i": 41,
+      "i": 40,
       "rl": "linked",
       "ol": {
         "news": "26d3012260db32ae"
@@ -14008,7 +16355,7 @@
         "monetary",
         "rates"
       ],
-      "i": 41,
+      "i": 40,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -14033,7 +16380,7 @@
         "africa"
       ],
       "k": [],
-      "i": 8,
+      "i": 7,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -14088,7 +16435,7 @@
         "europe-other"
       ],
       "k": [],
-      "i": 11,
+      "i": 10,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -14113,7 +16460,7 @@
         "north-america"
       ],
       "k": [],
-      "i": 8,
+      "i": 7,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -14139,7 +16486,7 @@
         "eu"
       ],
       "k": [],
-      "i": 8,
+      "i": 7,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -14148,6 +16495,31 @@
       "f": "2026-11-05T09:45:00Z",
       "l": "2026-11-05T09:45:00Z",
       "st": "quiet",
+      "v": 1,
+      "np": 1
+    },
+    {
+      "id": "s20261105-232c86fe7f",
+      "ty": "story",
+      "t": "Place not identified: Economy",
+      "tl": "en",
+      "o": "bbc",
+      "label": "Place not identified: Economy",
+      "c": [],
+      "g": [],
+      "k": [],
+      "i": 7,
+      "rl": "single",
+      "fl": [
+        "country_unknown"
+      ],
+      "n": 1,
+      "ni": 1,
+      "nc": 1,
+      "ns": 0,
+      "f": "2026-11-05T09:45:00Z",
+      "l": "2026-11-05T09:45:00Z",
+      "st": "new",
       "v": 1,
       "np": 1
     },
@@ -14166,7 +16538,7 @@
         "europe-other"
       ],
       "k": [],
-      "i": 17,
+      "i": 16,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -14192,7 +16564,7 @@
         "europe-other"
       ],
       "k": [],
-      "i": 17,
+      "i": 16,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -14218,7 +16590,7 @@
         "europe-other"
       ],
       "k": [],
-      "i": 17,
+      "i": 16,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -14244,7 +16616,7 @@
         "europe-other"
       ],
       "k": [],
-      "i": 17,
+      "i": 16,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -14270,7 +16642,7 @@
         "europe-other"
       ],
       "k": [],
-      "i": 11,
+      "i": 10,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -14299,7 +16671,7 @@
         "monetary",
         "rates"
       ],
-      "i": 27,
+      "i": 26,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -14325,7 +16697,7 @@
         "eu"
       ],
       "k": [],
-      "i": 11,
+      "i": 10,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -14352,7 +16724,7 @@
       "k": [
         "fiscal"
       ],
-      "i": 17,
+      "i": 16,
       "rl": "single",
       "n": 1,
       "ni": 1,
@@ -14379,7 +16751,7 @@
         "eu"
       ],
       "k": [],
-      "i": 11,
+      "i": 10,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -14400,7 +16772,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 8,
+      "i": 7,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -14430,7 +16802,7 @@
         "europe-other"
       ],
       "k": [],
-      "i": 17,
+      "i": 16,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -14456,7 +16828,7 @@
         "europe-other"
       ],
       "k": [],
-      "i": 17,
+      "i": 16,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -14482,7 +16854,7 @@
         "europe-other"
       ],
       "k": [],
-      "i": 17,
+      "i": 16,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -14508,7 +16880,7 @@
         "europe-other"
       ],
       "k": [],
-      "i": 17,
+      "i": 16,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -14536,7 +16908,7 @@
       "k": [
         "jobs"
       ],
-      "i": 27,
+      "i": 26,
       "rl": "official",
       "n": 0,
       "ni": 0,
@@ -14557,7 +16929,7 @@
       "c": [],
       "g": [],
       "k": [],
-      "i": 8,
+      "i": 7,
       "rl": "single",
       "fl": [
         "country_unknown"
@@ -14599,60 +16971,7 @@
       "cv": 0
     },
     {
-      "id": "s20261105-f5c4a094c3",
-      "ty": "story",
-      "t": "Place not identified: Fiscal policy",
-      "tl": "en",
-      "o": "bbc",
-      "label": "Place not identified: Fiscal policy",
-      "c": [],
-      "g": [],
-      "k": [
-        "fiscal",
-        "energy"
-      ],
-      "i": 17,
-      "rl": "single",
-      "fl": [
-        "country_unknown"
-      ],
-      "n": 1,
-      "ni": 1,
-      "nc": 1,
-      "ns": 0,
-      "f": "2026-11-05T06:00:00Z",
-      "l": "2026-11-05T06:00:00Z",
-      "st": "quiet",
-      "v": 2,
-      "np": 1
-    },
-    {
-      "id": "s20261105-66e0f8f69d",
-      "ty": "story",
-      "t": "Place not identified: Economy",
-      "tl": "en",
-      "o": "bbc",
-      "label": "Place not identified: Economy",
-      "c": [],
-      "g": [],
-      "k": [],
-      "i": 7,
-      "rl": "single",
-      "fl": [
-        "country_unknown"
-      ],
-      "n": 1,
-      "ni": 1,
-      "nc": 1,
-      "ns": 0,
-      "f": "2026-11-05T04:15:00Z",
-      "l": "2026-11-05T04:15:00Z",
-      "st": "quiet",
-      "v": 1,
-      "np": 1
-    },
-    {
-      "id": "s20261105-dc3a3ef7f3",
+      "id": "s20261105-2148c3fe12",
       "ty": "story",
       "t": "Place not identified: Economy",
       "tl": "en",
@@ -14670,35 +16989,34 @@
       "ni": 1,
       "nc": 1,
       "ns": 0,
-      "f": "2026-11-05T04:15:00Z",
-      "l": "2026-11-05T04:15:00Z",
-      "st": "quiet",
+      "f": "2026-11-05T06:45:00Z",
+      "l": "2026-11-05T06:45:00Z",
+      "st": "new",
       "v": 1,
       "np": 1
     },
     {
-      "id": "s20261105-6464a6797f",
+      "id": "s20261105-9895a960e2",
       "ty": "story",
-      "t": "Australia: Economy",
+      "t": "Place not identified: Economy",
       "tl": "en",
       "o": "bbc",
-      "label": "Australia: Economy",
-      "c": [
-        "AU"
-      ],
-      "g": [
-        "asia-pacific"
-      ],
+      "label": "Place not identified: Economy",
+      "c": [],
+      "g": [],
       "k": [],
       "i": 7,
       "rl": "single",
+      "fl": [
+        "country_unknown"
+      ],
       "n": 1,
       "ni": 1,
       "nc": 1,
       "ns": 0,
-      "f": "2026-11-05T00:45:00Z",
-      "l": "2026-11-05T00:45:00Z",
-      "st": "quiet",
+      "f": "2026-11-05T06:45:00Z",
+      "l": "2026-11-05T06:45:00Z",
+      "st": "new",
       "v": 1,
       "np": 1
     },
@@ -14727,34 +17045,6 @@
       "st": "active",
       "v": 1,
       "cv": 0
-    },
-    {
-      "id": "s20261104-cde0b81034",
-      "ty": "story",
-      "t": "Place not identified: Financial markets",
-      "tl": "en",
-      "o": "cnbc",
-      "label": "Place not identified: Financial markets",
-      "c": [],
-      "g": [],
-      "k": [
-        "markets"
-      ],
-      "i": 14,
-      "rl": "single",
-      "fl": [
-        "country_unknown",
-        "opinion"
-      ],
-      "n": 1,
-      "ni": 1,
-      "nc": 1,
-      "ns": 0,
-      "f": "2026-11-04T22:45:00Z",
-      "l": "2026-11-04T22:45:00Z",
-      "st": "quiet",
-      "v": 1,
-      "np": 1
     },
     {
       "id": "fbf83c3d91598e19",
@@ -15220,7 +17510,7 @@
         "north-america"
       ],
       "k": [],
-      "i": 10,
+      "i": 9,
       "rl": "official",
       "n": 0,
       "ni": 0,

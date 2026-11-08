@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Veritane economic calendar: Norway
 BEGIN:VEVENT
 UID:ssb_cal:release-214226-en@veritane
-DTSTAMP:20261107T215304Z
+DTSTAMP:20261108T060457Z
 DTSTART:20261110T070000Z
 SUMMARY:Norway consumer price index
 DESCRIPTION:How much the prices of everyday goods and services changed comp
@@ -19,7 +19,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ssb_cal:release-207791-en@veritane
-DTSTAMP:20261107T215304Z
+DTSTAMP:20261108T060457Z
 DTSTART:20261125T070000Z
 SUMMARY:Norway labour force survey
 DESCRIPTION:How many people have a job and how many are looking for one\, f
@@ -33,7 +33,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ssb_cal:release-218544-en@veritane
-DTSTAMP:20261107T215304Z
+DTSTAMP:20261108T060457Z
 DTSTART:20261126T070000Z
 SUMMARY:Norway national accounts
 DESCRIPTION:The total value of goods and services an economy produced in a 
@@ -47,7 +47,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:norges_cal:147916@veritane
-DTSTAMP:20261107T215304Z
+DTSTAMP:20261108T060457Z
 DTSTART:20261217T090000Z
 SUMMARY:Norges Bank interest-rate decision
 DESCRIPTION:Norges Bank announces its decision on the policy rate\, its mai

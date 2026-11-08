@@ -11,8 +11,8 @@
     "provider_id": "boe",
     "dataset": "IUDBEDR",
     "url": "https://www.bankofengland.co.uk/boeapps/database/",
-    "api_url": "https://www.bankofengland.co.uk/boeapps/database/_iadb-fromshowcolumns.asp?csv.x=yes&Datefrom=08/Nov/2025&Dateto=now&SeriesCodes=IUDBEDR,XUDLUSS&CSVF=TN&UsingCodes=Y&VPD=Y&VFD=N",
-    "retrieved_at": "2026-11-07T09:27:57Z"
+    "api_url": "https://www.bankofengland.co.uk/boeapps/database/_iadb-fromshowcolumns.asp?csv.x=yes&Datefrom=09/Nov/2025&Dateto=now&SeriesCodes=IUDBEDR,XUDLUSS&CSVF=TN&UsingCodes=Y&VPD=Y&VFD=N",
+    "retrieved_at": "2026-11-08T06:04:57Z"
   },
   "points": [
     [

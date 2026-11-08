@@ -6,7 +6,7 @@
     <atom:link href="https://william-lindberg.github.io/veritane/it/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notizie di economia e finanza generate automaticamente da fonti ufficiali, con riassunti neutrali secondo modelli fissi. A scopo educativo, non è consulenza.</description>
     <language>it</language>
-    <lastBuildDate>Sat, 07 Nov 2026 21:53:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 06:04:57 GMT</lastBuildDate>
     <item>
       <title>Australia: Cash rate target, 5 novembre 2026</title>
       <link>https://william-lindberg.github.io/veritane/it/news/1e9018df907d89d4/</link>
@@ -439,6 +439,13 @@
       <pubDate>Fri, 06 Nov 2026 07:00:00 GMT</pubDate>
       <description>Il 6 novembre 2026 Statistics Norway ha pubblicato «Index of industrial production». Fonte: Statistics Norway (https://www.ssb.no/en/energi-og-industri/industri-og-bergverksdrift/statistikk/produksjonsindeks-for-olje-og-gass-industri-bergverk-og-kraftforsyning). Generato automaticamente dalla fonte; revisione: non ancora rivisto.</description>
       <source url="https://www.ssb.no/en/energi-og-industri/industri-og-bergverksdrift/statistikk/produksjonsindeks-for-olje-og-gass-industri-bergverk-og-kraftforsyning">Statistics Norway</source>
+    </item>
+    <item>
+      <title>Oggi nell’economia: 7 novembre 2026</title>
+      <link>https://william-lindberg.github.io/veritane/it/news/today/2026-11-07/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/it/news/today/2026-11-07/</guid>
+      <pubDate>Sat, 07 Nov 2026 23:59:59 GMT</pubDate>
+      <description>1 nuovo dato ufficiale il 7 novembre 2026. Generato in automatico da fonti ufficiali. A scopo educativo, non è consulenza.</description>
     </item>
   </channel>
 </rss>

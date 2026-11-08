@@ -11,8 +11,8 @@
     "provider_id": "nyfed",
     "dataset": "FOMC target range (reported with EFFR)",
     "url": "https://www.newyorkfed.org/",
-    "api_url": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json?startDate=2025-09-03&endDate=2026-11-07",
-    "retrieved_at": "2026-11-07T09:27:57Z"
+    "api_url": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json?startDate=2025-09-04&endDate=2026-11-08",
+    "retrieved_at": "2026-11-08T06:04:57Z"
   },
   "points": [
     [

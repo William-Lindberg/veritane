@@ -11,8 +11,8 @@
     "provider_id": "riksbank",
     "dataset": "SECBREPOEFF (policy rate, effective)",
     "url": "https://www.riksbank.se/en-gb/statistics/",
-    "api_url": "https://api.riksbank.se/swea/v1/Observations/SECBREPOEFF/2025-10-03",
-    "retrieved_at": "2026-11-07T09:27:57Z"
+    "api_url": "https://api.riksbank.se/swea/v1/Observations/SECBREPOEFF/2025-10-04",
+    "retrieved_at": "2026-11-08T06:04:57Z"
   },
   "points": [
     [

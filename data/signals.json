@@ -1,6 +1,6 @@
 {
   "schema": "veritane/signals/1",
-  "generated_at": "2026-11-07T17:17:41Z",
+  "generated_at": "2026-11-08T06:04:57Z",
   "rules": {
     "version": "signals/1",
     "usgs_min_magnitude": 6,
@@ -14,59 +14,23 @@
     "gdacs": {
       "ok": true,
       "url": "https://www.gdacs.org/xml/rss.xml",
-      "signals": 4,
-      "retrieved_at": "2026-11-07T17:17:41Z"
+      "signals": 3,
+      "retrieved_at": "2026-11-08T06:04:57Z"
     },
     "usgs": {
       "ok": true,
       "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson",
       "signals": 0,
-      "retrieved_at": "2026-11-07T17:17:41Z"
+      "retrieved_at": "2026-11-08T06:04:57Z"
     },
     "eonet": {
       "ok": true,
       "url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=open&days=30",
       "signals": 2,
-      "retrieved_at": "2026-11-07T17:17:41Z"
+      "retrieved_at": "2026-11-08T06:04:57Z"
     }
   },
   "signals": [
-    {
-      "id": "gdacs-tc-1001346",
-      "source": "gdacs",
-      "hazard": "tropical_cyclone",
-      "level": "red",
-      "severity": "high",
-      "magnitude": {
-        "value": 157,
-        "unit": "km/h"
-      },
-      "name": "Murasu",
-      "lat": 15.8,
-      "lon": 80.2,
-      "xy": [
-        690,
-        175.4
-      ],
-      "country": "IN",
-      "near": false,
-      "regions": [
-        "asia-pacific"
-      ],
-      "place": "India",
-      "start": "2026-11-01T00:00:00Z",
-      "updated": "2026-11-04T06:01:20Z",
-      "end": "2026-11-03T06:00:00Z",
-      "url": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001346",
-      "label": "India: Tropical cyclone Murasu",
-      "also": [
-        {
-          "source": "eonet",
-          "url": "https://www.metoc.navy.mil/jtwc/products/io0426.tcw"
-        }
-      ],
-      "seen": "2026-11-07T17:17:41Z"
-    },
     {
       "id": "gdacs-dr-1027450",
       "source": "gdacs",
@@ -90,8 +54,8 @@
       ],
       "place": "East Africa, Central Sahel",
       "start": "2026-05-21T00:00:00Z",
-      "updated": "2026-11-07T05:57:21Z",
-      "end": "2026-11-05T00:00:00Z",
+      "updated": "2026-11-08T05:57:57Z",
+      "end": "2026-11-06T00:00:00Z",
       "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1027450",
       "label": "East Africa, Central Sahel: Drought",
       "seen": "2026-11-07T17:17:41Z"
@@ -120,8 +84,8 @@
       ],
       "place": "Central America",
       "start": "2026-04-21T00:00:00Z",
-      "updated": "2026-11-07T05:57:13Z",
-      "end": "2026-11-05T00:00:00Z",
+      "updated": "2026-11-08T05:57:47Z",
+      "end": "2026-11-06T00:00:00Z",
       "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1027449",
       "label": "Central America: Drought",
       "seen": "2026-11-07T17:17:41Z"
@@ -149,11 +113,41 @@
       ],
       "place": "Europe",
       "start": "2025-12-21T00:00:00Z",
-      "updated": "2026-11-07T05:57:03Z",
-      "end": "2026-11-05T00:00:00Z",
+      "updated": "2026-11-08T05:57:03Z",
+      "end": "2026-11-06T00:00:00Z",
       "url": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018332",
       "label": "Europe: Drought",
       "seen": "2026-11-07T17:17:41Z"
+    },
+    {
+      "id": "eonet-eonet-25964",
+      "source": "eonet",
+      "hazard": "severe_storm",
+      "level": null,
+      "severity": "info",
+      "magnitude": {
+        "value": 65,
+        "unit": "kts"
+      },
+      "name": "Murasu",
+      "lat": 15.8,
+      "lon": 80.2,
+      "xy": [
+        690,
+        175.4
+      ],
+      "country": "IN",
+      "near": false,
+      "regions": [
+        "asia-pacific"
+      ],
+      "place": "India",
+      "start": "2026-11-01T00:00:00Z",
+      "updated": "2026-11-03T06:00:00Z",
+      "url": "https://www.metoc.navy.mil/jtwc/products/io0426.tcw",
+      "via": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+      "label": "India: Storm Murasu",
+      "seen": "2026-11-08T06:04:57Z"
     },
     {
       "id": "eonet-eonet-25728",

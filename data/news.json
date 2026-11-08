@@ -1,6 +1,6 @@
 {
   "schema": "veritane/news/1",
-  "generated_at": "2026-11-07T21:53:04Z",
+  "generated_at": "2026-11-08T06:04:57Z",
   "template_version": "news-templates/1",
   "topics": {
     "policy_rate": "Interest rates",
@@ -5790,7 +5790,24 @@
       "reviewed_by": null,
       "reviewed_at": null,
       "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
-      "retrieved_at": "2026-11-06T22:31:21Z"
+      "retrieved_at": "2026-11-06T22:31:21Z",
+      "facts": [
+        {
+          "series_id": "us.policy_rate.target_upper",
+          "period": "2026-10-28",
+          "period_label": "28 October 2026",
+          "value": 4,
+          "unit": "%",
+          "decimals": 2,
+          "dataset": "FOMC target range (reported with EFFR)",
+          "retrieved_at": "2026-11-08T06:04:57Z",
+          "change": {
+            "value": 0,
+            "unit": "pp",
+            "direction": "unchanged"
+          }
+        }
+      ]
     },
     {
       "id": "334d5c81e639c2ee",
