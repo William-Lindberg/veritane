@@ -62,8 +62,5 @@
       <outline type="rss" text="Veritane News: Sudafrica" title="Veritane News: Sudafrica" xmlUrl="https://william-lindberg.github.io/veritane/it/news/feed/stories/country/za.xml" htmlUrl="https://william-lindberg.github.io/veritane/it/" description="Sudafrica: le notizie di Veritane. A scopo educativo, non è consulenza." />
       <outline type="rss" text="Veritane News: Svezia" title="Veritane News: Svezia" xmlUrl="https://william-lindberg.github.io/veritane/it/news/feed/stories/country/se.xml" htmlUrl="https://william-lindberg.github.io/veritane/it/" description="Svezia: le notizie di Veritane. A scopo educativo, non è consulenza." />
     </outline>
-    <outline text="Dati ufficiali per tema" title="Dati ufficiali per tema">
-      <outline type="rss" text="Veritane News: Tassi d&apos;interesse" title="Veritane News: Tassi d&apos;interesse" xmlUrl="https://william-lindberg.github.io/veritane/it/news/feed/policy_rate.xml" htmlUrl="https://william-lindberg.github.io/veritane/it/" />
-    </outline>
   </body>
 </opml>
