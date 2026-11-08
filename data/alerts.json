@@ -1,11 +1,11 @@
 {
   "schema": "veritane/alerts/1",
-  "generated_at": "2026-11-07T21:53:04Z",
+  "generated_at": "2026-11-08T13:38:16Z",
   "template_version": "alert-templates/1",
   "counts": {
-    "items": 60,
+    "items": 59,
     "ui_visible": 25,
-    "other_languages": 35
+    "other_languages": 34
   },
   "items": [
     {
@@ -1238,27 +1238,6 @@
       "reviewed_by": null,
       "reviewed_at": null,
       "retrieved_at": "2026-11-06T22:31:21Z"
-    },
-    {
-      "id": "6fb4a0a5d8f14036",
-      "source_id": "polposta_news",
-      "source_name": "Polizia di Stato, Polizia Postale (Commissariato di P.S. Online)",
-      "jurisdiction": "IT",
-      "category": "scam_warning",
-      "title": "POLIZIA DI STATO: ATTENZIONE ALLE TRUFFE ONLINE A NOME DELLE FORZE DI POLIZIA.",
-      "link": "https://www.commissariatodips.it/notizie/articolo/polizia-di-stato-attenzione-alle-truffe-online-a-nome-delle-forze-di-polizia/index.html",
-      "published_at": "2026-08-10T11:04:15.000Z",
-      "date_source": "feed",
-      "summary": "On 10 August 2026 the Polizia Postale (Commissariato di P.S. Online) published “POLIZIA DI STATO: ATTENZIONE ALLE TRUFFE ONLINE A NOME DELLE FORZE DI POLIZIA.”.",
-      "language": "it",
-      "ui_visible": false,
-      "template_version": "alert-templates/1",
-      "review": {
-        "status": "unreviewed"
-      },
-      "reviewed_by": null,
-      "reviewed_at": null,
-      "retrieved_at": "2026-11-07T21:53:04Z"
     }
   ]
 }

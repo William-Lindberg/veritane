@@ -11,8 +11,8 @@
     "provider_id": "dst",
     "dataset": "DNRENTD (Danmarks Nationalbank official rates, via Statistics Denmark)",
     "url": "https://www.nationalbanken.dk/en",
-    "api_url": "https://api.statbank.dk/v1/data/DNRENTD/CSV?lang=en&INSTRUMENT=OFONAA&LAND=DK&OPGOER=E&Tid=(-n2700)",
-    "retrieved_at": "2026-11-08T10:01:49Z"
+    "api_url": "https://api.statbank.dk/v1/data/DNRENTD/CSV?lang=en&INSTRUMENT=OFONAA&LAND=DK&OPGOER=E&Tid=(-n400)",
+    "retrieved_at": "2026-11-08T13:38:16Z"
   },
   "points": [
     [

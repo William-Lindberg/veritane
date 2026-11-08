@@ -11,8 +11,8 @@
     "provider_id": "eurostat",
     "dataset": "nrg_pc_202 PPS HU",
     "url": "https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_202/default/table",
-    "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nrg_pc_202?siec=G3000&nrg_cons=GJ20-199&unit=KWH&tax=I_TAX&currency=EUR&currency=PPS&geo=EU27_2020&geo=SE&geo=DK&geo=PL&geo=HU&geo=CZ&geo=DE&geo=FR&geo=IT&geo=ES&geo=NL&geo=BE&geo=AT&geo=IE&geo=PT&geo=FI&geo=EL&geo=RO&geo=NO&sinceTimePeriod=2016-S1&format=JSON&lang=EN",
-    "retrieved_at": "2026-11-07T11:41:24Z"
+    "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nrg_pc_202?siec=G3000&nrg_cons=GJ20-199&unit=KWH&tax=I_TAX&currency=EUR&currency=PPS&geo=EU27_2020&geo=SE&geo=DK&geo=PL&geo=HU&geo=CZ&geo=DE&geo=FR&geo=IT&geo=ES&geo=NL&geo=BE&geo=AT&geo=IE&geo=PT&geo=FI&geo=EL&geo=RO&geo=NO&sinceTimePeriod=2024-S1&format=JSON&lang=EN",
+    "retrieved_at": "2026-11-08T13:38:16Z"
   },
   "points": [
     [

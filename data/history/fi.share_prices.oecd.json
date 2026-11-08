@@ -11,8 +11,8 @@
     "provider_id": "oecd",
     "dataset": "DF_FINMARK SHARE FIN",
     "url": "https://data-explorer.oecd.org/",
-    "api_url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_FINMARK,/.M.SHARE......?startPeriod=2016-01&format=csvfile",
-    "retrieved_at": "2026-11-07T11:41:24Z"
+    "api_url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_FINMARK,/.M.SHARE......?lastNObservations=24&format=csvfile",
+    "retrieved_at": "2026-11-08T13:38:16Z"
   },
   "points": [
     [

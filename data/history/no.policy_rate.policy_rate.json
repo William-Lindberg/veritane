@@ -11,8 +11,8 @@
     "provider_id": "norgesbank",
     "dataset": "IR.B.KPRA.SD",
     "url": "https://www.norges-bank.no/en/topics/Monetary-policy/Policy-rate/",
-    "api_url": "https://data.norges-bank.no/api/data/IR/B.KPRA.SD.?format=sdmx-json&startPeriod=2016-01-01&locale=en",
-    "retrieved_at": "2026-11-08T10:01:49Z"
+    "api_url": "https://data.norges-bank.no/api/data/IR/B.KPRA.SD.?format=sdmx-json&lastNObservations=260&locale=en",
+    "retrieved_at": "2026-11-08T13:38:16Z"
   },
   "points": [
     [

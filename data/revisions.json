@@ -1,9 +1,31 @@
 {
   "schema": "veritane/revisions/1",
-  "generated_at": "2026-11-08T10:01:49Z",
+  "generated_at": "2026-11-08T13:38:16Z",
   "method": "Each run compares every period the source returned with the previous public/data/history file for that series. A change in the value at the number of decimals Veritane shows is recorded. Fixings such as exchange reference rates and projections are not compared.",
   "template_version": "revision-templates/1",
   "entries": [
+    {
+      "id": "187baa5e2b9092aa",
+      "series_id": "fr.wages.monthly_earnings_ilo",
+      "region": "FR",
+      "name": "Average monthly earnings of employees (ILO, US dollars)",
+      "unit": "USD per month",
+      "seen_before_at": "2026-11-07T11:41:24Z",
+      "detected_at": "2026-11-08T13:38:16Z",
+      "source": {
+        "name": "International Labour Organization, ILOSTAT",
+        "dataset": "DF_EAR_EMTA_SEX_CUR_NB FRA",
+        "check_url": "https://sdmx.ilo.org/rest/data/ILO,DF_EAR_EMTA_SEX_CUR_NB/FRA.A.EAR_EMTA_NB.SEX_T.CUR_TYPE_USD?startPeriod=2025&endPeriod=2025"
+      },
+      "kind": "revision",
+      "period": "2025",
+      "period_label": "2025",
+      "from": 5023.551,
+      "to": 2552.365,
+      "text": "France, Average monthly earnings of employees (ILO, US dollars): the International Labour Organization (ILOSTAT) revised the figure for 2025 from $5,024 a month to $2,552 a month.",
+      "text_simple": "The International Labour Organization (ILOSTAT) changed a figure it published earlier. The figure for 2025 is now $2,552 a month. Before, it was $5,024 a month.",
+      "template_version": "revision-templates/1"
+    },
     {
       "id": "4a87e3413c6f67d5",
       "series_id": "cz.industrial_production.yoy",

@@ -11,8 +11,8 @@
     "provider_id": "eurostat",
     "dataset": "prc_hicp_minr AT",
     "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
-    "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?coicop18=TOTAL&unit=RCH_A&geo=DE&geo=FR&geo=IT&geo=ES&geo=NL&geo=BE&geo=AT&geo=IE&geo=PT&geo=FI&geo=EL&geo=RO&sinceTimePeriod=2016-01&format=JSON&lang=EN",
-    "retrieved_at": "2026-11-07T11:41:24Z"
+    "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_hicp_minr?coicop18=TOTAL&unit=RCH_A&geo=DE&geo=FR&geo=IT&geo=ES&geo=NL&geo=BE&geo=AT&geo=IE&geo=PT&geo=FI&geo=EL&geo=RO&sinceTimePeriod=2024-01&format=JSON&lang=EN",
+    "retrieved_at": "2026-11-08T13:38:16Z"
   },
   "points": [
     [

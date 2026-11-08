@@ -1,7 +1,7 @@
 {
   "schema": "veritane/digest/1",
   "date": "2026-11-08",
-  "generated_at": "2026-11-08T10:01:49Z",
+  "generated_at": "2026-11-08T13:38:16Z",
   "final": false,
   "template_version": "digest-templates/1",
   "headline": "No new official figures or decisions were collected on 8 November 2026.",
@@ -9,7 +9,7 @@
   "counts": {
     "data": 0,
     "decisions": 0,
-    "revisions": 18,
+    "revisions": 19,
     "alerts": 0,
     "publications": 0,
     "coming_up": 5
@@ -241,6 +241,18 @@
             "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=ES&time=2026-08&format=JSON&lang=EN",
             "dataset": "sts_inpr_m ES"
           }
+        },
+        {
+          "revision_id": "187baa5e2b9092aa",
+          "series_id": "fr.wages.monthly_earnings_ilo",
+          "region": "FR",
+          "text": "France, Average monthly earnings of employees (ILO, US dollars): the International Labour Organization (ILOSTAT) revised the figure for 2025 from $5,024 a month to $2,552 a month.",
+          "text_simple": "The International Labour Organization (ILOSTAT) changed a figure it published earlier. The figure for 2025 is now $2,552 a month. Before, it was $5,024 a month.",
+          "source": {
+            "name": "International Labour Organization, ILOSTAT",
+            "url": "https://sdmx.ilo.org/rest/data/ILO,DF_EAR_EMTA_SEX_CUR_NB/FRA.A.EAR_EMTA_NB.SEX_T.CUR_TYPE_USD?startPeriod=2025&endPeriod=2025",
+            "dataset": "DF_EAR_EMTA_SEX_CUR_NB FRA"
+          }
         }
       ]
     },
@@ -314,12 +326,9 @@
     }
   ],
   "sources": {
-    "ok": 75,
-    "failed": 2,
-    "failed_names": [
-      "International Labour Organization (ILOSTAT)",
-      "OECD"
-    ]
+    "ok": 77,
+    "failed": 0,
+    "failed_names": []
   },
   "empty": false
 }

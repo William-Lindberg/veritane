@@ -11,8 +11,8 @@
     "provider_id": "oecd",
     "dataset": "DF_CLI CCICP RUS",
     "url": "https://data-explorer.oecd.org/",
-    "api_url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/EA20+USA+GBR+SWE+CAN+AUS+JPN+NOR+DNK+BRA+IND+IDN+ZAF+MEX+CHN+NGA+KEN+TUR+SAU+EGY+KOR+ARG+PAK+BGD+PHL+VNM+CHL+COL+PER+ISR+POL+HUN+CZE+MYS+THA+NZL+CHE+RUS+DEU+FRA+ITA+ESP+NLD+BEL+AUT+IRL+PRT+FIN+GRC+ROU.M.CCICP+BCICP.IX._Z.AA.IX._Z.H?startPeriod=2016-01&format=csvfile",
-    "retrieved_at": "2026-11-07T11:41:24Z"
+    "api_url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/EA20+USA+GBR+SWE+CAN+AUS+JPN+NOR+DNK+BRA+IND+IDN+ZAF+MEX+CHN+NGA+KEN+TUR+SAU+EGY+KOR+ARG+PAK+BGD+PHL+VNM+CHL+COL+PER+ISR+POL+HUN+CZE+MYS+THA+NZL+CHE+RUS+DEU+FRA+ITA+ESP+NLD+BEL+AUT+IRL+PRT+FIN+GRC+ROU.M.CCICP+BCICP.IX._Z.AA.IX._Z.H?lastNObservations=24&format=csvfile",
+    "retrieved_at": "2026-11-08T13:38:16Z"
   },
   "points": [
     [

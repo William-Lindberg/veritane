@@ -1,6 +1,6 @@
 {
   "schema": "veritane/sources/1",
-  "generated_at": "2026-11-08T10:01:49Z",
+  "generated_at": "2026-11-08T13:38:16Z",
   "sources": [
     {
       "id": "abs",
@@ -22,7 +22,7 @@
       "adapters": [
         "abs"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -43,7 +43,7 @@
       "adapters": [
         "bcb"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -69,7 +69,7 @@
         "bis",
         "bis_rpp"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -97,7 +97,7 @@
       "adapters": [
         "boc"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -126,7 +126,7 @@
       "adapters": [
         "boe"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -264,7 +264,7 @@
         "dbnomics_statjp",
         "dbnomics_rba"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -328,7 +328,7 @@
         "ecb",
         "ecb_fx"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -416,7 +416,7 @@
         "eurostat_minwage",
         "cpi_categories"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -462,7 +462,7 @@
       "adapters": [
         "nyfed"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -596,8 +596,8 @@
       "adapters": [
         "ilo_wages"
       ],
-      "last_fetched": "2026-11-07T10:58:41Z",
-      "ok": false
+      "last_fetched": "2026-11-08T13:38:16Z",
+      "ok": true
     },
     {
       "id": "imf",
@@ -627,7 +627,7 @@
         "imf_cpi",
         "imf_fiscal"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -655,7 +655,7 @@
       "adapters": [
         "dbnomics_istat"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -767,7 +767,7 @@
       "adapters": [
         "norgesbank"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -799,8 +799,8 @@
         "oecd_confidence",
         "oecd_minwage"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
-      "ok": false
+      "last_fetched": "2026-11-08T13:38:16Z",
+      "ok": true
     },
     {
       "id": "ons",
@@ -832,7 +832,7 @@
         "ons",
         "cpi_categories"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -900,7 +900,7 @@
         "rba",
         "dbnomics_rba"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -947,7 +947,7 @@
       "adapters": [
         "sarb"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -972,7 +972,7 @@
       "adapters": [
         "dbnomics_statjp"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -994,7 +994,7 @@
       "adapters": [
         "statcan"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -1015,7 +1015,7 @@
       "adapters": [
         "dst"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -1044,7 +1044,7 @@
       "adapters": [
         "ssb"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -1074,7 +1074,7 @@
       "adapters": [
         "scb"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -1108,7 +1108,7 @@
       "adapters": [
         "riksbank"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -1160,7 +1160,7 @@
         "bls",
         "cpi_categories"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -1181,7 +1181,7 @@
       "adapters": [
         "yield_curves"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -1256,7 +1256,7 @@
       "adapters": [
         "fiscaldata"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     },
     {
@@ -1288,7 +1288,7 @@
         "wb_commodities",
         "wb_living"
       ],
-      "last_fetched": "2026-11-08T10:01:49Z",
+      "last_fetched": "2026-11-08T13:38:16Z",
       "ok": true
     }
   ]

@@ -12,12 +12,48 @@
     "dataset": "DF_EAR_EMTA_SEX_CUR_NB FRA",
     "url": "https://ilostat.ilo.org/data/",
     "api_url": "https://sdmx.ilo.org/rest/data/ILO,DF_EAR_EMTA_SEX_CUR_NB/USA+GBR+SWE+CAN+AUS+JPN+NOR+DNK+BRA+IND+IDN+ZAF+MEX+CHN+NGA+KEN+TUR+SAU+EGY+KOR+ARG+PAK+BGD+PHL+VNM+CHL+COL+PER+ISR+POL+HUN+CZE+MYS+THA+NZL+CHE+RUS+DEU+FRA+ITA+ESP+NLD+BEL+AUT+IRL+PRT+FIN+GRC+ROU.A.EAR_EMTA_NB.SEX_T.CUR_TYPE_USD?startPeriod=2016",
-    "retrieved_at": "2026-11-07T11:41:24Z"
+    "retrieved_at": "2026-11-08T13:38:16Z"
   },
   "points": [
     [
+      "2016",
+      2066.532
+    ],
+    [
+      "2017",
+      2134.244
+    ],
+    [
+      "2018",
+      2281.281
+    ],
+    [
+      "2019",
+      2223.645
+    ],
+    [
+      "2020",
+      2302.161
+    ],
+    [
+      "2021",
+      2348.583
+    ],
+    [
+      "2022",
+      2135.278
+    ],
+    [
+      "2023",
+      2286.792
+    ],
+    [
+      "2024",
+      2377.983
+    ],
+    [
       "2025",
-      5023.551
+      2552.365
     ]
   ],
   "accumulated_since": null
