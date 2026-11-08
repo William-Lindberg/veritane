@@ -62,5 +62,8 @@
       <outline type="rss" text="Veritane News: Sydafrika" title="Veritane News: Sydafrika" xmlUrl="https://william-lindberg.github.io/veritane/sv/news/feed/stories/country/za.xml" htmlUrl="https://william-lindberg.github.io/veritane/sv/" description="Veritanes nyheter om Sydafrika. Utbildning, inte rådgivning." />
       <outline type="rss" text="Veritane News: USA" title="Veritane News: USA" xmlUrl="https://william-lindberg.github.io/veritane/sv/news/feed/stories/country/us.xml" htmlUrl="https://william-lindberg.github.io/veritane/sv/" description="Veritanes nyheter om USA. Utbildning, inte rådgivning." />
     </outline>
+    <outline text="Officiell statistik per ämne" title="Officiell statistik per ämne">
+      <outline type="rss" text="Veritane News: Räntor" title="Veritane News: Räntor" xmlUrl="https://william-lindberg.github.io/veritane/sv/news/feed/policy_rate.xml" htmlUrl="https://william-lindberg.github.io/veritane/sv/" />
+    </outline>
   </body>
 </opml>

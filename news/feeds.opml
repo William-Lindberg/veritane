@@ -62,5 +62,8 @@
       <outline type="rss" text="Veritane News: United Kingdom" title="Veritane News: United Kingdom" xmlUrl="https://william-lindberg.github.io/veritane/news/feed/stories/country/gb.xml" htmlUrl="https://william-lindberg.github.io/veritane/" description="Veritane stories about United Kingdom. Education, not advice." />
       <outline type="rss" text="Veritane News: United States" title="Veritane News: United States" xmlUrl="https://william-lindberg.github.io/veritane/news/feed/stories/country/us.xml" htmlUrl="https://william-lindberg.github.io/veritane/" description="Veritane stories about United States. Education, not advice." />
     </outline>
+    <outline text="Official figures by topic" title="Official figures by topic">
+      <outline type="rss" text="Veritane News: Interest rates" title="Veritane News: Interest rates" xmlUrl="https://william-lindberg.github.io/veritane/news/feed/policy_rate.xml" htmlUrl="https://william-lindberg.github.io/veritane/" />
+    </outline>
   </body>
 </opml>

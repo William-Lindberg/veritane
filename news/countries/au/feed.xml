@@ -7,5 +7,14 @@
     <description>Official economic figures and announcements for Australia, generated automatically from official sources. Education, not advice.</description>
     <language>en</language>
     <lastBuildDate>Sun, 08 Nov 2026 06:04:57 GMT</lastBuildDate>
+    <item>
+      <title>Australia: Cash rate target, 5 November 2026</title>
+      <link>https://william-lindberg.github.io/veritane/news/1e9018df907d89d4/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/news/1e9018df907d89d4/</guid>
+      <pubDate>Sat, 07 Nov 2026 21:53:04 GMT</pubDate>
+      <description>New data: In Australia, the Reserve Bank of Australia&apos;s cash rate target was 4.85% on 5 November 2026, up from 4.60% on 3 November 2026. Source: Reserve Bank of Australia. Source: Reserve Bank of Australia (https://www.rba.gov.au/statistics/cash-rate/). Generated automatically from the source; review status: not yet reviewed.</description>
+      <source url="https://www.rba.gov.au/statistics/cash-rate/">Reserve Bank of Australia</source>
+      <category>Interest rates</category>
+    </item>
   </channel>
 </rss>
