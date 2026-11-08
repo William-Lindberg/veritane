@@ -1,0 +1,1 @@
+import"./locale.C2VrQOHK.js";import"./i18n.Bl1rsNyW.js";
