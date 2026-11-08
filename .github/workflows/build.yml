@@ -1,0 +1,153 @@
+# Builds and publishes the website from the PUBLIC repository (founder 2026-11-08: the private repository's Actions
+# minutes are used up; public repositories have free minutes). This file lives in the private source at
+# .github/public-workflows/build.yml and is copied into the public repository's .github/workflows/ by every deploy.
+# Started by the online admin (/admin/: Publish now, Unpublish, Publish changes → workflow_dispatch), by the local
+# admin's site publish, and every 15 minutes (it only builds when the source changed since the last published build).
+# The figures job refreshes the keyless official figures every 6 hours and commits them to the source.
+# THIS REPOSITORY IS PUBLIC, and so are these logs: secrets stay in secrets (masked), the source repository's name is
+# a secret too, and steps that could print outlet names (admin-only, CLAUDE.md) only print a summary.
+# Secrets (public repository → Settings → Secrets → Actions): SOURCE_REPO (owner/name of the private source),
+# SOURCE_SSH_KEY (deploy key of the source, write access: the figures job commits), SITE_PUSH_KEY (deploy key of
+# this repository, write access: the push that GitHub Pages serves).
+name: Build website
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/15 * * * *'
+    - cron: '41 */6 * * *'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: build-website
+  cancel-in-progress: false
+
+jobs:
+  figures:
+    name: Update official figures
+    if: github.event.schedule == '41 */6 * * *'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out the source
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ secrets.SOURCE_REPO }}
+          ssh-key: ${{ secrets.SOURCE_SSH_KEY }}
+          ref: main
+          path: source
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Fetch the figures (keyless official sources)
+        working-directory: source
+        run: |
+          node scripts/data/run.mjs --figures > "$RUNNER_TEMP/figures.log" 2>&1 || { tail -5 "$RUNNER_TEMP/figures.log" | grep -E "Sources ok|Error" || true; exit 1; }
+          grep -E "^Sources ok" "$RUNNER_TEMP/figures.log" || true
+      - name: Commit the figures to the source
+        working-directory: source
+        run: |
+          git config user.name "William Lindberg"
+          git config user.email "169809244+William-Lindberg@users.noreply.github.com"
+          git add -A -- 'public/data/*.json' 'scripts/data/cache/*.json'
+          if git diff --cached --quiet; then echo "No figure changed."; exit 0; fi
+          git commit -q -m "data: figures updated (public build workflow)"
+          git pull -q --rebase origin main
+          git push -q origin HEAD:main
+          echo "Figures committed."
+
+  build:
+    name: Build and publish
+    needs: [figures]
+    if: always() && (needs.figures.result == 'success' || needs.figures.result == 'skipped')
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out this repository (the published site)
+        uses: actions/checkout@v4
+        with:
+          path: site
+          fetch-depth: 1
+      - name: Check out the source
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ secrets.SOURCE_REPO }}
+          ssh-key: ${{ secrets.SOURCE_SSH_KEY }}
+          ref: main
+          path: source
+      - name: Anything new to publish?
+        id: changed
+        run: |
+          src=$(git -C source rev-parse HEAD)
+          last=$(git -C site log -1 --format=%B | grep -oE 'source [0-9a-f]{12}' | cut -d' ' -f2 || true)
+          echo "sha=$src" >> "$GITHUB_OUTPUT"
+          if [ "${src:0:12}" = "$last" ] && [ "${{ github.event_name }}" = "schedule" ]; then
+            echo "Already published this version."
+            echo "build=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "build=true" >> "$GITHUB_OUTPUT"
+          fi
+      - uses: actions/setup-node@v4
+        if: steps.changed.outputs.build == 'true'
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: source/package-lock.json
+      - name: Install
+        if: steps.changed.outputs.build == 'true'
+        working-directory: source
+        run: npm ci --no-audit --no-fund --loglevel=error
+      - name: Tests and checks
+        if: steps.changed.outputs.build == 'true'
+        working-directory: source
+        run: |
+          run() { "$@" > "$RUNNER_TEMP/step.log" 2>&1 || { echo "Failed: $*"; tail -25 "$RUNNER_TEMP/step.log"; exit 1; }; }
+          run npx vitest run --reporter=dot
+          echo "Unit tests passed."
+          run npx astro check
+          echo "Type check passed."
+          run npm run -s lint:neutral
+          echo "Wording check passed."
+      - name: Build the website
+        if: steps.changed.outputs.build == 'true'
+        working-directory: source
+        run: |
+          run() { "$@" > "$RUNNER_TEMP/step.log" 2>&1 || { echo "Failed: $*"; tail -25 "$RUNNER_TEMP/step.log"; exit 1; }; }
+          run npm run -s build
+          echo "Built."
+          run node scripts/og/render.mjs
+          # Prints outlet hosts: keep its output out of this public log.
+          run node scripts/check-public-display.mjs dist
+          echo "Public display check passed."
+          run npx vitest run --testTimeout=300000 admin/test/dist.test.mjs src/lib/admin-web/device-login.test.ts src/lib/accounts/privacy.test.ts
+          run npm run -s check:links
+          run npm run -s check:fonts
+          echo "Built-site checks passed."
+      - name: Load the push key
+        if: steps.changed.outputs.build == 'true'
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.SITE_PUSH_KEY }}
+      - name: Publish
+        if: steps.changed.outputs.build == 'true'
+        env:
+          SHA: ${{ steps.changed.outputs.sha }}
+        run: |
+          set -euo pipefail
+          find site -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -R source/dist/. site/
+          touch site/.nojekyll
+          cp source/.github/public-README.md site/README.md
+          mkdir -p site/.github/workflows
+          cp source/.github/public-workflows/*.yml site/.github/workflows/
+          cd site
+          git config user.name "William Lindberg"
+          git config user.email "169809244+William-Lindberg@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "The website was already up to date."; exit 0; fi
+          git commit -q -m "Publish website build $(date -u +%Y-%m-%dT%H:%MZ)" -m "Built by the public build workflow from source ${SHA:0:12}."
+          git remote set-url origin git@github.com:${{ github.repository }}.git
+          git push -q origin HEAD:main
+          echo "Published. GitHub Pages shows it in about 2 minutes."

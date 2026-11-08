@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./published.BAQeT6qV.js";var n=e({$comment:`Written by the local admin. Nothing official appears on the public site unless listed here.`,schema:`veritane/published/1`,series:[],items:[`71240352f25b849c`],calendar:!1}),r=(e,r,i=n)=>t(e,r,i);export{r as t};
