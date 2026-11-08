@@ -1,0 +1,79 @@
+# Applies the online admin's change requests (founder decision 2026-11-08: "I don't want a GitHub token — do it
+# without it"). The /admin/ page holds no key: each change opens an issue here with the founder's own GitHub login,
+# titled "[admin] … · r-<id>", with the request in a `veritane-admin-request` block (admin/shared/request-core.mjs).
+# This file lives in the private source at .github/public-workflows/admin-request.yml and is copied into the public
+# repository's .github/workflows/ by every deploy (like build.yml).
+# ONLY issues opened by the repository owner (author association OWNER) with an "[admin]" title run the job; every
+# other issue (the public "Report an error" issues use this repository too) is ignored entirely.
+# SECURITY: the issue title and body are never put into a shell command; the script reads the event JSON from
+# $GITHUB_EVENT_PATH and checks the owner, the size, the format and every rule again (scripts/admin/apply-request.mjs).
+# THIS REPOSITORY IS PUBLIC, and so are these logs: they print one summary line, never article text beyond the
+# headline, never the source repository's name (a secret, like in build.yml).
+# Secrets: SOURCE_REPO (owner/name of the private source), SOURCE_SSH_KEY (deploy key of the source, write access).
+name: Admin change request
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: read
+  issues: write
+  actions: write
+
+concurrency:
+  group: admin-request
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    name: Apply the change request
+    if: github.event.issue.user.login == github.repository_owner && github.event.issue.author_association == 'OWNER' && startsWith(github.event.issue.title, '[admin]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out the source
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ secrets.SOURCE_REPO }}
+          ssh-key: ${{ secrets.SOURCE_SSH_KEY }}
+          ref: main
+          path: source
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: source/package-lock.json
+      - name: Install
+        working-directory: source
+        run: npm ci --no-audit --no-fund --loglevel=error > "$RUNNER_TEMP/install.log" 2>&1 || { echo "Install failed."; exit 1; }
+      - name: Apply the request
+        id: apply
+        working-directory: source
+        run: node scripts/admin/apply-request.mjs --event "$GITHUB_EVENT_PATH" --out "$RUNNER_TEMP/result.json"
+      - name: Start the website build
+        id: build
+        if: steps.apply.outputs.build == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh workflow run build.yml --repo "$GITHUB_REPOSITORY" --ref main
+          echo "Website build started."
+      - name: Report on the request and close it
+        if: always() && steps.apply.outputs.status != 'ignored'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE: ${{ github.event.issue.number }}
+          DISPATCH: ${{ steps.build.outcome }}
+        run: |
+          set -u
+          if [ -f source/scripts/admin/apply-request.mjs ] && node source/scripts/admin/apply-request.mjs --report --result "$RUNNER_TEMP/result.json" --dispatch "${DISPATCH:-skipped}" --out "$RUNNER_TEMP/comment.md" > /dev/null 2>&1; then
+            reason=completed
+            grep -q '"status":"applied"\|"status":"duplicate"' "$RUNNER_TEMP/comment.md" || reason="not planned"
+          else
+            printf '%s\n' "**Not applied.** The change request could not be applied (the workflow stopped early). Nothing was published; make the request again in a few minutes." > "$RUNNER_TEMP/comment.md"
+            reason="not planned"
+          fi
+          gh issue comment "$ISSUE" --repo "$GITHUB_REPOSITORY" --body-file "$RUNNER_TEMP/comment.md" > /dev/null
+          gh issue close "$ISSUE" --repo "$GITHUB_REPOSITORY" --reason "$reason" > /dev/null
+          echo "Result posted; request closed."

@@ -1,7 +1,7 @@
 # Builds and publishes the website from the PUBLIC repository (founder 2026-11-08: the private repository's Actions
 # minutes are used up; public repositories have free minutes). This file lives in the private source at
 # .github/public-workflows/build.yml and is copied into the public repository's .github/workflows/ by every deploy.
-# Started by the online admin (/admin/: Publish now, Unpublish, Publish changes → workflow_dispatch), by the local
+# Started by admin-request.yml after it applied an online admin change request (workflow_dispatch), by the local
 # admin's site publish, and every 15 minutes (it only builds when the source changed since the last published build).
 # The figures job refreshes the keyless official figures every 6 hours and commits them to the source.
 # THIS REPOSITORY IS PUBLIC, and so are these logs: secrets stay in secrets (masked), the source repository's name is
@@ -121,7 +121,7 @@ jobs:
           # Prints outlet hosts: keep its output out of this public log.
           run node scripts/check-public-display.mjs dist
           echo "Public display check passed."
-          run npx vitest run --testTimeout=300000 admin/test/dist.test.mjs src/lib/admin-web/device-login.test.ts src/lib/accounts/privacy.test.ts
+          run npx vitest run --testTimeout=300000 admin/test/dist.test.mjs src/lib/admin-web/request-admin.test.ts src/lib/accounts/privacy.test.ts
           run npm run -s check:links
           run npm run -s check:fonts
           echo "Built-site checks passed."
