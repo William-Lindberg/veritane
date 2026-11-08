@@ -7,14 +7,5 @@
     <description>Officiell ekonomisk statistik och officiella besked för Nigeria, skapade automatiskt från officiella källor. Utbildning, inte rådgivning.</description>
     <language>sv</language>
     <lastBuildDate>Sun, 08 Nov 2026 06:04:57 GMT</lastBuildDate>
-    <item>
-      <title>Nigeria: KPI-inflation, augusti 2026</title>
-      <link>https://william-lindberg.github.io/veritane/sv/news/d9991685aae9cace/</link>
-      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/d9991685aae9cace/</guid>
-      <pubDate>Fri, 06 Nov 2026 07:46:58 GMT</pubDate>
-      <description>Nya data: I Nigeria var KPI-inflationen 15,4 % i augusti 2026, oförändrad från juli 2026. Källa: International Monetary Fund (CPI dataset). Källa: International Monetary Fund (CPI dataset) (https://data.imf.org/). Skapad automatiskt från källan; granskning: inte granskad än.</description>
-      <source url="https://data.imf.org/">International Monetary Fund (CPI dataset)</source>
-      <category>Inflation</category>
-    </item>
   </channel>
 </rss>

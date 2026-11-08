@@ -7,14 +7,5 @@
     <description>Officiell ekonomisk statistik och officiella besked för Mexiko, skapade automatiskt från officiella källor. Utbildning, inte rådgivning.</description>
     <language>sv</language>
     <lastBuildDate>Sun, 08 Nov 2026 06:04:57 GMT</lastBuildDate>
-    <item>
-      <title>Mexiko: KPI-inflation, september 2026</title>
-      <link>https://william-lindberg.github.io/veritane/sv/news/e017ec377d327a36/</link>
-      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/e017ec377d327a36/</guid>
-      <pubDate>Fri, 06 Nov 2026 07:46:58 GMT</pubDate>
-      <description>Nya data: I Mexiko var KPI-inflationen 3,5 % i september 2026, upp från 3,3 % i augusti 2026. Källa: International Monetary Fund (CPI dataset). Källa: International Monetary Fund (CPI dataset) (https://data.imf.org/). Skapad automatiskt från källan; granskning: inte granskad än.</description>
-      <source url="https://data.imf.org/">International Monetary Fund (CPI dataset)</source>
-      <category>Inflation</category>
-    </item>
   </channel>
 </rss>

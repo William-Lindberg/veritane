@@ -7,14 +7,5 @@
     <description>Officiell ekonomisk statistik och officiella besked för Kina, skapade automatiskt från officiella källor. Utbildning, inte rådgivning.</description>
     <language>sv</language>
     <lastBuildDate>Sun, 08 Nov 2026 06:04:57 GMT</lastBuildDate>
-    <item>
-      <title>Kina: KPI-inflation, september 2026</title>
-      <link>https://william-lindberg.github.io/veritane/sv/news/8af05cc2425f8725/</link>
-      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/8af05cc2425f8725/</guid>
-      <pubDate>Fri, 06 Nov 2026 07:46:58 GMT</pubDate>
-      <description>Nya data: I Kina var KPI-inflationen 0,9 % i september 2026, upp från 0,8 % i augusti 2026. Källa: International Monetary Fund (CPI dataset). Källa: International Monetary Fund (CPI dataset) (https://data.imf.org/). Skapad automatiskt från källan; granskning: inte granskad än.</description>
-      <source url="https://data.imf.org/">International Monetary Fund (CPI dataset)</source>
-      <category>Inflation</category>
-    </item>
   </channel>
 </rss>

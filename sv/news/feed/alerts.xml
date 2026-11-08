@@ -7,26 +7,5 @@
     <description>Officiella larm på de två högsta nivåerna från GDACS och U.S. Geological Survey, som på Veritanes världskarta över nyheter. Varje inlägg länkar till händelsesidan eller utgivarens sida.</description>
     <language>sv</language>
     <lastBuildDate>Sun, 08 Nov 2026 06:04:57 GMT</lastBuildDate>
-    <item>
-      <title>East Africa, Central Sahel: Torka · Larmnivå hos GDACS: Orange</title>
-      <link>https://www.gdacs.org/report.aspx?eventtype=DR&amp;eventid=1027450</link>
-      <guid isPermaLink="false">veritane-signal-gdacs-dr-1027450</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-      <description>Larmnivå hos GDACS: Orange. Sedan: 2026-05-21. Källans sida: https://www.gdacs.org/report.aspx?eventtype=DR&amp;eventid=1027450. GDACS larm för jordbävningar, tsunamier och tropiska cykloner är automatiska uppskattningar från modeller och kan innehålla fel. De ersätter inte varningar från nationella myndigheter.</description>
-    </item>
-    <item>
-      <title>Central America: Torka · Larmnivå hos GDACS: Orange</title>
-      <link>https://www.gdacs.org/report.aspx?eventtype=DR&amp;eventid=1027449</link>
-      <guid isPermaLink="false">veritane-signal-gdacs-dr-1027449</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Larmnivå hos GDACS: Orange. Sedan: 2026-04-21. Källans sida: https://www.gdacs.org/report.aspx?eventtype=DR&amp;eventid=1027449. GDACS larm för jordbävningar, tsunamier och tropiska cykloner är automatiska uppskattningar från modeller och kan innehålla fel. De ersätter inte varningar från nationella myndigheter.</description>
-    </item>
-    <item>
-      <title>Europe: Torka · Larmnivå hos GDACS: Orange</title>
-      <link>https://www.gdacs.org/report.aspx?eventtype=DR&amp;eventid=1018332</link>
-      <guid isPermaLink="false">veritane-signal-gdacs-dr-1018332</guid>
-      <pubDate>Sun, 21 Dec 2025 00:00:00 GMT</pubDate>
-      <description>Larmnivå hos GDACS: Orange. Sedan: 2025-12-21. Källans sida: https://www.gdacs.org/report.aspx?eventtype=DR&amp;eventid=1018332. GDACS larm för jordbävningar, tsunamier och tropiska cykloner är automatiska uppskattningar från modeller och kan innehålla fel. De ersätter inte varningar från nationella myndigheter.</description>
-    </item>
   </channel>
 </rss>

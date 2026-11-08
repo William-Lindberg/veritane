@@ -7,14 +7,5 @@
     <description>Official economic figures and announcements for China, generated automatically from official sources. Education, not advice.</description>
     <language>en</language>
     <lastBuildDate>Sun, 08 Nov 2026 06:04:57 GMT</lastBuildDate>
-    <item>
-      <title>China: CPI inflation, September 2026</title>
-      <link>https://william-lindberg.github.io/veritane/news/8af05cc2425f8725/</link>
-      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/news/8af05cc2425f8725/</guid>
-      <pubDate>Fri, 06 Nov 2026 07:46:58 GMT</pubDate>
-      <description>New data: In China, consumer price inflation (12-month change) was 0.9% in September 2026, up from 0.8% in August 2026. Source: International Monetary Fund (CPI dataset). Source: International Monetary Fund (CPI dataset) (https://data.imf.org/). Generated automatically from the source; review status: not yet reviewed.</description>
-      <source url="https://data.imf.org/">International Monetary Fund (CPI dataset)</source>
-      <category>Inflation</category>
-    </item>
   </channel>
 </rss>
