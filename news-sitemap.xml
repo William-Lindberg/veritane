@@ -594,15 +594,4 @@
       <news:title>Banks and mortgage companies</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://william-lindberg.github.io/veritane/news/eb04520f63a68812/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Veritane News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T23:45:00Z</news:publication_date>
-      <news:title>Designation of Prosegur Australia Pty Ltd under the Cash Distribution Framework Act 2026</news:title>
-    </news:news>
-  </url>
 </urlset>
