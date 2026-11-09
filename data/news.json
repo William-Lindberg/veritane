@@ -1,6 +1,6 @@
 {
   "schema": "veritane/news/1",
-  "generated_at": "2026-11-09T07:10:56Z",
+  "generated_at": "2026-11-09T22:41:56Z",
   "template_version": "news-templates/1",
   "topics": {
     "policy_rate": "Interest rates",
@@ -16,8 +16,8 @@
     "other": "Other"
   },
   "counts": {
-    "items": 350,
-    "ui_visible": 332,
+    "items": 349,
+    "ui_visible": 331,
     "other_languages": 18
   },
   "items": [
@@ -11099,34 +11099,6 @@
       "link": "https://www.consumerfinance.gov/about-us/newsroom/the-cfpb-to-cease-discretionary-publication-of-complaint-narratives-and-visualizations/",
       "published_at": "2026-08-14T04:00:00.000Z",
       "summary": "On 14 August 2026 the Consumer Financial Protection Bureau published “The CFPB to Cease Discretionary Publication of Complaint Narratives and Visualizations”.",
-      "summary_source": "feed_title",
-      "language": "en",
-      "ui_visible": true,
-      "related_series": [],
-      "related_lessons": [],
-      "template_version": "news-templates/1",
-      "review": {
-        "status": "unreviewed"
-      },
-      "reviewed_by": null,
-      "reviewed_at": null,
-      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
-      "retrieved_at": "2026-11-06T22:31:21Z"
-    },
-    {
-      "id": "a62f31557034084e",
-      "kind": "press_release",
-      "source_id": "boe_news",
-      "source_name": "Bank of England",
-      "region": "GB",
-      "topics": [
-        "other"
-      ],
-      "title": "Results of the Semi-Annual FX Turnover Surveys in April 2026",
-      "link": "https://www.bankofengland.co.uk/markets/london-foreign-exchange-joint-standing-committee/results-of-the-semi-annual-fx-turnover-survey-april-2026",
-      "published_at": "2026-08-11T13:00:00.000Z",
-      "date_source": "feed",
-      "summary": "On 11 August 2026 the Bank of England published “Results of the Semi-Annual FX Turnover Surveys in April 2026”.",
       "summary_source": "feed_title",
       "language": "en",
       "ui_visible": true,

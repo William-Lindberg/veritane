@@ -12,7 +12,7 @@
     "dataset": "V39079",
     "url": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/",
     "api_url": "https://www.bankofcanada.ca/valet/observations/V39079/json?recent=260",
-    "retrieved_at": "2026-11-08T13:38:16Z"
+    "retrieved_at": "2026-11-09T22:41:56Z"
   },
   "points": [
     [
@@ -132,7 +132,7 @@
       2.5
     ],
     [
-      "2026-11-05",
+      "2026-11-06",
       2.5
     ]
   ],

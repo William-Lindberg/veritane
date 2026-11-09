@@ -12,7 +12,7 @@
     "dataset": "Daily Treasury Par Yield Curve Rates",
     "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve",
     "api_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml?data=daily_treasury_yield_curve&field_tdr_date_value_month=202611",
-    "retrieved_at": "2026-11-07T09:24:08Z"
+    "retrieved_at": "2026-11-09T22:41:56Z"
   },
   "points": [
     [
@@ -456,8 +456,8 @@
       4.56
     ],
     [
-      "2026-11-06",
-      4.51
+      "2026-11-09",
+      4.56
     ]
   ],
   "accumulated_since": null

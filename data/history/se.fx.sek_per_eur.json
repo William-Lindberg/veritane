@@ -12,7 +12,7 @@
     "dataset": "SEKEURPMI",
     "url": "https://www.riksbank.se/en-gb/statistics/",
     "api_url": "https://api.riksbank.se/swea/v1/Observations/SEKEURPMI/2026-09-10",
-    "retrieved_at": "2026-11-09T07:10:56Z"
+    "retrieved_at": "2026-11-09T22:41:56Z"
   },
   "points": [
     [
@@ -496,8 +496,8 @@
       10.978
     ],
     [
-      "2026-11-06",
-      11.026
+      "2026-11-09",
+      10.996
     ]
   ],
   "accumulated_since": null

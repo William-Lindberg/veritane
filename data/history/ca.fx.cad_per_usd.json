@@ -12,7 +12,7 @@
     "dataset": "FXUSDCAD",
     "url": "https://www.bankofcanada.ca/rates/exchange/daily-exchange-rates/",
     "api_url": "https://www.bankofcanada.ca/valet/observations/FXUSDCAD/json?recent=30",
-    "retrieved_at": "2026-11-08T13:38:16Z"
+    "retrieved_at": "2026-11-09T22:41:56Z"
   },
   "points": [
     [
@@ -488,8 +488,8 @@
       1.396
     ],
     [
-      "2026-11-06",
-      1.4113
+      "2026-11-09",
+      1.4123
     ]
   ],
   "accumulated_since": null
