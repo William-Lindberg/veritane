@@ -6,7 +6,7 @@
     <atom:link href="https://william-lindberg.github.io/veritane/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>Economics and finance items generated automatically from official sources, with neutral template summaries. Education, not advice.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 06:04:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:10:56 GMT</lastBuildDate>
     <item>
       <title>Christine Lagarde: Interview with Yomiuri Shimbun</title>
       <link>https://william-lindberg.github.io/veritane/news/71240352f25b849c/</link>
@@ -14,6 +14,13 @@
       <pubDate>Sat, 07 Nov 2026 14:00:00 GMT</pubDate>
       <description>On 7 November 2026 the European Central Bank published “Christine Lagarde: Interview with Yomiuri Shimbun”. Source: European Central Bank (https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html). Generated automatically from the source; review status: not yet reviewed.</description>
       <source url="https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html">European Central Bank</source>
+    </item>
+    <item>
+      <title>Today in the economy: 8 November 2026</title>
+      <link>https://william-lindberg.github.io/veritane/news/today/2026-11-08/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/news/today/2026-11-08/</guid>
+      <pubDate>Sun, 08 Nov 2026 23:59:59 GMT</pubDate>
+      <description>No new official figures or decisions were collected on 8 November 2026. Generated automatically from official sources. Education, not advice.</description>
     </item>
     <item>
       <title>Today in the economy: 7 November 2026</title>

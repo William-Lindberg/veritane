@@ -6,7 +6,7 @@
     <atom:link href="https://william-lindberg.github.io/veritane/sv/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>Ekonomi- och finansnyheter som skapas automatiskt från officiella källor, med neutrala sammanfattningar efter fasta mallar. Utbildning, inte rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Sun, 08 Nov 2026 06:04:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:10:56 GMT</lastBuildDate>
     <item>
       <title>Christine Lagarde: Interview with Yomiuri Shimbun</title>
       <link>https://william-lindberg.github.io/veritane/sv/news/71240352f25b849c/</link>
@@ -14,6 +14,13 @@
       <pubDate>Sat, 07 Nov 2026 14:00:00 GMT</pubDate>
       <description>Den 7 november 2026 publicerade European Central Bank ”Christine Lagarde: Interview with Yomiuri Shimbun”. Källa: European Central Bank (https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html). Skapad automatiskt från källan; granskning: inte granskad än.</description>
       <source url="https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html">European Central Bank</source>
+    </item>
+    <item>
+      <title>I dag i ekonomin: 8 november 2026</title>
+      <link>https://william-lindberg.github.io/veritane/sv/news/today/2026-11-08/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/sv/news/today/2026-11-08/</guid>
+      <pubDate>Sun, 08 Nov 2026 23:59:59 GMT</pubDate>
+      <description>Inga nya officiella siffror eller beslut samlades in den 8 november 2026. Skapad automatiskt från officiella källor. Utbildning, inte rådgivning.</description>
     </item>
     <item>
       <title>I dag i ekonomin: 7 november 2026</title>

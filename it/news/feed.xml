@@ -6,7 +6,7 @@
     <atom:link href="https://william-lindberg.github.io/veritane/it/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notizie di economia e finanza generate automaticamente da fonti ufficiali, con riassunti neutrali secondo modelli fissi. A scopo educativo, non è consulenza.</description>
     <language>it</language>
-    <lastBuildDate>Sun, 08 Nov 2026 06:04:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:10:56 GMT</lastBuildDate>
     <item>
       <title>Christine Lagarde: Interview with Yomiuri Shimbun</title>
       <link>https://william-lindberg.github.io/veritane/it/news/71240352f25b849c/</link>
@@ -14,6 +14,13 @@
       <pubDate>Sat, 07 Nov 2026 14:00:00 GMT</pubDate>
       <description>Il 7 novembre 2026 la Banca centrale europea ha pubblicato «Christine Lagarde: Interview with Yomiuri Shimbun». Fonte: European Central Bank (https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html). Generato automaticamente dalla fonte; revisione: non ancora rivisto.</description>
       <source url="https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html">European Central Bank</source>
+    </item>
+    <item>
+      <title>Oggi nell’economia: 8 novembre 2026</title>
+      <link>https://william-lindberg.github.io/veritane/it/news/today/2026-11-08/</link>
+      <guid isPermaLink="true">https://william-lindberg.github.io/veritane/it/news/today/2026-11-08/</guid>
+      <pubDate>Sun, 08 Nov 2026 23:59:59 GMT</pubDate>
+      <description>L&apos;8 novembre 2026 non sono stati raccolti nuovi dati ufficiali né nuove decisioni. Generato in automatico da fonti ufficiali. A scopo educativo, non è consulenza.</description>
     </item>
     <item>
       <title>Oggi nell’economia: 7 novembre 2026</title>

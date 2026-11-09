@@ -1,6 +1,6 @@
 {
   "schema": "veritane/news/1",
-  "generated_at": "2026-11-08T06:04:57Z",
+  "generated_at": "2026-11-09T07:10:56Z",
   "template_version": "news-templates/1",
   "topics": {
     "policy_rate": "Interest rates",
@@ -5339,7 +5339,24 @@
       "reviewed_by": null,
       "reviewed_at": null,
       "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
-      "retrieved_at": "2026-11-06T22:31:21Z"
+      "retrieved_at": "2026-11-06T22:31:21Z",
+      "facts": [
+        {
+          "series_id": "ea.policy_rate.dfr",
+          "period": "2026-10-29",
+          "period_label": "29 October 2026",
+          "value": 2.5,
+          "unit": "%",
+          "decimals": 2,
+          "dataset": "FM.B.U2.EUR.4F.KR.DFR.LEV",
+          "retrieved_at": "2026-11-09T07:10:56Z",
+          "change": {
+            "value": 0,
+            "unit": "pp",
+            "direction": "unchanged"
+          }
+        }
+      ]
     },
     {
       "id": "48c980494664a72e",

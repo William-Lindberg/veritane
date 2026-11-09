@@ -11,8 +11,8 @@
     "provider_id": "boe",
     "dataset": "IUDSNPY, IUDMNPY, IUDLNPY",
     "url": "https://www.bankofengland.co.uk/boeapps/database/",
-    "api_url": "https://www.bankofengland.co.uk/boeapps/database/_iadb-fromshowcolumns.asp?csv.x=yes&Datefrom=09/Nov/2025&Dateto=now&SeriesCodes=IUDSNPY,IUDMNPY,IUDLNPY&CSVF=TN&UsingCodes=Y&VPD=Y&VFD=N",
-    "retrieved_at": "2026-11-08T13:38:16Z"
+    "api_url": "https://www.bankofengland.co.uk/boeapps/database/_iadb-fromshowcolumns.asp?csv.x=yes&Datefrom=10/Nov/2025&Dateto=now&SeriesCodes=IUDSNPY,IUDMNPY,IUDLNPY&CSVF=TN&UsingCodes=Y&VPD=Y&VFD=N",
+    "retrieved_at": "2026-11-09T07:10:56Z"
   },
   "points": [
     [

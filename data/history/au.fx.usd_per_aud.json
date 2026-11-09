@@ -12,7 +12,7 @@
     "dataset": "F11.1 FXRUSD",
     "url": "https://www.rba.gov.au/statistics/tables/",
     "api_url": "https://www.rba.gov.au/statistics/tables/csv/f11.1-data.csv",
-    "retrieved_at": "2026-11-07T09:24:08Z"
+    "retrieved_at": "2026-11-09T07:10:56Z"
   },
   "points": [
     [
@@ -200,8 +200,8 @@
       0.704
     ],
     [
-      "2026-11-06",
-      0.69
+      "2026-11-09",
+      0.6894
     ]
   ],
   "accumulated_since": null
