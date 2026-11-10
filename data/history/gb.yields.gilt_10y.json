@@ -12,7 +12,7 @@
     "dataset": "IUDSNPY, IUDMNPY, IUDLNPY",
     "url": "https://www.bankofengland.co.uk/boeapps/database/",
     "api_url": "https://www.bankofengland.co.uk/boeapps/database/_iadb-fromshowcolumns.asp?csv.x=yes&Datefrom=11/Nov/2025&Dateto=now&SeriesCodes=IUDSNPY,IUDMNPY,IUDLNPY&CSVF=TN&UsingCodes=Y&VPD=Y&VFD=N",
-    "retrieved_at": "2026-11-10T07:43:58Z"
+    "retrieved_at": "2026-11-10T20:00:20Z"
   },
   "points": [
     [
@@ -496,8 +496,8 @@
       5.25
     ],
     [
-      "2026-11-05",
-      5.14
+      "2026-11-06",
+      5.12
     ]
   ],
   "accumulated_since": null

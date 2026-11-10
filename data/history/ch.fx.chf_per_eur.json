@@ -12,7 +12,7 @@
     "dataset": "Euro foreign exchange reference rates (CHF)",
     "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html",
     "api_url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml",
-    "retrieved_at": "2026-11-09T22:41:56Z"
+    "retrieved_at": "2026-11-10T20:00:20Z"
   },
   "points": [
     [
@@ -496,8 +496,8 @@
       0.9194
     ],
     [
-      "2026-11-09",
-      0.9164
+      "2026-11-10",
+      0.9203
     ]
   ],
   "accumulated_since": null

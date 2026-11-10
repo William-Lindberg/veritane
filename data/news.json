@@ -1,6 +1,6 @@
 {
   "schema": "veritane/news/1",
-  "generated_at": "2026-11-10T07:43:58Z",
+  "generated_at": "2026-11-10T20:00:20Z",
   "template_version": "news-templates/1",
   "topics": {
     "policy_rate": "Interest rates",
@@ -16,11 +16,63 @@
     "other": "Other"
   },
   "counts": {
-    "items": 351,
-    "ui_visible": 333,
+    "items": 352,
+    "ui_visible": 334,
     "other_languages": 18
   },
   "items": [
+    {
+      "id": "e1f9e9d780764601",
+      "kind": "data_update",
+      "source_id": "imf_cpi",
+      "source_name": "International Monetary Fund (CPI dataset)",
+      "region": "KR",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Korea: CPI inflation, October 2026",
+      "link": "https://data.imf.org/",
+      "published_at": "2026-11-10T20:00:20Z",
+      "summary": "New data: In Korea, consumer price inflation (12-month change) was 2.8% in October 2026, down from 2.9% in September 2026. Source: International Monetary Fund (CPI dataset).",
+      "summary_simple": "Prices in Korea were 2.8% higher in October 2026 than a year earlier. In September 2026 they were 2.9% higher.",
+      "summary_source": "data_update",
+      "language": "en",
+      "ui_visible": true,
+      "related_series": [
+        "kr.inflation.cpi_yoy"
+      ],
+      "related_lessons": [
+        "macroeconomics/inflation-how-it-is-measured"
+      ],
+      "facts": [
+        {
+          "series_id": "kr.inflation.cpi_yoy",
+          "period": "2026-10",
+          "period_label": "October 2026",
+          "value": 2.8189,
+          "previous_period": "2026-09",
+          "previous_period_label": "September 2026",
+          "previous_value": 2.8789,
+          "change": {
+            "value": -0.1,
+            "unit": "pp",
+            "direction": "down"
+          },
+          "unit": "% y/y",
+          "decimals": 1,
+          "dataset": "IMF.STA:CPI KOR.CPI._T.YOY_PCH_PA_PT.M",
+          "retrieved_at": "2026-11-10T20:00:20Z"
+        }
+      ],
+      "template_version": "news-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
+      "retrieved_at": "2026-11-10T20:00:20Z"
+    },
     {
       "id": "69f9abd81e4b878b",
       "kind": "data_update",

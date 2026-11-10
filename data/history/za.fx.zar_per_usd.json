@@ -12,12 +12,12 @@
     "dataset": "EXCX135D",
     "url": "https://www.resbank.co.za/en/home/what-we-do/statistics",
     "api_url": "https://custom.resbank.co.za/SarbWebApi/WebIndicators/HomePageRates",
-    "retrieved_at": "2026-11-09T22:41:56Z"
+    "retrieved_at": "2026-11-10T20:00:20Z"
   },
   "points": [
     [
-      "2026-11-09",
-      16.4838
+      "2026-11-10",
+      16.3515
     ]
   ],
   "accumulated_since": "2026-11-06"

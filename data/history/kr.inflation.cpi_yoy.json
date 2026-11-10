@@ -12,13 +12,9 @@
     "dataset": "IMF.STA:CPI YOY_PCH_PA_PT",
     "url": "https://data.imf.org/",
     "api_url": "https://api.imf.org/external/sdmx/2.1/data/IMF.STA,CPI/IND+IDN+MEX+CHN+NGA+EGY+KEN+SAU+TUR+ARG+PAK+BGD+VNM+PHL+JPN+KOR+CHL+COL+PER+ISR+POL+HUN+CZE+MYS+THA+NZL+CHE+RUS.CPI._T.YOY_PCH_PA_PT.M?startPeriod=2024-09",
-    "retrieved_at": "2026-11-07T09:24:08Z"
+    "retrieved_at": "2026-11-10T20:00:20Z"
   },
   "points": [
-    [
-      "2016-09",
-      1.3489
-    ],
     [
       "2016-10",
       1.4879
@@ -498,6 +494,10 @@
     [
       "2026-09",
       2.8789
+    ],
+    [
+      "2026-10",
+      2.8189
     ]
   ],
   "accumulated_since": null

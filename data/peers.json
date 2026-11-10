@@ -1,6 +1,6 @@
 {
   "schema": "veritane/peers/1",
-  "generated_at": "2026-11-07T12:01:21.000Z",
+  "generated_at": "2026-11-10T20:00:20.000Z",
   "panels": {
     "policy_rate.bis": {
       "name": "Central bank policy rates",
@@ -227,8 +227,8 @@
         },
         {
           "region": "KR",
-          "period": "2026-09",
-          "value": 2.8789
+          "period": "2026-10",
+          "value": 2.8189
         },
         {
           "region": "MX",
