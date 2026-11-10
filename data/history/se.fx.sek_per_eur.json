@@ -11,8 +11,8 @@
     "provider_id": "riksbank",
     "dataset": "SEKEURPMI",
     "url": "https://www.riksbank.se/en-gb/statistics/",
-    "api_url": "https://api.riksbank.se/swea/v1/Observations/SEKEURPMI/2026-09-10",
-    "retrieved_at": "2026-11-09T22:41:56Z"
+    "api_url": "https://api.riksbank.se/swea/v1/Observations/SEKEURPMI/2026-09-11",
+    "retrieved_at": "2026-11-10T07:43:58Z"
   },
   "points": [
     [

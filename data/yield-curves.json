@@ -1,10 +1,10 @@
 {
   "schema": "veritane/yield-curves/1",
-  "generated_at": "2026-11-09T22:41:56Z",
+  "generated_at": "2026-11-10T07:43:58Z",
   "sourceName": "U.S. Treasury; European Central Bank; Bank of England",
   "sourceUrl": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve",
   "licence": "See each series",
-  "retrievedAt": "2026-11-09T22:41:56Z",
+  "retrievedAt": "2026-11-10T07:43:58Z",
   "notes": [
     "Par and spot curves are different measures and are not drawn on the same axes."
   ],
@@ -26,7 +26,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-09T22:41:56Z"
+        "retrieved_at": "2026-11-10T07:43:58Z"
       },
       "tenors": [
         "1m",
@@ -4815,7 +4815,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-09T22:41:56Z"
+        "retrieved_at": "2026-11-10T07:43:58Z"
       },
       "tenors": [
         "3m",
@@ -7632,13 +7632,13 @@
         "provider_id": "boe",
         "dataset": "IUDSNPY, IUDMNPY, IUDLNPY",
         "url": "https://www.bankofengland.co.uk/boeapps/database/",
-        "api_url": "https://www.bankofengland.co.uk/boeapps/database/_iadb-fromshowcolumns.asp?csv.x=yes&Datefrom=10/Nov/2025&Dateto=now&SeriesCodes=IUDSNPY,IUDMNPY,IUDLNPY&CSVF=TN&UsingCodes=Y&VPD=Y&VFD=N",
+        "api_url": "https://www.bankofengland.co.uk/boeapps/database/_iadb-fromshowcolumns.asp?csv.x=yes&Datefrom=11/Nov/2025&Dateto=now&SeriesCodes=IUDSNPY,IUDMNPY,IUDLNPY&CSVF=TN&UsingCodes=Y&VPD=Y&VFD=N",
         "license": {
           "name": "Terms: see provider",
           "url": "https://www.bankofengland.co.uk/legal",
           "verified": false
         },
-        "retrieved_at": "2026-11-09T22:41:56Z"
+        "retrieved_at": "2026-11-10T07:43:58Z"
       },
       "tenors": [
         "5y",

@@ -12,7 +12,7 @@
     "dataset": "FM.B.U2.EUR.4F.KR.DFR.LEV",
     "url": "https://www.ecb.europa.eu/mopo/decisions/html/index.en.html",
     "api_url": "https://data-api.ecb.europa.eu/service/data/FM/B.U2.EUR.4F.KR.DFR.LEV?startPeriod=2016-01-01&format=csvdata&detail=dataonly",
-    "retrieved_at": "2026-11-09T07:10:56Z"
+    "retrieved_at": "2026-11-10T07:43:58Z"
   },
   "points": [
     [
@@ -104,7 +104,7 @@
       2.5
     ],
     [
-      "2026-11-09",
+      "2026-11-10",
       2.5
     ]
   ],

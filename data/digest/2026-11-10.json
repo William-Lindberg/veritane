@@ -1,0 +1,149 @@
+{
+  "schema": "veritane/digest/1",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T07:43:58Z",
+  "final": false,
+  "template_version": "digest-templates/1",
+  "headline": "2 new official figures on 10 November 2026.",
+  "headline_simple": "10 November 2026: 2 new figures.",
+  "counts": {
+    "data": 2,
+    "decisions": 0,
+    "revisions": 0,
+    "alerts": 0,
+    "publications": 0,
+    "coming_up": 6
+  },
+  "sections": [
+    {
+      "key": "data",
+      "entries": [
+        {
+          "news_id": "69f9abd81e4b878b",
+          "series_id": "no.inflation.cpi_yoy",
+          "region": "NO",
+          "topics": [
+            "inflation"
+          ],
+          "text": "In Norway, CPI inflation (12-month rate) was 3.6% in October 2026, up from 3.4% in September 2026.",
+          "text_simple": "Prices in Norway were 3.6% higher in October 2026 than a year earlier. In September 2026 they were 3.4% higher.",
+          "source": {
+            "name": "Statistics Norway",
+            "url": "https://www.ssb.no/en/statbank/table/14700/",
+            "dataset": "14700"
+          }
+        },
+        {
+          "news_id": "b5639e4f838ae684",
+          "series_id": "dk.inflation.cpi_yoy",
+          "region": "DK",
+          "topics": [
+            "inflation"
+          ],
+          "text": "In Denmark, CPI inflation (12-month change) was 2.2% in October 2026, unchanged from September 2026.",
+          "text_simple": "Prices in Denmark were 2.2% higher in October 2026 than a year earlier. In September 2026 they were 2.2% higher.",
+          "source": {
+            "name": "Statistics Denmark",
+            "url": "https://www.statistikbanken.dk/PRIS01",
+            "dataset": "PRIS01"
+          }
+        }
+      ]
+    },
+    {
+      "key": "decisions",
+      "entries": []
+    },
+    {
+      "key": "revisions",
+      "entries": []
+    },
+    {
+      "key": "alerts",
+      "entries": []
+    },
+    {
+      "key": "publications",
+      "entries": []
+    },
+    {
+      "key": "coming_up",
+      "entries": [
+        {
+          "calendar_id": "ons_cal:/releases/gdpfirstquarterlyestimateukjulytoseptember2026",
+          "region": "GB",
+          "start": "2026-11-12T07:00:00Z",
+          "display_title": "UK quarterly GDP",
+          "status": "confirmed",
+          "source": {
+            "name": "Office for National Statistics",
+            "url": "https://www.ons.gov.uk/releases/gdpfirstquarterlyestimateukjulytoseptember2026"
+          }
+        },
+        {
+          "calendar_id": "ons_cal:/releases/gdpmonthlyestimateukseptember2026",
+          "region": "GB",
+          "start": "2026-11-12T07:00:00Z",
+          "display_title": "UK monthly GDP",
+          "status": "confirmed",
+          "source": {
+            "name": "Office for National Statistics",
+            "url": "https://www.ons.gov.uk/releases/gdpmonthlyestimateukseptember2026"
+          }
+        },
+        {
+          "calendar_id": "ons_cal:/releases/uktradeseptember2026",
+          "region": "GB",
+          "start": "2026-11-12T07:00:00Z",
+          "display_title": "UK trade",
+          "status": "confirmed",
+          "source": {
+            "name": "Office for National Statistics",
+            "url": "https://www.ons.gov.uk/releases/uktradeseptember2026"
+          }
+        },
+        {
+          "calendar_id": "eurostat_cal:22494494",
+          "region": "EA",
+          "start": "2026-11-13",
+          "display_title": "Euro area GDP",
+          "status": "confirmed",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
+          }
+        },
+        {
+          "calendar_id": "eurostat_cal:22494535",
+          "region": "EA",
+          "start": "2026-11-16",
+          "display_title": "Euro area industrial production",
+          "status": "confirmed",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
+          }
+        },
+        {
+          "calendar_id": "ons_cal:/releases/uklabourmarketnovember2026",
+          "region": "GB",
+          "start": "2026-11-17T07:00:00Z",
+          "display_title": "UK labour market",
+          "status": "confirmed",
+          "source": {
+            "name": "Office for National Statistics",
+            "url": "https://www.ons.gov.uk/releases/uklabourmarketnovember2026"
+          }
+        }
+      ]
+    }
+  ],
+  "sources": {
+    "ok": 76,
+    "failed": 1,
+    "failed_names": [
+      "OECD"
+    ]
+  },
+  "empty": false
+}

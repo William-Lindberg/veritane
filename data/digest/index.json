@@ -1,11 +1,25 @@
 {
   "schema": "veritane/digest-index/1",
-  "generated_at": "2026-11-09T07:10:56Z",
-  "latest": "2026-11-09",
+  "generated_at": "2026-11-10T07:43:58Z",
+  "latest": "2026-11-10",
   "days": [
     {
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "final": false,
+      "headline": "2 new official figures on 10 November 2026.",
+      "headline_simple": "10 November 2026: 2 new figures.",
+      "counts": {
+        "data": 2,
+        "decisions": 0,
+        "revisions": 0,
+        "alerts": 0,
+        "publications": 0,
+        "coming_up": 6
+      }
+    },
+    {
+      "date": "2026-11-09",
+      "final": true,
       "headline": "No new official figures or decisions were collected on 9 November 2026.",
       "headline_simple": "9 November 2026: no new figures or decisions.",
       "counts": {

@@ -12,13 +12,9 @@
     "dataset": "PRIS01 (consumer price index, total)",
     "url": "https://www.statistikbanken.dk/PRIS01",
     "api_url": "https://api.statbank.dk/v1/data/PRIS01/CSV?lang=en&VAREGR=000000&ENHED=300&Tid=(-n130)",
-    "retrieved_at": "2026-11-07T09:24:08Z"
+    "retrieved_at": "2026-11-10T07:43:58Z"
   },
   "points": [
-    [
-      "2016-09",
-      0
-    ],
     [
       "2016-10",
       0.3
@@ -497,6 +493,10 @@
     ],
     [
       "2026-09",
+      2.2
+    ],
+    [
+      "2026-10",
       2.2
     ]
   ],

@@ -12,13 +12,9 @@
     "dataset": "14700 (CPI 2025=100, 12-month rate, total)",
     "url": "https://www.ssb.no/en/statbank/table/14700/",
     "api_url": "https://data.ssb.no/api/pxwebapi/v2/tables/14700/data?lang=en&outputFormat=json-stat2&valueCodes[ContentsCode]=Tolvmanedersendring&valueCodes[VareTjenesteGrp]=00&valueCodes[Tid]=top(130)",
-    "retrieved_at": "2026-11-07T09:24:08Z"
+    "retrieved_at": "2026-11-10T07:43:58Z"
   },
   "points": [
-    [
-      "2016-09",
-      3.7
-    ],
     [
       "2016-10",
       3.7
@@ -498,6 +494,10 @@
     [
       "2026-09",
       3.4
+    ],
+    [
+      "2026-10",
+      3.6
     ]
   ],
   "accumulated_since": null

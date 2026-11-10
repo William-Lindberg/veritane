@@ -1,6 +1,6 @@
 {
   "schema": "veritane/news/1",
-  "generated_at": "2026-11-09T22:41:56Z",
+  "generated_at": "2026-11-10T07:43:58Z",
   "template_version": "news-templates/1",
   "topics": {
     "policy_rate": "Interest rates",
@@ -16,11 +16,115 @@
     "other": "Other"
   },
   "counts": {
-    "items": 349,
-    "ui_visible": 331,
+    "items": 351,
+    "ui_visible": 333,
     "other_languages": 18
   },
   "items": [
+    {
+      "id": "69f9abd81e4b878b",
+      "kind": "data_update",
+      "source_id": "ssb",
+      "source_name": "Statistics Norway",
+      "region": "NO",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Norway: CPI inflation, October 2026",
+      "link": "https://www.ssb.no/en/statbank/table/14700/",
+      "published_at": "2026-11-10T07:43:58Z",
+      "summary": "New data: In Norway, CPI inflation (12-month rate) was 3.6% in October 2026, up from 3.4% in September 2026. Source: Statistics Norway.",
+      "summary_simple": "Prices in Norway were 3.6% higher in October 2026 than a year earlier. In September 2026 they were 3.4% higher.",
+      "summary_source": "data_update",
+      "language": "en",
+      "ui_visible": true,
+      "related_series": [
+        "no.inflation.cpi_yoy"
+      ],
+      "related_lessons": [
+        "macroeconomics/inflation-how-it-is-measured"
+      ],
+      "facts": [
+        {
+          "series_id": "no.inflation.cpi_yoy",
+          "period": "2026-10",
+          "period_label": "October 2026",
+          "value": 3.6,
+          "previous_period": "2026-09",
+          "previous_period_label": "September 2026",
+          "previous_value": 3.4,
+          "change": {
+            "value": 0.2,
+            "unit": "pp",
+            "direction": "up"
+          },
+          "unit": "% y/y",
+          "decimals": 1,
+          "dataset": "14700",
+          "retrieved_at": "2026-11-10T07:43:58Z"
+        }
+      ],
+      "template_version": "news-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
+      "retrieved_at": "2026-11-10T07:43:58Z"
+    },
+    {
+      "id": "b5639e4f838ae684",
+      "kind": "data_update",
+      "source_id": "dst",
+      "source_name": "Statistics Denmark",
+      "region": "DK",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Denmark: CPI inflation, October 2026",
+      "link": "https://www.statistikbanken.dk/PRIS01",
+      "published_at": "2026-11-10T07:43:58Z",
+      "summary": "New data: In Denmark, CPI inflation (12-month change) was 2.2% in October 2026, unchanged from September 2026. Source: Statistics Denmark.",
+      "summary_simple": "Prices in Denmark were 2.2% higher in October 2026 than a year earlier. In September 2026 they were 2.2% higher.",
+      "summary_source": "data_update",
+      "language": "en",
+      "ui_visible": true,
+      "related_series": [
+        "dk.inflation.cpi_yoy"
+      ],
+      "related_lessons": [
+        "macroeconomics/inflation-how-it-is-measured"
+      ],
+      "facts": [
+        {
+          "series_id": "dk.inflation.cpi_yoy",
+          "period": "2026-10",
+          "period_label": "October 2026",
+          "value": 2.2,
+          "previous_period": "2026-09",
+          "previous_period_label": "September 2026",
+          "previous_value": 2.2,
+          "change": {
+            "value": 0,
+            "unit": "pp",
+            "direction": "unchanged"
+          },
+          "unit": "% y/y",
+          "decimals": 1,
+          "dataset": "PRIS01",
+          "retrieved_at": "2026-11-10T07:43:58Z"
+        }
+      ],
+      "template_version": "news-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
+      "retrieved_at": "2026-11-10T07:43:58Z"
+    },
     {
       "id": "1e9018df907d89d4",
       "kind": "data_update",
