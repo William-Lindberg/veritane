@@ -12,7 +12,7 @@
     "dataset": "Debt to the Penny",
     "url": "https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/",
     "api_url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v2/accounting/od/debt_to_penny?sort=-record_date&page%5Bsize%5D=60",
-    "retrieved_at": "2026-11-09T22:41:56Z"
+    "retrieved_at": "2026-11-11T07:07:26Z"
   },
   "points": [
     [
@@ -496,8 +496,8 @@
       40.5245
     ],
     [
-      "2026-11-06",
-      40.5528
+      "2026-11-09",
+      40.5598
     ]
   ],
   "accumulated_since": null
