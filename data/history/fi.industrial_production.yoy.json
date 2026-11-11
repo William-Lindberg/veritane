@@ -12,13 +12,9 @@
     "dataset": "sts_inpr_m FI",
     "url": "https://ec.europa.eu/eurostat/databrowser/view/sts_inpr_m/default/table",
     "api_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=EA21&geo=EA20&geo=SE&geo=DK&geo=PL&geo=HU&geo=CZ&geo=DE&geo=FR&geo=IT&geo=ES&geo=NL&geo=BE&geo=AT&geo=IE&geo=PT&geo=FI&geo=EL&geo=RO&sinceTimePeriod=2024-01&format=JSON&lang=EN",
-    "retrieved_at": "2026-11-08T13:38:16Z"
+    "retrieved_at": "2026-11-11T19:52:12Z"
   },
   "points": [
-    [
-      "2016-08",
-      2.7
-    ],
     [
       "2016-09",
       4.1
@@ -437,7 +433,7 @@
     ],
     [
       "2025-05",
-      5.4
+      5.5
     ],
     [
       "2025-06",
@@ -453,11 +449,11 @@
     ],
     [
       "2025-09",
-      -0.6
+      -0.4
     ],
     [
       "2025-10",
-      2.3
+      2.2
     ],
     [
       "2025-11",
@@ -465,7 +461,7 @@
     ],
     [
       "2025-12",
-      2
+      2.2
     ],
     [
       "2026-01",
@@ -473,7 +469,7 @@
     ],
     [
       "2026-02",
-      5.2
+      5.3
     ],
     [
       "2026-03",
@@ -481,7 +477,7 @@
     ],
     [
       "2026-04",
-      3.2
+      3
     ],
     [
       "2026-05",
@@ -489,15 +485,19 @@
     ],
     [
       "2026-06",
-      4.4
-    ],
-    [
-      "2026-07",
       4.6
     ],
     [
+      "2026-07",
+      4.4
+    ],
+    [
       "2026-08",
-      0.9
+      1.3
+    ],
+    [
+      "2026-09",
+      4.5
     ]
   ],
   "accumulated_since": null

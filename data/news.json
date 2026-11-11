@@ -1,6 +1,6 @@
 {
   "schema": "veritane/news/1",
-  "generated_at": "2026-11-10T20:00:20Z",
+  "generated_at": "2026-11-11T19:52:12Z",
   "template_version": "news-templates/1",
   "topics": {
     "policy_rate": "Interest rates",
@@ -16,11 +16,427 @@
     "other": "Other"
   },
   "counts": {
-    "items": 352,
-    "ui_visible": 334,
+    "items": 360,
+    "ui_visible": 342,
     "other_languages": 18
   },
   "items": [
+    {
+      "id": "15a4ff5bbb4edee1",
+      "kind": "data_update",
+      "source_id": "imf_cpi",
+      "source_name": "International Monetary Fund (CPI dataset)",
+      "region": "ID",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Indonesia: CPI inflation, October 2026",
+      "link": "https://data.imf.org/",
+      "published_at": "2026-11-11T19:52:12Z",
+      "summary": "New data: In Indonesia, consumer price inflation (12-month change) was 3.2% in October 2026, down from 3.3% in September 2026. Source: International Monetary Fund (CPI dataset).",
+      "summary_simple": "Prices in Indonesia were 3.2% higher in October 2026 than a year earlier. In September 2026 they were 3.3% higher.",
+      "summary_source": "data_update",
+      "language": "en",
+      "ui_visible": true,
+      "related_series": [
+        "id.inflation.cpi_yoy"
+      ],
+      "related_lessons": [
+        "macroeconomics/inflation-how-it-is-measured"
+      ],
+      "facts": [
+        {
+          "series_id": "id.inflation.cpi_yoy",
+          "period": "2026-10",
+          "period_label": "October 2026",
+          "value": 3.2282,
+          "previous_period": "2026-09",
+          "previous_period_label": "September 2026",
+          "previous_value": 3.2831,
+          "change": {
+            "value": -0.1,
+            "unit": "pp",
+            "direction": "down"
+          },
+          "unit": "% y/y",
+          "decimals": 1,
+          "dataset": "IMF.STA:CPI IDN.CPI._T.YOY_PCH_PA_PT.M",
+          "retrieved_at": "2026-11-11T19:52:12Z"
+        }
+      ],
+      "template_version": "news-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
+      "retrieved_at": "2026-11-11T19:52:12Z"
+    },
+    {
+      "id": "37554a0ad89d4086",
+      "kind": "data_update",
+      "source_id": "imf_cpi",
+      "source_name": "International Monetary Fund (CPI dataset)",
+      "region": "CN",
+      "topics": [
+        "inflation"
+      ],
+      "title": "China: CPI inflation, October 2026",
+      "link": "https://data.imf.org/",
+      "published_at": "2026-11-11T19:52:12Z",
+      "summary": "New data: In China, consumer price inflation (12-month change) was 0.7% in October 2026, down from 0.9% in September 2026. Source: International Monetary Fund (CPI dataset).",
+      "summary_simple": "Prices in China were 0.7% higher in October 2026 than a year earlier. In September 2026 they were 0.9% higher.",
+      "summary_source": "data_update",
+      "language": "en",
+      "ui_visible": true,
+      "related_series": [
+        "cn.inflation.cpi_yoy"
+      ],
+      "related_lessons": [
+        "macroeconomics/inflation-how-it-is-measured"
+      ],
+      "facts": [
+        {
+          "series_id": "cn.inflation.cpi_yoy",
+          "period": "2026-10",
+          "period_label": "October 2026",
+          "value": 0.7,
+          "previous_period": "2026-09",
+          "previous_period_label": "September 2026",
+          "previous_value": 0.8999,
+          "change": {
+            "value": -0.2,
+            "unit": "pp",
+            "direction": "down"
+          },
+          "unit": "% y/y",
+          "decimals": 1,
+          "dataset": "IMF.STA:CPI CHN.CPI._T.YOY_PCH_PA_PT.M",
+          "retrieved_at": "2026-11-11T19:52:12Z"
+        }
+      ],
+      "template_version": "news-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
+      "retrieved_at": "2026-11-11T19:52:12Z"
+    },
+    {
+      "id": "7649c630b1cb2576",
+      "kind": "data_update",
+      "source_id": "imf_cpi",
+      "source_name": "International Monetary Fund (CPI dataset)",
+      "region": "AR",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Argentina: CPI inflation, September 2026",
+      "link": "https://data.imf.org/",
+      "published_at": "2026-11-11T19:52:12Z",
+      "summary": "New data: In Argentina, consumer price inflation (12-month change) was 33.4% in September 2026, down from 33.5% in August 2026. Source: International Monetary Fund (CPI dataset).",
+      "summary_simple": "Prices in Argentina were 33.4% higher in September 2026 than a year earlier. In August 2026 they were 33.5% higher.",
+      "summary_source": "data_update",
+      "language": "en",
+      "ui_visible": true,
+      "related_series": [
+        "ar.inflation.cpi_yoy"
+      ],
+      "related_lessons": [
+        "macroeconomics/inflation-how-it-is-measured"
+      ],
+      "facts": [
+        {
+          "series_id": "ar.inflation.cpi_yoy",
+          "period": "2026-09",
+          "period_label": "September 2026",
+          "value": 33.3554,
+          "previous_period": "2026-08",
+          "previous_period_label": "August 2026",
+          "previous_value": 33.5422,
+          "change": {
+            "value": -0.1,
+            "unit": "pp",
+            "direction": "down"
+          },
+          "unit": "% y/y",
+          "decimals": 1,
+          "dataset": "IMF.STA:CPI ARG.CPI._T.YOY_PCH_PA_PT.M",
+          "retrieved_at": "2026-11-11T19:52:12Z"
+        }
+      ],
+      "template_version": "news-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
+      "retrieved_at": "2026-11-11T19:52:12Z"
+    },
+    {
+      "id": "b3db3006715965eb",
+      "kind": "data_update",
+      "source_id": "imf_cpi",
+      "source_name": "International Monetary Fund (CPI dataset)",
+      "region": "CH",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Switzerland: CPI inflation, October 2026",
+      "link": "https://data.imf.org/",
+      "published_at": "2026-11-11T19:52:12Z",
+      "summary": "New data: In Switzerland, consumer price inflation (12-month change) was 1.5% in October 2026, up from 1.0% in September 2026. Source: International Monetary Fund (CPI dataset).",
+      "summary_simple": "Prices in Switzerland were 1.5% higher in October 2026 than a year earlier. In September 2026 they were 1.0% higher.",
+      "summary_source": "data_update",
+      "language": "en",
+      "ui_visible": true,
+      "related_series": [
+        "ch.inflation.cpi_yoy"
+      ],
+      "related_lessons": [
+        "macroeconomics/inflation-how-it-is-measured"
+      ],
+      "facts": [
+        {
+          "series_id": "ch.inflation.cpi_yoy",
+          "period": "2026-10",
+          "period_label": "October 2026",
+          "value": 1.4561,
+          "previous_period": "2026-09",
+          "previous_period_label": "September 2026",
+          "previous_value": 0.9901,
+          "change": {
+            "value": 0.5,
+            "unit": "pp",
+            "direction": "up"
+          },
+          "unit": "% y/y",
+          "decimals": 1,
+          "dataset": "IMF.STA:CPI CHE.CPI._T.YOY_PCH_PA_PT.M",
+          "retrieved_at": "2026-11-11T19:52:12Z"
+        }
+      ],
+      "template_version": "news-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
+      "retrieved_at": "2026-11-11T19:52:12Z"
+    },
+    {
+      "id": "c0344189a9f9c72a",
+      "kind": "data_update",
+      "source_id": "imf_cpi",
+      "source_name": "International Monetary Fund (CPI dataset)",
+      "region": "EG",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Egypt: CPI inflation, October 2026",
+      "link": "https://data.imf.org/",
+      "published_at": "2026-11-11T19:52:12Z",
+      "summary": "New data: In Egypt, consumer price inflation (12-month change) was 12.7% in October 2026, down from 14.0% in September 2026. Source: International Monetary Fund (CPI dataset).",
+      "summary_simple": "Prices in Egypt were 12.7% higher in October 2026 than a year earlier. In September 2026 they were 14.0% higher.",
+      "summary_source": "data_update",
+      "language": "en",
+      "ui_visible": true,
+      "related_series": [
+        "eg.inflation.cpi_yoy"
+      ],
+      "related_lessons": [
+        "macroeconomics/inflation-how-it-is-measured"
+      ],
+      "facts": [
+        {
+          "series_id": "eg.inflation.cpi_yoy",
+          "period": "2026-10",
+          "period_label": "October 2026",
+          "value": 12.704,
+          "previous_period": "2026-09",
+          "previous_period_label": "September 2026",
+          "previous_value": 13.9706,
+          "change": {
+            "value": -1.3,
+            "unit": "pp",
+            "direction": "down"
+          },
+          "unit": "% y/y",
+          "decimals": 1,
+          "dataset": "IMF.STA:CPI EGY.CPI._T.YOY_PCH_PA_PT.M",
+          "retrieved_at": "2026-11-11T19:52:12Z"
+        }
+      ],
+      "template_version": "news-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
+      "retrieved_at": "2026-11-11T19:52:12Z"
+    },
+    {
+      "id": "d382526bdc243d2b",
+      "kind": "data_update",
+      "source_id": "imf_cpi",
+      "source_name": "International Monetary Fund (CPI dataset)",
+      "region": "PL",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Poland: CPI inflation, September 2026",
+      "link": "https://data.imf.org/",
+      "published_at": "2026-11-11T19:52:12Z",
+      "summary": "New data: In Poland, consumer price inflation (12-month change) was 3.9% in September 2026, up from 3.2% in August 2026. Source: International Monetary Fund (CPI dataset).",
+      "summary_simple": "Prices in Poland were 3.9% higher in September 2026 than a year earlier. In August 2026 they were 3.2% higher.",
+      "summary_source": "data_update",
+      "language": "en",
+      "ui_visible": true,
+      "related_series": [
+        "pl.inflation.cpi_yoy"
+      ],
+      "related_lessons": [
+        "macroeconomics/inflation-how-it-is-measured"
+      ],
+      "facts": [
+        {
+          "series_id": "pl.inflation.cpi_yoy",
+          "period": "2026-09",
+          "period_label": "September 2026",
+          "value": 3.9137,
+          "previous_period": "2026-08",
+          "previous_period_label": "August 2026",
+          "previous_value": 3.2123,
+          "change": {
+            "value": 0.7,
+            "unit": "pp",
+            "direction": "up"
+          },
+          "unit": "% y/y",
+          "decimals": 1,
+          "dataset": "IMF.STA:CPI POL.CPI._T.YOY_PCH_PA_PT.M",
+          "retrieved_at": "2026-11-11T19:52:12Z"
+        }
+      ],
+      "template_version": "news-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
+      "retrieved_at": "2026-11-11T19:52:12Z"
+    },
+    {
+      "id": "e0156b1fff5ad509",
+      "kind": "data_update",
+      "source_id": "riksbank",
+      "source_name": "Sveriges Riksbank",
+      "region": "SE",
+      "topics": [
+        "policy_rate"
+      ],
+      "title": "Sweden: Riksbank policy rate, 11 November 2026",
+      "link": "https://www.riksbank.se/en-gb/statistics/",
+      "published_at": "2026-11-11T19:52:12Z",
+      "summary": "New data: In Sweden, the Riksbank's policy rate was 2.00% on 11 November 2026, up from 1.75% on 10 November 2026. Source: Sveriges Riksbank.",
+      "summary_simple": "The main interest rate set by the Riksbank has been 2.00% since 11 November 2026. Before that it was 1.75%.",
+      "summary_source": "data_update",
+      "language": "en",
+      "ui_visible": true,
+      "related_series": [
+        "se.policy_rate.policy_rate"
+      ],
+      "related_lessons": [
+        "macroeconomics/interest-rates-and-central-banks"
+      ],
+      "facts": [
+        {
+          "series_id": "se.policy_rate.policy_rate",
+          "period": "2026-11-11",
+          "period_label": "11 November 2026",
+          "value": 2,
+          "previous_period": "2026-11-10",
+          "previous_period_label": "10 November 2026",
+          "previous_value": 1.75,
+          "change": {
+            "value": 0.25,
+            "unit": "pp",
+            "direction": "up"
+          },
+          "unit": "%",
+          "decimals": 2,
+          "dataset": "SECBREPOEFF",
+          "retrieved_at": "2026-11-11T19:52:12Z"
+        }
+      ],
+      "template_version": "news-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
+      "retrieved_at": "2026-11-11T19:52:12Z"
+    },
+    {
+      "id": "f4e660d230d504a1",
+      "kind": "data_update",
+      "source_id": "imf_cpi",
+      "source_name": "International Monetary Fund (CPI dataset)",
+      "region": "CL",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Chile: CPI inflation, October 2026",
+      "link": "https://data.imf.org/",
+      "published_at": "2026-11-11T19:52:12Z",
+      "summary": "New data: In Chile, consumer price inflation (12-month change) was 4.5% in October 2026, up from 4.1% in September 2026. Source: International Monetary Fund (CPI dataset).",
+      "summary_simple": "Prices in Chile were 4.5% higher in October 2026 than a year earlier. In September 2026 they were 4.1% higher.",
+      "summary_source": "data_update",
+      "language": "en",
+      "ui_visible": true,
+      "related_series": [
+        "cl.inflation.cpi_yoy"
+      ],
+      "related_lessons": [
+        "macroeconomics/inflation-how-it-is-measured"
+      ],
+      "facts": [
+        {
+          "series_id": "cl.inflation.cpi_yoy",
+          "period": "2026-10",
+          "period_label": "October 2026",
+          "value": 4.5242,
+          "previous_period": "2026-09",
+          "previous_period_label": "September 2026",
+          "previous_value": 4.0773,
+          "change": {
+            "value": 0.4,
+            "unit": "pp",
+            "direction": "up"
+          },
+          "unit": "% y/y",
+          "decimals": 1,
+          "dataset": "IMF.STA:CPI CHL.CPI._T.YOY_PCH_PA_PT.M",
+          "retrieved_at": "2026-11-11T19:52:12Z"
+        }
+      ],
+      "template_version": "news-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
+      "retrieved_at": "2026-11-11T19:52:12Z"
+    },
     {
       "id": "e1f9e9d780764601",
       "kind": "data_update",
@@ -3797,7 +4213,27 @@
       "reviewed_by": null,
       "reviewed_at": null,
       "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
-      "retrieved_at": "2026-11-06T22:31:21Z"
+      "retrieved_at": "2026-11-06T22:31:21Z",
+      "facts": [
+        {
+          "series_id": "se.policy_rate.policy_rate",
+          "period": "2026-11-11",
+          "period_label": "11 November 2026",
+          "value": 2,
+          "previous_period": "2026-11-10",
+          "previous_period_label": "10 November 2026",
+          "previous_value": 1.75,
+          "change": {
+            "value": 0.25,
+            "unit": "pp",
+            "direction": "up"
+          },
+          "unit": "%",
+          "decimals": 2,
+          "dataset": "SECBREPOEFF",
+          "retrieved_at": "2026-11-11T19:52:12Z"
+        }
+      ]
     },
     {
       "id": "51e155ab2af06870",

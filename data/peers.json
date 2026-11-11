@@ -1,6 +1,6 @@
 {
   "schema": "veritane/peers/1",
-  "generated_at": "2026-11-10T20:00:20.000Z",
+  "generated_at": "2026-11-11T19:52:12.000Z",
   "panels": {
     "policy_rate.bis": {
       "name": "Central bank policy rates",
@@ -157,8 +157,8 @@
       "rows": [
         {
           "region": "AR",
-          "period": "2026-08",
-          "value": 33.5422
+          "period": "2026-09",
+          "value": 33.3554
         },
         {
           "region": "BD",
@@ -167,18 +167,18 @@
         },
         {
           "region": "CH",
-          "period": "2026-09",
-          "value": 0.9901
+          "period": "2026-10",
+          "value": 1.4561
         },
         {
           "region": "CL",
-          "period": "2026-09",
-          "value": 4.0773
+          "period": "2026-10",
+          "value": 4.5242
         },
         {
           "region": "CN",
-          "period": "2026-09",
-          "value": 0.8999
+          "period": "2026-10",
+          "value": 0.7
         },
         {
           "region": "CO",
@@ -192,8 +192,8 @@
         },
         {
           "region": "EG",
-          "period": "2026-08",
-          "value": 14.539
+          "period": "2026-10",
+          "value": 12.704
         },
         {
           "region": "HU",
@@ -202,8 +202,8 @@
         },
         {
           "region": "ID",
-          "period": "2026-09",
-          "value": 3.2831
+          "period": "2026-10",
+          "value": 3.2282
         },
         {
           "region": "IL",
@@ -262,8 +262,8 @@
         },
         {
           "region": "PL",
-          "period": "2026-08",
-          "value": 3.2123
+          "period": "2026-09",
+          "value": 3.9137
         },
         {
           "region": "RU",
