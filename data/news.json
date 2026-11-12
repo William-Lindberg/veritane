@@ -1,6 +1,6 @@
 {
   "schema": "veritane/news/1",
-  "generated_at": "2026-11-12T07:43:12Z",
+  "generated_at": "2026-11-12T20:26:28Z",
   "template_version": "news-templates/1",
   "topics": {
     "policy_rate": "Interest rates",
@@ -16,11 +16,115 @@
     "other": "Other"
   },
   "counts": {
-    "items": 360,
-    "ui_visible": 342,
+    "items": 362,
+    "ui_visible": 344,
     "other_languages": 18
   },
   "items": [
+    {
+      "id": "4a86cf66eb4872e9",
+      "kind": "data_update",
+      "source_id": "bcb",
+      "source_name": "Banco Central do Brasil (IBGE data)",
+      "region": "BR",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Brazil: IPCA inflation, October 2026",
+      "link": "https://www.bcb.gov.br/en",
+      "published_at": "2026-11-12T20:26:28Z",
+      "summary": "New data: In Brazil, IPCA consumer price inflation (12-month change) was 4.63% in October 2026, up from 4.58% in September 2026. Source: Banco Central do Brasil (IBGE data).",
+      "summary_simple": "Prices in Brazil were 4.63% higher in October 2026 than a year earlier. In September 2026 they were 4.58% higher.",
+      "summary_source": "data_update",
+      "language": "en",
+      "ui_visible": true,
+      "related_series": [
+        "br.inflation.cpi_yoy"
+      ],
+      "related_lessons": [
+        "macroeconomics/inflation-how-it-is-measured"
+      ],
+      "facts": [
+        {
+          "series_id": "br.inflation.cpi_yoy",
+          "period": "2026-10",
+          "period_label": "October 2026",
+          "value": 4.63,
+          "previous_period": "2026-09",
+          "previous_period_label": "September 2026",
+          "previous_value": 4.58,
+          "change": {
+            "value": 0.05,
+            "unit": "pp",
+            "direction": "up"
+          },
+          "unit": "% y/y",
+          "decimals": 2,
+          "dataset": "SGS 13522",
+          "retrieved_at": "2026-11-12T20:26:28Z"
+        }
+      ],
+      "template_version": "news-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
+      "retrieved_at": "2026-11-12T20:26:28Z"
+    },
+    {
+      "id": "93e7488767b3bb68",
+      "kind": "data_update",
+      "source_id": "fiscaldata",
+      "source_name": "U.S. Treasury, Fiscal Data",
+      "region": "US",
+      "topics": [
+        "public_finance"
+      ],
+      "title": "United States: Federal budget balance, monthly, October 2026",
+      "link": "https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/",
+      "published_at": "2026-11-12T20:26:28Z",
+      "summary": "New data: In the United States, in October 2026 federal outlays exceeded receipts by $404.1 billion (a deficit). In October 2025 federal outlays exceeded receipts by $284.3 billion (a deficit). Source: U.S. Treasury, Fiscal Data.",
+      "summary_simple": "In the United States, in October 2026 federal outlays exceeded receipts by $404.1 billion (a deficit). In October 2025 federal outlays exceeded receipts by $284.3 billion (a deficit).",
+      "summary_source": "data_update",
+      "language": "en",
+      "ui_visible": true,
+      "related_series": [
+        "us.deficit.monthly_balance"
+      ],
+      "related_lessons": [
+        "macroeconomics/government-budgets-deficits-and-debt"
+      ],
+      "facts": [
+        {
+          "series_id": "us.deficit.monthly_balance",
+          "period": "2026-10",
+          "period_label": "October 2026",
+          "value": 404.0635,
+          "previous_period": "2025-10",
+          "previous_period_label": "October 2025",
+          "previous_value": 284.3327,
+          "change": {
+            "value": 42.1,
+            "unit": "%",
+            "direction": "up"
+          },
+          "unit": "USD bn",
+          "decimals": 1,
+          "dataset": "Monthly Treasury Statement, table 1",
+          "retrieved_at": "2026-11-12T20:26:28Z"
+        }
+      ],
+      "template_version": "news-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
+      "retrieved_at": "2026-11-12T20:26:28Z"
+    },
     {
       "id": "09cd5ed89cdae719",
       "kind": "data_update",

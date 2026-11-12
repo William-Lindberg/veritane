@@ -12,13 +12,9 @@
     "dataset": "SGS 13522",
     "url": "https://www.bcb.gov.br/en",
     "api_url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13522/dados/ultimos/20?formato=json",
-    "retrieved_at": "2026-11-08T13:38:16Z"
+    "retrieved_at": "2026-11-12T20:26:28Z"
   },
   "points": [
-    [
-      "2016-09",
-      8.48
-    ],
     [
       "2016-10",
       7.87
@@ -498,6 +494,10 @@
     [
       "2026-09",
       4.58
+    ],
+    [
+      "2026-10",
+      4.63
     ]
   ],
   "accumulated_since": null

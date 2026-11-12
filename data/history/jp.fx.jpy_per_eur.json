@@ -12,7 +12,7 @@
     "dataset": "Euro foreign exchange reference rates (JPY)",
     "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html",
     "api_url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml",
-    "retrieved_at": "2026-11-11T19:52:12Z"
+    "retrieved_at": "2026-11-12T20:26:28Z"
   },
   "points": [
     [
@@ -496,8 +496,8 @@
       175.68
     ],
     [
-      "2026-11-11",
-      177.18
+      "2026-11-12",
+      176.96
     ]
   ],
   "accumulated_since": null

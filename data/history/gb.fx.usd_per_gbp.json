@@ -12,7 +12,7 @@
     "dataset": "XUDLUSS (spot rate)",
     "url": "https://www.bankofengland.co.uk/boeapps/database/",
     "api_url": "https://www.bankofengland.co.uk/boeapps/database/_iadb-fromshowcolumns.asp?csv.x=yes&Datefrom=13/Nov/2025&Dateto=now&SeriesCodes=IUDBEDR,XUDLUSS&CSVF=TN&UsingCodes=Y&VPD=Y&VFD=N",
-    "retrieved_at": "2026-11-12T07:43:12Z"
+    "retrieved_at": "2026-11-12T20:26:28Z"
   },
   "points": [
     [
@@ -496,8 +496,8 @@
       1.3397
     ],
     [
-      "2026-11-10",
-      1.3335
+      "2026-11-11",
+      1.3282
     ]
   ],
   "accumulated_since": null

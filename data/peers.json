@@ -1,6 +1,6 @@
 {
   "schema": "veritane/peers/1",
-  "generated_at": "2026-11-11T19:52:12.000Z",
+  "generated_at": "2026-11-12T20:26:28.000Z",
   "panels": {
     "policy_rate.bis": {
       "name": "Central bank policy rates",
@@ -25,22 +25,22 @@
       "rows": [
         {
           "region": "BR",
-          "period": "2026-11-03",
+          "period": "2026-11-10",
           "value": 13.75
         },
         {
           "region": "CH",
-          "period": "2026-11-03",
+          "period": "2026-11-10",
           "value": 0
         },
         {
           "region": "CL",
-          "period": "2026-11-03",
+          "period": "2026-11-10",
           "value": 4.5
         },
         {
           "region": "CN",
-          "period": "2026-11-03",
+          "period": "2026-11-10",
           "value": 3
         },
         {
@@ -50,17 +50,17 @@
         },
         {
           "region": "CZ",
-          "period": "2026-11-02",
-          "value": 3.75
+          "period": "2026-11-09",
+          "value": 4
         },
         {
           "region": "HU",
-          "period": "2026-10-28",
+          "period": "2026-11-04",
           "value": 5.5
         },
         {
           "region": "ID",
-          "period": "2026-10-19",
+          "period": "2026-10",
           "value": 5.75
         },
         {
@@ -75,42 +75,42 @@
         },
         {
           "region": "JP",
-          "period": "2026-11-03",
+          "period": "2026-11-10",
           "value": 1.25
         },
         {
           "region": "KR",
-          "period": "2026-10-08",
+          "period": "2026-11-02",
           "value": 3
         },
         {
           "region": "MX",
-          "period": "2026-11-03",
-          "value": 6.5
+          "period": "2026-11-10",
+          "value": 6.25
         },
         {
           "region": "MY",
-          "period": "2026-11-03",
+          "period": "2026-11-10",
           "value": 2.75
         },
         {
           "region": "NZ",
-          "period": "2026-10-30",
+          "period": "2026-11-06",
           "value": 2.75
         },
         {
           "region": "PE",
-          "period": "2026-11-03",
+          "period": "2026-11-09",
           "value": 4.25
         },
         {
           "region": "PL",
-          "period": "2026-11-03",
+          "period": "2026-11-10",
           "value": 3.75
         },
         {
           "region": "RU",
-          "period": "2026-11-03",
+          "period": "2026-11-10",
           "value": 14
         },
         {
@@ -120,12 +120,12 @@
         },
         {
           "region": "TH",
-          "period": "2026-10-29",
+          "period": "2026-11-05",
           "value": 1
         },
         {
           "region": "TR",
-          "period": "2026-11-03",
+          "period": "2026-11-06",
           "value": 36
         }
       ],

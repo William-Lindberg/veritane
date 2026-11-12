@@ -1,15 +1,15 @@
 {
   "schema": "veritane/digest/1",
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T07:43:12Z",
+  "generated_at": "2026-11-12T20:26:28Z",
   "final": false,
   "template_version": "digest-templates/1",
-  "headline": "1 new official figure on 12 November 2026.",
-  "headline_simple": "12 November 2026: 1 new figure.",
+  "headline": "3 new official figures on 12 November 2026.",
+  "headline_simple": "12 November 2026: 3 new figures.",
   "counts": {
-    "data": 1,
+    "data": 3,
     "decisions": 0,
-    "revisions": 35,
+    "revisions": 36,
     "alerts": 0,
     "publications": 0,
     "coming_up": 8
@@ -18,6 +18,21 @@
     {
       "key": "data",
       "entries": [
+        {
+          "news_id": "93e7488767b3bb68",
+          "series_id": "us.deficit.monthly_balance",
+          "region": "US",
+          "topics": [
+            "public_finance"
+          ],
+          "text": "In the United States, in October 2026 federal outlays exceeded receipts by $404.1 billion (a deficit). In October 2025 federal outlays exceeded receipts by $284.3 billion (a deficit).",
+          "text_simple": "In the United States, in October 2026 federal outlays exceeded receipts by $404.1 billion (a deficit). In October 2025 federal outlays exceeded receipts by $284.3 billion (a deficit).",
+          "source": {
+            "name": "U.S. Treasury, Fiscal Data",
+            "url": "https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/",
+            "dataset": "Monthly Treasury Statement, table 1"
+          }
+        },
         {
           "news_id": "09cd5ed89cdae719",
           "series_id": "se.inflation.cpi_yoy",
@@ -31,6 +46,21 @@
             "name": "Statistics Sweden",
             "url": "https://www.scb.se/en/finding-statistics/",
             "dataset": "TAB6596"
+          }
+        },
+        {
+          "news_id": "4a86cf66eb4872e9",
+          "series_id": "br.inflation.cpi_yoy",
+          "region": "BR",
+          "topics": [
+            "inflation"
+          ],
+          "text": "In Brazil, IPCA consumer price inflation (12-month change) was 4.63% in October 2026, up from 4.58% in September 2026.",
+          "text_simple": "Prices in Brazil were 4.63% higher in October 2026 than a year earlier. In September 2026 they were 4.58% higher.",
+          "source": {
+            "name": "Banco Central do Brasil (IBGE data)",
+            "url": "https://www.bcb.gov.br/en",
+            "dataset": "SGS 13522"
           }
         }
       ]
@@ -461,6 +491,18 @@
             "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/TUR.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-09&endPeriod=2026-09&format=csvfilewithlabels",
             "dataset": "DF_CLI CCICP TUR"
           }
+        },
+        {
+          "revision_id": "6ebcd3a1277a3310",
+          "series_id": "us.deficit.monthly_balance",
+          "region": "US",
+          "text": "United States, Federal budget balance, monthly: the U.S. Treasury, Fiscal Data revised the figure for September 2026 from $26.9 billion to $27.0 billion.",
+          "text_simple": "The U.S. Treasury, Fiscal Data changed a figure it published earlier. The figure for September 2026 is now $27.0 billion. Before, it was $26.9 billion.",
+          "source": {
+            "name": "U.S. Treasury, Fiscal Data",
+            "url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/mts/mts_table_1?filter=record_date:eq:2026-09-30",
+            "dataset": "Monthly Treasury Statement, table 1"
+          }
         }
       ]
     },
@@ -567,9 +609,10 @@
     }
   ],
   "sources": {
-    "ok": 74,
-    "failed": 3,
+    "ok": 73,
+    "failed": 4,
     "failed_names": [
+      "International Labour Organization (ILOSTAT)",
       "OECD",
       "World Bank"
     ]

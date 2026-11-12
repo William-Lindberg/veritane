@@ -12,7 +12,7 @@
     "dataset": "WS_CBPOL PE",
     "url": "https://data.bis.org/",
     "api_url": "https://stats.bis.org/api/v2/data/dataflow/BIS/WS_CBPOL/1.0/D.JP+BR+IN+ID+MX+CN+SA+TR+KR+IL+CL+CO+PE+MY+TH+PL+HU+CZ+CH+NZ+RU+US+XM+GB+CA+AU+SE+NO+DK+ZA?lastNObservations=1&format=csv",
-    "retrieved_at": "2026-11-07T09:24:08Z"
+    "retrieved_at": "2026-11-12T20:26:28Z"
   },
   "points": [
     [
@@ -188,7 +188,7 @@
       4.25
     ],
     [
-      "2026-11-03",
+      "2026-11-09",
       4.25
     ]
   ],

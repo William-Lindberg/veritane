@@ -12,7 +12,7 @@
     "dataset": "IR.B.KPRA.SD",
     "url": "https://www.norges-bank.no/en/topics/Monetary-policy/Policy-rate/",
     "api_url": "https://data.norges-bank.no/api/data/IR/B.KPRA.SD.?format=sdmx-json&lastNObservations=260&locale=en",
-    "retrieved_at": "2026-11-11T19:52:12Z"
+    "retrieved_at": "2026-11-12T20:26:28Z"
   },
   "points": [
     [
@@ -120,7 +120,7 @@
       4.5
     ],
     [
-      "2026-11-10",
+      "2026-11-11",
       4.5
     ]
   ],

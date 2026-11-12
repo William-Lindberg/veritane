@@ -1,17 +1,17 @@
 {
   "schema": "veritane/digest-index/1",
-  "generated_at": "2026-11-12T07:43:12Z",
+  "generated_at": "2026-11-12T20:26:28Z",
   "latest": "2026-11-12",
   "days": [
     {
       "date": "2026-11-12",
       "final": false,
-      "headline": "1 new official figure on 12 November 2026.",
-      "headline_simple": "12 November 2026: 1 new figure.",
+      "headline": "3 new official figures on 12 November 2026.",
+      "headline_simple": "12 November 2026: 3 new figures.",
       "counts": {
-        "data": 1,
+        "data": 3,
         "decisions": 0,
-        "revisions": 35,
+        "revisions": 36,
         "alerts": 0,
         "publications": 0,
         "coming_up": 8

@@ -1,10 +1,10 @@
 {
   "schema": "veritane/yield-curves/1",
-  "generated_at": "2026-11-12T07:43:12Z",
+  "generated_at": "2026-11-12T20:26:28Z",
   "sourceName": "U.S. Treasury; European Central Bank; Bank of England",
   "sourceUrl": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve",
   "licence": "See each series",
-  "retrievedAt": "2026-11-12T07:43:12Z",
+  "retrievedAt": "2026-11-12T20:26:28Z",
   "notes": [
     "Par and spot curves are different measures and are not drawn on the same axes."
   ],
@@ -26,7 +26,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-12T07:43:12Z"
+        "retrieved_at": "2026-11-12T20:26:28Z"
       },
       "tenors": [
         "1m",
@@ -4815,7 +4815,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-12T07:43:12Z"
+        "retrieved_at": "2026-11-12T20:26:28Z"
       },
       "tenors": [
         "3m",
@@ -7630,6 +7630,17 @@
             "3m": 2.62,
             "5y": 3.08
           }
+        },
+        {
+          "date": "2026-11-11",
+          "values": {
+            "10y": 3.34,
+            "1y": 2.94,
+            "2y": 3.05,
+            "30y": 3.6,
+            "3m": 2.62,
+            "5y": 3.1
+          }
         }
       ]
     },
@@ -7649,7 +7660,7 @@
           "url": "https://www.bankofengland.co.uk/legal",
           "verified": false
         },
-        "retrieved_at": "2026-11-12T07:43:12Z"
+        "retrieved_at": "2026-11-12T20:26:28Z"
       },
       "tenors": [
         "5y",
@@ -9671,6 +9682,14 @@
             "5y": 4.78,
             "10y": 5.14,
             "20y": 5.45
+          }
+        },
+        {
+          "date": "2026-11-10",
+          "values": {
+            "5y": 4.85,
+            "10y": 5.19,
+            "20y": 5.49
           }
         }
       ]
