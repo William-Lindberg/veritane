@@ -1,10 +1,10 @@
 {
   "schema": "veritane/alerts/1",
-  "generated_at": "2026-11-08T13:38:16Z",
+  "generated_at": "2026-11-12T07:43:12Z",
   "template_version": "alert-templates/1",
   "counts": {
-    "items": 59,
-    "ui_visible": 25,
+    "items": 58,
+    "ui_visible": 24,
     "other_languages": 34
   },
   "items": [
@@ -1218,26 +1218,6 @@
       "reviewed_by": null,
       "reviewed_at": null,
       "retrieved_at": "2026-11-07T21:53:04Z"
-    },
-    {
-      "id": "2e2c19d681bfabf9",
-      "source_id": "cfpb_newsroom",
-      "source_name": "Consumer Financial Protection Bureau",
-      "jurisdiction": "US",
-      "category": "consumer_guidance",
-      "title": "The CFPB to Cease Discretionary Publication of Complaint Narratives and Visualizations",
-      "link": "https://www.consumerfinance.gov/about-us/newsroom/the-cfpb-to-cease-discretionary-publication-of-complaint-narratives-and-visualizations/",
-      "published_at": "2026-08-14T04:00:00.000Z",
-      "summary": "On 14 August 2026 the Consumer Financial Protection Bureau published “The CFPB to Cease Discretionary Publication of Complaint Narratives and Visualizations”.",
-      "language": "en",
-      "ui_visible": true,
-      "template_version": "alert-templates/1",
-      "review": {
-        "status": "unreviewed"
-      },
-      "reviewed_by": null,
-      "reviewed_at": null,
-      "retrieved_at": "2026-11-06T22:31:21Z"
     }
   ]
 }

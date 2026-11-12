@@ -1,6 +1,6 @@
 {
   "schema": "veritane/news/1",
-  "generated_at": "2026-11-11T19:52:12Z",
+  "generated_at": "2026-11-12T07:43:12Z",
   "template_version": "news-templates/1",
   "topics": {
     "policy_rate": "Interest rates",
@@ -21,6 +21,58 @@
     "other_languages": 18
   },
   "items": [
+    {
+      "id": "09cd5ed89cdae719",
+      "kind": "data_update",
+      "source_id": "scb",
+      "source_name": "Statistics Sweden",
+      "region": "SE",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Sweden: CPI inflation, October 2026",
+      "link": "https://www.scb.se/en/finding-statistics/",
+      "published_at": "2026-11-12T07:43:12Z",
+      "summary": "New data: In Sweden, CPI inflation (12-month change) was 0.9% in October 2026, down from 1.1% in September 2026. Source: Statistics Sweden.",
+      "summary_simple": "Prices in Sweden were 0.9% higher in October 2026 than a year earlier. In September 2026 they were 1.1% higher.",
+      "summary_source": "data_update",
+      "language": "en",
+      "ui_visible": true,
+      "related_series": [
+        "se.inflation.cpi_yoy"
+      ],
+      "related_lessons": [
+        "macroeconomics/inflation-how-it-is-measured"
+      ],
+      "facts": [
+        {
+          "series_id": "se.inflation.cpi_yoy",
+          "period": "2026-10",
+          "period_label": "October 2026",
+          "value": 0.9,
+          "previous_period": "2026-09",
+          "previous_period_label": "September 2026",
+          "previous_value": 1.1,
+          "change": {
+            "value": -0.2,
+            "unit": "pp",
+            "direction": "down"
+          },
+          "unit": "% y/y",
+          "decimals": 1,
+          "dataset": "TAB6596",
+          "retrieved_at": "2026-11-12T07:43:12Z"
+        }
+      ],
+      "template_version": "news-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
+      "retrieved_at": "2026-11-12T07:43:12Z"
+    },
     {
       "id": "15a4ff5bbb4edee1",
       "kind": "data_update",
@@ -11664,33 +11716,6 @@
       "published_at": "2026-08-19T08:00:00.000Z",
       "date_source": "feed",
       "summary": "On 19 August 2026 the European Central Bank published “Euro area monthly balance of payments: June 2026”.",
-      "summary_source": "feed_title",
-      "language": "en",
-      "ui_visible": true,
-      "related_series": [],
-      "related_lessons": [],
-      "template_version": "news-templates/1",
-      "review": {
-        "status": "unreviewed"
-      },
-      "reviewed_by": null,
-      "reviewed_at": null,
-      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
-      "retrieved_at": "2026-11-06T22:31:21Z"
-    },
-    {
-      "id": "774d68898a35c84e",
-      "kind": "press_release",
-      "source_id": "cfpb_newsroom",
-      "source_name": "Consumer Financial Protection Bureau",
-      "region": "US",
-      "topics": [
-        "other"
-      ],
-      "title": "The CFPB to Cease Discretionary Publication of Complaint Narratives and Visualizations",
-      "link": "https://www.consumerfinance.gov/about-us/newsroom/the-cfpb-to-cease-discretionary-publication-of-complaint-narratives-and-visualizations/",
-      "published_at": "2026-08-14T04:00:00.000Z",
-      "summary": "On 14 August 2026 the Consumer Financial Protection Bureau published “The CFPB to Cease Discretionary Publication of Complaint Narratives and Visualizations”.",
       "summary_source": "feed_title",
       "language": "en",
       "ui_visible": true,

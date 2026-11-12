@@ -1,0 +1,578 @@
+{
+  "schema": "veritane/digest/1",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T07:43:12Z",
+  "final": false,
+  "template_version": "digest-templates/1",
+  "headline": "1 new official figure on 12 November 2026.",
+  "headline_simple": "12 November 2026: 1 new figure.",
+  "counts": {
+    "data": 1,
+    "decisions": 0,
+    "revisions": 35,
+    "alerts": 0,
+    "publications": 0,
+    "coming_up": 8
+  },
+  "sections": [
+    {
+      "key": "data",
+      "entries": [
+        {
+          "news_id": "09cd5ed89cdae719",
+          "series_id": "se.inflation.cpi_yoy",
+          "region": "SE",
+          "topics": [
+            "inflation"
+          ],
+          "text": "In Sweden, CPI inflation (12-month change) was 0.9% in October 2026, down from 1.1% in September 2026.",
+          "text_simple": "Prices in Sweden were 0.9% higher in October 2026 than a year earlier. In September 2026 they were 1.1% higher.",
+          "source": {
+            "name": "Statistics Sweden",
+            "url": "https://www.scb.se/en/finding-statistics/",
+            "dataset": "TAB6596"
+          }
+        }
+      ]
+    },
+    {
+      "key": "decisions",
+      "entries": []
+    },
+    {
+      "key": "revisions",
+      "entries": [
+        {
+          "revision_id": "02561190c9029b5a",
+          "series_id": "fi.confidence.consumer_oecd",
+          "region": "FI",
+          "text": "Finland, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for December 2024 from 98.1 to 98.2.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for December 2024 is now 98.2. Before, it was 98.1.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/FIN.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2024-12&endPeriod=2024-12&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP FIN"
+          }
+        },
+        {
+          "revision_id": "7566f6f5d2f899f2",
+          "series_id": "fi.confidence.consumer_oecd",
+          "region": "FI",
+          "text": "Finland, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for November 2025 from 98.5 to 98.6.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for November 2025 is now 98.6. Before, it was 98.5.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/FIN.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2025-11&endPeriod=2025-11&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP FIN"
+          }
+        },
+        {
+          "revision_id": "04a5e0aaebd5acec",
+          "series_id": "fi.confidence.consumer_oecd",
+          "region": "FI",
+          "text": "Finland, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for December 2025 from 98.3 to 98.4.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for December 2025 is now 98.4. Before, it was 98.3.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/FIN.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2025-12&endPeriod=2025-12&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP FIN"
+          }
+        },
+        {
+          "revision_id": "af4c887ac6723027",
+          "series_id": "fi.confidence.consumer_oecd",
+          "region": "FI",
+          "text": "Finland, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for February 2026 from 97.2 to 97.3.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for February 2026 is now 97.3. Before, it was 97.2.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/FIN.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-02&endPeriod=2026-02&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP FIN"
+          }
+        },
+        {
+          "revision_id": "de0e345f2c474747",
+          "series_id": "fi.confidence.consumer_oecd",
+          "region": "FI",
+          "text": "Finland, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for June 2026 from 98.4 to 98.5.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for June 2026 is now 98.5. Before, it was 98.4.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/FIN.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-06&endPeriod=2026-06&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP FIN"
+          }
+        },
+        {
+          "revision_id": "84046917c3337a2d",
+          "series_id": "fi.confidence.consumer_oecd",
+          "region": "FI",
+          "text": "Finland, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for August 2026 from 99.4 to 99.3.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for August 2026 is now 99.3. Before, it was 99.4.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/FIN.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-08&endPeriod=2026-08&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP FIN"
+          }
+        },
+        {
+          "revision_id": "dd06fad7a57bda9b",
+          "series_id": "fi.confidence.consumer_oecd",
+          "region": "FI",
+          "text": "Finland, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for September 2026 from 99.5 to 98.9.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for September 2026 is now 98.9. Before, it was 99.5.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/FIN.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-09&endPeriod=2026-09&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP FIN"
+          }
+        },
+        {
+          "revision_id": "ab9de606bd8d0a1d",
+          "series_id": "il.confidence.consumer_oecd",
+          "region": "IL",
+          "text": "Israel, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for December 2024 from 96.3 to 96.2.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for December 2024 is now 96.2. Before, it was 96.3.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/ISR.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2024-12&endPeriod=2024-12&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP ISR"
+          }
+        },
+        {
+          "revision_id": "faf7ec3470518245",
+          "series_id": "il.confidence.consumer_oecd",
+          "region": "IL",
+          "text": "Israel, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for January 2025 from 96.7 to 96.6.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for January 2025 is now 96.6. Before, it was 96.7.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/ISR.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2025-01&endPeriod=2025-01&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP ISR"
+          }
+        },
+        {
+          "revision_id": "bea33f1cd89b6a86",
+          "series_id": "il.confidence.consumer_oecd",
+          "region": "IL",
+          "text": "Israel, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for February 2025 from 97.2 to 97.1.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for February 2025 is now 97.1. Before, it was 97.2.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/ISR.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2025-02&endPeriod=2025-02&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP ISR"
+          }
+        },
+        {
+          "revision_id": "cead1b27861109b1",
+          "series_id": "il.confidence.consumer_oecd",
+          "region": "IL",
+          "text": "Israel, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for March 2026 from 99.0 to 98.9.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for March 2026 is now 98.9. Before, it was 99.0.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/ISR.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-03&endPeriod=2026-03&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP ISR"
+          }
+        },
+        {
+          "revision_id": "595ca012ae12e7a7",
+          "series_id": "il.confidence.consumer_oecd",
+          "region": "IL",
+          "text": "Israel, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for April 2026 from 98.9 to 98.8.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for April 2026 is now 98.8. Before, it was 98.9.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/ISR.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-04&endPeriod=2026-04&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP ISR"
+          }
+        },
+        {
+          "revision_id": "5a0a662fc1f1fe80",
+          "series_id": "il.confidence.consumer_oecd",
+          "region": "IL",
+          "text": "Israel, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for May 2026 from 99.0 to 98.9.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for May 2026 is now 98.9. Before, it was 99.0.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/ISR.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-05&endPeriod=2026-05&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP ISR"
+          }
+        },
+        {
+          "revision_id": "b06640233a0da522",
+          "series_id": "il.confidence.consumer_oecd",
+          "region": "IL",
+          "text": "Israel, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for August 2026 from 98.3 to 98.6.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for August 2026 is now 98.6. Before, it was 98.3.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/ISR.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-08&endPeriod=2026-08&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP ISR"
+          }
+        },
+        {
+          "revision_id": "b1b782070ef0373a",
+          "series_id": "in.confidence.consumer_oecd",
+          "region": "IN",
+          "text": "India, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for January 2025 from 102.2 to 102.3.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for January 2025 is now 102.3. Before, it was 102.2.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/IND.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2025-01&endPeriod=2025-01&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP IND"
+          }
+        },
+        {
+          "revision_id": "5866311fabe3444e",
+          "series_id": "in.confidence.consumer_oecd",
+          "region": "IN",
+          "text": "India, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for June 2025 from 102.7 to 102.8.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for June 2025 is now 102.8. Before, it was 102.7.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/IND.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2025-06&endPeriod=2025-06&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP IND"
+          }
+        },
+        {
+          "revision_id": "a75c971cfbc14a0c",
+          "series_id": "in.confidence.consumer_oecd",
+          "region": "IN",
+          "text": "India, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for January 2026 from 103.0 to 103.1.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for January 2026 is now 103.1. Before, it was 103.0.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/IND.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-01&endPeriod=2026-01&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP IND"
+          }
+        },
+        {
+          "revision_id": "931f987357187a48",
+          "series_id": "in.confidence.consumer_oecd",
+          "region": "IN",
+          "text": "India, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for March 2026 from 102.3 to 102.2.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for March 2026 is now 102.2. Before, it was 102.3.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/IND.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-03&endPeriod=2026-03&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP IND"
+          }
+        },
+        {
+          "revision_id": "46a2a0f04605e59d",
+          "series_id": "in.confidence.consumer_oecd",
+          "region": "IN",
+          "text": "India, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for April 2026 from 102.0 to 101.7.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for April 2026 is now 101.7. Before, it was 102.0.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/IND.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-04&endPeriod=2026-04&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP IND"
+          }
+        },
+        {
+          "revision_id": "6438959e6939049f",
+          "series_id": "in.confidence.consumer_oecd",
+          "region": "IN",
+          "text": "India, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for May 2026 from 101.6 to 101.2.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for May 2026 is now 101.2. Before, it was 101.6.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/IND.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-05&endPeriod=2026-05&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP IND"
+          }
+        },
+        {
+          "revision_id": "4a2b9166c0e732e6",
+          "series_id": "in.confidence.consumer_oecd",
+          "region": "IN",
+          "text": "India, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for June 2026 from 101.3 to 100.7.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for June 2026 is now 100.7. Before, it was 101.3.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/IND.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-06&endPeriod=2026-06&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP IND"
+          }
+        },
+        {
+          "revision_id": "9b84af2e856aa0ae",
+          "series_id": "se.confidence.consumer_oecd",
+          "region": "SE",
+          "text": "Sweden, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for January 2025 from 100.0 to 100.1.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for January 2025 is now 100.1. Before, it was 100.0.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/SWE.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2025-01&endPeriod=2025-01&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP SWE"
+          }
+        },
+        {
+          "revision_id": "d83a79ce99dc227b",
+          "series_id": "se.confidence.consumer_oecd",
+          "region": "SE",
+          "text": "Sweden, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for February 2025 from 99.3 to 99.4.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for February 2025 is now 99.4. Before, it was 99.3.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/SWE.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2025-02&endPeriod=2025-02&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP SWE"
+          }
+        },
+        {
+          "revision_id": "8fe08fa94ec35844",
+          "series_id": "se.confidence.consumer_oecd",
+          "region": "SE",
+          "text": "Sweden, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for October 2025 from 99.3 to 99.4.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for October 2025 is now 99.4. Before, it was 99.3.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/SWE.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2025-10&endPeriod=2025-10&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP SWE"
+          }
+        },
+        {
+          "revision_id": "d54b8f321ae81122",
+          "series_id": "se.confidence.consumer_oecd",
+          "region": "SE",
+          "text": "Sweden, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for January 2026 from 99.6 to 99.7.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for January 2026 is now 99.7. Before, it was 99.6.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/SWE.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-01&endPeriod=2026-01&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP SWE"
+          }
+        },
+        {
+          "revision_id": "669b5317f08097e9",
+          "series_id": "se.confidence.consumer_oecd",
+          "region": "SE",
+          "text": "Sweden, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for July 2026 from 99.5 to 99.6.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for July 2026 is now 99.6. Before, it was 99.5.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/SWE.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-07&endPeriod=2026-07&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP SWE"
+          }
+        },
+        {
+          "revision_id": "48f06bd333d858f7",
+          "series_id": "se.confidence.consumer_oecd",
+          "region": "SE",
+          "text": "Sweden, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for August 2026 from 99.8 to 99.7.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for August 2026 is now 99.7. Before, it was 99.8.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/SWE.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-08&endPeriod=2026-08&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP SWE"
+          }
+        },
+        {
+          "revision_id": "a5bc93f9eaeedc7c",
+          "series_id": "se.confidence.consumer_oecd",
+          "region": "SE",
+          "text": "Sweden, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for September 2026 from 100.2 to 99.5.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for September 2026 is now 99.5. Before, it was 100.2.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/SWE.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-09&endPeriod=2026-09&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP SWE"
+          }
+        },
+        {
+          "revision_id": "6bff0fd15b9da634",
+          "series_id": "tr.confidence.consumer_oecd",
+          "region": "TR",
+          "text": "Türkiye, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for February 2026 from 99.2 to 99.1.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for February 2026 is now 99.1. Before, it was 99.2.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/TUR.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-02&endPeriod=2026-02&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP TUR"
+          }
+        },
+        {
+          "revision_id": "7cd7a21bbef43945",
+          "series_id": "tr.confidence.consumer_oecd",
+          "region": "TR",
+          "text": "Türkiye, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for March 2026 from 99.2 to 99.3.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for March 2026 is now 99.3. Before, it was 99.2.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/TUR.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-03&endPeriod=2026-03&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP TUR"
+          }
+        },
+        {
+          "revision_id": "60311ffdcbae52b2",
+          "series_id": "tr.confidence.consumer_oecd",
+          "region": "TR",
+          "text": "Türkiye, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for May 2026 from 99.6 to 99.7.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for May 2026 is now 99.7. Before, it was 99.6.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/TUR.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-05&endPeriod=2026-05&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP TUR"
+          }
+        },
+        {
+          "revision_id": "0df70bef84644fd8",
+          "series_id": "tr.confidence.consumer_oecd",
+          "region": "TR",
+          "text": "Türkiye, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for June 2026 from 100.1 to 100.2.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for June 2026 is now 100.2. Before, it was 100.1.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/TUR.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-06&endPeriod=2026-06&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP TUR"
+          }
+        },
+        {
+          "revision_id": "5f5699cdf8eea268",
+          "series_id": "tr.confidence.consumer_oecd",
+          "region": "TR",
+          "text": "Türkiye, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for July 2026 from 100.6 to 100.7.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for July 2026 is now 100.7. Before, it was 100.6.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/TUR.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-07&endPeriod=2026-07&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP TUR"
+          }
+        },
+        {
+          "revision_id": "39d3ddc34d9a4087",
+          "series_id": "tr.confidence.consumer_oecd",
+          "region": "TR",
+          "text": "Türkiye, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for August 2026 from 101.0 to 100.9.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for August 2026 is now 100.9. Before, it was 101.0.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/TUR.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-08&endPeriod=2026-08&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP TUR"
+          }
+        },
+        {
+          "revision_id": "3d14358fc5182bdc",
+          "series_id": "tr.confidence.consumer_oecd",
+          "region": "TR",
+          "text": "Türkiye, Consumer confidence (OECD, 100 = long-term average): the OECD revised the figure for September 2026 from 101.4 to 100.6.",
+          "text_simple": "The OECD changed a figure it published earlier. The figure for September 2026 is now 100.6. Before, it was 101.4.",
+          "source": {
+            "name": "OECD, Composite leading indicators",
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_CLI,/TUR.M.CCICP.IX._Z.AA.IX._Z.H?startPeriod=2026-09&endPeriod=2026-09&format=csvfilewithlabels",
+            "dataset": "DF_CLI CCICP TUR"
+          }
+        }
+      ]
+    },
+    {
+      "key": "alerts",
+      "entries": []
+    },
+    {
+      "key": "publications",
+      "entries": []
+    },
+    {
+      "key": "coming_up",
+      "entries": [
+        {
+          "calendar_id": "eurostat_cal:22494494",
+          "region": "EA",
+          "start": "2026-11-13",
+          "display_title": "Euro area GDP",
+          "status": "confirmed",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
+          }
+        },
+        {
+          "calendar_id": "eurostat_cal:22494535",
+          "region": "EA",
+          "start": "2026-11-16",
+          "display_title": "Euro area industrial production",
+          "status": "confirmed",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
+          }
+        },
+        {
+          "calendar_id": "ons_cal:/releases/uklabourmarketnovember2026",
+          "region": "GB",
+          "start": "2026-11-17T07:00:00Z",
+          "display_title": "UK labour market",
+          "status": "confirmed",
+          "source": {
+            "name": "Office for National Statistics",
+            "url": "https://www.ons.gov.uk/releases/uklabourmarketnovember2026"
+          }
+        },
+        {
+          "calendar_id": "fed_cal:G.17 - Industrial Production and Capacity Utilization:2026-11-17",
+          "region": "US",
+          "start": "2026-11-17T14:15:00Z",
+          "display_title": "US industrial production",
+          "status": "confirmed",
+          "source": {
+            "name": "Federal Reserve Board",
+            "url": "https://www.federalreserve.gov/newsevents/calendar.htm"
+          }
+        },
+        {
+          "calendar_id": "eurostat_cal:22494546",
+          "region": "EA",
+          "start": "2026-11-18",
+          "display_title": "Euro area inflation (HICP)",
+          "status": "confirmed",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/web/main/news/release-calendar"
+          }
+        },
+        {
+          "calendar_id": "ons_cal:/releases/consumerpriceinflationukoctober2026",
+          "region": "GB",
+          "start": "2026-11-18T07:00:00Z",
+          "display_title": "UK consumer price inflation",
+          "status": "confirmed",
+          "source": {
+            "name": "Office for National Statistics",
+            "url": "https://www.ons.gov.uk/releases/consumerpriceinflationukoctober2026"
+          }
+        },
+        {
+          "calendar_id": "ons_cal:/releases/producerpriceinflationukoctober2026",
+          "region": "GB",
+          "start": "2026-11-18T07:00:00Z",
+          "display_title": "UK producer price inflation",
+          "status": "confirmed",
+          "source": {
+            "name": "Office for National Statistics",
+            "url": "https://www.ons.gov.uk/releases/producerpriceinflationukoctober2026"
+          }
+        },
+        {
+          "calendar_id": "fed_cal:FOMC Minutes:2026-11-18",
+          "region": "US",
+          "start": "2026-11-18T19:00:00Z",
+          "display_title": "US Federal Reserve meeting minutes (FOMC)",
+          "status": "confirmed",
+          "source": {
+            "name": "Federal Reserve Board",
+            "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+          }
+        }
+      ]
+    }
+  ],
+  "sources": {
+    "ok": 74,
+    "failed": 3,
+    "failed_names": [
+      "OECD",
+      "World Bank"
+    ]
+  },
+  "empty": false
+}

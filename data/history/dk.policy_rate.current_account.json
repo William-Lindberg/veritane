@@ -12,7 +12,7 @@
     "dataset": "DNRENTD (Danmarks Nationalbank official rates, via Statistics Denmark)",
     "url": "https://www.nationalbanken.dk/en",
     "api_url": "https://api.statbank.dk/v1/data/DNRENTD/CSV?lang=en&INSTRUMENT=OFONAA&LAND=DK&OPGOER=E&Tid=(-n400)",
-    "retrieved_at": "2026-11-11T07:07:26Z"
+    "retrieved_at": "2026-11-12T07:43:12Z"
   },
   "points": [
     [
@@ -108,7 +108,7 @@
       2.1
     ],
     [
-      "2026-11-10",
+      "2026-11-11",
       2.1
     ]
   ],

@@ -12,7 +12,7 @@
     "dataset": "F1 FIRMMCRTD",
     "url": "https://www.rba.gov.au/statistics/cash-rate/",
     "api_url": "https://www.rba.gov.au/statistics/tables/csv/f1-data.csv",
-    "retrieved_at": "2026-11-11T07:07:26Z"
+    "retrieved_at": "2026-11-12T07:43:12Z"
   },
   "points": [
     [
@@ -128,7 +128,7 @@
       4.85
     ],
     [
-      "2026-11-10",
+      "2026-11-11",
       4.85
     ]
   ],
