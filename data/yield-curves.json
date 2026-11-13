@@ -1,10 +1,10 @@
 {
   "schema": "veritane/yield-curves/1",
-  "generated_at": "2026-11-12T20:26:28Z",
+  "generated_at": "2026-11-13T07:17:50Z",
   "sourceName": "U.S. Treasury; European Central Bank; Bank of England",
   "sourceUrl": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve",
   "licence": "See each series",
-  "retrievedAt": "2026-11-12T20:26:28Z",
+  "retrievedAt": "2026-11-13T07:17:50Z",
   "notes": [
     "Par and spot curves are different measures and are not drawn on the same axes."
   ],
@@ -26,7 +26,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-12T20:26:28Z"
+        "retrieved_at": "2026-11-13T07:17:50Z"
       },
       "tenors": [
         "1m",
@@ -4794,6 +4794,25 @@
             "20y": 5.39,
             "30y": 5.35
           }
+        },
+        {
+          "date": "2026-11-12",
+          "values": {
+            "1m": 4.12,
+            "1.5m": 4.18,
+            "2m": 4.26,
+            "3m": 4.32,
+            "4m": 4.35,
+            "6m": 4.42,
+            "1y": 4.65,
+            "2y": 4.86,
+            "3y": 4.9,
+            "5y": 4.95,
+            "7y": 5.02,
+            "10y": 5.1,
+            "20y": 5.48,
+            "30y": 5.43
+          }
         }
       ]
     },
@@ -4815,7 +4834,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-12T20:26:28Z"
+        "retrieved_at": "2026-11-13T07:17:50Z"
       },
       "tenors": [
         "3m",
@@ -4826,17 +4845,6 @@
         "30y"
       ],
       "points": [
-        {
-          "date": "2025-11-11",
-          "values": {
-            "10y": 2.74,
-            "1y": 1.93,
-            "2y": 1.97,
-            "30y": 3.22,
-            "3m": 1.93,
-            "5y": 2.24
-          }
-        },
         {
           "date": "2025-11-12",
           "values": {

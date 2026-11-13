@@ -11,8 +11,8 @@
     "provider_id": "nyfed",
     "dataset": "Effective Federal Funds Rate (EFFR)",
     "url": "https://www.newyorkfed.org/",
-    "api_url": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json?startDate=2025-09-08&endDate=2026-11-12",
-    "retrieved_at": "2026-11-12T20:26:28Z"
+    "api_url": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json?startDate=2025-09-09&endDate=2026-11-13",
+    "retrieved_at": "2026-11-13T07:17:50Z"
   },
   "points": [
     [
