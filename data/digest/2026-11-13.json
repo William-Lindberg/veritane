@@ -1,7 +1,7 @@
 {
   "schema": "veritane/digest/1",
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T07:17:50Z",
+  "generated_at": "2026-11-13T20:01:42Z",
   "final": false,
   "template_version": "digest-templates/1",
   "headline": "No new official figures or decisions were collected on 13 November 2026.",
@@ -9,7 +9,7 @@
   "counts": {
     "data": 0,
     "decisions": 0,
-    "revisions": 0,
+    "revisions": 2,
     "alerts": 0,
     "publications": 0,
     "coming_up": 8
@@ -25,7 +25,32 @@
     },
     {
       "key": "revisions",
-      "entries": []
+      "entries": [
+        {
+          "revision_id": "10ec79b02fe60c23",
+          "series_id": "ro.gdp.qoq",
+          "region": "RO",
+          "text": "Romania, GDP growth, quarter on quarter: Eurostat revised 6 figures at once, from Q1 2024 to Q1 2026.",
+          "text_simple": "Eurostat changed 6 past figures at the same time, from Q1 2024 to Q1 2026.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/namq_10_gdp?unit=CLV_PCH_PRE&s_adj=SCA&na_item=B1GQ&geo=RO&time=2024-Q1&format=JSON&lang=EN",
+            "dataset": "namq_10_gdp RO"
+          }
+        },
+        {
+          "revision_id": "b25939dedccf5fc6",
+          "series_id": "ro.industrial_production.yoy",
+          "region": "RO",
+          "text": "Romania, Industrial production, change on a year earlier: Eurostat published the final figure for August 2026. It is −2.5%. The provisional figure was −2.6%.",
+          "text_simple": "Eurostat published the final figure for August 2026. It is −2.5%. The first estimate was −2.6%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=RO&time=2026-08&format=JSON&lang=EN",
+            "dataset": "sts_inpr_m RO"
+          }
+        }
+      ]
     },
     {
       "key": "alerts",
@@ -130,13 +155,12 @@
     }
   ],
   "sources": {
-    "ok": 74,
-    "failed": 3,
+    "ok": 75,
+    "failed": 2,
     "failed_names": [
       "OECD",
-      "U.S. Department of the Treasury",
       "World Bank"
     ]
   },
-  "empty": true
+  "empty": false
 }

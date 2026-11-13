@@ -1,9 +1,55 @@
 {
   "schema": "veritane/revisions/1",
-  "generated_at": "2026-11-12T20:26:28Z",
+  "generated_at": "2026-11-13T20:01:42Z",
   "method": "Each run compares every period the source returned with the previous public/data/history file for that series. A change in the value at the number of decimals Veritane shows is recorded. Fixings such as exchange reference rates and projections are not compared.",
   "template_version": "revision-templates/1",
   "entries": [
+    {
+      "id": "10ec79b02fe60c23",
+      "series_id": "ro.gdp.qoq",
+      "region": "RO",
+      "name": "GDP growth, quarter on quarter",
+      "unit": "% q/q",
+      "seen_before_at": "2026-11-08T13:38:16Z",
+      "detected_at": "2026-11-13T20:01:42Z",
+      "source": {
+        "name": "Eurostat",
+        "dataset": "namq_10_gdp RO",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/namq_10_gdp?unit=CLV_PCH_PRE&s_adj=SCA&na_item=B1GQ&geo=RO&time=2024-Q1&format=JSON&lang=EN"
+      },
+      "kind": "series_wide",
+      "period": "2024-Q1",
+      "period_label": "Q1 2024 to Q1 2026",
+      "periods_changed": 6,
+      "first_period": "2024-Q1",
+      "last_period": "2026-Q1",
+      "max_abs_change": 0.2,
+      "text": "Romania, GDP growth, quarter on quarter: Eurostat revised 6 figures at once, from Q1 2024 to Q1 2026.",
+      "text_simple": "Eurostat changed 6 past figures at the same time, from Q1 2024 to Q1 2026.",
+      "template_version": "revision-templates/1"
+    },
+    {
+      "id": "b25939dedccf5fc6",
+      "series_id": "ro.industrial_production.yoy",
+      "region": "RO",
+      "name": "Industrial production, change on a year earlier",
+      "unit": "% y/y",
+      "seen_before_at": "2026-11-08T13:38:16Z",
+      "detected_at": "2026-11-13T20:01:42Z",
+      "source": {
+        "name": "Eurostat",
+        "dataset": "sts_inpr_m RO",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=RO&time=2026-08&format=JSON&lang=EN"
+      },
+      "kind": "flash_to_final",
+      "period": "2026-08",
+      "period_label": "August 2026",
+      "from": -2.6,
+      "to": -2.5,
+      "text": "Romania, Industrial production, change on a year earlier: Eurostat published the final figure for August 2026. It is −2.5%. The provisional figure was −2.6%.",
+      "text_simple": "Eurostat published the final figure for August 2026. It is −2.5%. The first estimate was −2.6%.",
+      "template_version": "revision-templates/1"
+    },
     {
       "id": "6ebcd3a1277a3310",
       "series_id": "us.deficit.monthly_balance",

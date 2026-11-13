@@ -12,7 +12,7 @@
     "dataset": "Euro foreign exchange reference rates (CNY)",
     "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html",
     "api_url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml",
-    "retrieved_at": "2026-11-12T20:26:28Z"
+    "retrieved_at": "2026-11-13T20:01:42Z"
   },
   "points": [
     [
@@ -496,8 +496,8 @@
       7.4326
     ],
     [
-      "2026-11-12",
-      7.3891
+      "2026-11-13",
+      7.3738
     ]
   ],
   "accumulated_since": null
