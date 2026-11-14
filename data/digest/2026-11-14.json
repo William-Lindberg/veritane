@@ -1,7 +1,7 @@
 {
   "schema": "veritane/digest/1",
   "date": "2026-11-14",
-  "generated_at": "2026-11-14T18:29:08Z",
+  "generated_at": "2026-11-14T22:44:15Z",
   "final": false,
   "template_version": "digest-templates/1",
   "headline": "No new official figures or decisions were collected on 14 November 2026.",
@@ -130,12 +130,10 @@
     }
   ],
   "sources": {
-    "ok": 74,
-    "failed": 3,
+    "ok": 76,
+    "failed": 1,
     "failed_names": [
-      "OECD",
-      "U.S. Treasury, Fiscal Data",
-      "World Bank"
+      "OECD"
     ]
   },
   "empty": true
