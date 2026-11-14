@@ -1,9 +1,9 @@
 {
   "schema": "veritane/status/1",
-  "generated_at": "2026-11-13T20:01:42Z",
+  "generated_at": "2026-11-14T07:00:25Z",
   "summary": {
-    "ok": 75,
-    "failed": 2,
+    "ok": 73,
+    "failed": 4,
     "series": 1268,
     "news": 362,
     "alerts": 58
@@ -11,16 +11,1315 @@
   "review_share_30d": 0,
   "revisions": [
     {
-      "id": "ro.gdp.qoq",
-      "period": "2024-Q1",
-      "detected_at": "2026-11-13T20:01:42Z"
+      "id": "se.confidence.consumer_oecd",
+      "period": "2025-01",
+      "from": 100.0254,
+      "to": 100.05,
+      "detected_at": "2026-11-14T07:00:25Z"
     },
     {
-      "id": "ro.industrial_production.yoy",
+      "id": "se.confidence.consumer_oecd",
+      "period": "2025-02",
+      "from": 99.3371,
+      "to": 99.3527,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "se.confidence.consumer_oecd",
+      "period": "2025-10",
+      "from": 99.3254,
+      "to": 99.3521,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "se.confidence.consumer_oecd",
+      "period": "2026-01",
+      "from": 99.639,
+      "to": 99.6688,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "se.confidence.consumer_oecd",
+      "period": "2026-07",
+      "from": 99.5497,
+      "to": 99.6138,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "se.confidence.consumer_oecd",
       "period": "2026-08",
-      "from": -2.6,
-      "to": -2.5,
-      "detected_at": "2026-11-13T20:01:42Z"
+      "from": 99.8472,
+      "to": 99.7395,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "se.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 100.205,
+      "to": 99.5433,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "pl.confidence.consumer_oecd",
+      "period": "2026-06",
+      "from": 100.647,
+      "to": 100.6575,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "pl.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 100.5757,
+      "to": 100.5069,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "id.confidence.consumer_oecd",
+      "period": "2026-02",
+      "from": 101.3511,
+      "to": 101.3494,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "id.confidence.consumer_oecd",
+      "period": "2026-04",
+      "from": 101.1516,
+      "to": 101.1489,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "br.confidence.consumer_oecd",
+      "period": "2026-06",
+      "from": 100.2516,
+      "to": 100.2391,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "br.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 99.5231,
+      "to": 99.6306,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "dk.confidence.consumer_oecd",
+      "period": "2026-01",
+      "from": 98.3453,
+      "to": 98.3519,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "dk.confidence.consumer_oecd",
+      "period": "2026-06",
+      "from": 97.6345,
+      "to": 97.658,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "dk.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 98.4398,
+      "to": 98.2021,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "cz.confidence.consumer_oecd",
+      "period": "2025-10",
+      "from": 101.5506,
+      "to": 101.5415,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "cz.confidence.consumer_oecd",
+      "period": "2026-07",
+      "from": 101.2577,
+      "to": 101.2405,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "cz.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 101.0352,
+      "to": 101.0988,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "it.confidence.consumer_oecd",
+      "period": "2025-10",
+      "from": 99.7529,
+      "to": 99.7385,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "it.confidence.consumer_oecd",
+      "period": "2026-06",
+      "from": 98.1458,
+      "to": 98.1928,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "it.confidence.consumer_oecd",
+      "period": "2026-07",
+      "from": 98.3631,
+      "to": 98.3369,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "it.confidence.consumer_oecd",
+      "period": "2026-08",
+      "from": 98.553,
+      "to": 98.2811,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "pt.confidence.consumer_oecd",
+      "period": "2024-11",
+      "from": 100.0456,
+      "to": 100.0624,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "pt.confidence.consumer_oecd",
+      "period": "2024-12",
+      "from": 99.9383,
+      "to": 99.9608,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "pt.confidence.consumer_oecd",
+      "period": "2025-12",
+      "from": 100.048,
+      "to": 100.0603,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "pt.confidence.consumer_oecd",
+      "period": "2026-02",
+      "from": 99.1473,
+      "to": 99.1649,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "pt.confidence.consumer_oecd",
+      "period": "2026-05",
+      "from": 97.9161,
+      "to": 97.9523,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "pt.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 98.6747,
+      "to": 98.4224,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "hu.confidence.consumer_oecd",
+      "period": "2026-06",
+      "from": 102.7603,
+      "to": 102.7293,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "in.confidence.consumer_oecd",
+      "period": "2025-01",
+      "from": 102.2244,
+      "to": 102.2509,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "in.confidence.consumer_oecd",
+      "period": "2025-06",
+      "from": 102.7232,
+      "to": 102.7545,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "in.confidence.consumer_oecd",
+      "period": "2026-01",
+      "from": 103.0116,
+      "to": 103.0608,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "in.confidence.consumer_oecd",
+      "period": "2026-03",
+      "from": 102.3098,
+      "to": 102.2454,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "in.confidence.consumer_oecd",
+      "period": "2026-04",
+      "from": 101.9601,
+      "to": 101.7217,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "in.confidence.consumer_oecd",
+      "period": "2026-05",
+      "from": 101.6242,
+      "to": 101.19,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "in.confidence.consumer_oecd",
+      "period": "2026-06",
+      "from": 101.2944,
+      "to": 100.7338,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "us.confidence.consumer_oecd",
+      "period": "2024-11",
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "at.confidence.consumer_oecd",
+      "period": "2026-05",
+      "from": 97.744,
+      "to": 97.751,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "at.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 98.1847,
+      "to": 98.068,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "de.confidence.consumer_oecd",
+      "period": "2025-05",
+      "from": 99.7498,
+      "to": 99.7513,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "de.confidence.consumer_oecd",
+      "period": "2026-06",
+      "from": 98.7442,
+      "to": 98.7643,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "il.confidence.consumer_oecd",
+      "period": "2024-12",
+      "from": 96.28,
+      "to": 96.2448,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "il.confidence.consumer_oecd",
+      "period": "2025-01",
+      "from": 96.6588,
+      "to": 96.6276,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "il.confidence.consumer_oecd",
+      "period": "2025-02",
+      "from": 97.1567,
+      "to": 97.1307,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "il.confidence.consumer_oecd",
+      "period": "2026-03",
+      "from": 98.9541,
+      "to": 98.9413,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "il.confidence.consumer_oecd",
+      "period": "2026-04",
+      "from": 98.863,
+      "to": 98.8354,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "il.confidence.consumer_oecd",
+      "period": "2026-05",
+      "from": 98.9789,
+      "to": 98.9341,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "il.confidence.consumer_oecd",
+      "period": "2026-08",
+      "from": 98.3044,
+      "to": 98.5892,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "kr.confidence.consumer_oecd",
+      "period": "2024-11",
+      "from": 99.4511,
+      "to": 99.4486,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "kr.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 100.7592,
+      "to": 100.7128,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "cn.confidence.consumer_oecd",
+      "period": "2024-10",
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "co.confidence.consumer_oecd",
+      "period": "2026-05",
+      "from": 101.9507,
+      "to": 101.9423,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "co.confidence.consumer_oecd",
+      "period": "2026-08",
+      "from": 101.7235,
+      "to": 101.7617,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "fi.confidence.consumer_oecd",
+      "period": "2024-12",
+      "from": 98.1359,
+      "to": 98.1667,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "fi.confidence.consumer_oecd",
+      "period": "2025-11",
+      "from": 98.5455,
+      "to": 98.5713,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "fi.confidence.consumer_oecd",
+      "period": "2025-12",
+      "from": 98.3276,
+      "to": 98.3541,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "fi.confidence.consumer_oecd",
+      "period": "2026-02",
+      "from": 97.2378,
+      "to": 97.2511,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "fi.confidence.consumer_oecd",
+      "period": "2026-06",
+      "from": 98.4308,
+      "to": 98.4987,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "fi.confidence.consumer_oecd",
+      "period": "2026-08",
+      "from": 99.4153,
+      "to": 99.3246,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "fi.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 99.4577,
+      "to": 98.9025,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "nz.confidence.consumer_oecd",
+      "period": "2025-05",
+      "from": 98.0403,
+      "to": 98.069,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "nz.confidence.consumer_oecd",
+      "period": "2025-08",
+      "from": 98.1313,
+      "to": 98.1586,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "nz.confidence.consumer_oecd",
+      "period": "2025-10",
+      "from": 98.3467,
+      "to": 98.3709,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "nz.confidence.consumer_oecd",
+      "period": "2025-11",
+      "from": 98.5287,
+      "to": 98.5502,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "nz.confidence.consumer_oecd",
+      "period": "2026-04",
+      "from": 97.9495,
+      "to": 97.9795,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "nz.confidence.consumer_oecd",
+      "period": "2026-06",
+      "from": 97.2281,
+      "to": 97.2687,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "nz.confidence.consumer_oecd",
+      "period": "2026-08",
+      "from": 97.5498,
+      "to": 97.5857,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "nl.confidence.consumer_oecd",
+      "period": "2025-03",
+      "from": 98.5438,
+      "to": 98.5531,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "nl.confidence.consumer_oecd",
+      "period": "2025-10",
+      "from": 99.3458,
+      "to": 99.355,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "nl.confidence.consumer_oecd",
+      "period": "2025-12",
+      "from": 99.5475,
+      "to": 99.5521,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "nl.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 98.7995,
+      "to": 98.6408,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "fr.confidence.consumer_oecd",
+      "period": "2025-01",
+      "from": 98.5483,
+      "to": 98.56,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "fr.confidence.consumer_oecd",
+      "period": "2026-08",
+      "from": 97.778,
+      "to": 97.7383,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "fr.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 97.7589,
+      "to": 97.4761,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "au.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 98.4305,
+      "to": 98.2626,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "cl.confidence.consumer_oecd",
+      "period": "2025-03",
+      "from": 98.4358,
+      "to": 98.4536,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "cl.confidence.consumer_oecd",
+      "period": "2025-05",
+      "from": 98.1332,
+      "to": 98.1518,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "cl.confidence.consumer_oecd",
+      "period": "2026-05",
+      "from": 97.62,
+      "to": 97.6601,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "cl.confidence.consumer_oecd",
+      "period": "2026-06",
+      "from": 97.1251,
+      "to": 97.1852,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "cl.confidence.consumer_oecd",
+      "period": "2026-07",
+      "from": 96.9349,
+      "to": 96.996,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "cl.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 97.0766,
+      "to": 96.7981,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "gb.confidence.consumer_oecd",
+      "period": "2026-05",
+      "from": 98.2417,
+      "to": 98.3102,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "gb.confidence.consumer_oecd",
+      "period": "2026-06",
+      "from": 98.6352,
+      "to": 98.7666,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "gb.confidence.consumer_oecd",
+      "period": "2026-07",
+      "from": 99.4127,
+      "to": 99.546,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "gb.confidence.consumer_oecd",
+      "period": "2026-08",
+      "from": 100.2265,
+      "to": 100.0936,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "gb.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 100.9083,
+      "to": 99.903,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "jp.confidence.consumer_oecd",
+      "period": "2026-05",
+      "from": 97.8455,
+      "to": 97.8548,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "jp.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 98.4587,
+      "to": 98.3837,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "mx.confidence.consumer_oecd",
+      "period": "2025-04",
+      "from": 103.6711,
+      "to": 103.6245,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "mx.confidence.consumer_oecd",
+      "period": "2025-05",
+      "from": 103.7798,
+      "to": 103.7161,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "mx.confidence.consumer_oecd",
+      "period": "2025-06",
+      "from": 103.6912,
+      "to": 103.6237,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "mx.confidence.consumer_oecd",
+      "period": "2025-09",
+      "from": 103.4388,
+      "to": 103.4758,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "mx.confidence.consumer_oecd",
+      "period": "2026-07",
+      "from": 102.9765,
+      "to": 102.8809,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "mx.confidence.consumer_oecd",
+      "period": "2026-08",
+      "from": 103.5661,
+      "to": 103.2293,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "es.confidence.consumer_oecd",
+      "period": "2025-03",
+      "from": 99.549,
+      "to": 99.5514,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "es.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 98.8656,
+      "to": 98.8484,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "ie.confidence.consumer_oecd",
+      "period": "2025-08",
+      "from": 98.6547,
+      "to": 98.6496,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "ie.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 98.0091,
+      "to": 97.8287,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "tr.confidence.consumer_oecd",
+      "period": "2026-02",
+      "from": 99.1516,
+      "to": 99.1493,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "tr.confidence.consumer_oecd",
+      "period": "2026-03",
+      "from": 99.2491,
+      "to": 99.2504,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "tr.confidence.consumer_oecd",
+      "period": "2026-05",
+      "from": 99.6471,
+      "to": 99.6995,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "tr.confidence.consumer_oecd",
+      "period": "2026-06",
+      "from": 100.0816,
+      "to": 100.1816,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "tr.confidence.consumer_oecd",
+      "period": "2026-07",
+      "from": 100.5624,
+      "to": 100.6644,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "tr.confidence.consumer_oecd",
+      "period": "2026-08",
+      "from": 100.9848,
+      "to": 100.8884,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "tr.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 101.3714,
+      "to": 100.6242,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "gr.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 98.9676,
+      "to": 98.5664,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "be.confidence.consumer_oecd",
+      "period": "2024-12",
+      "from": 99.6457,
+      "to": 99.6515,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "be.confidence.consumer_oecd",
+      "period": "2025-06",
+      "from": 99.3544,
+      "to": 99.3468,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "be.confidence.consumer_oecd",
+      "period": "2026-05",
+      "from": 98.3476,
+      "to": 98.3624,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "be.confidence.consumer_oecd",
+      "period": "2026-07",
+      "from": 98.7445,
+      "to": 98.7555,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "be.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 98.5985,
+      "to": 98.445,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "ca.confidence.consumer_oecd",
+      "period": "2025-01",
+      "from": 96.6475,
+      "to": 96.6626,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "ca.confidence.consumer_oecd",
+      "period": "2025-11",
+      "from": 96.5392,
+      "to": 96.5546,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "ca.confidence.consumer_oecd",
+      "period": "2026-01",
+      "from": 96.7381,
+      "to": 96.7524,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "ca.confidence.consumer_oecd",
+      "period": "2026-02",
+      "from": 96.7445,
+      "to": 96.7587,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "ca.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 97.0539,
+      "to": 96.9288,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "ea.confidence.consumer_oecd",
+      "period": "2025-09",
+      "from": 99.0492,
+      "to": 99.0513,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "ea.confidence.consumer_oecd",
+      "period": "2026-02",
+      "from": 98.8462,
+      "to": 98.8609,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "ea.confidence.consumer_oecd",
+      "period": "2026-06",
+      "from": 97.8309,
+      "to": 97.8503,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "ea.confidence.consumer_oecd",
+      "period": "2026-09",
+      "from": 98.328,
+      "to": 98.1322,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "cl.confidence.business_oecd",
+      "period": "2026-09",
+      "from": 99.296,
+      "to": 99.0868,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "tr.confidence.business_oecd",
+      "period": "2026-07",
+      "from": 99.1235,
+      "to": 99.1918,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "tr.confidence.business_oecd",
+      "period": "2026-09",
+      "from": 100.1039,
+      "to": 99.5937,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "pt.confidence.business_oecd",
+      "period": "2025-04",
+      "from": 99.5498,
+      "to": 99.5524,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "pt.confidence.business_oecd",
+      "period": "2026-09",
+      "from": 99.6064,
+      "to": 99.6687,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "fi.confidence.business_oecd",
+      "period": "2025-01",
+      "from": 98.8497,
+      "to": 98.8587,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "fi.confidence.business_oecd",
+      "period": "2025-05",
+      "from": 98.7572,
+      "to": 98.7482,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "fi.confidence.business_oecd",
+      "period": "2025-07",
+      "from": 99.2507,
+      "to": 99.2358,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "fi.confidence.business_oecd",
+      "period": "2025-10",
+      "from": 99.6443,
+      "to": 99.6616,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "fi.confidence.business_oecd",
+      "period": "2025-11",
+      "from": 99.5458,
+      "to": 99.5657,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "fi.confidence.business_oecd",
+      "period": "2026-06",
+      "from": 100.6628,
+      "to": 100.6463,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "hu.confidence.business_oecd",
+      "period": "2025-08",
+      "from": 98.0249,
+      "to": 98.0586,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "hu.confidence.business_oecd",
+      "period": "2026-09",
+      "from": 99.4377,
+      "to": 99.55,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "ca.confidence.business_oecd",
+      "period": "2025-12",
+      "from": 99.149,
+      "to": 99.15,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "nl.confidence.business_oecd",
+      "period": "2026-09",
+      "from": 101.2581,
+      "to": 101.1077,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "gr.confidence.business_oecd",
+      "period": "2025-05",
+      "from": 102.3569,
+      "to": 102.3366,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "gr.confidence.business_oecd",
+      "period": "2026-04",
+      "from": 102.0566,
+      "to": 102.0493,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "gr.confidence.business_oecd",
+      "period": "2026-09",
+      "from": 102.0426,
+      "to": 101.7912,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "dk.confidence.business_oecd",
+      "period": "2025-10",
+      "from": 98.4779,
+      "to": 98.4245,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "dk.confidence.business_oecd",
+      "period": "2026-09",
+      "from": 98.5417,
+      "to": 98.7677,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "se.confidence.business_oecd",
+      "period": "2025-11",
+      "from": 99.8757,
+      "to": 99.8448,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "se.confidence.business_oecd",
+      "period": "2026-01",
+      "from": 100.0578,
+      "to": 100.0396,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "se.confidence.business_oecd",
+      "period": "2026-04",
+      "from": 100.242,
+      "to": 100.2648,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "se.confidence.business_oecd",
+      "period": "2026-07",
+      "from": 100.9232,
+      "to": 100.9811,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "se.confidence.business_oecd",
+      "period": "2026-08",
+      "from": 100.9023,
+      "to": 101.0171,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "se.confidence.business_oecd",
+      "period": "2026-09",
+      "from": 100.7888,
+      "to": 101.0662,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "id.confidence.business_oecd",
+      "period": "2025-03",
+      "from": 99.0444,
+      "to": 99.0533,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "id.confidence.business_oecd",
+      "period": "2025-07",
+      "from": 99.046,
+      "to": 99.0552,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "id.confidence.business_oecd",
+      "period": "2025-09",
+      "from": 99.047,
+      "to": 99.0564,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "id.confidence.business_oecd",
+      "period": "2025-12",
+      "from": 98.8421,
+      "to": 98.8507,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "id.confidence.business_oecd",
+      "period": "2026-03",
+      "from": 98.8401,
+      "to": 98.8514,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "be.confidence.business_oecd",
+      "period": "2025-11",
+      "from": 99.255,
+      "to": 99.2474,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "be.confidence.business_oecd",
+      "period": "2026-09",
+      "from": 99.1809,
+      "to": 99.3671,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "ie.confidence.business_oecd",
+      "period": "2024-12",
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "co.confidence.business_oecd",
+      "period": "2024-10",
+      "from": 99.7574,
+      "to": 99.7448,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "co.confidence.business_oecd",
+      "period": "2026-06",
+      "from": 100.3207,
+      "to": 100.3513,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "co.confidence.business_oecd",
+      "period": "2026-08",
+      "from": 100.9056,
+      "to": 100.8016,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "us.confidence.business_oecd",
+      "period": "2026-09",
+      "from": 100.3444,
+      "to": 100.4025,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "no.confidence.business_oecd",
+      "period": "2024-10",
+      "from": 100.1495,
+      "to": 100.1563,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "no.confidence.business_oecd",
+      "period": "2026-04",
+      "from": 99.8583,
+      "to": 99.8356,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "no.confidence.business_oecd",
+      "period": "2026-06",
+      "from": 99.9833,
+      "to": 99.9277,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "il.confidence.business_oecd",
+      "period": "2025-05",
+      "from": 102.2484,
+      "to": 102.2552,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "il.confidence.business_oecd",
+      "period": "2026-05",
+      "from": 101.55,
+      "to": 101.5475,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "il.confidence.business_oecd",
+      "period": "2026-07",
+      "from": 101.6456,
+      "to": 101.656,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "br.confidence.business_oecd",
+      "period": "2026-09",
+      "from": 99.0359,
+      "to": 99.1479,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "fr.confidence.business_oecd",
+      "period": "2026-09",
+      "from": 100.577,
+      "to": 100.7083,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "gb.confidence.business_oecd",
+      "period": "2026-05",
+      "from": 98.3196,
+      "to": 98.3565,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "gb.confidence.business_oecd",
+      "period": "2026-07",
+      "from": 98.214,
+      "to": 98.2891,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "gb.confidence.business_oecd",
+      "period": "2026-08",
+      "from": 99.6245,
+      "to": 99.5408,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "gb.confidence.business_oecd",
+      "period": "2026-09",
+      "from": 101.4473,
+      "to": 100.8426,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "es.confidence.business_oecd",
+      "period": "2025-05",
+      "from": 100.6455,
+      "to": 100.6507,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "cz.confidence.business_oecd",
+      "period": "2024-11",
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "pl.confidence.business_oecd",
+      "period": "2025-07",
+      "from": 99.453,
+      "to": 99.4467,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "nz.confidence.business_oecd",
+      "period": "2025-10",
+      "from": 101.7576,
+      "to": 101.7477,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "nz.confidence.business_oecd",
+      "period": "2026-09",
+      "from": 102.8541,
+      "to": 102.8382,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "ch.confidence.business_oecd",
+      "period": "2025-01",
+      "from": 99.9454,
+      "to": 99.959,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "ch.confidence.business_oecd",
+      "period": "2025-11",
+      "from": 99.752,
+      "to": 99.7496,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "ch.confidence.business_oecd",
+      "period": "2026-06",
+      "from": 100.0513,
+      "to": 100.029,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "kr.confidence.business_oecd",
+      "period": "2026-09",
+      "from": 99.4137,
+      "to": 99.5226,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "at.confidence.business_oecd",
+      "period": "2024-12",
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "in.confidence.business_oecd",
+      "period": "2024-07",
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "cn.confidence.business_oecd",
+      "period": "2025-04",
+      "from": 98.3468,
+      "to": 98.3542,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "cn.confidence.business_oecd",
+      "period": "2026-02",
+      "from": 98.3441,
+      "to": 98.3505,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "cn.confidence.business_oecd",
+      "period": "2026-07",
+      "from": 98.4338,
+      "to": 98.4867,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "cn.confidence.business_oecd",
+      "period": "2026-08",
+      "from": 98.3612,
+      "to": 98.4791,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "ro.confidence.business_oecd",
+      "period": "2024-11",
+      "from": 100.3337,
+      "to": 100.3563,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "ro.confidence.business_oecd",
+      "period": "2026-09",
+      "from": 99.6095,
+      "to": 99.5073,
+      "detected_at": "2026-11-14T07:00:25Z"
+    },
+    {
+      "id": "ea.confidence.business_oecd",
+      "period": "2026-09",
+      "from": 100.1932,
+      "to": 100.1428,
+      "detected_at": "2026-11-14T07:00:25Z"
     }
   ],
   "stages": {
@@ -899,9 +2198,9 @@
       "files": [
         "cpi-categories.json"
       ],
-      "duration_ms": 6661,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 6799,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "ecb_fx",
@@ -913,9 +2212,9 @@
         "fx.json",
         "fx-history.json"
       ],
-      "duration_ms": 1334,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 1400,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "yield_curves",
@@ -925,9 +2224,9 @@
       "files": [
         "yield-curves.json"
       ],
-      "duration_ms": 49658,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 58396,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "abs",
@@ -935,9 +2234,9 @@
       "provider": "abs",
       "ok": true,
       "series": 2,
-      "duration_ms": 3937,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 1646,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "bcb",
@@ -945,9 +2244,9 @@
       "provider": "bcb",
       "ok": true,
       "series": 2,
-      "duration_ms": 1637,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 1741,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "bis",
@@ -955,9 +2254,9 @@
       "provider": "bis",
       "ok": true,
       "series": 21,
-      "duration_ms": 1137,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 1157,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "bis_rpp",
@@ -965,9 +2264,9 @@
       "provider": "bis",
       "ok": true,
       "series": 84,
-      "duration_ms": 155,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 199,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "bls",
@@ -975,9 +2274,9 @@
       "provider": "bls",
       "ok": true,
       "series": 4,
-      "duration_ms": 485,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 937,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "boc",
@@ -985,9 +2284,9 @@
       "provider": "boc",
       "ok": true,
       "series": 2,
-      "duration_ms": 1046,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 1425,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "boe",
@@ -995,9 +2294,9 @@
       "provider": "boe",
       "ok": true,
       "series": 2,
-      "duration_ms": 872,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 1008,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "dbnomics_istat",
@@ -1005,9 +2304,9 @@
       "provider": "istat",
       "ok": true,
       "series": 51,
-      "duration_ms": 8141,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 21612,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "dbnomics_rba",
@@ -1015,9 +2314,9 @@
       "provider": "rba",
       "ok": true,
       "series": 12,
-      "duration_ms": 3682,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 3374,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "dbnomics_statjp",
@@ -1025,9 +2324,9 @@
       "provider": "statjp",
       "ok": true,
       "series": 18,
-      "duration_ms": 2139,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 2918,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "dst",
@@ -1035,9 +2334,9 @@
       "provider": "dst",
       "ok": true,
       "series": 2,
-      "duration_ms": 11345,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 11377,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "ecb",
@@ -1045,9 +2344,9 @@
       "provider": "ecb",
       "ok": true,
       "series": 2,
-      "duration_ms": 9652,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 19815,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "eurostat",
@@ -1055,9 +2354,9 @@
       "provider": "eurostat",
       "ok": true,
       "series": 4,
-      "duration_ms": 2161,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 2231,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "eurostat_activity",
@@ -1065,9 +2364,9 @@
       "provider": "eurostat",
       "ok": true,
       "series": 36,
-      "duration_ms": 5874,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 5077,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "eurostat_energy",
@@ -1075,9 +2374,9 @@
       "provider": "eurostat",
       "ok": true,
       "series": 70,
-      "duration_ms": 5546,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 6006,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "eurostat_gov",
@@ -1085,9 +2384,9 @@
       "provider": "eurostat",
       "ok": true,
       "series": 36,
-      "duration_ms": 909,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 852,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "eurostat_members",
@@ -1095,9 +2394,9 @@
       "provider": "eurostat",
       "ok": true,
       "series": 43,
-      "duration_ms": 5096,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 5185,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "eurostat_minwage",
@@ -1105,9 +2404,9 @@
       "provider": "eurostat",
       "ok": true,
       "series": 12,
-      "duration_ms": 2848,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 3009,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "fiscaldata",
@@ -1115,19 +2414,22 @@
       "provider": "fiscaldata",
       "ok": true,
       "series": 4,
-      "duration_ms": 3209,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 3284,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "ilo_wages",
       "kind": "indicators",
       "provider": "ilo",
-      "ok": true,
-      "series": 49,
-      "duration_ms": 4594,
+      "ok": false,
+      "kept_previous": true,
+      "error": "HTTP 403: <!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\"> <html xmlns=\"http://www.w3.org/1999/xhtml\"> <head> <meta http-equiv=\"Content-Type\" content",
+      "note": "blocked",
+      "http": 403,
+      "duration_ms": 587,
       "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "imf_cpi",
@@ -1135,9 +2437,9 @@
       "provider": "imf",
       "ok": true,
       "series": 27,
-      "duration_ms": 1395,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 1316,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "imf_fiscal",
@@ -1145,9 +2447,9 @@
       "provider": "imf",
       "ok": true,
       "series": 150,
-      "duration_ms": 2591,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 3577,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "imf_weo",
@@ -1155,9 +2457,9 @@
       "provider": "imf",
       "ok": true,
       "series": 98,
-      "duration_ms": 1571,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 1629,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "norgesbank",
@@ -1165,9 +2467,9 @@
       "provider": "norgesbank",
       "ok": true,
       "series": 2,
-      "duration_ms": 1160,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 1254,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "nyfed",
@@ -1175,9 +2477,9 @@
       "provider": "nyfed",
       "ok": true,
       "series": 3,
-      "duration_ms": 1141,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 1097,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "oecd",
@@ -1188,9 +2490,9 @@
       "error": "HTTP 500: Internal server error",
       "note": "server",
       "http": 500,
-      "duration_ms": 9073,
+      "duration_ms": 8187,
       "last_success_at": "2026-11-08T13:38:16Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "oecd_confidence",
@@ -1198,9 +2500,9 @@
       "provider": "oecd",
       "ok": true,
       "series": 74,
-      "duration_ms": 394,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 1118,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "oecd_minwage",
@@ -1208,9 +2510,9 @@
       "provider": "oecd",
       "ok": true,
       "series": 26,
-      "duration_ms": 1209,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 428,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "oecd_shares",
@@ -1218,9 +2520,9 @@
       "provider": "oecd",
       "ok": true,
       "series": 38,
-      "duration_ms": 374,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 889,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "oecd_wages",
@@ -1228,9 +2530,9 @@
       "provider": "oecd",
       "ok": true,
       "series": 30,
-      "duration_ms": 2006,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 899,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "ons",
@@ -1238,9 +2540,9 @@
       "provider": "ons",
       "ok": true,
       "series": 3,
-      "duration_ms": 2071,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 2026,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "rba",
@@ -1248,9 +2550,9 @@
       "provider": "rba",
       "ok": true,
       "series": 2,
-      "duration_ms": 1735,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 1207,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "riksbank",
@@ -1258,9 +2560,9 @@
       "provider": "riksbank",
       "ok": true,
       "series": 2,
-      "duration_ms": 7388,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 7607,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "sarb",
@@ -1268,9 +2570,9 @@
       "provider": "sarb",
       "ok": true,
       "series": 3,
-      "duration_ms": 1022,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 1209,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "scb",
@@ -1278,9 +2580,9 @@
       "provider": "scb",
       "ok": true,
       "series": 2,
-      "duration_ms": 2518,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 2052,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "ssb",
@@ -1288,9 +2590,9 @@
       "provider": "ssb",
       "ok": true,
       "series": 1,
-      "duration_ms": 901,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 1203,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "statcan",
@@ -1298,9 +2600,9 @@
       "provider": "statcan",
       "ok": true,
       "series": 3,
-      "duration_ms": 711,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 824,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "wb_commodities",
@@ -1308,9 +2610,9 @@
       "provider": "worldbank",
       "ok": true,
       "series": 14,
-      "duration_ms": 442,
-      "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "duration_ms": 327,
+      "last_success_at": "2026-11-14T07:00:25Z",
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "wb_living",
@@ -1320,19 +2622,21 @@
       "kept_previous": true,
       "error": "timeout after 20000 ms (https://api.worldbank.org/v2/country/WLD;EMU;USA;GBR;SWE;CAN;AUS;JPN;NOR;DNK;BRA;IND;IDN;ZAF;MEX;CHN;NGA;KEN;TUR;SAU;EGY;KOR;ARG;PAK;BGD;PHL;VNM;CHL;COL;PER;ISR;POL;HUN;CZE;MYS;THA;NZL;CHE;RUS;DEU;FRA;ITA;ESP;NLD;BEL",
       "note": "network",
-      "duration_ms": 69004,
+      "duration_ms": 66002,
       "last_success_at": "2026-11-11T19:52:12Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     },
     {
       "id": "worldbank",
       "kind": "indicators",
       "provider": "worldbank",
-      "ok": true,
-      "series": 77,
-      "duration_ms": 1143,
+      "ok": false,
+      "kept_previous": true,
+      "error": "timeout after 20000 ms (https://api.worldbank.org/v2/country/USA;CAN;AUS;JPN;NOR;DNK;BRA;IND;IDN;ZAF;MEX;CHN;NGA;KEN;TUR;SAU;EGY;KOR;ARG;PAK;BGD;PHL;VNM;CHL;COL;PER;ISR;POL;HUN;CZE;MYS;THA;NZL;CHE;RUS;DEU;FRA;ITA;ESP;NLD;BEL;AUT;IRL;PRT;FIN",
+      "note": "network",
+      "duration_ms": 66002,
       "last_success_at": "2026-11-13T20:01:42Z",
-      "last_attempt_at": "2026-11-13T20:01:42Z"
+      "last_attempt_at": "2026-11-14T07:00:25Z"
     }
   ]
 }
