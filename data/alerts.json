@@ -1,11 +1,11 @@
 {
   "schema": "veritane/alerts/1",
-  "generated_at": "2026-11-15T07:11:38Z",
+  "generated_at": "2026-11-15T19:06:39Z",
   "template_version": "alert-templates/1",
   "counts": {
-    "items": 57,
+    "items": 56,
     "ui_visible": 24,
-    "other_languages": 33
+    "other_languages": 32
   },
   "items": [
     {
@@ -1167,27 +1167,6 @@
       "published_at": "2026-08-25T11:38:12.000Z",
       "date_source": "feed",
       "summary": "On 25 August 2026 the Polizia Postale (Commissariato di P.S. Online) published “Richieste di denaro e furto dell’account WhatsApp”.",
-      "language": "it",
-      "ui_visible": false,
-      "template_version": "alert-templates/1",
-      "review": {
-        "status": "unreviewed"
-      },
-      "reviewed_by": null,
-      "reviewed_at": null,
-      "retrieved_at": "2026-11-07T21:53:04Z"
-    },
-    {
-      "id": "fa805cf4b559070b",
-      "source_id": "polposta_news",
-      "source_name": "Polizia di Stato, Polizia Postale (Commissariato di P.S. Online)",
-      "jurisdiction": "IT",
-      "category": "scam_warning",
-      "title": "RICHIESTE DI PAGAMENTO TRAMITE APP: OCCHIO ALLE TRUFFE!",
-      "link": "https://www.commissariatodips.it/notizie/articolo/richieste-di-pagamento-tramite-app-occhio-alle-truffe/index.html",
-      "published_at": "2026-08-17T15:22:42.000Z",
-      "date_source": "feed",
-      "summary": "On 17 August 2026 the Polizia Postale (Commissariato di P.S. Online) published “RICHIESTE DI PAGAMENTO TRAMITE APP: OCCHIO ALLE TRUFFE!”.",
       "language": "it",
       "ui_visible": false,
       "template_version": "alert-templates/1",

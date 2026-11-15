@@ -1,6 +1,6 @@
 {
   "schema": "veritane/news/1",
-  "generated_at": "2026-11-12T20:26:28Z",
+  "generated_at": "2026-11-15T19:06:39Z",
   "template_version": "news-templates/1",
   "topics": {
     "policy_rate": "Interest rates",
@@ -16,11 +16,63 @@
     "other": "Other"
   },
   "counts": {
-    "items": 362,
-    "ui_visible": 344,
+    "items": 363,
+    "ui_visible": 345,
     "other_languages": 18
   },
   "items": [
+    {
+      "id": "26b98e11792ac753",
+      "kind": "data_update",
+      "source_id": "imf_cpi",
+      "source_name": "International Monetary Fund (CPI dataset)",
+      "region": "AR",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Argentina: CPI inflation, October 2026",
+      "link": "https://data.imf.org/",
+      "published_at": "2026-11-15T19:06:39Z",
+      "summary": "New data: In Argentina, consumer price inflation (12-month change) was 33.1% in October 2026, down from 33.4% in September 2026. Source: International Monetary Fund (CPI dataset).",
+      "summary_simple": "Prices in Argentina were 33.1% higher in October 2026 than a year earlier. In September 2026 they were 33.4% higher.",
+      "summary_source": "data_update",
+      "language": "en",
+      "ui_visible": true,
+      "related_series": [
+        "ar.inflation.cpi_yoy"
+      ],
+      "related_lessons": [
+        "macroeconomics/inflation-how-it-is-measured"
+      ],
+      "facts": [
+        {
+          "series_id": "ar.inflation.cpi_yoy",
+          "period": "2026-10",
+          "period_label": "October 2026",
+          "value": 33.1327,
+          "previous_period": "2026-09",
+          "previous_period_label": "September 2026",
+          "previous_value": 33.3548,
+          "change": {
+            "value": -0.3,
+            "unit": "pp",
+            "direction": "down"
+          },
+          "unit": "% y/y",
+          "decimals": 1,
+          "dataset": "IMF.STA:CPI ARG.CPI._T.YOY_PCH_PA_PT.M",
+          "retrieved_at": "2026-11-15T19:06:39Z"
+        }
+      ],
+      "template_version": "news-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
+      "retrieved_at": "2026-11-15T19:06:39Z"
+    },
     {
       "id": "4a86cf66eb4872e9",
       "kind": "data_update",

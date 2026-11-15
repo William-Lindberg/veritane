@@ -1,13 +1,13 @@
 {
   "schema": "veritane/digest/1",
   "date": "2026-11-15",
-  "generated_at": "2026-11-15T07:11:38Z",
+  "generated_at": "2026-11-15T19:06:39Z",
   "final": false,
   "template_version": "digest-templates/1",
-  "headline": "No new official figures or decisions were collected on 15 November 2026.",
-  "headline_simple": "15 November 2026: no new figures or decisions.",
+  "headline": "1 new official figure on 15 November 2026.",
+  "headline_simple": "15 November 2026: 1 new figure.",
   "counts": {
-    "data": 0,
+    "data": 1,
     "decisions": 0,
     "revisions": 0,
     "alerts": 0,
@@ -17,7 +17,23 @@
   "sections": [
     {
       "key": "data",
-      "entries": []
+      "entries": [
+        {
+          "news_id": "26b98e11792ac753",
+          "series_id": "ar.inflation.cpi_yoy",
+          "region": "AR",
+          "topics": [
+            "inflation"
+          ],
+          "text": "In Argentina, consumer price inflation (12-month change) was 33.1% in October 2026, down from 33.4% in September 2026.",
+          "text_simple": "Prices in Argentina were 33.1% higher in October 2026 than a year earlier. In September 2026 they were 33.4% higher.",
+          "source": {
+            "name": "International Monetary Fund (CPI dataset)",
+            "url": "https://data.imf.org/",
+            "dataset": "IMF.STA:CPI ARG.CPI._T.YOY_PCH_PA_PT.M"
+          }
+        }
+      ]
     },
     {
       "key": "decisions",
@@ -130,11 +146,12 @@
     }
   ],
   "sources": {
-    "ok": 76,
-    "failed": 1,
+    "ok": 75,
+    "failed": 2,
     "failed_names": [
-      "OECD"
+      "OECD",
+      "U.S. Treasury, Fiscal Data"
     ]
   },
-  "empty": true
+  "empty": false
 }
