@@ -11,8 +11,8 @@
     "provider_id": "nyfed",
     "dataset": "Secured Overnight Financing Rate (SOFR)",
     "url": "https://www.newyorkfed.org/",
-    "api_url": "https://markets.newyorkfed.org/api/rates/secured/sofr/search.json?startDate=2026-08-16&endDate=2026-11-14",
-    "retrieved_at": "2026-11-14T07:00:25Z"
+    "api_url": "https://markets.newyorkfed.org/api/rates/secured/sofr/search.json?startDate=2026-08-17&endDate=2026-11-15",
+    "retrieved_at": "2026-11-15T07:11:38Z"
   },
   "points": [
     [

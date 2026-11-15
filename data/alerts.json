@@ -1,11 +1,11 @@
 {
   "schema": "veritane/alerts/1",
-  "generated_at": "2026-11-12T07:43:12Z",
+  "generated_at": "2026-11-15T07:11:38Z",
   "template_version": "alert-templates/1",
   "counts": {
-    "items": 58,
+    "items": 57,
     "ui_visible": 24,
-    "other_languages": 34
+    "other_languages": 33
   },
   "items": [
     {
@@ -1189,27 +1189,6 @@
       "date_source": "feed",
       "summary": "On 17 August 2026 the Polizia Postale (Commissariato di P.S. Online) published “RICHIESTE DI PAGAMENTO TRAMITE APP: OCCHIO ALLE TRUFFE!”.",
       "language": "it",
-      "ui_visible": false,
-      "template_version": "alert-templates/1",
-      "review": {
-        "status": "unreviewed"
-      },
-      "reviewed_by": null,
-      "reviewed_at": null,
-      "retrieved_at": "2026-11-07T21:53:04Z"
-    },
-    {
-      "id": "6d34bc0f1c571c88",
-      "source_id": "fi_news",
-      "source_name": "Finansinspektionen (Swedish Financial Supervisory Authority)",
-      "jurisdiction": "SE",
-      "category": "scam_warning",
-      "title": "FI varnar för 197 aktörer – bedragare lockar med AI och falska tradingplattformar",
-      "link": "https://www.fi.se/sv/publicerat/nyheter/2026/fi-varnar-for-197-aktorer--bedragare-lockar-med-ai-och-falska-tradingplattformar/",
-      "published_at": "2026-08-17T06:00:00.000Z",
-      "date_source": "feed",
-      "summary": "On 17 August 2026 Finansinspektionen published “FI varnar för 197 aktörer – bedragare lockar med AI och falska tradingplattformar”.",
-      "language": "sv",
       "ui_visible": false,
       "template_version": "alert-templates/1",
       "review": {

@@ -12,7 +12,7 @@
     "dataset": "RBA/F2/FCMYGBAG10D",
     "url": "https://www.rba.gov.au/statistics/tables/",
     "api_url": "https://api.db.nomics.world/v22/series/RBA/F2/FCMYGBAG10D?observations=1&metadata=false",
-    "retrieved_at": "2026-11-08T10:01:49Z"
+    "retrieved_at": "2026-11-15T07:11:38Z"
   },
   "points": [
     [
@@ -496,8 +496,8 @@
       5.116
     ],
     [
-      "2026-11-04",
-      5.082
+      "2026-11-11",
+      5.044
     ]
   ],
   "accumulated_since": null
