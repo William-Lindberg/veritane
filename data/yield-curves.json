@@ -1,10 +1,10 @@
 {
   "schema": "veritane/yield-curves/1",
-  "generated_at": "2026-11-15T07:11:38Z",
+  "generated_at": "2026-11-16T07:16:15Z",
   "sourceName": "U.S. Treasury; European Central Bank; Bank of England",
   "sourceUrl": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve",
   "licence": "See each series",
-  "retrievedAt": "2026-11-15T07:11:38Z",
+  "retrievedAt": "2026-11-16T07:16:15Z",
   "notes": [
     "Par and spot curves are different measures and are not drawn on the same axes."
   ],
@@ -26,7 +26,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-15T07:11:38Z"
+        "retrieved_at": "2026-11-16T07:16:15Z"
       },
       "tenors": [
         "1m",
@@ -45,25 +45,6 @@
         "30y"
       ],
       "points": [
-        {
-          "date": "2025-11-14",
-          "values": {
-            "1m": 4.04,
-            "1.5m": 4.02,
-            "2m": 4.01,
-            "3m": 3.95,
-            "4m": 3.88,
-            "6m": 3.8,
-            "1y": 3.7,
-            "2y": 3.62,
-            "3y": 3.61,
-            "5y": 3.74,
-            "7y": 3.92,
-            "10y": 4.14,
-            "20y": 4.73,
-            "30y": 4.74
-          }
-        },
         {
           "date": "2025-11-17",
           "values": {
@@ -4815,7 +4796,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-15T07:11:38Z"
+        "retrieved_at": "2026-11-16T07:16:15Z"
       },
       "tenors": [
         "3m",
@@ -4826,17 +4807,6 @@
         "30y"
       ],
       "points": [
-        {
-          "date": "2025-11-14",
-          "values": {
-            "10y": 2.78,
-            "1y": 1.92,
-            "2y": 1.99,
-            "30y": 3.28,
-            "3m": 1.89,
-            "5y": 2.29
-          }
-        },
         {
           "date": "2025-11-17",
           "values": {
@@ -7632,13 +7602,13 @@
         "provider_id": "boe",
         "dataset": "IUDSNPY, IUDMNPY, IUDLNPY",
         "url": "https://www.bankofengland.co.uk/boeapps/database/",
-        "api_url": "https://www.bankofengland.co.uk/boeapps/database/_iadb-fromshowcolumns.asp?csv.x=yes&Datefrom=16/Nov/2025&Dateto=now&SeriesCodes=IUDSNPY,IUDMNPY,IUDLNPY&CSVF=TN&UsingCodes=Y&VPD=Y&VFD=N",
+        "api_url": "https://www.bankofengland.co.uk/boeapps/database/_iadb-fromshowcolumns.asp?csv.x=yes&Datefrom=17/Nov/2025&Dateto=now&SeriesCodes=IUDSNPY,IUDMNPY,IUDLNPY&CSVF=TN&UsingCodes=Y&VPD=Y&VFD=N",
         "license": {
           "name": "Terms: see provider",
           "url": "https://www.bankofengland.co.uk/legal",
           "verified": false
         },
-        "retrieved_at": "2026-11-15T07:11:38Z"
+        "retrieved_at": "2026-11-16T07:16:15Z"
       },
       "tenors": [
         "5y",
@@ -7646,14 +7616,6 @@
         "20y"
       ],
       "points": [
-        {
-          "date": "2025-11-14",
-          "values": {
-            "5y": 3.93,
-            "10y": 4.57,
-            "20y": 5.11
-          }
-        },
         {
           "date": "2025-11-17",
           "values": {

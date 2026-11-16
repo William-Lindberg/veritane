@@ -1,6 +1,6 @@
 {
   "schema": "veritane/news/1",
-  "generated_at": "2026-11-15T19:06:39Z",
+  "generated_at": "2026-11-16T07:16:15Z",
   "template_version": "news-templates/1",
   "topics": {
     "policy_rate": "Interest rates",
@@ -3741,7 +3741,24 @@
       "reviewed_by": null,
       "reviewed_at": null,
       "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
-      "retrieved_at": "2026-11-06T22:31:21Z"
+      "retrieved_at": "2026-11-06T22:31:21Z",
+      "facts": [
+        {
+          "series_id": "no.policy_rate.policy_rate",
+          "period": "2026-11-05",
+          "period_label": "5 November 2026",
+          "value": 4.5,
+          "unit": "%",
+          "decimals": 2,
+          "dataset": "IR.B.KPRA.SD",
+          "retrieved_at": "2026-11-16T07:16:15Z",
+          "change": {
+            "value": 0,
+            "unit": "pp",
+            "direction": "unchanged"
+          }
+        }
+      ]
     },
     {
       "id": "ae12e9ef0f2f5cc2",
