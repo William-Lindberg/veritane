@@ -1,15 +1,15 @@
 {
   "schema": "veritane/digest/1",
   "date": "2026-11-16",
-  "generated_at": "2026-11-16T07:16:15Z",
+  "generated_at": "2026-11-16T22:30:29Z",
   "final": false,
   "template_version": "digest-templates/1",
-  "headline": "No new official figures or decisions were collected on 16 November 2026.",
-  "headline_simple": "16 November 2026: no new figures or decisions.",
+  "headline": "1 new official figure on 16 November 2026.",
+  "headline_simple": "16 November 2026: 1 new figure.",
   "counts": {
-    "data": 0,
+    "data": 1,
     "decisions": 0,
-    "revisions": 0,
+    "revisions": 1,
     "alerts": 0,
     "publications": 0,
     "coming_up": 8
@@ -17,7 +17,23 @@
   "sections": [
     {
       "key": "data",
-      "entries": []
+      "entries": [
+        {
+          "news_id": "293a1167fddc1ba0",
+          "series_id": "ca.inflation.cpi_yoy",
+          "region": "CA",
+          "topics": [
+            "inflation"
+          ],
+          "text": "In Canada, CPI inflation (12-month change) was 3.1% in October 2026, unchanged from September 2026.",
+          "text_simple": "Prices in Canada were 3.1% higher in October 2026 than a year earlier. In September 2026 they were 3.1% higher.",
+          "source": {
+            "name": "Statistics Canada",
+            "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401",
+            "dataset": "v41690973"
+          }
+        }
+      ]
     },
     {
       "key": "decisions",
@@ -25,7 +41,20 @@
     },
     {
       "key": "revisions",
-      "entries": []
+      "entries": [
+        {
+          "revision_id": "d7789855bf60ab06",
+          "series_id": "ea.industrial_production.yoy",
+          "region": "EA",
+          "text": "Euro area, Industrial production, change on a year earlier: Eurostat revised 18 figures at once, from January 2024 to July 2026.",
+          "text_simple": "Eurostat changed 18 past figures at the same time, from January 2024 to July 2026.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=EA21&time=2024-01&format=JSON&lang=EN",
+            "dataset": "sts_inpr_m EA21"
+          }
+        }
+      ]
     },
     {
       "key": "alerts",
@@ -133,9 +162,9 @@
     "ok": 75,
     "failed": 2,
     "failed_names": [
-      "OECD",
-      "Statistics Canada"
+      "Banco Central do Brasil",
+      "OECD"
     ]
   },
-  "empty": true
+  "empty": false
 }

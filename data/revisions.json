@@ -1,9 +1,33 @@
 {
   "schema": "veritane/revisions/1",
-  "generated_at": "2026-11-13T20:01:42Z",
+  "generated_at": "2026-11-16T22:30:29Z",
   "method": "Each run compares every period the source returned with the previous public/data/history file for that series. A change in the value at the number of decimals Veritane shows is recorded. Fixings such as exchange reference rates and projections are not compared.",
   "template_version": "revision-templates/1",
   "entries": [
+    {
+      "id": "d7789855bf60ab06",
+      "series_id": "ea.industrial_production.yoy",
+      "region": "EA",
+      "name": "Industrial production, change on a year earlier",
+      "unit": "% y/y",
+      "seen_before_at": "2026-11-08T13:38:16Z",
+      "detected_at": "2026-11-16T22:30:29Z",
+      "source": {
+        "name": "Eurostat",
+        "dataset": "sts_inpr_m EA21",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_m?indic_bt=PRD&nace_r2=B-D&s_adj=CA&unit=PCH_SM&geo=EA21&time=2024-01&format=JSON&lang=EN"
+      },
+      "kind": "series_wide",
+      "period": "2024-01",
+      "period_label": "January 2024 to July 2026",
+      "periods_changed": 18,
+      "first_period": "2024-01",
+      "last_period": "2026-07",
+      "max_abs_change": 0.2,
+      "text": "Euro area, Industrial production, change on a year earlier: Eurostat revised 18 figures at once, from January 2024 to July 2026.",
+      "text_simple": "Eurostat changed 18 past figures at the same time, from January 2024 to July 2026.",
+      "template_version": "revision-templates/1"
+    },
     {
       "id": "10ec79b02fe60c23",
       "series_id": "ro.gdp.qoq",

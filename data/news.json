@@ -1,6 +1,6 @@
 {
   "schema": "veritane/news/1",
-  "generated_at": "2026-11-16T07:16:15Z",
+  "generated_at": "2026-11-16T22:30:29Z",
   "template_version": "news-templates/1",
   "topics": {
     "policy_rate": "Interest rates",
@@ -16,11 +16,63 @@
     "other": "Other"
   },
   "counts": {
-    "items": 363,
-    "ui_visible": 345,
+    "items": 364,
+    "ui_visible": 346,
     "other_languages": 18
   },
   "items": [
+    {
+      "id": "293a1167fddc1ba0",
+      "kind": "data_update",
+      "source_id": "statcan",
+      "source_name": "Statistics Canada",
+      "region": "CA",
+      "topics": [
+        "inflation"
+      ],
+      "title": "Canada: CPI inflation, October 2026",
+      "link": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401",
+      "published_at": "2026-11-16T22:30:29Z",
+      "summary": "New data: In Canada, CPI inflation (12-month change) was 3.1% in October 2026, unchanged from September 2026. Source: Statistics Canada.",
+      "summary_simple": "Prices in Canada were 3.1% higher in October 2026 than a year earlier. In September 2026 they were 3.1% higher.",
+      "summary_source": "data_update",
+      "language": "en",
+      "ui_visible": true,
+      "related_series": [
+        "ca.inflation.cpi_yoy"
+      ],
+      "related_lessons": [
+        "macroeconomics/inflation-how-it-is-measured"
+      ],
+      "facts": [
+        {
+          "series_id": "ca.inflation.cpi_yoy",
+          "period": "2026-10",
+          "period_label": "October 2026",
+          "value": 3.1,
+          "previous_period": "2026-09",
+          "previous_period_label": "September 2026",
+          "previous_value": 3.1,
+          "change": {
+            "value": 0,
+            "unit": "pp",
+            "direction": "unchanged"
+          },
+          "unit": "% y/y",
+          "decimals": 1,
+          "dataset": "v41690973",
+          "retrieved_at": "2026-11-16T22:30:29Z"
+        }
+      ],
+      "template_version": "news-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
+      "retrieved_at": "2026-11-16T22:30:29Z"
+    },
     {
       "id": "26b98e11792ac753",
       "kind": "data_update",
