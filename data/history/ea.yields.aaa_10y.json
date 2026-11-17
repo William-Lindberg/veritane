@@ -12,7 +12,7 @@
     "dataset": "YC (Svensson spot rates, AAA-rated euro area central government bonds)",
     "url": "https://data.ecb.europa.eu/",
     "api_url": "https://data-api.ecb.europa.eu/service/data/YC/B.U2.EUR.4F.G_N_A.SV_C_YM.SR_3M+SR_1Y+SR_2Y+SR_5Y+SR_10Y+SR_30Y?lastNObservations=15&format=csvdata&detail=dataonly",
-    "retrieved_at": "2026-11-16T22:30:29Z"
+    "retrieved_at": "2026-11-17T21:20:18Z"
   },
   "points": [
     [
@@ -496,8 +496,8 @@
       3.37
     ],
     [
-      "2026-11-13",
-      3.41
+      "2026-11-16",
+      3.42
     ]
   ],
   "accumulated_since": null

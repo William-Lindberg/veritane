@@ -1,6 +1,6 @@
 {
   "schema": "veritane/digest-index/1",
-  "generated_at": "2026-11-17T08:28:56Z",
+  "generated_at": "2026-11-17T21:20:18Z",
   "latest": "2026-11-17",
   "days": [
     {
@@ -11,10 +11,10 @@
       "counts": {
         "data": 1,
         "decisions": 0,
-        "revisions": 0,
+        "revisions": 5,
         "alerts": 0,
         "publications": 0,
-        "coming_up": 7
+        "coming_up": 6
       }
     },
     {

@@ -12,7 +12,7 @@
     "dataset": "EXR.B.USD.NOK.SP",
     "url": "https://www.norges-bank.no/en/topics/Statistics/exchange_rates/",
     "api_url": "https://data.norges-bank.no/api/data/EXR/B.USD+EUR.NOK.SP?format=sdmx-json&lastNObservations=30&locale=en",
-    "retrieved_at": "2026-11-16T22:30:29Z"
+    "retrieved_at": "2026-11-17T21:20:18Z"
   },
   "points": [
     [
@@ -496,8 +496,8 @@
       9.2302
     ],
     [
-      "2026-11-16",
-      9.6005
+      "2026-11-17",
+      9.6237
     ]
   ],
   "accumulated_since": null

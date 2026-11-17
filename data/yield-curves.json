@@ -1,10 +1,10 @@
 {
   "schema": "veritane/yield-curves/1",
-  "generated_at": "2026-11-17T08:28:56Z",
+  "generated_at": "2026-11-17T21:20:18Z",
   "sourceName": "U.S. Treasury; European Central Bank; Bank of England",
   "sourceUrl": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve",
   "licence": "See each series",
-  "retrievedAt": "2026-11-17T08:28:56Z",
+  "retrievedAt": "2026-11-17T21:20:18Z",
   "notes": [
     "Par and spot curves are different measures and are not drawn on the same axes."
   ],
@@ -26,7 +26,7 @@
           "verified": true,
           "verified_on": "2026-11-06"
         },
-        "retrieved_at": "2026-11-17T08:28:56Z"
+        "retrieved_at": "2026-11-17T21:20:18Z"
       },
       "tenors": [
         "1m",
@@ -4794,6 +4794,25 @@
             "20y": 5.51,
             "30y": 5.46
           }
+        },
+        {
+          "date": "2026-11-17",
+          "values": {
+            "1m": 4.09,
+            "1.5m": 4.24,
+            "2m": 4.26,
+            "3m": 4.33,
+            "4m": 4.32,
+            "6m": 4.41,
+            "1y": 4.6,
+            "2y": 4.8,
+            "3y": 4.84,
+            "5y": 4.9,
+            "7y": 4.99,
+            "10y": 5.1,
+            "20y": 5.5,
+            "30y": 5.46
+          }
         }
       ]
     },
@@ -4815,7 +4834,7 @@
           "verified_on": "2026-11-07",
           "quote": "Users of this website may make free use of the information obtained directly from it subject to the following conditions: When such information is distributed or reproduced, it must appear accurately and the ECB must be cited as the source."
         },
-        "retrieved_at": "2026-11-17T08:28:56Z"
+        "retrieved_at": "2026-11-17T21:20:18Z"
       },
       "tenors": [
         "3m",
@@ -7619,6 +7638,17 @@
             "3m": 2.64,
             "5y": 3.15
           }
+        },
+        {
+          "date": "2026-11-16",
+          "values": {
+            "10y": 3.42,
+            "1y": 2.99,
+            "2y": 3.11,
+            "30y": 3.67,
+            "3m": 2.65,
+            "5y": 3.17
+          }
         }
       ]
     },
@@ -7638,7 +7668,7 @@
           "url": "https://www.bankofengland.co.uk/legal",
           "verified": false
         },
-        "retrieved_at": "2026-11-17T08:28:56Z"
+        "retrieved_at": "2026-11-17T21:20:18Z"
       },
       "tenors": [
         "5y",
@@ -9652,6 +9682,14 @@
             "5y": 4.93,
             "10y": 5.25,
             "20y": 5.54
+          }
+        },
+        {
+          "date": "2026-11-13",
+          "values": {
+            "5y": 4.95,
+            "10y": 5.3,
+            "20y": 5.61
           }
         }
       ]

@@ -1,9 +1,119 @@
 {
   "schema": "veritane/revisions/1",
-  "generated_at": "2026-11-16T22:30:29Z",
+  "generated_at": "2026-11-17T21:20:18Z",
   "method": "Each run compares every period the source returned with the previous public/data/history file for that series. A change in the value at the number of decimals Veritane shows is recorded. Fixings such as exchange reference rates and projections are not compared.",
   "template_version": "revision-templates/1",
   "entries": [
+    {
+      "id": "89d8fa476c1294b5",
+      "series_id": "de.retail_sales.volume_yoy",
+      "region": "DE",
+      "name": "Retail sales volume, change on a year earlier",
+      "unit": "% y/y",
+      "seen_before_at": "2026-11-08T13:38:16Z",
+      "detected_at": "2026-11-17T21:20:18Z",
+      "source": {
+        "name": "Eurostat",
+        "dataset": "sts_trtu_m DE",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_trtu_m?indic_bt=VOL_SLS&nace_r2=G47&s_adj=CA&unit=PCH_SM&geo=DE&time=2026-01&format=JSON&lang=EN"
+      },
+      "kind": "revision",
+      "period": "2026-01",
+      "period_label": "January 2026",
+      "from": 1.5,
+      "to": 1.6,
+      "text": "Germany, Retail sales volume, change on a year earlier: Eurostat revised the figure for January 2026 from 1.5% to 1.6%.",
+      "text_simple": "Eurostat changed a figure it published earlier. The figure for January 2026 is now 1.6%. Before, it was 1.5%.",
+      "template_version": "revision-templates/1"
+    },
+    {
+      "id": "5e248a565581e612",
+      "series_id": "de.retail_sales.volume_yoy",
+      "region": "DE",
+      "name": "Retail sales volume, change on a year earlier",
+      "unit": "% y/y",
+      "seen_before_at": "2026-11-08T13:38:16Z",
+      "detected_at": "2026-11-17T21:20:18Z",
+      "source": {
+        "name": "Eurostat",
+        "dataset": "sts_trtu_m DE",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_trtu_m?indic_bt=VOL_SLS&nace_r2=G47&s_adj=CA&unit=PCH_SM&geo=DE&time=2026-04&format=JSON&lang=EN"
+      },
+      "kind": "revision",
+      "period": "2026-04",
+      "period_label": "April 2026",
+      "from": 0.3,
+      "to": 0.4,
+      "text": "Germany, Retail sales volume, change on a year earlier: Eurostat revised the figure for April 2026 from 0.3% to 0.4%.",
+      "text_simple": "Eurostat changed a figure it published earlier. The figure for April 2026 is now 0.4%. Before, it was 0.3%.",
+      "template_version": "revision-templates/1"
+    },
+    {
+      "id": "17b28c4f50d7467a",
+      "series_id": "de.retail_sales.volume_yoy",
+      "region": "DE",
+      "name": "Retail sales volume, change on a year earlier",
+      "unit": "% y/y",
+      "seen_before_at": "2026-11-08T13:38:16Z",
+      "detected_at": "2026-11-17T21:20:18Z",
+      "source": {
+        "name": "Eurostat",
+        "dataset": "sts_trtu_m DE",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_trtu_m?indic_bt=VOL_SLS&nace_r2=G47&s_adj=CA&unit=PCH_SM&geo=DE&time=2026-05&format=JSON&lang=EN"
+      },
+      "kind": "revision",
+      "period": "2026-05",
+      "period_label": "May 2026",
+      "from": 2.7,
+      "to": 2.8,
+      "text": "Germany, Retail sales volume, change on a year earlier: Eurostat revised the figure for May 2026 from 2.7% to 2.8%.",
+      "text_simple": "Eurostat changed a figure it published earlier. The figure for May 2026 is now 2.8%. Before, it was 2.7%.",
+      "template_version": "revision-templates/1"
+    },
+    {
+      "id": "0d0866ff73a23069",
+      "series_id": "de.retail_sales.volume_yoy",
+      "region": "DE",
+      "name": "Retail sales volume, change on a year earlier",
+      "unit": "% y/y",
+      "seen_before_at": "2026-11-08T13:38:16Z",
+      "detected_at": "2026-11-17T21:20:18Z",
+      "source": {
+        "name": "Eurostat",
+        "dataset": "sts_trtu_m DE",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_trtu_m?indic_bt=VOL_SLS&nace_r2=G47&s_adj=CA&unit=PCH_SM&geo=DE&time=2026-08&format=JSON&lang=EN"
+      },
+      "kind": "revision",
+      "period": "2026-08",
+      "period_label": "August 2026",
+      "from": -0.3,
+      "to": -0.2,
+      "text": "Germany, Retail sales volume, change on a year earlier: Eurostat revised the figure for August 2026 from −0.3% to −0.2%.",
+      "text_simple": "Eurostat changed a figure it published earlier. The figure for August 2026 is now −0.2%. Before, it was −0.3%.",
+      "template_version": "revision-templates/1"
+    },
+    {
+      "id": "54a60209d1ebb9f1",
+      "series_id": "de.retail_sales.volume_yoy",
+      "region": "DE",
+      "name": "Retail sales volume, change on a year earlier",
+      "unit": "% y/y",
+      "seen_before_at": "2026-11-08T13:38:16Z",
+      "detected_at": "2026-11-17T21:20:18Z",
+      "source": {
+        "name": "Eurostat",
+        "dataset": "sts_trtu_m DE",
+        "check_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_trtu_m?indic_bt=VOL_SLS&nace_r2=G47&s_adj=CA&unit=PCH_SM&geo=DE&time=2026-09&format=JSON&lang=EN"
+      },
+      "kind": "revision",
+      "period": "2026-09",
+      "period_label": "September 2026",
+      "from": -2.4,
+      "to": -2.3,
+      "text": "Germany, Retail sales volume, change on a year earlier: Eurostat revised the figure for September 2026 from −2.4% to −2.3%.",
+      "text_simple": "Eurostat changed a figure it published earlier. The figure for September 2026 is now −2.3%. Before, it was −2.4%.",
+      "template_version": "revision-templates/1"
+    },
     {
       "id": "d7789855bf60ab06",
       "series_id": "ea.industrial_production.yoy",

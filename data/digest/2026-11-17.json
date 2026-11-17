@@ -1,7 +1,7 @@
 {
   "schema": "veritane/digest/1",
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T08:28:56Z",
+  "generated_at": "2026-11-17T21:20:18Z",
   "final": false,
   "template_version": "digest-templates/1",
   "headline": "1 new official figure on 17 November 2026.",
@@ -9,10 +9,10 @@
   "counts": {
     "data": 1,
     "decisions": 0,
-    "revisions": 0,
+    "revisions": 5,
     "alerts": 0,
     "publications": 0,
-    "coming_up": 7
+    "coming_up": 6
   },
   "sections": [
     {
@@ -41,7 +41,68 @@
     },
     {
       "key": "revisions",
-      "entries": []
+      "entries": [
+        {
+          "revision_id": "89d8fa476c1294b5",
+          "series_id": "de.retail_sales.volume_yoy",
+          "region": "DE",
+          "text": "Germany, Retail sales volume, change on a year earlier: Eurostat revised the figure for January 2026 from 1.5% to 1.6%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for January 2026 is now 1.6%. Before, it was 1.5%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_trtu_m?indic_bt=VOL_SLS&nace_r2=G47&s_adj=CA&unit=PCH_SM&geo=DE&time=2026-01&format=JSON&lang=EN",
+            "dataset": "sts_trtu_m DE"
+          }
+        },
+        {
+          "revision_id": "5e248a565581e612",
+          "series_id": "de.retail_sales.volume_yoy",
+          "region": "DE",
+          "text": "Germany, Retail sales volume, change on a year earlier: Eurostat revised the figure for April 2026 from 0.3% to 0.4%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for April 2026 is now 0.4%. Before, it was 0.3%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_trtu_m?indic_bt=VOL_SLS&nace_r2=G47&s_adj=CA&unit=PCH_SM&geo=DE&time=2026-04&format=JSON&lang=EN",
+            "dataset": "sts_trtu_m DE"
+          }
+        },
+        {
+          "revision_id": "17b28c4f50d7467a",
+          "series_id": "de.retail_sales.volume_yoy",
+          "region": "DE",
+          "text": "Germany, Retail sales volume, change on a year earlier: Eurostat revised the figure for May 2026 from 2.7% to 2.8%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for May 2026 is now 2.8%. Before, it was 2.7%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_trtu_m?indic_bt=VOL_SLS&nace_r2=G47&s_adj=CA&unit=PCH_SM&geo=DE&time=2026-05&format=JSON&lang=EN",
+            "dataset": "sts_trtu_m DE"
+          }
+        },
+        {
+          "revision_id": "0d0866ff73a23069",
+          "series_id": "de.retail_sales.volume_yoy",
+          "region": "DE",
+          "text": "Germany, Retail sales volume, change on a year earlier: Eurostat revised the figure for August 2026 from −0.3% to −0.2%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for August 2026 is now −0.2%. Before, it was −0.3%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_trtu_m?indic_bt=VOL_SLS&nace_r2=G47&s_adj=CA&unit=PCH_SM&geo=DE&time=2026-08&format=JSON&lang=EN",
+            "dataset": "sts_trtu_m DE"
+          }
+        },
+        {
+          "revision_id": "54a60209d1ebb9f1",
+          "series_id": "de.retail_sales.volume_yoy",
+          "region": "DE",
+          "text": "Germany, Retail sales volume, change on a year earlier: Eurostat revised the figure for September 2026 from −2.4% to −2.3%.",
+          "text_simple": "Eurostat changed a figure it published earlier. The figure for September 2026 is now −2.3%. Before, it was −2.4%.",
+          "source": {
+            "name": "Eurostat",
+            "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_trtu_m?indic_bt=VOL_SLS&nace_r2=G47&s_adj=CA&unit=PCH_SM&geo=DE&time=2026-09&format=JSON&lang=EN",
+            "dataset": "sts_trtu_m DE"
+          }
+        }
+      ]
     },
     {
       "key": "alerts",
@@ -54,17 +115,6 @@
     {
       "key": "coming_up",
       "entries": [
-        {
-          "calendar_id": "fed_cal:G.17 - Industrial Production and Capacity Utilization:2026-11-17",
-          "region": "US",
-          "start": "2026-11-17T14:15:00Z",
-          "display_title": "US industrial production",
-          "status": "confirmed",
-          "source": {
-            "name": "Federal Reserve Board",
-            "url": "https://www.federalreserve.gov/newsevents/calendar.htm"
-          }
-        },
         {
           "calendar_id": "eurostat_cal:22494546",
           "region": "EA",
@@ -135,10 +185,12 @@
     }
   ],
   "sources": {
-    "ok": 76,
-    "failed": 1,
+    "ok": 74,
+    "failed": 3,
     "failed_names": [
-      "OECD"
+      "International Labour Organization (ILOSTAT)",
+      "OECD",
+      "Statistics Canada"
     ]
   },
   "empty": false

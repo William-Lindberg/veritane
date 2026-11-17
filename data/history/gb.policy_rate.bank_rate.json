@@ -12,7 +12,7 @@
     "dataset": "IUDBEDR",
     "url": "https://www.bankofengland.co.uk/boeapps/database/",
     "api_url": "https://www.bankofengland.co.uk/boeapps/database/_iadb-fromshowcolumns.asp?csv.x=yes&Datefrom=18/Nov/2025&Dateto=now&SeriesCodes=IUDBEDR,XUDLUSS&CSVF=TN&UsingCodes=Y&VPD=Y&VFD=N",
-    "retrieved_at": "2026-11-17T08:28:56Z"
+    "retrieved_at": "2026-11-17T21:20:18Z"
   },
   "points": [
     [
@@ -120,7 +120,7 @@
       4
     ],
     [
-      "2026-11-13",
+      "2026-11-16",
       4
     ]
   ],

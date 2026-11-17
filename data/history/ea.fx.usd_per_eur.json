@@ -12,7 +12,7 @@
     "dataset": "Euro foreign exchange reference rates (USD)",
     "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html",
     "api_url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml",
-    "retrieved_at": "2026-11-16T22:30:29Z"
+    "retrieved_at": "2026-11-17T21:20:18Z"
   },
   "points": [
     [
@@ -496,8 +496,8 @@
       1.1172
     ],
     [
-      "2026-11-16",
-      1.1014
+      "2026-11-17",
+      1.0989
     ]
   ],
   "accumulated_since": null
