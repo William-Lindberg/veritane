@@ -12,13 +12,9 @@
     "dataset": "MGSX (LMS)",
     "url": "https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms",
     "api_url": "https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms/data",
-    "retrieved_at": "2026-11-07T09:24:08Z"
+    "retrieved_at": "2026-11-17T08:28:56Z"
   },
   "points": [
-    [
-      "2016-08",
-      5
-    ],
     [
       "2016-09",
       4.8
@@ -498,6 +494,10 @@
     [
       "2026-08",
       4.7
+    ],
+    [
+      "2026-09",
+      4.6
     ]
   ],
   "accumulated_since": null

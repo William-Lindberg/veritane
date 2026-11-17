@@ -1,6 +1,6 @@
 {
   "schema": "veritane/news/1",
-  "generated_at": "2026-11-16T22:30:29Z",
+  "generated_at": "2026-11-17T08:28:56Z",
   "template_version": "news-templates/1",
   "topics": {
     "policy_rate": "Interest rates",
@@ -21,6 +21,58 @@
     "other_languages": 18
   },
   "items": [
+    {
+      "id": "8a7252a99ce16094",
+      "kind": "data_update",
+      "source_id": "ons",
+      "source_name": "Office for National Statistics",
+      "region": "GB",
+      "topics": [
+        "unemployment"
+      ],
+      "title": "United Kingdom: Unemployment rate, the three months to September 2026",
+      "link": "https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms",
+      "published_at": "2026-11-17T08:28:56Z",
+      "summary": "New data: In the United Kingdom, the unemployment rate (aged 16 and over, seasonally adjusted, three-month average) was 4.6% in the three months to September 2026, down from 4.7% in the three months to August 2026. Source: Office for National Statistics.",
+      "summary_simple": "In the three months to September 2026, 4.6% of people in the labour force in the United Kingdom had no job and were looking for one. In the three months to August 2026 the figure was 4.7%.",
+      "summary_source": "data_update",
+      "language": "en",
+      "ui_visible": true,
+      "related_series": [
+        "gb.unemployment.rate"
+      ],
+      "related_lessons": [
+        "macroeconomics/unemployment-and-the-labour-market"
+      ],
+      "facts": [
+        {
+          "series_id": "gb.unemployment.rate",
+          "period": "2026-09",
+          "period_label": "the three months to September 2026",
+          "value": 4.6,
+          "previous_period": "2026-08",
+          "previous_period_label": "the three months to August 2026",
+          "previous_value": 4.7,
+          "change": {
+            "value": -0.1,
+            "unit": "pp",
+            "direction": "down"
+          },
+          "unit": "%",
+          "decimals": 1,
+          "dataset": "MGSX (LMS)",
+          "retrieved_at": "2026-11-17T08:28:56Z"
+        }
+      ],
+      "template_version": "news-templates/1",
+      "review": {
+        "status": "unreviewed"
+      },
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
+      "retrieved_at": "2026-11-17T08:28:56Z"
+    },
     {
       "id": "293a1167fddc1ba0",
       "kind": "data_update",
@@ -11918,34 +11970,6 @@
       "related_lessons": [
         "macroeconomics/interest-rates-and-central-banks"
       ],
-      "template_version": "news-templates/1",
-      "review": {
-        "status": "unreviewed"
-      },
-      "reviewed_by": null,
-      "reviewed_at": null,
-      "license": "Title quoted verbatim from the publisher and linked to the original; summary generated from a fixed template.",
-      "retrieved_at": "2026-11-06T22:31:21Z"
-    },
-    {
-      "id": "b7abde9854a07f0f",
-      "kind": "statistical_release",
-      "source_id": "ecb_statpress",
-      "source_name": "European Central Bank",
-      "region": "EA",
-      "topics": [
-        "other"
-      ],
-      "title": "Euro area monthly balance of payments: June 2026",
-      "link": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260819~df1712eb4a.en.html",
-      "published_at": "2026-08-19T08:00:00.000Z",
-      "date_source": "feed",
-      "summary": "On 19 August 2026 the European Central Bank published “Euro area monthly balance of payments: June 2026”.",
-      "summary_source": "feed_title",
-      "language": "en",
-      "ui_visible": true,
-      "related_series": [],
-      "related_lessons": [],
       "template_version": "news-templates/1",
       "review": {
         "status": "unreviewed"
